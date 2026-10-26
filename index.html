@@ -50,7 +50,7 @@
   <div id="list"></div>
 </main>
 <script>
-const BASE = 'https://pan.qlam.cc';
+let BASE = '';
 const $ = id => document.getElementById(id);
 let view = 'latest';
 let current = '/';
@@ -106,6 +106,19 @@ function crumb(path) {
   }
   $('crumb').innerHTML = html;
   $('crumb').querySelectorAll('a').forEach(a => a.onclick = () => { setView('browse'); load(a.dataset.p); });
+}
+async function init() {
+  try {
+    const s = await (await fetch('source.json', { cache: 'no-store' })).json();
+    const u = (s.apps?.[0]?.versions?.[0]?.downloadURL) || '';
+    if (u) BASE = new URL(u).origin;
+  } catch (e) {}
+  if (!BASE) BASE = localStorage.getItem('alist_base') || '';
+  if (!BASE) {
+    $('status').textContent = '未找到源站地址：请把 source.json 与页面放在同一目录。';
+    return;
+  }
+  loadLatest();
 }
 async function loadLatest() {
   setView('latest');
@@ -165,7 +178,7 @@ document.querySelectorAll('.tab').forEach(t => t.onclick = () => {
 });
 $('go').onclick = search;
 $('q').addEventListener('keydown', e => { if (e.key === 'Enter') search(); });
-loadLatest();
+init();
 </script>
 </body>
 </html>

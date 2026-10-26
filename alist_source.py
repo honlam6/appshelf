@@ -185,7 +185,8 @@ def resolve_one(base, f, cache):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--base", default="https://pan.qlam.cc")
+    ap.add_argument("--base", default=os.environ.get("ALIST_BASE", ""),
+                    help="AList 站点根地址，也可用环境变量 ALIST_BASE")
     ap.add_argument("--path", action="append", required=True,
                     help="可多次传入，如 --path /苹果应用... --path /巨魔商店...")
     ap.add_argument("--depth", type=int, default=1)
@@ -195,8 +196,8 @@ def main():
     ap.add_argument("--cache", default=".cache/ipa.json")
     ap.add_argument("--icon-base", default="",
                     help="图标 URL 前缀；留空使用站点 logo")
-    ap.add_argument("--source-name", default="清烟镜像源")
-    ap.add_argument("--source-id", default="cc.qlam.mirror")
+    ap.add_argument("--source-name", default="App Shelf")
+    ap.add_argument("--source-id", default="com.appshelf.source")
     args = ap.parse_args()
 
     os.makedirs(os.path.dirname(os.path.abspath(args.out)), exist_ok=True)
@@ -231,11 +232,11 @@ def main():
         versions.sort(key=lambda m: (version_key(m["version"]), version_key(m["build"])), reverse=True)
         cur = versions[0]
         icon = (args.icon_base.rstrip("/") + "/" + bid + ".png") \
-            if args.icon_base else "https://www.qlam.cc/img/favicon.png"
+            if args.icon_base else "https://github.com/honlam6.png"
         apps.append({
             "name": cur["name"] or cur["file_name"].rsplit(".", 1)[0],
             "bundleIdentifier": bid,
-            "developerName": "清烟资源库镜像",
+            "developerName": "App Shelf",
             "subtitle": cur["file_name"],
             "localizedDescription": cur["file_name"],
             "iconURL": icon,
@@ -254,10 +255,10 @@ def main():
     source = {
         "name": args.source_name,
         "identifier": args.source_id,
-        "subtitle": "基于 AList 公开接口自动生成",
-        "description": "由 alist_source.py 生成，downloadURL 实时指向源站签名链接",
-        "iconURL": "https://www.qlam.cc/img/favicon.png",
-        "headerURL": "https://www.qlam.cc/img/uploads/logo.png",
+        "subtitle": "iOS / iPadOS 应用聚合",
+        "description": "自动生成的 AltStore 软件源",
+        "iconURL": "https://github.com/honlam6.png",
+        "headerURL": "https://github.com/honlam6.png",
         "tintColor": "#6385ef",
         "featuredApps": [a["bundleIdentifier"] for a in apps[:5]],
         "apps": apps,

@@ -19,6 +19,8 @@ jobs:
           python-version: "3.12"
 
       - name: Regenerate source.json
+        env:
+          ALIST_BASE: ${{ secrets.ALIST_BASE }}
         run: |
           python3 alist_source.py \
             --path "/苹果应用 - Appstore apps" \

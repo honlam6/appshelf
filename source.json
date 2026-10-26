@@ -1,10 +1,10 @@
 {
-  "name": "清烟镜像源",
-  "identifier": "cc.qlam.mirror",
-  "subtitle": "基于 AList 公开接口自动生成",
-  "description": "由 alist_source.py 生成，downloadURL 实时指向源站签名链接",
-  "iconURL": "https://www.qlam.cc/img/favicon.png",
-  "headerURL": "https://www.qlam.cc/img/uploads/logo.png",
+  "name": "App Shelf",
+  "identifier": "com.appshelf.source",
+  "subtitle": "iOS / iPadOS 应用聚合",
+  "description": "自动生成的 AltStore 软件源",
+  "iconURL": "https://github.com/honlam6.png",
+  "headerURL": "https://github.com/honlam6.png",
   "tintColor": "#6385ef",
   "featuredApps": [
     "com.look.vbox",
@@ -17,10 +17,10 @@
     {
       "name": "怪兽聚合",
       "bundleIdentifier": "com.look.vbox",
-      "developerName": "清烟资源库镜像",
+      "developerName": "App Shelf",
       "subtitle": "怪兽1.0.1 _全新UI_第一次进入软件选择网络后大退在重新进入即可.ipa",
       "localizedDescription": "怪兽1.0.1 _全新UI_第一次进入软件选择网络后大退在重新进入即可.ipa",
-      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "iconURL": "https://github.com/honlam6.png",
       "tintColor": "#6385ef",
       "versions": [
         {
@@ -44,10 +44,10 @@
     {
       "name": "Sims FreePlay",
       "bundleIdentifier": "com.ea.sims3deluxe.ipad.inc",
-      "developerName": "清烟资源库镜像",
+      "developerName": "App Shelf",
       "subtitle": "模拟人生_118.1.284528_无限货币.ipa",
       "localizedDescription": "模拟人生_118.1.284528_无限货币.ipa",
-      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "iconURL": "https://github.com/honlam6.png",
       "tintColor": "#6385ef",
       "versions": [
         {
@@ -63,10 +63,10 @@
     {
       "name": "CounterFlame",
       "bundleIdentifier": "com.ScarletWork.CounterFlame",
-      "developerName": "清烟资源库镜像",
+      "developerName": "App Shelf",
       "subtitle": "CS2手游_1.3.0.1_全功能.ipa",
       "localizedDescription": "CS2手游_1.3.0.1_全功能.ipa",
-      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "iconURL": "https://github.com/honlam6.png",
       "tintColor": "#6385ef",
       "versions": [
         {
@@ -90,10 +90,10 @@
     {
       "name": "泰拉瑞亚",
       "bundleIdentifier": "com.idreamsky.terraria",
-      "developerName": "清烟资源库镜像",
+      "developerName": "App Shelf",
       "subtitle": "泰拉瑞亚_14.58001_无敌秒杀等_20261024_122402.ipa",
       "localizedDescription": "泰拉瑞亚_14.58001_无敌秒杀等_20261024_122402.ipa",
-      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "iconURL": "https://github.com/honlam6.png",
       "tintColor": "#6385ef",
       "versions": [
         {
@@ -117,10 +117,10 @@
     {
       "name": "GTA V",
       "bundleIdentifier": "kuka.ioskuka.gtavios",
-      "developerName": "清烟资源库镜像",
+      "developerName": "App Shelf",
       "subtitle": "GTA V_6.4.5_优化增强.ipa",
       "localizedDescription": "GTA V_6.4.5_优化增强.ipa",
-      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "iconURL": "https://github.com/honlam6.png",
       "tintColor": "#6385ef",
       "versions": [
         {
@@ -168,10 +168,10 @@
     {
       "name": "SimCity",
       "bundleIdentifier": "com.ea.simcitymobile.bv",
-      "developerName": "清烟资源库镜像",
+      "developerName": "App Shelf",
       "subtitle": "模拟城市_1.83.3_无限资源.ipa",
       "localizedDescription": "模拟城市_1.83.3_无限资源.ipa",
-      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "iconURL": "https://github.com/honlam6.png",
       "tintColor": "#6385ef",
       "versions": [
         {
@@ -195,10 +195,10 @@
     {
       "name": "SenPlayer",
       "bundleIdentifier": "com.wuziqi.SenPlayer",
-      "developerName": "清烟资源库镜像",
+      "developerName": "App Shelf",
       "subtitle": "SenPlayer_6.2.3_解锁会员.ipa",
       "localizedDescription": "SenPlayer_6.2.3_解锁会员.ipa",
-      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "iconURL": "https://github.com/honlam6.png",
       "tintColor": "#6385ef",
       "versions": [
         {
@@ -214,10 +214,10 @@
     {
       "name": "抖音",
       "bundleIdentifier": "com.ss.iphone.ugc.Aweme",
-      "developerName": "清烟资源库镜像",
+      "developerName": "App Shelf",
       "subtitle": "抖音_40.8.0_纯净版.ipa",
       "localizedDescription": "抖音_40.8.0_纯净版.ipa",
-      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "iconURL": "https://github.com/honlam6.png",
       "tintColor": "#6385ef",
       "versions": [
         {
@@ -233,10 +233,10 @@
     {
       "name": "TikTok",
       "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "清烟资源库镜像",
+      "developerName": "App Shelf",
       "subtitle": "TikTok_47.4.0_支持保存视频、去广告、自动下一条、纯净模式.ipa",
       "localizedDescription": "TikTok_47.4.0_支持保存视频、去广告、自动下一条、纯净模式.ipa",
-      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "iconURL": "https://github.com/honlam6.png",
       "tintColor": "#6385ef",
       "versions": [
         {
@@ -252,10 +252,10 @@
     {
       "name": "快手",
       "bundleIdentifier": "com.jiangjia.gif",
-      "developerName": "清烟资源库镜像",
+      "developerName": "App Shelf",
       "subtitle": "快手_14.9.10_优化增强.ipa",
       "localizedDescription": "快手_14.9.10_优化增强.ipa",
-      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "iconURL": "https://github.com/honlam6.png",
       "tintColor": "#6385ef",
       "versions": [
         {
@@ -271,10 +271,10 @@
     {
       "name": "X",
       "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "清烟资源库镜像",
+      "developerName": "App Shelf",
       "subtitle": "X_12.35_NFX_具有下载视频，翻译等多个功能.ipa",
       "localizedDescription": "X_12.35_NFX_具有下载视频，翻译等多个功能.ipa",
-      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "iconURL": "https://github.com/honlam6.png",
       "tintColor": "#6385ef",
       "versions": [
         {
@@ -290,10 +290,10 @@
     {
       "name": "今日水印相机",
       "bundleIdentifier": "com.xhey.XCamera",
-      "developerName": "清烟资源库镜像",
+      "developerName": "App Shelf",
       "subtitle": "今日水印相机_3.0.475_修改定位.ipa",
       "localizedDescription": "今日水印相机_3.0.475_修改定位.ipa",
-      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "iconURL": "https://github.com/honlam6.png",
       "tintColor": "#6385ef",
       "versions": [
         {
@@ -309,10 +309,10 @@
     {
       "name": "Kumone",
       "bundleIdentifier": "sb.moe.kumone",
-      "developerName": "清烟资源库镜像",
+      "developerName": "App Shelf",
       "subtitle": "Kumone（第三方网易云）_0.3.21_最低支持iOS16+系统.ipa",
       "localizedDescription": "Kumone（第三方网易云）_0.3.21_最低支持iOS16+系统.ipa",
-      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "iconURL": "https://github.com/honlam6.png",
       "tintColor": "#6385ef",
       "versions": [
         {
@@ -328,10 +328,10 @@
     {
       "name": "彩云天气",
       "bundleIdentifier": "net.colorfulclouds.app.pro",
-      "developerName": "清烟资源库镜像",
+      "developerName": "App Shelf",
       "subtitle": "彩云天气_7.63.2_解锁会员.ipa",
       "localizedDescription": "彩云天气_7.63.2_解锁会员.ipa",
-      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "iconURL": "https://github.com/honlam6.png",
       "tintColor": "#6385ef",
       "versions": [
         {
@@ -355,10 +355,10 @@
     {
       "name": "地铁跑酷",
       "bundleIdentifier": "com.kiloo.subwaysurf.cn",
-      "developerName": "清烟资源库镜像",
+      "developerName": "App Shelf",
       "subtitle": "地铁跑酷_7.07.0_无敌所有英雄等.ipa",
       "localizedDescription": "地铁跑酷_7.07.0_无敌所有英雄等.ipa",
-      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "iconURL": "https://github.com/honlam6.png",
       "tintColor": "#6385ef",
       "versions": [
         {
@@ -374,10 +374,10 @@
     {
       "name": "Sifu",
       "bundleIdentifier": "com.keplerinteractive.sifu",
-      "developerName": "清烟资源库镜像",
+      "developerName": "App Shelf",
       "subtitle": "Sifu_1.0.254260_最终版本.ipa",
       "localizedDescription": "Sifu_1.0.254260_最终版本.ipa",
-      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "iconURL": "https://github.com/honlam6.png",
       "tintColor": "#6385ef",
       "versions": [
         {
@@ -401,10 +401,10 @@
     {
       "name": "Stardew Valley",
       "bundleIdentifier": "com.chucklefish.stardewvalley",
-      "developerName": "清烟资源库镜像",
+      "developerName": "App Shelf",
       "subtitle": "星露谷物语_16.15.5_无限资源.ipa",
       "localizedDescription": "星露谷物语_16.15.5_无限资源.ipa",
-      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "iconURL": "https://github.com/honlam6.png",
       "tintColor": "#6385ef",
       "versions": [
         {
@@ -420,10 +420,10 @@
     {
       "name": "RDR",
       "bundleIdentifier": "com.rockstargames.rdr",
-      "developerName": "清烟资源库镜像",
+      "developerName": "App Shelf",
       "subtitle": "荒野大镖客_1.58_无敌锁血一击秒杀.ipa",
       "localizedDescription": "荒野大镖客_1.58_无敌锁血一击秒杀.ipa",
-      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "iconURL": "https://github.com/honlam6.png",
       "tintColor": "#6385ef",
       "versions": [
         {
@@ -439,10 +439,10 @@
     {
       "name": "Township",
       "bundleIdentifier": "com.plrx.township-cn",
-      "developerName": "清烟资源库镜像",
+      "developerName": "App Shelf",
       "subtitle": "梦想城镇_39.1.0_无限金币点卷.ipa",
       "localizedDescription": "梦想城镇_39.1.0_无限金币点卷.ipa",
-      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "iconURL": "https://github.com/honlam6.png",
       "tintColor": "#6385ef",
       "versions": [
         {
@@ -458,10 +458,10 @@
     {
       "name": "小红书",
       "bundleIdentifier": "com.xingin.discover",
-      "developerName": "清烟资源库镜像",
+      "developerName": "App Shelf",
       "subtitle": "小红书_9.51_去水印.ipa",
       "localizedDescription": "小红书_9.51_去水印.ipa",
-      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "iconURL": "https://github.com/honlam6.png",
       "tintColor": "#6385ef",
       "versions": [
         {
