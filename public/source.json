@@ -1,0 +1,479 @@
+{
+  "name": "清烟镜像源",
+  "identifier": "cc.qlam.mirror",
+  "subtitle": "基于 AList 公开接口自动生成",
+  "description": "由 alist_source.py 生成，downloadURL 实时指向源站签名链接",
+  "iconURL": "https://www.qlam.cc/img/favicon.png",
+  "headerURL": "https://www.qlam.cc/img/uploads/logo.png",
+  "tintColor": "#6385ef",
+  "featuredApps": [
+    "com.look.vbox",
+    "com.ea.sims3deluxe.ipad.inc",
+    "com.ScarletWork.CounterFlame",
+    "com.idreamsky.terraria",
+    "kuka.ioskuka.gtavios"
+  ],
+  "apps": [
+    {
+      "name": "怪兽聚合",
+      "bundleIdentifier": "com.look.vbox",
+      "developerName": "清烟资源库镜像",
+      "subtitle": "怪兽1.0.1 _全新UI_第一次进入软件选择网络后大退在重新进入即可.ipa",
+      "localizedDescription": "怪兽1.0.1 _全新UI_第一次进入软件选择网络后大退在重新进入即可.ipa",
+      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "buildVersion": "101",
+          "date": "2026-10-24",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%80%AA%E5%85%BD1.0.1%20_%E5%85%A8%E6%96%B0UI_%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%BF%9B%E5%85%A5%E8%BD%AF%E4%BB%B6%E9%80%89%E6%8B%A9%E7%BD%91%E7%BB%9C%E5%90%8E%E5%A4%A7%E9%80%80%E5%9C%A8%E9%87%8D%E6%96%B0%E8%BF%9B%E5%85%A5%E5%8D%B3%E5%8F%AF.ipa",
+          "size": 31176376,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.0.0",
+          "buildVersion": "100",
+          "date": "2026-10-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%80%AA%E5%85%BD%E8%81%9A%E5%90%88_1.0.0_%E5%85%A8%E6%96%B0UI_%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%BF%9B%E5%85%A5%E8%BD%AF%E4%BB%B6%E9%80%89%E6%8B%A9%E7%BD%91%E7%BB%9C%E5%90%8E%E5%A4%A7%E9%80%80%E5%9C%A8%E9%87%8D%E6%96%B0%E8%BF%9B%E5%85%A5%E5%8D%B3%E5%8F%AF.ipa",
+          "size": 24488352,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "Sims FreePlay",
+      "bundleIdentifier": "com.ea.sims3deluxe.ipad.inc",
+      "developerName": "清烟资源库镜像",
+      "subtitle": "模拟人生_118.1.284528_无限货币.ipa",
+      "localizedDescription": "模拟人生_118.1.284528_无限货币.ipa",
+      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "118.1.284528",
+          "buildVersion": "118.1.284528",
+          "date": "2026-10-24",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%A8%A1%E6%8B%9F%E4%BA%BA%E7%94%9F_118.1.284528_%E6%97%A0%E9%99%90%E8%B4%A7%E5%B8%81.ipa",
+          "size": 2028408097,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "CounterFlame",
+      "bundleIdentifier": "com.ScarletWork.CounterFlame",
+      "developerName": "清烟资源库镜像",
+      "subtitle": "CS2手游_1.3.0.1_全功能.ipa",
+      "localizedDescription": "CS2手游_1.3.0.1_全功能.ipa",
+      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.3.0.1",
+          "buildVersion": "0",
+          "date": "2026-10-24",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_1.3.0.1_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 1795490637,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.3.0.1",
+          "buildVersion": "0",
+          "date": "2026-10-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_1.3.0.1_%E8%87%AA%E7%9E%84%E7%BB%98%E5%88%B6%E7%9A%AE%E8%82%A4%E8%A7%A3%E9%94%81%E7%AD%89.ipa",
+          "size": 1837241664,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "泰拉瑞亚",
+      "bundleIdentifier": "com.idreamsky.terraria",
+      "developerName": "清烟资源库镜像",
+      "subtitle": "泰拉瑞亚_14.58001_无敌秒杀等_20261024_122402.ipa",
+      "localizedDescription": "泰拉瑞亚_14.58001_无敌秒杀等_20261024_122402.ipa",
+      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.4.58001",
+          "buildVersion": "303682",
+          "date": "2026-10-24",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A_14.58001_%E6%97%A0%E6%95%8C%E7%A7%92%E6%9D%80%E7%AD%89_20261024_122402.ipa",
+          "size": 331958585,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.4.58001",
+          "buildVersion": "303682",
+          "date": "2026-10-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A_14.58001_%E6%97%A0%E6%95%8C%E7%A7%92%E6%9D%80%E7%AD%89.ipa",
+          "size": 331836814,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "GTA V",
+      "bundleIdentifier": "kuka.ioskuka.gtavios",
+      "developerName": "清烟资源库镜像",
+      "subtitle": "GTA V_6.4.5_优化增强.ipa",
+      "localizedDescription": "GTA V_6.4.5_优化增强.ipa",
+      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "6.4.5",
+          "buildVersion": "71",
+          "date": "2026-10-24",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_6.4.5_%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA.ipa",
+          "size": 85362846,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "6.2.1",
+          "buildVersion": "63",
+          "date": "2026-10-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_6.2.1_%E4%BC%98%E5%8C%96%E7%89%88%E6%9C%AC.ipa",
+          "size": 85215950,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "5.8.3",
+          "buildVersion": "61",
+          "date": "2026-10-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_5.8.3_%E4%BF%AE%E5%A4%8D%E4%B8%8B%E8%BD%BD%E7%AD%89%E5%A4%A7%E9%83%A8%E5%88%86%E9%97%AE%E9%A2%98.ipa",
+          "size": 87304456,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "4.2.0",
+          "buildVersion": "42",
+          "date": "2026-10-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_4.2.0_%E6%95%B4%E4%BD%93%E4%BC%98%E5%8C%96%E6%94%AF%E6%8C%81%E5%9C%A8%E7%BA%BFMod.ipa",
+          "size": 87352356,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.1",
+          "buildVersion": "15",
+          "date": "2026-10-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_1.0_%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA.ipa",
+          "size": 75639427,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "SimCity",
+      "bundleIdentifier": "com.ea.simcitymobile.bv",
+      "developerName": "清烟资源库镜像",
+      "subtitle": "模拟城市_1.83.3_无限资源.ipa",
+      "localizedDescription": "模拟城市_1.83.3_无限资源.ipa",
+      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.83.3",
+          "buildVersion": "1.83.3.15965422",
+          "date": "2026-10-24",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%A8%A1%E6%8B%9F%E5%9F%8E%E5%B8%82_1.83.3_%E6%97%A0%E9%99%90%E8%B5%84%E6%BA%90.ipa",
+          "size": 271510246,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.83.3",
+          "buildVersion": "1.83.3.15965422",
+          "date": "2026-10-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%A8%A1%E6%8B%9F%E5%9F%8E%E5%B8%82_1.83.3_%E6%89%80%E6%9C%89%E8%B5%84%E6%BA%90%E6%97%A0%E9%99%90.ipa",
+          "size": 271526525,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "SenPlayer",
+      "bundleIdentifier": "com.wuziqi.SenPlayer",
+      "developerName": "清烟资源库镜像",
+      "subtitle": "SenPlayer_6.2.3_解锁会员.ipa",
+      "localizedDescription": "SenPlayer_6.2.3_解锁会员.ipa",
+      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "6.2.3",
+          "buildVersion": "1",
+          "date": "2026-10-24",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FSenPlayer_6.2.3_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
+          "size": 77126564,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "抖音",
+      "bundleIdentifier": "com.ss.iphone.ugc.Aweme",
+      "developerName": "清烟资源库镜像",
+      "subtitle": "抖音_40.8.0_纯净版.ipa",
+      "localizedDescription": "抖音_40.8.0_纯净版.ipa",
+      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "40.8.0",
+          "buildVersion": "408018",
+          "date": "2026-10-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%8A%96%E9%9F%B3_40.8.0_%E7%BA%AF%E5%87%80%E7%89%88.ipa",
+          "size": 673711770,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "TikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "清烟资源库镜像",
+      "subtitle": "TikTok_47.4.0_支持保存视频、去广告、自动下一条、纯净模式.ipa",
+      "localizedDescription": "TikTok_47.4.0_支持保存视频、去广告、自动下一条、纯净模式.ipa",
+      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "47.4.0",
+          "buildVersion": "474032",
+          "date": "2026-10-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_47.4.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
+          "size": 522692463,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "快手",
+      "bundleIdentifier": "com.jiangjia.gif",
+      "developerName": "清烟资源库镜像",
+      "subtitle": "快手_14.9.10_优化增强.ipa",
+      "localizedDescription": "快手_14.9.10_优化增强.ipa",
+      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "14.9.10",
+          "buildVersion": "10022",
+          "date": "2026-10-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%BF%AB%E6%89%8B_14.9.10_%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA.ipa",
+          "size": 290298319,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "X",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "清烟资源库镜像",
+      "subtitle": "X_12.35_NFX_具有下载视频，翻译等多个功能.ipa",
+      "localizedDescription": "X_12.35_NFX_具有下载视频，翻译等多个功能.ipa",
+      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "12.35",
+          "buildVersion": "27",
+          "date": "2026-10-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.35_NFX_%E5%85%B7%E6%9C%89%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%EF%BC%8C%E7%BF%BB%E8%AF%91%E7%AD%89%E5%A4%9A%E4%B8%AA%E5%8A%9F%E8%83%BD.ipa",
+          "size": 282333821,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "今日水印相机",
+      "bundleIdentifier": "com.xhey.XCamera",
+      "developerName": "清烟资源库镜像",
+      "subtitle": "今日水印相机_3.0.475_修改定位.ipa",
+      "localizedDescription": "今日水印相机_3.0.475_修改定位.ipa",
+      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "3.0.475",
+          "buildVersion": "202607222057",
+          "date": "2026-10-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E4%BB%8A%E6%97%A5%E6%B0%B4%E5%8D%B0%E7%9B%B8%E6%9C%BA_3.0.475_%E4%BF%AE%E6%94%B9%E5%AE%9A%E4%BD%8D.ipa",
+          "size": 178529753,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "Kumone",
+      "bundleIdentifier": "sb.moe.kumone",
+      "developerName": "清烟资源库镜像",
+      "subtitle": "Kumone（第三方网易云）_0.3.21_最低支持iOS16+系统.ipa",
+      "localizedDescription": "Kumone（第三方网易云）_0.3.21_最低支持iOS16+系统.ipa",
+      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "0.3.21",
+          "buildVersion": "328",
+          "date": "2026-10-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FKumone%EF%BC%88%E7%AC%AC%E4%B8%89%E6%96%B9%E7%BD%91%E6%98%93%E4%BA%91%EF%BC%89_0.3.21_%E6%9C%80%E4%BD%8E%E6%94%AF%E6%8C%81iOS16%2B%E7%B3%BB%E7%BB%9F.ipa",
+          "size": 8725929,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "彩云天气",
+      "bundleIdentifier": "net.colorfulclouds.app.pro",
+      "developerName": "清烟资源库镜像",
+      "subtitle": "彩云天气_7.63.2_解锁会员.ipa",
+      "localizedDescription": "彩云天气_7.63.2_解锁会员.ipa",
+      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "7.63.2",
+          "buildVersion": "6",
+          "date": "2026-10-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94_7.63.2_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
+          "size": 119216024,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "7.63.1",
+          "buildVersion": "1",
+          "date": "2026-10-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94Pro_7.63.2_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
+          "size": 74063280,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "地铁跑酷",
+      "bundleIdentifier": "com.kiloo.subwaysurf.cn",
+      "developerName": "清烟资源库镜像",
+      "subtitle": "地铁跑酷_7.07.0_无敌所有英雄等.ipa",
+      "localizedDescription": "地铁跑酷_7.07.0_无敌所有英雄等.ipa",
+      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "7.07.0",
+          "buildVersion": "70700",
+          "date": "2026-10-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%9C%B0%E9%93%81%E8%B7%91%E9%85%B7_7.07.0_%E6%97%A0%E6%95%8C%E6%89%80%E6%9C%89%E8%8B%B1%E9%9B%84%E7%AD%89.ipa",
+          "size": 632425675,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "Sifu",
+      "bundleIdentifier": "com.keplerinteractive.sifu",
+      "developerName": "清烟资源库镜像",
+      "subtitle": "Sifu_1.0.254260_最终版本.ipa",
+      "localizedDescription": "Sifu_1.0.254260_最终版本.ipa",
+      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.0.254260",
+          "buildVersion": "534",
+          "date": "2026-10-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FSifu_1.0.254260_%E6%9C%80%E7%BB%88%E7%89%88%E6%9C%AC.ipa",
+          "size": 1170453079,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.0.254260",
+          "buildVersion": "534",
+          "date": "2026-10-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FSifu_1.0.254260_iPad%E5%85%BC%E5%AE%B9%E7%89%88%E6%9C%AC.ipa",
+          "size": 1170365567,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "Stardew Valley",
+      "bundleIdentifier": "com.chucklefish.stardewvalley",
+      "developerName": "清烟资源库镜像",
+      "subtitle": "星露谷物语_16.15.5_无限资源.ipa",
+      "localizedDescription": "星露谷物语_16.15.5_无限资源.ipa",
+      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "16.15.5",
+          "buildVersion": "0.1",
+          "date": "2026-10-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD_16.15.5_%E6%97%A0%E9%99%90%E8%B5%84%E6%BA%90.ipa",
+          "size": 308637328,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "RDR",
+      "bundleIdentifier": "com.rockstargames.rdr",
+      "developerName": "清烟资源库镜像",
+      "subtitle": "荒野大镖客_1.58_无敌锁血一击秒杀.ipa",
+      "localizedDescription": "荒野大镖客_1.58_无敌锁血一击秒杀.ipa",
+      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.58.63226194",
+          "buildVersion": "1.58.63226194",
+          "date": "2026-10-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E8%8D%92%E9%87%8E%E5%A4%A7%E9%95%96%E5%AE%A2_1.58_%E6%97%A0%E6%95%8C%E9%94%81%E8%A1%80%E4%B8%80%E5%87%BB%E7%A7%92%E6%9D%80.ipa",
+          "size": 2874006461,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "Township",
+      "bundleIdentifier": "com.plrx.township-cn",
+      "developerName": "清烟资源库镜像",
+      "subtitle": "梦想城镇_39.1.0_无限金币点卷.ipa",
+      "localizedDescription": "梦想城镇_39.1.0_无限金币点卷.ipa",
+      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "39.1.0",
+          "buildVersion": "39.1.0",
+          "date": "2026-10-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%A2%A6%E6%83%B3%E5%9F%8E%E9%95%87_39.1.0_%E6%97%A0%E9%99%90%E9%87%91%E5%B8%81%E7%82%B9%E5%8D%B7.ipa",
+          "size": 185451056,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "小红书",
+      "bundleIdentifier": "com.xingin.discover",
+      "developerName": "清烟资源库镜像",
+      "subtitle": "小红书_9.51_去水印.ipa",
+      "localizedDescription": "小红书_9.51_去水印.ipa",
+      "iconURL": "https://www.qlam.cc/img/favicon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "9.51",
+          "buildVersion": "9510837",
+          "date": "2026-10-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%B0%8F%E7%BA%A2%E4%B9%A6_9.51_%E5%8E%BB%E6%B0%B4%E5%8D%B0.ipa",
+          "size": 211770885,
+          "minOSVersion": "14.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}

@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>我的 App 源</title>
+<style>
+  :root { --bg:#0d1117; --panel:#161b22; --line:#30363d; --text:#e6edf3; --muted:#8b949e; --accent:#6385ef; --green:#238636; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; }
+  header { position:sticky; top:0; z-index:10; background:rgba(13,17,23,.94); backdrop-filter:blur(12px); border-bottom:1px solid var(--line); padding:10px 16px; }
+  .bar { display:flex; gap:10px; align-items:center; max-width:980px; margin:0 auto; }
+  .logo { font-weight:800; color:var(--accent); white-space:nowrap; }
+  input[type=search] { flex:1; min-width:0; background:var(--panel); border:1px solid var(--line); color:var(--text); border-radius:8px; padding:9px 12px; outline:none; }
+  input[type=search]:focus { border-color:var(--accent); }
+  button { background:var(--accent); color:#fff; border:0; border-radius:8px; padding:9px 14px; font-weight:600; cursor:pointer; }
+  .tabs { max-width:980px; margin:10px auto 0; display:flex; gap:8px; }
+  .tab { background:transparent; border:1px solid var(--line); color:var(--muted); padding:6px 14px; border-radius:999px; font-size:13px; }
+  .tab.on { background:var(--accent); border-color:var(--accent); color:#fff; }
+  main { max-width:980px; margin:0 auto; padding:12px 16px 60px; }
+  .crumb { color:var(--muted); font-size:13px; margin-bottom:10px; word-break:break-all; }
+  .crumb a { color:var(--accent); text-decoration:none; cursor:pointer; }
+  .row { display:flex; align-items:center; gap:12px; padding:12px; border:1px solid var(--line); border-radius:10px; margin-bottom:8px; background:var(--panel); }
+  .row:hover { border-color:#3d444d; }
+  .ico { width:38px; height:38px; flex:0 0 38px; display:grid; place-items:center; border-radius:9px; background:#21262d; font-size:19px; }
+  .meta { flex:1; min-width:0; }
+  .name { font-weight:600; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .sub { color:var(--muted); font-size:12px; margin-top:2px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .dl { background:var(--green); padding:7px 12px; font-size:13px; }
+  .empty { color:var(--muted); text-align:center; padding:40px 0; }
+  .status { color:var(--muted); font-size:13px; margin:8px 0 12px; }
+  .tag { display:inline-block; background:#1f6feb33; color:#79c0ff; border-radius:4px; padding:0 5px; font-size:11px; margin-right:6px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <span class="logo">My App Source</span>
+    <input id="q" type="search" placeholder="搜索全站资源，例如：微信 / IPA / 抖音">
+    <button id="go">搜索</button>
+  </div>
+  <div class="tabs">
+    <button class="tab on" data-view="latest">🔥 最新更新</button>
+    <button class="tab" data-view="browse">📁 目录浏览</button>
+  </div>
+</header>
+<main>
+  <div class="crumb" id="crumb"></div>
+  <div class="status" id="status"></div>
+  <div id="list"></div>
+</main>
+<script>
+const BASE = 'https://pan.qlam.cc';
+const $ = id => document.getElementById(id);
+let view = 'latest';
+let current = '/';
+
+const esc = s => String(s).replace(/[<>&"]/g, c => ({'<':'&lt;','>':'&gt;','&':'&amp;','"':'&quot;'}[c]));
+const enc = p => p.split('/').map(encodeURIComponent).join('/');
+function fmtSize(n) {
+  if (!n) return '-';
+  const u = ['B','KB','MB','GB']; let i = 0;
+  while (n >= 1024 && i < u.length - 1) { n /= 1024; i++; }
+  return n.toFixed(n >= 100 || i === 0 ? 0 : 1) + ' ' + u[i];
+}
+function ago(s) {
+  if (!s) return '';
+  const d = new Date(s); if (isNaN(d)) return s.slice(0,10);
+  const diff = (Date.now() - d.getTime()) / 1000;
+  if (diff < 3600) return Math.max(1, Math.floor(diff/60)) + ' 分钟前';
+  if (diff < 86400) return Math.floor(diff/3600) + ' 小时前';
+  if (diff < 86400*30) return Math.floor(diff/86400) + ' 天前';
+  return s.slice(0,10);
+}
+async function api(path, body) {
+  const r = await fetch(BASE + path, { method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(body) });
+  return r.json();
+}
+function render(items, opts = {}) {
+  if (!items.length) { $('list').innerHTML = '<div class="empty">没有资源</div>'; return; }
+  $('list').innerHTML = items.map(it => {
+    const full = it.virtual_path || (it.parent ? it.parent.replace(/\/$/,'') + '/' + it.name : '');
+    const isFile = !it.is_dir;
+    const icon = it.is_dir ? '📁' : /\.(ipa)$/i.test(it.name) ? '📱' : /\.(apk)$/i.test(it.name) ? '🤖' : '📄';
+    const sub = opts.showParent
+      ? '<span class="tag">' + esc((it.parent || '').split('/').filter(Boolean).pop() || '根目录') + '</span> ' + fmtSize(it.size) + ' · ' + ago(it.modified)
+      : fmtSize(it.size) + ' · ' + ago(it.modified);
+    return '<div class="row" data-p="' + esc(full) + '" data-dir="' + (it.is_dir ? 1 : 0) + '">' +
+      '<div class="ico">' + icon + '</div>' +
+      '<div class="meta"><div class="name">' + esc(it.name) + '</div><div class="sub">' + sub + '</div></div>' +
+      (isFile ? '<button class="dl">下载</button>' : '') + '</div>';
+  }).join('');
+  $('list').querySelectorAll('.row').forEach(row => {
+    const p = row.dataset.p;
+    const isDir = row.dataset.dir === '1';
+    if (isDir) row.onclick = () => { setView('browse'); load(p); };
+    else row.querySelector('.dl').onclick = e => { e.stopPropagation(); location.href = BASE + '/d/' + enc(p); };
+  });
+}
+function crumb(path) {
+  const parts = path.split('/').filter(Boolean);
+  let acc = '', html = '<a data-p="/">🔰 根目录</a>';
+  for (const p of parts) {
+    acc += '/' + p;
+    html += ' / <a data-p="' + esc(acc) + '">' + esc(p) + '</a>';
+  }
+  $('crumb').innerHTML = html;
+  $('crumb').querySelectorAll('a').forEach(a => a.onclick = () => { setView('browse'); load(a.dataset.p); });
+}
+async function loadLatest() {
+  setView('latest');
+  current = '/';
+  $('crumb').textContent = '全部一级目录 · 按修改时间倒序';
+  $('status').textContent = '正在拉取最新资源…';
+  $('list').innerHTML = '';
+  const root = await api('/api/fs/list', { path:'/', password:'', page:1, per_page:200, refresh:false });
+  const dirs = ((root.data || {}).content || []).filter(x => x.is_dir);
+  const lists = await Promise.all(dirs.map(d =>
+    api('/api/fs/list', { path:d.virtual_path, password:'', page:1, per_page:200, refresh:false }).catch(() => null)
+  ));
+  const files = [];
+  lists.forEach((js, i) => {
+    if (!js || js.code !== 200) return;
+    for (const it of (js.data.content || [])) {
+      if (!it.is_dir) files.push({ ...it, parent: dirs[i].virtual_path });
+    }
+  });
+  files.sort((a, b) => new Date(b.modified) - new Date(a.modified));
+  $('status').textContent = '共 ' + files.length + ' 个文件，显示最新 ' + Math.min(120, files.length) + ' 个';
+  render(files.slice(0, 120), { showParent: true });
+}
+async function load(path) {
+  current = path;
+  crumb(path);
+  $('status').textContent = '加载中…';
+  $('list').innerHTML = '';
+  const js = await api('/api/fs/list', { path, password:'', page:1, per_page:500, refresh:false });
+  if (js.code !== 200) { $('status').textContent = '读取失败：' + (js.message || js.code); return; }
+  const items = (js.data.content || []).slice().sort((a, b) =>
+    (b.is_dir - a.is_dir) || (new Date(b.modified) - new Date(a.modified))
+  );
+  $('status').textContent = items.length + ' 项 · 文件按修改时间倒序';
+  render(items);
+}
+async function search() {
+  const kw = $('q').value.trim();
+  if (!kw) return view === 'latest' ? loadLatest() : load('/');
+  $('status').textContent = '搜索中…';
+  $('list').innerHTML = '';
+  $('crumb').textContent = '搜索：' + kw;
+  const js = await api('/api/fs/search', { parent:'/', keywords:kw, scope:0, page:1, per_page:100, password:'' });
+  if (js.code !== 200) { $('status').textContent = '搜索失败：' + (js.message || js.code); return; }
+  const items = (js.data.content || []).map(it => ({
+    ...it, parent: it.parent, virtual_path: it.parent.replace(/\/$/,'') + '/' + it.name,
+  }));
+  $('status').textContent = items.length + ' 个结果';
+  render(items, { showParent: true });
+}
+function setView(v) {
+  view = v;
+  document.querySelectorAll('.tab').forEach(t => t.classList.toggle('on', t.dataset.view === v));
+}
+document.querySelectorAll('.tab').forEach(t => t.onclick = () => {
+  if (t.dataset.view === 'latest') loadLatest(); else load('/');
+});
+$('go').onclick = search;
+$('q').addEventListener('keydown', e => { if (e.key === 'Enter') search(); });
+loadLatest();
+</script>
+</body>
+</html>

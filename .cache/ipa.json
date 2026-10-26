@@ -1,0 +1,302 @@
+{
+  "/苹果应用 - Appstore apps/怪兽1.0.1 _全新UI_第一次进入软件选择网络后大退在重新进入即可.ipa": {
+    "bundle_id": "com.look.vbox",
+    "version": "1.0.1",
+    "build": "101",
+    "name": "怪兽聚合",
+    "path": "/苹果应用 - Appstore apps/怪兽1.0.1 _全新UI_第一次进入软件选择网络后大退在重新进入即可.ipa",
+    "size": 31176376,
+    "modified": "2026-10-24T23:53:36.007+08:00",
+    "file_name": "怪兽1.0.1 _全新UI_第一次进入软件选择网络后大退在重新进入即可.ipa"
+  },
+  "/苹果应用 - Appstore apps/GTA V_6.4.5_优化增强.ipa": {
+    "bundle_id": "kuka.ioskuka.gtavios",
+    "version": "6.4.5",
+    "build": "71",
+    "name": "GTA V",
+    "path": "/苹果应用 - Appstore apps/GTA V_6.4.5_优化增强.ipa",
+    "size": 85362846,
+    "modified": "2026-10-24T12:24:02.806+08:00",
+    "file_name": "GTA V_6.4.5_优化增强.ipa"
+  },
+  "/苹果应用 - Appstore apps/CS2手游_1.3.0.1_全功能.ipa": {
+    "bundle_id": "com.ScarletWork.CounterFlame",
+    "version": "1.3.0.1",
+    "build": "0",
+    "name": "CounterFlame",
+    "path": "/苹果应用 - Appstore apps/CS2手游_1.3.0.1_全功能.ipa",
+    "size": 1795490637,
+    "modified": "2026-10-24T12:24:04.3+08:00",
+    "file_name": "CS2手游_1.3.0.1_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/泰拉瑞亚_14.58001_无敌秒杀等_20261024_122402.ipa": {
+    "bundle_id": "com.idreamsky.terraria",
+    "version": "1.4.58001",
+    "build": "303682",
+    "name": "泰拉瑞亚",
+    "path": "/苹果应用 - Appstore apps/泰拉瑞亚_14.58001_无敌秒杀等_20261024_122402.ipa",
+    "size": 331958585,
+    "modified": "2026-10-24T12:24:02.881+08:00",
+    "file_name": "泰拉瑞亚_14.58001_无敌秒杀等_20261024_122402.ipa"
+  },
+  "/苹果应用 - Appstore apps/模拟城市_1.83.3_无限资源.ipa": {
+    "bundle_id": "com.ea.simcitymobile.bv",
+    "version": "1.83.3",
+    "build": "1.83.3.15965422",
+    "name": "SimCity",
+    "path": "/苹果应用 - Appstore apps/模拟城市_1.83.3_无限资源.ipa",
+    "size": 271510246,
+    "modified": "2026-10-24T12:24:02.779+08:00",
+    "file_name": "模拟城市_1.83.3_无限资源.ipa"
+  },
+  "/苹果应用 - Appstore apps/模拟人生_118.1.284528_无限货币.ipa": {
+    "bundle_id": "com.ea.sims3deluxe.ipad.inc",
+    "version": "118.1.284528",
+    "build": "118.1.284528",
+    "name": "Sims FreePlay",
+    "path": "/苹果应用 - Appstore apps/模拟人生_118.1.284528_无限货币.ipa",
+    "size": 2028408097,
+    "modified": "2026-10-24T12:24:04.548+08:00",
+    "file_name": "模拟人生_118.1.284528_无限货币.ipa"
+  },
+  "/苹果应用 - Appstore apps/SenPlayer_6.2.3_解锁会员.ipa": {
+    "bundle_id": "com.wuziqi.SenPlayer",
+    "version": "6.2.3",
+    "build": "1",
+    "name": "SenPlayer",
+    "path": "/苹果应用 - Appstore apps/SenPlayer_6.2.3_解锁会员.ipa",
+    "size": 77126564,
+    "modified": "2026-10-24T12:24:02.688+08:00",
+    "file_name": "SenPlayer_6.2.3_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/TikTok_47.4.0_支持保存视频、去广告、自动下一条、纯净模式.ipa": {
+    "bundle_id": "com.zhiliaoapp.musically",
+    "version": "47.4.0",
+    "build": "474032",
+    "name": "TikTok",
+    "path": "/苹果应用 - Appstore apps/TikTok_47.4.0_支持保存视频、去广告、自动下一条、纯净模式.ipa",
+    "size": 522692463,
+    "modified": "2026-10-22T18:35:35.069+08:00",
+    "file_name": "TikTok_47.4.0_支持保存视频、去广告、自动下一条、纯净模式.ipa"
+  },
+  "/苹果应用 - Appstore apps/抖音_40.8.0_纯净版.ipa": {
+    "bundle_id": "com.ss.iphone.ugc.Aweme",
+    "version": "40.8.0",
+    "build": "408018",
+    "name": "抖音",
+    "path": "/苹果应用 - Appstore apps/抖音_40.8.0_纯净版.ipa",
+    "size": 673711770,
+    "modified": "2026-10-22T18:35:35.543+08:00",
+    "file_name": "抖音_40.8.0_纯净版.ipa"
+  },
+  "/苹果应用 - Appstore apps/快手_14.9.10_优化增强.ipa": {
+    "bundle_id": "com.jiangjia.gif",
+    "version": "14.9.10",
+    "build": "10022",
+    "name": "快手",
+    "path": "/苹果应用 - Appstore apps/快手_14.9.10_优化增强.ipa",
+    "size": 290298319,
+    "modified": "2026-10-22T18:35:34.72+08:00",
+    "file_name": "快手_14.9.10_优化增强.ipa"
+  },
+  "/苹果应用 - Appstore apps/模拟城市_1.83.3_所有资源无限.ipa": {
+    "bundle_id": "com.ea.simcitymobile.bv",
+    "version": "1.83.3",
+    "build": "1.83.3.15965422",
+    "name": "SimCity",
+    "path": "/苹果应用 - Appstore apps/模拟城市_1.83.3_所有资源无限.ipa",
+    "size": 271526525,
+    "modified": "2026-10-22T18:35:34.932+08:00",
+    "file_name": "模拟城市_1.83.3_所有资源无限.ipa"
+  },
+  "/苹果应用 - Appstore apps/GTA V_6.2.1_优化版本.ipa": {
+    "bundle_id": "kuka.ioskuka.gtavios",
+    "version": "6.2.1",
+    "build": "63",
+    "name": "GTA V",
+    "path": "/苹果应用 - Appstore apps/GTA V_6.2.1_优化版本.ipa",
+    "size": 85215950,
+    "modified": "2026-10-22T18:35:32.229+08:00",
+    "file_name": "GTA V_6.2.1_优化版本.ipa"
+  },
+  "/苹果应用 - Appstore apps/GTA V_5.8.3_修复下载等大部分问题.ipa": {
+    "bundle_id": "kuka.ioskuka.gtavios",
+    "version": "5.8.3",
+    "build": "61",
+    "name": "GTA V",
+    "path": "/苹果应用 - Appstore apps/GTA V_5.8.3_修复下载等大部分问题.ipa",
+    "size": 87304456,
+    "modified": "2026-10-22T18:35:22.663+08:00",
+    "file_name": "GTA V_5.8.3_修复下载等大部分问题.ipa"
+  },
+  "/苹果应用 - Appstore apps/CS2手游_1.3.0.1_自瞄绘制皮肤解锁等.ipa": {
+    "bundle_id": "com.ScarletWork.CounterFlame",
+    "version": "1.3.0.1",
+    "build": "0",
+    "name": "CounterFlame",
+    "path": "/苹果应用 - Appstore apps/CS2手游_1.3.0.1_自瞄绘制皮肤解锁等.ipa",
+    "size": 1837241664,
+    "modified": "2026-10-22T18:35:19.788+08:00",
+    "file_name": "CS2手游_1.3.0.1_自瞄绘制皮肤解锁等.ipa"
+  },
+  "/苹果应用 - Appstore apps/GTA V_4.2.0_整体优化支持在线Mod.ipa": {
+    "bundle_id": "kuka.ioskuka.gtavios",
+    "version": "4.2.0",
+    "build": "42",
+    "name": "GTA V",
+    "path": "/苹果应用 - Appstore apps/GTA V_4.2.0_整体优化支持在线Mod.ipa",
+    "size": 87352356,
+    "modified": "2026-10-20T14:17:16.575+08:00",
+    "file_name": "GTA V_4.2.0_整体优化支持在线Mod.ipa"
+  },
+  "/苹果应用 - Appstore apps/泰拉瑞亚_14.58001_无敌秒杀等.ipa": {
+    "bundle_id": "com.idreamsky.terraria",
+    "version": "1.4.58001",
+    "build": "303682",
+    "name": "泰拉瑞亚",
+    "path": "/苹果应用 - Appstore apps/泰拉瑞亚_14.58001_无敌秒杀等.ipa",
+    "size": 331836814,
+    "modified": "2026-10-20T14:17:08.856+08:00",
+    "file_name": "泰拉瑞亚_14.58001_无敌秒杀等.ipa"
+  },
+  "/苹果应用 - Appstore apps/Kumone（第三方网易云）_0.3.21_最低支持iOS16+系统.ipa": {
+    "bundle_id": "sb.moe.kumone",
+    "version": "0.3.21",
+    "build": "328",
+    "name": "Kumone",
+    "path": "/苹果应用 - Appstore apps/Kumone（第三方网易云）_0.3.21_最低支持iOS16+系统.ipa",
+    "size": 8725929,
+    "modified": "2026-10-20T14:17:08.719+08:00",
+    "file_name": "Kumone（第三方网易云）_0.3.21_最低支持iOS16+系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/X_12.35_NFX_具有下载视频，翻译等多个功能.ipa": {
+    "bundle_id": "com.atebits.Tweetie2",
+    "version": "12.35",
+    "build": "27",
+    "name": "X",
+    "path": "/苹果应用 - Appstore apps/X_12.35_NFX_具有下载视频，翻译等多个功能.ipa",
+    "size": 282333821,
+    "modified": "2026-10-20T14:17:09.034+08:00",
+    "file_name": "X_12.35_NFX_具有下载视频，翻译等多个功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/今日水印相机_3.0.475_修改定位.ipa": {
+    "bundle_id": "com.xhey.XCamera",
+    "version": "3.0.475",
+    "build": "202607222057",
+    "name": "今日水印相机",
+    "path": "/苹果应用 - Appstore apps/今日水印相机_3.0.475_修改定位.ipa",
+    "size": 178529753,
+    "modified": "2026-10-20T14:17:08.786+08:00",
+    "file_name": "今日水印相机_3.0.475_修改定位.ipa"
+  },
+  "/苹果应用 - Appstore apps/怪兽聚合_1.0.0_全新UI_第一次进入软件选择网络后大退在重新进入即可.ipa": {
+    "bundle_id": "com.look.vbox",
+    "version": "1.0.0",
+    "build": "100",
+    "name": "怪兽聚合",
+    "path": "/苹果应用 - Appstore apps/怪兽聚合_1.0.0_全新UI_第一次进入软件选择网络后大退在重新进入即可.ipa",
+    "size": 24488352,
+    "modified": "2026-10-20T14:17:08.583+08:00",
+    "file_name": "怪兽聚合_1.0.0_全新UI_第一次进入软件选择网络后大退在重新进入即可.ipa"
+  },
+  "/苹果应用 - Appstore apps/彩云天气_7.63.2_解锁会员.ipa": {
+    "bundle_id": "net.colorfulclouds.app.pro",
+    "version": "7.63.2",
+    "build": "6",
+    "name": "彩云天气",
+    "path": "/苹果应用 - Appstore apps/彩云天气_7.63.2_解锁会员.ipa",
+    "size": 119216024,
+    "modified": "2026-10-20T14:17:08.607+08:00",
+    "file_name": "彩云天气_7.63.2_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/彩云天气Pro_7.63.2_解锁会员.ipa": {
+    "bundle_id": "net.colorfulclouds.app.pro",
+    "version": "7.63.1",
+    "build": "1",
+    "name": "彩云天气Pro",
+    "path": "/苹果应用 - Appstore apps/彩云天气Pro_7.63.2_解锁会员.ipa",
+    "size": 74063280,
+    "modified": "2026-10-20T14:17:08.5+08:00",
+    "file_name": "彩云天气Pro_7.63.2_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/Sifu_1.0.254260_最终版本.ipa": {
+    "bundle_id": "com.keplerinteractive.sifu",
+    "version": "1.0.254260",
+    "build": "534",
+    "name": "Sifu",
+    "path": "/苹果应用 - Appstore apps/Sifu_1.0.254260_最终版本.ipa",
+    "size": 1170453079,
+    "modified": "2026-10-18T13:59:44.405+08:00",
+    "file_name": "Sifu_1.0.254260_最终版本.ipa"
+  },
+  "/苹果应用 - Appstore apps/星露谷物语_16.15.5_无限资源.ipa": {
+    "bundle_id": "com.chucklefish.stardewvalley",
+    "version": "16.15.5",
+    "build": "0.1",
+    "name": "Stardew Valley",
+    "path": "/苹果应用 - Appstore apps/星露谷物语_16.15.5_无限资源.ipa",
+    "size": 308637328,
+    "modified": "2026-10-18T13:59:44.35+08:00",
+    "file_name": "星露谷物语_16.15.5_无限资源.ipa"
+  },
+  "/苹果应用 - Appstore apps/地铁跑酷_7.07.0_无敌所有英雄等.ipa": {
+    "bundle_id": "com.kiloo.subwaysurf.cn",
+    "version": "7.07.0",
+    "build": "70700",
+    "name": "地铁跑酷",
+    "path": "/苹果应用 - Appstore apps/地铁跑酷_7.07.0_无敌所有英雄等.ipa",
+    "size": 632425675,
+    "modified": "2026-10-18T13:59:44.947+08:00",
+    "file_name": "地铁跑酷_7.07.0_无敌所有英雄等.ipa"
+  },
+  "/苹果应用 - Appstore apps/荒野大镖客_1.58_无敌锁血一击秒杀.ipa": {
+    "bundle_id": "com.rockstargames.rdr",
+    "version": "1.58.63226194",
+    "build": "1.58.63226194",
+    "name": "RDR",
+    "path": "/苹果应用 - Appstore apps/荒野大镖客_1.58_无敌锁血一击秒杀.ipa",
+    "size": 2874006461,
+    "modified": "2026-10-18T13:59:44.272+08:00",
+    "file_name": "荒野大镖客_1.58_无敌锁血一击秒杀.ipa"
+  },
+  "/苹果应用 - Appstore apps/梦想城镇_39.1.0_无限金币点卷.ipa": {
+    "bundle_id": "com.plrx.township-cn",
+    "version": "39.1.0",
+    "build": "39.1.0",
+    "name": "Township",
+    "path": "/苹果应用 - Appstore apps/梦想城镇_39.1.0_无限金币点卷.ipa",
+    "size": 185451056,
+    "modified": "2026-10-18T13:59:44.25+08:00",
+    "file_name": "梦想城镇_39.1.0_无限金币点卷.ipa"
+  },
+  "/苹果应用 - Appstore apps/GTA V_1.0_优化增强.ipa": {
+    "bundle_id": "kuka.ioskuka.gtavios",
+    "version": "0.1",
+    "build": "15",
+    "name": "GTA V",
+    "path": "/苹果应用 - Appstore apps/GTA V_1.0_优化增强.ipa",
+    "size": 75639427,
+    "modified": "2026-10-18T13:59:43.88+08:00",
+    "file_name": "GTA V_1.0_优化增强.ipa"
+  },
+  "/苹果应用 - Appstore apps/Sifu_1.0.254260_iPad兼容版本.ipa": {
+    "bundle_id": "com.keplerinteractive.sifu",
+    "version": "1.0.254260",
+    "build": "534",
+    "name": "Sifu",
+    "path": "/苹果应用 - Appstore apps/Sifu_1.0.254260_iPad兼容版本.ipa",
+    "size": 1170365567,
+    "modified": "2026-10-18T13:59:43.47+08:00",
+    "file_name": "Sifu_1.0.254260_iPad兼容版本.ipa"
+  },
+  "/苹果应用 - Appstore apps/小红书_9.51_去水印.ipa": {
+    "bundle_id": "com.xingin.discover",
+    "version": "9.51",
+    "build": "9510837",
+    "name": "小红书",
+    "path": "/苹果应用 - Appstore apps/小红书_9.51_去水印.ipa",
+    "size": 211770885,
+    "modified": "2026-10-18T13:59:42.509+08:00",
+    "file_name": "小红书_9.51_去水印.ipa"
+  }
+}

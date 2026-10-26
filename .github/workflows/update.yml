@@ -1,0 +1,38 @@
+name: update-source
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate source.json
+        run: |
+          python3 alist_source.py \
+            --path "/苹果应用 - Appstore apps" \
+            --path "/巨魔商店 - TrollStore" \
+            --depth 2 \
+            --limit 300 \
+            --workers 6 \
+            --out source.json \
+            --cache .cache/ipa.json
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add source.json .cache/ipa.json
+          git commit -m "chore: update source" || exit 0
+          git push
