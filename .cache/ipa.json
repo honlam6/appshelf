@@ -298,5 +298,2695 @@
     "size": 211770885,
     "modified": "2026-10-18T13:59:42.509+08:00",
     "file_name": "小红书_9.51_去水印.ipa"
+  },
+  "/巨魔商店 - TrollStore/Relaxin（证书版）_0.5.6.ipa": {
+    "bundle_id": "com.aapl.relaxin",
+    "version": "0.5.6",
+    "build": "0",
+    "name": "Relaxin",
+    "path": "/巨魔商店 - TrollStore/Relaxin（证书版）_0.5.6.ipa",
+    "size": 39026725,
+    "modified": "2026-10-22T18:36:08.124+08:00",
+    "file_name": "Relaxin（证书版）_0.5.6.ipa"
+  },
+  "/巨魔商店 - TrollStore/Dopamine_3.0.12.ipa": {
+    "bundle_id": "com.opa334.Dopamine",
+    "version": "3.0.12",
+    "build": "1",
+    "name": "Dopamine",
+    "path": "/巨魔商店 - TrollStore/Dopamine_3.0.12.ipa",
+    "size": 55420784,
+    "modified": "2026-10-22T18:35:53.254+08:00",
+    "file_name": "Dopamine_3.0.12.ipa"
+  },
+  "/巨魔商店 - TrollStore/Husk_2.0（汉化）_最低支持iOS16.0+系统.ipa": {
+    "bundle_id": "com.husk.app",
+    "version": "2.0.0",
+    "build": "112",
+    "name": "Husk",
+    "path": "/巨魔商店 - TrollStore/Husk_2.0（汉化）_最低支持iOS16.0+系统.ipa",
+    "size": 151657683,
+    "modified": "2026-10-15T12:36:09.55+08:00",
+    "file_name": "Husk_2.0（汉化）_最低支持iOS16.0+系统.ipa"
+  },
+  "/巨魔商店 - TrollStore/Husk（汉化）_3.0_最低支持iOS15.5+.ipa": {
+    "bundle_id": "com.husk.app",
+    "version": "3.0.0",
+    "build": "129",
+    "name": "Husk",
+    "path": "/巨魔商店 - TrollStore/Husk（汉化）_3.0_最低支持iOS15.5+.ipa",
+    "size": 180818901,
+    "modified": "2026-10-22T18:36:01.142+08:00",
+    "file_name": "Husk（汉化）_3.0_最低支持iOS15.5+.ipa"
+  },
+  "/苹果应用 - Appstore apps/小红书_9.51_去水印+液态玻璃.ipa": {
+    "bundle_id": "com.xingin.discover",
+    "version": "9.51",
+    "build": "9510837",
+    "name": "小红书",
+    "path": "/苹果应用 - Appstore apps/小红书_9.51_去水印+液态玻璃.ipa",
+    "size": 212251528,
+    "modified": "2026-10-18T13:59:42.28+08:00",
+    "file_name": "小红书_9.51_去水印+液态玻璃.ipa"
+  },
+  "/苹果应用 - Appstore apps/抖音_40.7.0_纯净版.ipa": {
+    "bundle_id": "com.ss.iphone.ugc.Aweme",
+    "version": "40.7.0",
+    "build": "407019",
+    "name": "抖音",
+    "path": "/苹果应用 - Appstore apps/抖音_40.7.0_纯净版.ipa",
+    "size": 683160202,
+    "modified": "2026-10-18T13:59:42.332+08:00",
+    "file_name": "抖音_40.7.0_纯净版.ipa"
+  },
+  "/苹果应用 - Appstore apps/Sifu_1.0.254260_修复下载.ipa": {
+    "bundle_id": "com.keplerinteractive.sifu",
+    "version": "1.0.254260",
+    "build": "534",
+    "name": "Sifu",
+    "path": "/苹果应用 - Appstore apps/Sifu_1.0.254260_修复下载.ipa",
+    "size": 1170203645,
+    "modified": "2026-10-15T12:35:56.425+08:00",
+    "file_name": "Sifu_1.0.254260_修复下载.ipa"
+  },
+  "/苹果应用 - Appstore apps/文墨天机Pro_2.5.29_解锁内购.ipa": {
+    "bundle_id": "com.ziwei001.zwmobilepro",
+    "version": "2.5.29",
+    "build": "2.5.29",
+    "name": "658758a85929673a",
+    "path": "/苹果应用 - Appstore apps/文墨天机Pro_2.5.29_解锁内购.ipa",
+    "size": 29683417,
+    "modified": "2026-10-15T12:35:55.438+08:00",
+    "file_name": "文墨天机Pro_2.5.29_解锁内购.ipa"
+  },
+  "/苹果应用 - Appstore apps/栖阅.ipa": {
+    "bundle_id": "com.arekert.qireader",
+    "version": "2027.01.01",
+    "build": "1",
+    "name": "栖阅",
+    "path": "/苹果应用 - Appstore apps/栖阅.ipa",
+    "size": 14434884,
+    "modified": "2026-10-15T12:35:55.332+08:00",
+    "file_name": "栖阅.ipa"
+  },
+  "/苹果应用 - Appstore apps/星露谷物语_16.15.5_全功能.ipa": {
+    "bundle_id": "com.chucklefish.stardewvalley",
+    "version": "16.15.5",
+    "build": "0.1",
+    "name": "Stardew Valley",
+    "path": "/苹果应用 - Appstore apps/星露谷物语_16.15.5_全功能.ipa",
+    "size": 308631281,
+    "modified": "2026-10-15T12:35:55.718+08:00",
+    "file_name": "星露谷物语_16.15.5_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/多邻国_7.143.1_解锁会员无限红心.ipa": {
+    "bundle_id": "com.duolingo.DuolingoMobile",
+    "version": "7.143.1",
+    "build": "7.143.1.1",
+    "name": "Duolingo",
+    "path": "/苹果应用 - Appstore apps/多邻国_7.143.1_解锁会员无限红心.ipa",
+    "size": 203665223,
+    "modified": "2026-10-15T12:35:55.552+08:00",
+    "file_name": "多邻国_7.143.1_解锁会员无限红心.ipa"
+  },
+  "/苹果应用 - Appstore apps/全剧视界_1.0.7.ipa": {
+    "bundle_id": "com.duanju.duanjuApp",
+    "version": "1.0.7",
+    "build": "81",
+    "name": "全剧视界",
+    "path": "/苹果应用 - Appstore apps/全剧视界_1.0.7.ipa",
+    "size": 35386275,
+    "modified": "2026-10-15T12:35:55.353+08:00",
+    "file_name": "全剧视界_1.0.7.ipa"
+  },
+  "/苹果应用 - Appstore apps/Stash_3.6.0_最低支持iOS16.0+系统.ipa": {
+    "bundle_id": "ws.stash.app",
+    "version": "3.6.0",
+    "build": "1324",
+    "name": "Stash",
+    "path": "/苹果应用 - Appstore apps/Stash_3.6.0_最低支持iOS16.0+系统.ipa",
+    "size": 65087089,
+    "modified": "2026-10-13T16:27:33.452+08:00",
+    "file_name": "Stash_3.6.0_最低支持iOS16.0+系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/全局高刷_1.1.1.ipa": {
+    "bundle_id": "com.yoroin.globalrefresh",
+    "version": "1.1.1",
+    "build": "2026100902",
+    "name": "全局高刷",
+    "path": "/苹果应用 - Appstore apps/全局高刷_1.1.1.ipa",
+    "size": 7763893,
+    "modified": "2026-10-13T16:27:33.402+08:00",
+    "file_name": "全局高刷_1.1.1.ipa"
+  },
+  "/苹果应用 - Appstore apps/飓风相机_1.8.6_解锁会员_解锁所有相机模式_需要17.0以上系统.ipa": {
+    "bundle_id": "com.ysjf.lutcamera",
+    "version": "1.8.6",
+    "build": "226",
+    "name": "飓风相机",
+    "path": "/苹果应用 - Appstore apps/飓风相机_1.8.6_解锁会员_解锁所有相机模式_需要17.0以上系统.ipa",
+    "size": 79612226,
+    "modified": "2026-10-13T16:27:33.39+08:00",
+    "file_name": "飓风相机_1.8.6_解锁会员_解锁所有相机模式_需要17.0以上系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/MiniWatts（充电信息）_1.5.0_最低支持iOS17.0+系统.ipa": {
+    "bundle_id": "org.zhaohe.MiniWatts",
+    "version": "1.5.0",
+    "build": "19",
+    "name": "MiniWatts",
+    "path": "/苹果应用 - Appstore apps/MiniWatts（充电信息）_1.5.0_最低支持iOS17.0+系统.ipa",
+    "size": 3284306,
+    "modified": "2026-10-13T16:27:33.32+08:00",
+    "file_name": "MiniWatts（充电信息）_1.5.0_最低支持iOS17.0+系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/潜水员戴夫_1.0.48_全功能_解锁丛林等全DLC.ipa": {
+    "bundle_id": "com.xd.dave.ios.cn",
+    "version": "1.0.48",
+    "build": "102",
+    "name": "潜水员戴夫",
+    "path": "/苹果应用 - Appstore apps/潜水员戴夫_1.0.48_全功能_解锁丛林等全DLC.ipa",
+    "size": 3203973674,
+    "modified": "2026-10-13T16:27:54.314+08:00",
+    "file_name": "潜水员戴夫_1.0.48_全功能_解锁丛林等全DLC.ipa"
+  },
+  "/苹果应用 - Appstore apps/欢乐钓鱼大师_2.14.264275_锁定距离_多种稀有鱼类上鱼.ipa": {
+    "bundle_id": "com.ark.smallfish.ios",
+    "version": "2.14.264275",
+    "build": "66",
+    "name": "欢乐钓鱼大师",
+    "path": "/苹果应用 - Appstore apps/欢乐钓鱼大师_2.14.264275_锁定距离_多种稀有鱼类上鱼.ipa",
+    "size": 3128918531,
+    "modified": "2026-10-13T16:30:05.008+08:00",
+    "file_name": "欢乐钓鱼大师_2.14.264275_锁定距离_多种稀有鱼类上鱼.ipa"
+  },
+  "/苹果应用 - Appstore apps/Loon（TF1005）_3.5.2_最低支持iOS15.0+系统.ipa": {
+    "bundle_id": "com.ruikq.decar",
+    "version": "3.5.2",
+    "build": "1005",
+    "name": "Loon",
+    "path": "/苹果应用 - Appstore apps/Loon（TF1005）_3.5.2_最低支持iOS15.0+系统.ipa",
+    "size": 27327872,
+    "modified": "2026-10-13T16:26:38.961+08:00",
+    "file_name": "Loon（TF1005）_3.5.2_最低支持iOS15.0+系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/今日水印相机_3.0.470_修改定位_替换拍摄照片.ipa": {
+    "bundle_id": "com.xhey.XCamera",
+    "version": "3.0.470",
+    "build": "202607222057",
+    "name": "今日水印相机",
+    "path": "/苹果应用 - Appstore apps/今日水印相机_3.0.470_修改定位_替换拍摄照片.ipa",
+    "size": 178529751,
+    "modified": "2026-10-13T16:26:38.802+08:00",
+    "file_name": "今日水印相机_3.0.470_修改定位_替换拍摄照片.ipa"
+  },
+  "/苹果应用 - Appstore apps/向僵尸开炮_1.60.1_无敌秒杀_全局加速，不要升级核心功能.ipa": {
+    "bundle_id": "com.tv.xjskpios.hnsc",
+    "version": "1.60.1",
+    "build": "1.1",
+    "name": "向僵尸开炮",
+    "path": "/苹果应用 - Appstore apps/向僵尸开炮_1.60.1_无敌秒杀_全局加速，不要升级核心功能.ipa",
+    "size": 2276923867,
+    "modified": "2026-10-13T16:27:30.463+08:00",
+    "file_name": "向僵尸开炮_1.60.1_无敌秒杀_全局加速，不要升级核心功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/TikTok_47.1.0_支持保存视频、去广告、自动下一条、纯净模式.ipa": {
+    "bundle_id": "com.zhiliaoapp.musically",
+    "version": "47.1.0",
+    "build": "471044",
+    "name": "TikTok",
+    "path": "/苹果应用 - Appstore apps/TikTok_47.1.0_支持保存视频、去广告、自动下一条、纯净模式.ipa",
+    "size": 511925228,
+    "modified": "2026-10-13T16:26:31.793+08:00",
+    "file_name": "TikTok_47.1.0_支持保存视频、去广告、自动下一条、纯净模式.ipa"
+  },
+  "/苹果应用 - Appstore apps/明日方舟_2.7.81_秒杀攻速等.ipa": {
+    "bundle_id": "com.hypergryph.arknights",
+    "version": "2.7.81",
+    "build": "71",
+    "name": "明日方舟",
+    "path": "/苹果应用 - Appstore apps/明日方舟_2.7.81_秒杀攻速等.ipa",
+    "size": 2683935564,
+    "modified": "2026-10-13T16:26:33.864+08:00",
+    "file_name": "明日方舟_2.7.81_秒杀攻速等.ipa"
+  },
+  "/苹果应用 - Appstore apps/Filza Mod_1.2.0_支持iOS18，iOS26和iOS 27.0 Beta1-4 系统.ipa": {
+    "bundle_id": "com.apple.mobile.MobileHouseArrest",
+    "version": "4.0",
+    "build": "0",
+    "name": "Filza Mod",
+    "path": "/苹果应用 - Appstore apps/Filza Mod_1.2.0_支持iOS18，iOS26和iOS 27.0 Beta1-4 系统.ipa",
+    "size": 14947021,
+    "modified": "2026-10-13T16:26:31.654+08:00",
+    "file_name": "Filza Mod_1.2.0_支持iOS18，iOS26和iOS 27.0 Beta1-4 系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/Dazz_2.17.7_解锁会员_复古相机应用.ipa": {
+    "bundle_id": "dazz.camera.vintagecamera",
+    "version": "2.17.7",
+    "build": "4",
+    "name": "Dazz",
+    "path": "/苹果应用 - Appstore apps/Dazz_2.17.7_解锁会员_复古相机应用.ipa",
+    "size": 119212676,
+    "modified": "2026-10-13T16:26:27.101+08:00",
+    "file_name": "Dazz_2.17.7_解锁会员_复古相机应用.ipa"
+  },
+  "/苹果应用 - Appstore apps/自定义水印相机_2.3.06_解锁会员_更改定位，进入不要授权定位即可，多拍几张.ipa": {
+    "bundle_id": "cs.zero.waterCamera",
+    "version": "2.3.06",
+    "build": "5",
+    "name": "自定义水印相机",
+    "path": "/苹果应用 - Appstore apps/自定义水印相机_2.3.06_解锁会员_更改定位，进入不要授权定位即可，多拍几张.ipa",
+    "size": 50257315,
+    "modified": "2026-10-13T16:26:24.725+08:00",
+    "file_name": "自定义水印相机_2.3.06_解锁会员_更改定位，进入不要授权定位即可，多拍几张.ipa"
+  },
+  "/苹果应用 - Appstore apps/迷雾大陆_15.0.0_全功能_无敌免伤超级秒杀.ipa": {
+    "bundle_id": "com.hortor.mwdl.ios",
+    "version": "15.0.0",
+    "build": "2",
+    "name": "迷雾大陆",
+    "path": "/苹果应用 - Appstore apps/迷雾大陆_15.0.0_全功能_无敌免伤超级秒杀.ipa",
+    "size": 28148289,
+    "modified": "2026-10-13T16:26:22.785+08:00",
+    "file_name": "迷雾大陆_15.0.0_全功能_无敌免伤超级秒杀.ipa"
+  },
+  "/巨魔商店 - TrollStore/全局高刷_1.1.1.ipa": {
+    "bundle_id": "com.yoroin.globalrefresh",
+    "version": "1.1.1",
+    "build": "2026100902",
+    "name": "全局高刷",
+    "path": "/巨魔商店 - TrollStore/全局高刷_1.1.1.ipa",
+    "size": 7763893,
+    "modified": "2026-10-13T16:26:01.264+08:00",
+    "file_name": "全局高刷_1.1.1.ipa"
+  },
+  "/巨魔商店 - TrollStore/Stash_3.6.0_最低支持iOS16.0+系统.ipa": {
+    "bundle_id": "ws.stash.app",
+    "version": "3.6.0",
+    "build": "1324",
+    "name": "Stash",
+    "path": "/巨魔商店 - TrollStore/Stash_3.6.0_最低支持iOS16.0+系统.ipa",
+    "size": 65087089,
+    "modified": "2026-10-13T16:25:54.881+08:00",
+    "file_name": "Stash_3.6.0_最低支持iOS16.0+系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/地球末日_生存_1.52.99_全功能版.ipa": {
+    "bundle_id": "zombie.survival.craft.z",
+    "version": "1.52.99",
+    "build": "980",
+    "name": "Last Day On Earth: Survival",
+    "path": "/苹果应用 - Appstore apps/地球末日_生存_1.52.99_全功能版.ipa",
+    "size": 1062284304,
+    "modified": "2026-10-13T16:26:22.198+08:00",
+    "file_name": "地球末日_生存_1.52.99_全功能版.ipa"
+  },
+  "/巨魔商店 - TrollStore/Loon/Loon（TF1005）_3.5.2_最低支持iOS15.0+系统.ipa": {
+    "bundle_id": "com.ruikq.decar",
+    "version": "3.5.2",
+    "build": "1005",
+    "name": "Loon",
+    "path": "/巨魔商店 - TrollStore/Loon/Loon（TF1005）_3.5.2_最低支持iOS15.0+系统.ipa",
+    "size": 27327872,
+    "modified": "2026-10-13T16:25:50.793+08:00",
+    "file_name": "Loon（TF1005）_3.5.2_最低支持iOS15.0+系统.ipa"
+  },
+  "/巨魔商店 - TrollStore/多巴胺越狱工具/Dopamine_3.0.11.ipa": {
+    "bundle_id": "com.opa334.Dopamine",
+    "version": "3.0.11",
+    "build": "1",
+    "name": "Dopamine",
+    "path": "/巨魔商店 - TrollStore/多巴胺越狱工具/Dopamine_3.0.11.ipa",
+    "size": 55420987,
+    "modified": "2026-10-13T16:25:42.055+08:00",
+    "file_name": "Dopamine_3.0.11.ipa"
+  },
+  "/苹果应用 - Appstore apps/王国保卫战6_1.01.010_全功能.ipa": {
+    "bundle_id": "com.ironhidegames.kingdomrush6.genesis",
+    "version": "1.01.010",
+    "build": "0",
+    "name": "Genesis",
+    "path": "/苹果应用 - Appstore apps/王国保卫战6_1.01.010_全功能.ipa",
+    "size": 517303636,
+    "modified": "2026-10-11T14:55:09.919+08:00",
+    "file_name": "王国保卫战6_1.01.010_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/饥荒联机版_2.2.1_App Store外区付费游戏砸壳.ipa": {
+    "bundle_id": "com.playdigious.dst",
+    "version": "2.2.1",
+    "build": "0",
+    "name": "Don't Starve Together",
+    "path": "/苹果应用 - Appstore apps/饥荒联机版_2.2.1_App Store外区付费游戏砸壳.ipa",
+    "size": 1685438673,
+    "modified": "2026-10-11T14:55:11.162+08:00",
+    "file_name": "饥荒联机版_2.2.1_App Store外区付费游戏砸壳.ipa"
+  },
+  "/苹果应用 - Appstore apps/AirBeep（通话录音禁提示）_2.3.0_支持iOSiPadOS 18.0 – 27.2 B2.ipa": {
+    "bundle_id": "com.linkpass888.airbeep",
+    "version": "2.3.0",
+    "build": "5",
+    "name": "AirBeep",
+    "path": "/苹果应用 - Appstore apps/AirBeep（通话录音禁提示）_2.3.0_支持iOSiPadOS 18.0 – 27.2 B2.ipa",
+    "size": 5807349,
+    "modified": "2026-10-11T14:55:09.339+08:00",
+    "file_name": "AirBeep（通话录音禁提示）_2.3.0_支持iOSiPadOS 18.0 – 27.2 B2.ipa"
+  },
+  "/苹果应用 - Appstore apps/可达阅读器_2.4.3_解锁会员.ipa": {
+    "bundle_id": "com.xiaogd.kedamanga",
+    "version": "2.4.3",
+    "build": "142",
+    "name": "kedamanga",
+    "path": "/苹果应用 - Appstore apps/可达阅读器_2.4.3_解锁会员.ipa",
+    "size": 157214968,
+    "modified": "2026-10-11T14:55:09.097+08:00",
+    "file_name": "可达阅读器_2.4.3_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/我比武特牛_0.66.0_无敌秒杀等.ipa": {
+    "bundle_id": "com.peakx.idlegongfu.cn",
+    "version": "0.66.0",
+    "build": "1786",
+    "name": "idlegongfu",
+    "path": "/苹果应用 - Appstore apps/我比武特牛_0.66.0_无敌秒杀等.ipa",
+    "size": 357788644,
+    "modified": "2026-10-11T14:55:10.417+08:00",
+    "file_name": "我比武特牛_0.66.0_无敌秒杀等.ipa"
+  },
+  "/苹果应用 - Appstore apps/网易云音乐_9.6.07_解锁会员.ipa": {
+    "bundle_id": "com.netease.cloudmusic",
+    "version": "9.6.07",
+    "build": "7482",
+    "name": "网易云音乐",
+    "path": "/苹果应用 - Appstore apps/网易云音乐_9.6.07_解锁会员.ipa",
+    "size": 202336586,
+    "modified": "2026-10-11T14:55:08.977+08:00",
+    "file_name": "网易云音乐_9.6.07_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/模拟城市_1.83.2_所有资源无限.ipa": {
+    "bundle_id": "com.ea.simcitymobile.bv",
+    "version": "1.83.2",
+    "build": "1.83.2.15855980",
+    "name": "SimCity",
+    "path": "/苹果应用 - Appstore apps/模拟城市_1.83.2_所有资源无限.ipa",
+    "size": 271693195,
+    "modified": "2026-10-11T14:55:08.241+08:00",
+    "file_name": "模拟城市_1.83.2_所有资源无限.ipa"
+  },
+  "/苹果应用 - Appstore apps/AirBeep（通话录音禁提示）_2.4.0_支持iOSiPadOS 27.0 – 27.2 B2.ipa": {
+    "bundle_id": "com.linkpass888.airbeep",
+    "version": "2.4.0",
+    "build": "6",
+    "name": "AirBeep",
+    "path": "/苹果应用 - Appstore apps/AirBeep（通话录音禁提示）_2.4.0_支持iOSiPadOS 27.0 – 27.2 B2.ipa",
+    "size": 5806194,
+    "modified": "2026-10-11T14:55:00.172+08:00",
+    "file_name": "AirBeep（通话录音禁提示）_2.4.0_支持iOSiPadOS 27.0 – 27.2 B2.ipa"
+  },
+  "/苹果应用 - Appstore apps/Filza_4.0_破解加中文翻译.ipa": {
+    "bundle_id": "com.tigisoftware.Filza",
+    "version": "4.0",
+    "build": "0",
+    "name": "Filza",
+    "path": "/苹果应用 - Appstore apps/Filza_4.0_破解加中文翻译.ipa",
+    "size": 14701681,
+    "modified": "2026-10-11T14:55:08.707+08:00",
+    "file_name": "Filza_4.0_破解加中文翻译.ipa"
+  },
+  "/苹果应用 - Appstore apps/弓箭传说_8.2.0_无敌秒杀等国际服.ipa": {
+    "bundle_id": "com.habby.archero",
+    "version": "8.2.0",
+    "build": "6",
+    "name": "Archero",
+    "path": "/苹果应用 - Appstore apps/弓箭传说_8.2.0_无敌秒杀等国际服.ipa",
+    "size": 832113745,
+    "modified": "2026-10-09T18:05:36.495+08:00",
+    "file_name": "弓箭传说_8.2.0_无敌秒杀等国际服.ipa"
+  },
+  "/苹果应用 - Appstore apps/闪卡_2.20.2_解锁会员.ipa": {
+    "bundle_id": "com.lm.william.TwinklingCard",
+    "version": "2.20.2",
+    "build": "1960",
+    "name": "com",
+    "path": "/苹果应用 - Appstore apps/闪卡_2.20.2_解锁会员.ipa",
+    "size": 44237137,
+    "modified": "2026-10-11T14:55:08.043+08:00",
+    "file_name": "闪卡_2.20.2_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/弓箭传说_3.13.0_无敌秒杀等_国服.ipa": {
+    "bundle_id": "com.habby.gongjian",
+    "version": "3.13.0",
+    "build": "2",
+    "name": "弓箭传说",
+    "path": "/苹果应用 - Appstore apps/弓箭传说_3.13.0_无敌秒杀等_国服.ipa",
+    "size": 695982078,
+    "modified": "2026-10-09T18:05:34.893+08:00",
+    "file_name": "弓箭传说_3.13.0_无敌秒杀等_国服.ipa"
+  },
+  "/苹果应用 - Appstore apps/字幕翻译_1.6.8_解锁会员.ipa": {
+    "bundle_id": "com.captionvideos.subtitlesvideo",
+    "version": "1.7.8",
+    "build": "178",
+    "name": "SubtitleTranslation",
+    "path": "/苹果应用 - Appstore apps/字幕翻译_1.6.8_解锁会员.ipa",
+    "size": 64895157,
+    "modified": "2026-10-09T18:05:09.663+08:00",
+    "file_name": "字幕翻译_1.6.8_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/勇闯死人谷2_1.87.1_无敌无限货币等.ipa": {
+    "bundle_id": "com.pikpok.dr2.iosstore",
+    "version": "1.87.1",
+    "build": "19337",
+    "name": "Into the Dead 2",
+    "path": "/苹果应用 - Appstore apps/勇闯死人谷2_1.87.1_无敌无限货币等.ipa",
+    "size": 1813803780,
+    "modified": "2026-10-09T18:05:13.043+08:00",
+    "file_name": "勇闯死人谷2_1.87.1_无敌无限货币等.ipa"
+  },
+  "/苹果应用 - Appstore apps/开心消消乐_1.162.126_无限道具体力.ipa": {
+    "bundle_id": "com.happyelements.1OSAnimal",
+    "version": "1.162.126",
+    "build": "1.162.126",
+    "name": "开心消消乐",
+    "path": "/苹果应用 - Appstore apps/开心消消乐_1.162.126_无限道具体力.ipa",
+    "size": 326498560,
+    "modified": "2026-10-09T18:05:17.468+08:00",
+    "file_name": "开心消消乐_1.162.126_无限道具体力.ipa"
+  },
+  "/苹果应用 - Appstore apps/潜水员戴夫_1.0.46_全功能.ipa": {
+    "bundle_id": "com.xd.dave.ios.cn",
+    "version": "1.0.46",
+    "build": "99",
+    "name": "潜水员戴夫",
+    "path": "/苹果应用 - Appstore apps/潜水员戴夫_1.0.46_全功能.ipa",
+    "size": 3690846785,
+    "modified": "2026-10-09T18:05:11.697+08:00",
+    "file_name": "潜水员戴夫_1.0.46_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/Car Parking 2_1.4.3_全功能版_可购买场地警车灯，性能配件，引擎，车身套件，维护材料等.ipa": {
+    "bundle_id": "com.olzhas.carparking.multyplayer2.ios",
+    "version": "1.4.3",
+    "build": "335",
+    "name": "Car Parking 2",
+    "path": "/苹果应用 - Appstore apps/Car Parking 2_1.4.3_全功能版_可购买场地警车灯，性能配件，引擎，车身套件，维护材料等.ipa",
+    "size": 3587892645,
+    "modified": "2026-10-08T17:56:29.566+08:00",
+    "file_name": "Car Parking 2_1.4.3_全功能版_可购买场地警车灯，性能配件，引擎，车身套件，维护材料等.ipa"
+  },
+  "/苹果应用 - Appstore apps/帮帮识字_3.51.0_解锁会员.ipa": {
+    "bundle_id": "com.zuoyebang.bangbangshizi",
+    "version": "3.51.0",
+    "build": "417",
+    "name": "帮帮识字",
+    "path": "/苹果应用 - Appstore apps/帮帮识字_3.51.0_解锁会员.ipa",
+    "size": 376382246,
+    "modified": "2026-10-08T17:52:27.432+08:00",
+    "file_name": "帮帮识字_3.51.0_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/魔法工艺_1.2.37_无敌秒杀.ipa": {
+    "bundle_id": "com.bilibili.mfgy",
+    "version": "1.2.37",
+    "build": "1",
+    "name": "魔法工艺",
+    "path": "/苹果应用 - Appstore apps/魔法工艺_1.2.37_无敌秒杀.ipa",
+    "size": 785663611,
+    "modified": "2026-10-08T17:52:17.158+08:00",
+    "file_name": "魔法工艺_1.2.37_无敌秒杀.ipa"
+  },
+  "/巨魔商店 - TrollStore/Relaxin（证书版）_0.5.5.ipa": {
+    "bundle_id": "com.aapl.relaxin",
+    "version": "0.5.5",
+    "build": "0",
+    "name": "Relaxin",
+    "path": "/巨魔商店 - TrollStore/Relaxin（证书版）_0.5.5.ipa",
+    "size": 38221108,
+    "modified": "2026-10-07T21:25:54.202+08:00",
+    "file_name": "Relaxin（证书版）_0.5.5.ipa"
+  },
+  "/苹果应用 - Appstore apps/地球末日_生存_1.52.9_全功能版.ipa": {
+    "bundle_id": "zombie.survival.craft.z",
+    "version": "1.52.9",
+    "build": "977",
+    "name": "Last Day On Earth: Survival",
+    "path": "/苹果应用 - Appstore apps/地球末日_生存_1.52.9_全功能版.ipa",
+    "size": 1072612180,
+    "modified": "2026-10-08T17:52:23.428+08:00",
+    "file_name": "地球末日_生存_1.52.9_全功能版.ipa"
+  },
+  "/苹果应用 - Appstore apps/我的世界_1.26.52_AppStore付费最新版本.ipa": {
+    "bundle_id": "com.mojang.minecraftpe",
+    "version": "1.26.52",
+    "build": "1.26.52.03",
+    "name": "Minecraft",
+    "path": "/苹果应用 - Appstore apps/我的世界_1.26.52_AppStore付费最新版本.ipa",
+    "size": 721447893,
+    "modified": "2026-10-07T21:25:36.678+08:00",
+    "file_name": "我的世界_1.26.52_AppStore付费最新版本.ipa"
+  },
+  "/苹果应用 - Appstore apps/王国保卫战6_1.00.040_全功能兼容iPad.ipa": {
+    "bundle_id": "com.ironhidegames.kingdomrush6.genesis",
+    "version": "1.00.040",
+    "build": "0",
+    "name": "Genesis",
+    "path": "/苹果应用 - Appstore apps/王国保卫战6_1.00.040_全功能兼容iPad.ipa",
+    "size": 520167595,
+    "modified": "2026-10-07T21:25:36.119+08:00",
+    "file_name": "王国保卫战6_1.00.040_全功能兼容iPad.ipa"
+  },
+  "/苹果应用 - Appstore apps/芒果TV_9.4.4_解锁会员_解锁极高画质.ipa": {
+    "bundle_id": "com.hunantv.imgotv",
+    "version": "9.4.4",
+    "build": "2609291605",
+    "name": "芒果TV",
+    "path": "/苹果应用 - Appstore apps/芒果TV_9.4.4_解锁会员_解锁极高画质.ipa",
+    "size": 329403719,
+    "modified": "2026-10-07T21:25:36.005+08:00",
+    "file_name": "芒果TV_9.4.4_解锁会员_解锁极高画质.ipa"
+  },
+  "/苹果应用 - Appstore apps/死亡扳机2_3.1.6_无敌秒杀无限物品.ipa": {
+    "bundle_id": "com.madfingergames.deadtrigger2",
+    "version": "3.1.6",
+    "build": "245",
+    "name": "Dead Trigger 2",
+    "path": "/苹果应用 - Appstore apps/死亡扳机2_3.1.6_无敌秒杀无限物品.ipa",
+    "size": 697640951,
+    "modified": "2026-10-07T21:25:35.72+08:00",
+    "file_name": "死亡扳机2_3.1.6_无敌秒杀无限物品.ipa"
+  },
+  "/苹果应用 - Appstore apps/行尸走肉_2.2.2_无限资源无敌.ipa": {
+    "bundle_id": "com.ares.twd",
+    "version": "2.2.2",
+    "build": "109",
+    "name": "The Walking Dead",
+    "path": "/苹果应用 - Appstore apps/行尸走肉_2.2.2_无限资源无敌.ipa",
+    "size": 747392504,
+    "modified": "2026-10-07T21:25:35.831+08:00",
+    "file_name": "行尸走肉_2.2.2_无限资源无敌.ipa"
+  },
+  "/苹果应用 - Appstore apps/Reflix_3.1.0_最低支持iOS17.0+系统.ipa": {
+    "bundle_id": "com.magicgroot.gooby",
+    "version": "3.1.0",
+    "build": "P23",
+    "name": "Reflix",
+    "path": "/苹果应用 - Appstore apps/Reflix_3.1.0_最低支持iOS17.0+系统.ipa",
+    "size": 45582433,
+    "modified": "2026-10-05T16:32:56.495+08:00",
+    "file_name": "Reflix_3.1.0_最低支持iOS17.0+系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/PicsArt美易_30.9.2_解锁订阅_登录即解锁会员.ipa": {
+    "bundle_id": "com.picsart.studio",
+    "version": "30.9.2",
+    "build": "30902",
+    "name": "Picsart",
+    "path": "/苹果应用 - Appstore apps/PicsArt美易_30.9.2_解锁订阅_登录即解锁会员.ipa",
+    "size": 111717016,
+    "modified": "2026-10-07T21:25:35.272+08:00",
+    "file_name": "PicsArt美易_30.9.2_解锁订阅_登录即解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/小红书_9.49_去水印_注入 图层插件，去实况水印插件，去视频水印等 去除几乎所有广告，支持所有图片和视频无水印，插件在设置右上方.ipa": {
+    "bundle_id": "com.xingin.discover",
+    "version": "9.49",
+    "build": "9490866",
+    "name": "小红书",
+    "path": "/苹果应用 - Appstore apps/小红书_9.49_去水印_注入 图层插件，去实况水印插件，去视频水印等 去除几乎所有广告，支持所有图片和视频无水印，插件在设置右上方.ipa",
+    "size": 215200161,
+    "modified": "2026-10-05T16:32:56.398+08:00",
+    "file_name": "小红书_9.49_去水印_注入 图层插件，去实况水印插件，去视频水印等 去除几乎所有广告，支持所有图片和视频无水印，插件在设置右上方.ipa"
+  },
+  "/苹果应用 - Appstore apps/Spotify_9.1.86_解锁会员_最低支持：iOS16.1以上.ipa": {
+    "bundle_id": "com.spotify.client",
+    "version": "9.1.86",
+    "build": "918602428",
+    "name": "Spotify",
+    "path": "/苹果应用 - Appstore apps/Spotify_9.1.86_解锁会员_最低支持：iOS16.1以上.ipa",
+    "size": 147482798,
+    "modified": "2026-10-05T16:32:54.389+08:00",
+    "file_name": "Spotify_9.1.86_解锁会员_最低支持：iOS16.1以上.ipa"
+  },
+  "/苹果应用 - Appstore apps/Kumone（第三方网易云）_0.3.20_最低支持iOS16+系统.ipa": {
+    "bundle_id": "sb.moe.kumone",
+    "version": "0.3.20",
+    "build": "199",
+    "name": "Kumone",
+    "path": "/苹果应用 - Appstore apps/Kumone（第三方网易云）_0.3.20_最低支持iOS16+系统.ipa",
+    "size": 7546632,
+    "modified": "2026-10-05T16:32:40.863+08:00",
+    "file_name": "Kumone（第三方网易云）_0.3.20_最低支持iOS16+系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/小红书_9.49_去水印+液态玻璃_注入 图层插件，去实况水印插件，去视频水印等 去除几乎所有广告，支持所有图片和视频无水印，插件在设置右上方.ipa": {
+    "bundle_id": "com.xingin.discover",
+    "version": "9.49",
+    "build": "9490866",
+    "name": "小红书",
+    "path": "/苹果应用 - Appstore apps/小红书_9.49_去水印+液态玻璃_注入 图层插件，去实况水印插件，去视频水印等 去除几乎所有广告，支持所有图片和视频无水印，插件在设置右上方.ipa",
+    "size": 215680846,
+    "modified": "2026-10-05T16:32:49.724+08:00",
+    "file_name": "小红书_9.49_去水印+液态玻璃_注入 图层插件，去实况水印插件，去视频水印等 去除几乎所有广告，支持所有图片和视频无水印，插件在设置右上方.ipa"
+  },
+  "/苹果应用 - Appstore apps/植物大战僵尸杂交版_0.29.0_原版.ipa": {
+    "bundle_id": "com.xiaozhu.pvzhv",
+    "version": "0.29.0.0",
+    "build": "0.29.0.0",
+    "name": "植物大战僵尸杂交版",
+    "path": "/苹果应用 - Appstore apps/植物大战僵尸杂交版_0.29.0_原版.ipa",
+    "size": 383773444,
+    "modified": "2026-10-05T16:32:40.454+08:00",
+    "file_name": "植物大战僵尸杂交版_0.29.0_原版.ipa"
+  },
+  "/苹果应用 - Appstore apps/植物大战僵尸2_4.2.4_植物属性满级无冷却等.ipa": {
+    "bundle_id": "com.popcap.ios.chs.PVZ2",
+    "version": "4.2.4",
+    "build": "4.2.4.399",
+    "name": "植物大战僵尸2",
+    "path": "/苹果应用 - Appstore apps/植物大战僵尸2_4.2.4_植物属性满级无冷却等.ipa",
+    "size": 3440683581,
+    "modified": "2026-10-05T16:32:49.264+08:00",
+    "file_name": "植物大战僵尸2_4.2.4_植物属性满级无冷却等.ipa"
+  },
+  "/苹果应用 - Appstore apps/MIX_5.4.1_解锁会员.ipa": {
+    "bundle_id": "com.vstudio.MIX",
+    "version": "5.4.1",
+    "build": "1",
+    "name": "MIX",
+    "path": "/苹果应用 - Appstore apps/MIX_5.4.1_解锁会员.ipa",
+    "size": 366471607,
+    "modified": "2026-10-05T16:32:22.912+08:00",
+    "file_name": "MIX_5.4.1_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/猛鬼宿舍_2.5.6_无限道具金币无敌等_20261005_163225.ipa": {
+    "bundle_id": "com.mihuan.haunteddorm",
+    "version": "2.5.6",
+    "build": "9",
+    "name": "mgss",
+    "path": "/苹果应用 - Appstore apps/猛鬼宿舍_2.5.6_无限道具金币无敌等_20261005_163225.ipa",
+    "size": 87767689,
+    "modified": "2026-10-05T16:32:25.992+08:00",
+    "file_name": "猛鬼宿舍_2.5.6_无限道具金币无敌等_20261005_163225.ipa"
+  },
+  "/苹果应用 - Appstore apps/Punko.io_1.2.2_无限资源无敌秒杀_20261005_163036.ipa": {
+    "bundle_id": "com.Agonalea.Punko.io",
+    "version": "1.2.2",
+    "build": "0",
+    "name": "Punko.io",
+    "path": "/苹果应用 - Appstore apps/Punko.io_1.2.2_无限资源无敌秒杀_20261005_163036.ipa",
+    "size": 207175566,
+    "modified": "2026-10-05T16:30:37.108+08:00",
+    "file_name": "Punko.io_1.2.2_无限资源无敌秒杀_20261005_163036.ipa"
+  },
+  "/苹果应用 - Appstore apps/幻想生活i_2_2_2_App Store付费游戏_金币加9999999.ipa": {
+    "bundle_id": "jp.co.level5.fli",
+    "version": "2.2.2",
+    "build": "110677",
+    "name": "Fantasy Life i",
+    "path": "/苹果应用 - Appstore apps/幻想生活i_2_2_2_App Store付费游戏_金币加9999999.ipa",
+    "size": 3201783093,
+    "modified": "2026-10-05T16:32:07.953+08:00",
+    "file_name": "幻想生活i_2_2_2_App Store付费游戏_金币加9999999.ipa"
+  },
+  "/苹果应用 - Appstore apps/行尸走肉_2.2.1_无限资源无敌.ipa": {
+    "bundle_id": "com.ares.twd",
+    "version": "2.2.1",
+    "build": "106",
+    "name": "The Walking Dead",
+    "path": "/苹果应用 - Appstore apps/行尸走肉_2.2.1_无限资源无敌.ipa",
+    "size": 747370126,
+    "modified": "2026-10-05T16:30:29.65+08:00",
+    "file_name": "行尸走肉_2.2.1_无限资源无敌.ipa"
+  },
+  "/苹果应用 - Appstore apps/雷霆战机_1.28.10_无敌秒杀等.ipa": {
+    "bundle_id": "com.a5game.ltzj.jj",
+    "version": "1.28.10",
+    "build": "178",
+    "name": "雷霆战机：集结",
+    "path": "/苹果应用 - Appstore apps/雷霆战机_1.28.10_无敌秒杀等.ipa",
+    "size": 1203904123,
+    "modified": "2026-10-05T16:31:23.328+08:00",
+    "file_name": "雷霆战机_1.28.10_无敌秒杀等.ipa"
+  },
+  "/苹果应用 - Appstore apps/Quantumult X_1.8.1（TF950）.ipa": {
+    "bundle_id": "com.crossutility.quantumult-x",
+    "version": "1.8.1",
+    "build": "950",
+    "name": "Quantumult X",
+    "path": "/苹果应用 - Appstore apps/Quantumult X_1.8.1（TF950）.ipa",
+    "size": 43083365,
+    "modified": "2026-10-05T16:30:06.708+08:00",
+    "file_name": "Quantumult X_1.8.1（TF950）.ipa"
+  },
+  "/苹果应用 - Appstore apps/快来当领主_1.5.0_无限银币绿币.ipa": {
+    "bundle_id": "com.kldlz.ios.sqhd",
+    "version": "1.5.0",
+    "build": "1.0",
+    "name": "快来当领主",
+    "path": "/苹果应用 - Appstore apps/快来当领主_1.5.0_无限银币绿币.ipa",
+    "size": 1797819028,
+    "modified": "2026-10-05T16:30:06.868+08:00",
+    "file_name": "快来当领主_1.5.0_无限银币绿币.ipa"
+  },
+  "/苹果应用 - Appstore apps/红果漫剧_7.3.9_解锁会员.ipa": {
+    "bundle_id": "com.kylin.readnew",
+    "version": "7.3.9",
+    "build": "7.3.9.32",
+    "name": "红果漫剧",
+    "path": "/苹果应用 - Appstore apps/红果漫剧_7.3.9_解锁会员.ipa",
+    "size": 330117203,
+    "modified": "2026-10-05T16:30:13.787+08:00",
+    "file_name": "红果漫剧_7.3.9_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/镇邪人_1.1.0_全功能版.ipa": {
+    "bundle_id": "com.sy.zxr",
+    "version": "1.1.0",
+    "build": "14",
+    "name": "镇邪人",
+    "path": "/苹果应用 - Appstore apps/镇邪人_1.1.0_全功能版.ipa",
+    "size": 94156544,
+    "modified": "2026-10-05T16:29:39.684+08:00",
+    "file_name": "镇邪人_1.1.0_全功能版.ipa"
+  },
+  "/苹果应用 - Appstore apps/植物大战僵尸3_11.0.0_无敌无限阳光技能.ipa": {
+    "bundle_id": "com.plantsvszombies3.mengxing",
+    "version": "11.0.0",
+    "build": "1192",
+    "name": "植物大战僵尸3",
+    "path": "/苹果应用 - Appstore apps/植物大战僵尸3_11.0.0_无敌无限阳光技能.ipa",
+    "size": 965218568,
+    "modified": "2026-10-05T16:30:04.333+08:00",
+    "file_name": "植物大战僵尸3_11.0.0_无敌无限阳光技能.ipa"
+  },
+  "/苹果应用 - Appstore apps/冷酷灵魂_8.5.1_多功能.ipa": {
+    "bundle_id": "fantasy.survival.game.rpg",
+    "version": "8.5.1",
+    "build": "805010807",
+    "name": "Grim Soul",
+    "path": "/苹果应用 - Appstore apps/冷酷灵魂_8.5.1_多功能.ipa",
+    "size": 377839669,
+    "modified": "2026-10-05T16:29:17.003+08:00",
+    "file_name": "冷酷灵魂_8.5.1_多功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/王国保卫战6_1.00.040_全功能.ipa": {
+    "bundle_id": "com.ironhidegames.kingdomrush6.genesis",
+    "version": "1.00.040",
+    "build": "0",
+    "name": "Genesis",
+    "path": "/苹果应用 - Appstore apps/王国保卫战6_1.00.040_全功能.ipa",
+    "size": 520437996,
+    "modified": "2026-10-05T16:29:08.345+08:00",
+    "file_name": "王国保卫战6_1.00.040_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/世界战争_英雄_1.57.2_无敌无限子弹.ipa": {
+    "bundle_id": "com.gamedevltd.wwh",
+    "version": "1.57.2",
+    "build": "3875",
+    "name": "World War Heroes",
+    "path": "/苹果应用 - Appstore apps/世界战争_英雄_1.57.2_无敌无限子弹.ipa",
+    "size": 1123552099,
+    "modified": "2026-10-05T16:29:07.028+08:00",
+    "file_name": "世界战争_英雄_1.57.2_无敌无限子弹.ipa"
+  },
+  "/苹果应用 - Appstore apps/快来当领主_1.2.5_无限银币绿币_国际版.ipa": {
+    "bundle_id": "com.slacksurvivorgame.ios",
+    "version": "1.2.5",
+    "build": "1",
+    "name": "Penguin GO!",
+    "path": "/苹果应用 - Appstore apps/快来当领主_1.2.5_无限银币绿币_国际版.ipa",
+    "size": 1906197649,
+    "modified": "2026-10-05T16:29:36.304+08:00",
+    "file_name": "快来当领主_1.2.5_无限银币绿币_国际版.ipa"
+  },
+  "/苹果应用 - Appstore apps/房产达人_1.692.1_无限金币金钱_无限金钱等，修改后花一次钱或者领取奖励就有了.ipa": {
+    "bundle_id": "com.imaginalis.HouseFlipperMobile",
+    "version": "1.692.1",
+    "build": "6",
+    "name": "House Flipper",
+    "path": "/苹果应用 - Appstore apps/房产达人_1.692.1_无限金币金钱_无限金钱等，修改后花一次钱或者领取奖励就有了.ipa",
+    "size": 496059058,
+    "modified": "2026-10-05T16:29:06.164+08:00",
+    "file_name": "房产达人_1.692.1_无限金币金钱_无限金钱等，修改后花一次钱或者领取奖励就有了.ipa"
+  },
+  "/苹果应用 - Appstore apps/Swifgram_12.9.3_解锁会员_去截图限制插件,去除广告，破解限制图片截屏和视频下载.ipa": {
+    "bundle_id": "app.swiftgram.ios.watchkitapp",
+    "version": "12.9.3",
+    "build": "286",
+    "name": "Swiftgram",
+    "path": "/苹果应用 - Appstore apps/Swifgram_12.9.3_解锁会员_去截图限制插件,去除广告，破解限制图片截屏和视频下载.ipa",
+    "size": 141961054,
+    "modified": "2026-10-05T16:28:52.744+08:00",
+    "file_name": "Swifgram_12.9.3_解锁会员_去截图限制插件,去除广告，破解限制图片截屏和视频下载.ipa"
+  },
+  "/苹果应用 - Appstore apps/番茄小说_7.3.9_解锁会员.ipa": {
+    "bundle_id": "com.dragon.read",
+    "version": "7.3.9",
+    "build": "7.3.9.32",
+    "name": "番茄小说",
+    "path": "/苹果应用 - Appstore apps/番茄小说_7.3.9_解锁会员.ipa",
+    "size": 306307750,
+    "modified": "2026-10-05T16:28:48.992+08:00",
+    "file_name": "番茄小说_7.3.9_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/动听播放器_1.1_解锁会员.ipa": {
+    "bundle_id": "com.danluo.tempproject",
+    "version": "1.0",
+    "build": "54",
+    "name": "动听播放器",
+    "path": "/苹果应用 - Appstore apps/动听播放器_1.1_解锁会员.ipa",
+    "size": 35094398,
+    "modified": "2026-10-05T16:28:38.581+08:00",
+    "file_name": "动听播放器_1.1_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/怪兽聚合_1.1.4_第一次进入软件选择网络后大退在重新进入即可.ipa": {
+    "bundle_id": "com.box.byg",
+    "version": "1.1.4",
+    "build": "1014",
+    "name": "怪兽聚合",
+    "path": "/苹果应用 - Appstore apps/怪兽聚合_1.1.4_第一次进入软件选择网络后大退在重新进入即可.ipa",
+    "size": 18168255,
+    "modified": "2026-10-05T16:28:37.667+08:00",
+    "file_name": "怪兽聚合_1.1.4_第一次进入软件选择网络后大退在重新进入即可.ipa"
+  },
+  "/苹果应用 - Appstore apps/YouTube_21.39.4_YTLite_支持下载高清视频，去除广告等，无限下载+画中画.ipa": {
+    "bundle_id": "com.google.ios.youtube",
+    "version": "21.39.4",
+    "build": "21.39.4",
+    "name": "YouTube",
+    "path": "/苹果应用 - Appstore apps/YouTube_21.39.4_YTLite_支持下载高清视频，去除广告等，无限下载+画中画.ipa",
+    "size": 160343459,
+    "modified": "2026-10-05T16:28:43.67+08:00",
+    "file_name": "YouTube_21.39.4_YTLite_支持下载高清视频，去除广告等，无限下载+画中画.ipa"
+  },
+  "/苹果应用 - Appstore apps/Surge_5.102.0（TF3853）.ipa": {
+    "bundle_id": "com.nssurge.inc.surge-ios",
+    "version": "5.102.0",
+    "build": "3853",
+    "name": "Surge",
+    "path": "/苹果应用 - Appstore apps/Surge_5.102.0（TF3853）.ipa",
+    "size": 53807219,
+    "modified": "2026-10-05T16:28:37.657+08:00",
+    "file_name": "Surge_5.102.0（TF3853）.ipa"
+  },
+  "/巨魔商店 - TrollStore/Quantumult X_1.8.1（TF950）.ipa": {
+    "bundle_id": "com.crossutility.quantumult-x",
+    "version": "1.8.1",
+    "build": "950",
+    "name": "Quantumult X",
+    "path": "/巨魔商店 - TrollStore/Quantumult X_1.8.1（TF950）.ipa",
+    "size": 43083365,
+    "modified": "2026-10-05T16:27:46.041+08:00",
+    "file_name": "Quantumult X_1.8.1（TF950）.ipa"
+  },
+  "/巨魔商店 - TrollStore/Surge_5.102.0（TF3853）.ipa": {
+    "bundle_id": "com.nssurge.inc.surge-ios",
+    "version": "5.102.0",
+    "build": "3853",
+    "name": "Surge",
+    "path": "/巨魔商店 - TrollStore/Surge_5.102.0（TF3853）.ipa",
+    "size": 53807219,
+    "modified": "2026-10-05T16:27:50.065+08:00",
+    "file_name": "Surge_5.102.0（TF3853）.ipa"
+  },
+  "/巨魔商店 - TrollStore/和平AUG模型漏打_支持纯巨魔内核15-16.5.1 无需越狱，支持纯巨魔14.0-18.7.1，支持Relaxin越狱-巨魔R17.0-17.3.1，支持多巴胺3.0越狱-白巨魔17.0-18.7.1支持26-26.01.ipa": {
+    "bundle_id": "com.HPAUG.jh",
+    "version": "2.1.9",
+    "build": "1",
+    "name": "AUG模型漏打",
+    "path": "/巨魔商店 - TrollStore/和平AUG模型漏打_支持纯巨魔内核15-16.5.1 无需越狱，支持纯巨魔14.0-18.7.1，支持Relaxin越狱-巨魔R17.0-17.3.1，支持多巴胺3.0越狱-白巨魔17.0-18.7.1支持26-26.01.ipa",
+    "size": 14489988,
+    "modified": "2026-10-05T16:27:41.745+08:00",
+    "file_name": "和平AUG模型漏打_支持纯巨魔内核15-16.5.1 无需越狱，支持纯巨魔14.0-18.7.1，支持Relaxin越狱-巨魔R17.0-17.3.1，支持多巴胺3.0越狱-白巨魔17.0-18.7.1支持26-26.01.ipa"
+  },
+  "/苹果应用 - Appstore apps/保卫萝卜3_6.3.1_所有货币资源无限.ipa": {
+    "bundle_id": "com.KaiLuo.Carrot3",
+    "version": "6.3.1",
+    "build": "9245",
+    "name": "保卫萝卜3",
+    "path": "/苹果应用 - Appstore apps/保卫萝卜3_6.3.1_所有货币资源无限.ipa",
+    "size": 764571932,
+    "modified": "2026-09-28T15:04:38.468+08:00",
+    "file_name": "保卫萝卜3_6.3.1_所有货币资源无限.ipa"
+  },
+  "/苹果应用 - Appstore apps/行尸走肉_2.1.3_无限资源无敌.ipa": {
+    "bundle_id": "com.ares.twd",
+    "version": "2.1.3",
+    "build": "102",
+    "name": "The Walking Dead",
+    "path": "/苹果应用 - Appstore apps/行尸走肉_2.1.3_无限资源无敌.ipa",
+    "size": 718931541,
+    "modified": "2026-09-28T15:04:31.607+08:00",
+    "file_name": "行尸走肉_2.1.3_无限资源无敌.ipa"
+  },
+  "/苹果应用 - Appstore apps/MiniWatts（充电信息）_1.4.1_最低支持iOS17.0+系统.ipa": {
+    "bundle_id": "org.zhaohe.MiniWatts",
+    "version": "1.4.1",
+    "build": "18",
+    "name": "MiniWatts",
+    "path": "/苹果应用 - Appstore apps/MiniWatts（充电信息）_1.4.1_最低支持iOS17.0+系统.ipa",
+    "size": 3270441,
+    "modified": "2026-09-28T15:04:30.236+08:00",
+    "file_name": "MiniWatts（充电信息）_1.4.1_最低支持iOS17.0+系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/Egern_2.21.0_最低支持iOS16.0+系统.ipa": {
+    "bundle_id": "com.bytecrossing.Egern",
+    "version": "2.21.0",
+    "build": "788",
+    "name": "Egern",
+    "path": "/苹果应用 - Appstore apps/Egern_2.21.0_最低支持iOS16.0+系统.ipa",
+    "size": 28709308,
+    "modified": "2026-09-28T15:04:27.285+08:00",
+    "file_name": "Egern_2.21.0_最低支持iOS16.0+系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/YouTube_21.38.3_YTLite_支持下载高清视频，去除广告等，无限下载+画中画.ipa": {
+    "bundle_id": "com.google.ios.youtube",
+    "version": "21.38.3",
+    "build": "21.38.3",
+    "name": "YouTube",
+    "path": "/苹果应用 - Appstore apps/YouTube_21.38.3_YTLite_支持下载高清视频，去除广告等，无限下载+画中画.ipa",
+    "size": 160415322,
+    "modified": "2026-09-28T15:04:27.392+08:00",
+    "file_name": "YouTube_21.38.3_YTLite_支持下载高清视频，去除广告等，无限下载+画中画.ipa"
+  },
+  "/苹果应用 - Appstore apps/SenPlayer_6.2.2_解锁会员_Emby等资源播放器.ipa": {
+    "bundle_id": "com.wuziqi.SenPlayer",
+    "version": "6.2.2",
+    "build": "1",
+    "name": "SenPlayer",
+    "path": "/苹果应用 - Appstore apps/SenPlayer_6.2.2_解锁会员_Emby等资源播放器.ipa",
+    "size": 90984093,
+    "modified": "2026-09-28T15:04:27.202+08:00",
+    "file_name": "SenPlayer_6.2.2_解锁会员_Emby等资源播放器.ipa"
+  },
+  "/苹果应用 - Appstore apps/Doka相机_2.2.0_解锁会员_解锁Ai构图次数.ipa": {
+    "bundle_id": "com.ydgn.dokacamera",
+    "version": "2.2.0",
+    "build": "18",
+    "name": "Doka相机",
+    "path": "/苹果应用 - Appstore apps/Doka相机_2.2.0_解锁会员_解锁Ai构图次数.ipa",
+    "size": 184385160,
+    "modified": "2026-09-28T15:04:25.369+08:00",
+    "file_name": "Doka相机_2.2.0_解锁会员_解锁Ai构图次数.ipa"
+  },
+  "/苹果应用 - Appstore apps/Stash（证书版）_3.5.0_最低支持iOS16.0+系统.ipa": {
+    "bundle_id": "ws.stash.app",
+    "version": "3.5.0",
+    "build": "1230",
+    "name": "Stash",
+    "path": "/苹果应用 - Appstore apps/Stash（证书版）_3.5.0_最低支持iOS16.0+系统.ipa",
+    "size": 68272792,
+    "modified": "2026-09-28T15:04:25.314+08:00",
+    "file_name": "Stash（证书版）_3.5.0_最低支持iOS16.0+系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/Quantumult X_1.8.1（TF949）.ipa": {
+    "bundle_id": "com.crossutility.quantumult-x",
+    "version": "1.8.1",
+    "build": "949",
+    "name": "Quantumult X",
+    "path": "/苹果应用 - Appstore apps/Quantumult X_1.8.1（TF949）.ipa",
+    "size": 43213551,
+    "modified": "2026-09-28T15:04:20.122+08:00",
+    "file_name": "Quantumult X_1.8.1（TF949）.ipa"
+  },
+  "/苹果应用 - Appstore apps/Turrit_1.5.4_自动翻译，下载加速等，去截图限制插件,去除广告，破解限制图片截屏和视频下载.ipa": {
+    "bundle_id": "com.seastar.turrit",
+    "version": "1.5.4",
+    "build": "10382",
+    "name": "Turrit",
+    "path": "/苹果应用 - Appstore apps/Turrit_1.5.4_自动翻译，下载加速等，去截图限制插件,去除广告，破解限制图片截屏和视频下载.ipa",
+    "size": 109149560,
+    "modified": "2026-09-28T15:04:20.026+08:00",
+    "file_name": "Turrit_1.5.4_自动翻译，下载加速等，去截图限制插件,去除广告，破解限制图片截屏和视频下载.ipa"
+  },
+  "/巨魔商店 - TrollStore/Loon/Loon_3.5.1.ipa": {
+    "bundle_id": "com.ruikq.decar",
+    "version": "3.5.1",
+    "build": "998",
+    "name": "Loon",
+    "path": "/巨魔商店 - TrollStore/Loon/Loon_3.5.1.ipa",
+    "size": 28724062,
+    "modified": "2026-09-28T15:03:32.959+08:00",
+    "file_name": "Loon_3.5.1.ipa"
+  },
+  "/苹果应用 - Appstore apps/X_12.29_NFX_具有下载视频，翻译等多个功能_仅限iOS15.0及以上.ipa": {
+    "bundle_id": "com.atebits.Tweetie2",
+    "version": "12.29",
+    "build": "20",
+    "name": "X",
+    "path": "/苹果应用 - Appstore apps/X_12.29_NFX_具有下载视频，翻译等多个功能_仅限iOS15.0及以上.ipa",
+    "size": 277560020,
+    "modified": "2026-09-28T15:04:24.536+08:00",
+    "file_name": "X_12.29_NFX_具有下载视频，翻译等多个功能_仅限iOS15.0及以上.ipa"
+  },
+  "/巨魔商店 - TrollStore/Quantumult X_1.8.1（TF949）.ipa": {
+    "bundle_id": "com.crossutility.quantumult-x",
+    "version": "1.8.1",
+    "build": "949",
+    "name": "Quantumult X",
+    "path": "/巨魔商店 - TrollStore/Quantumult X_1.8.1（TF949）.ipa",
+    "size": 43213551,
+    "modified": "2026-09-28T15:03:29.753+08:00",
+    "file_name": "Quantumult X_1.8.1（TF949）.ipa"
+  },
+  "/巨魔商店 - TrollStore/Egern_2.21.0_最低支持iOS16.0+系统.ipa": {
+    "bundle_id": "com.bytecrossing.Egern",
+    "version": "2.21.0",
+    "build": "788",
+    "name": "Egern",
+    "path": "/巨魔商店 - TrollStore/Egern_2.21.0_最低支持iOS16.0+系统.ipa",
+    "size": 28709308,
+    "modified": "2026-09-28T15:03:29.227+08:00",
+    "file_name": "Egern_2.21.0_最低支持iOS16.0+系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/飓风相机_1.8.3_解锁会员_需要17.0以上系统.ipa": {
+    "bundle_id": "com.ysjf.lutcamera",
+    "version": "1.8.3",
+    "build": "209",
+    "name": "飓风相机",
+    "path": "/苹果应用 - Appstore apps/飓风相机_1.8.3_解锁会员_需要17.0以上系统.ipa",
+    "size": 79589897,
+    "modified": "2026-09-25T01:03:59.505+08:00",
+    "file_name": "飓风相机_1.8.3_解锁会员_需要17.0以上系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/百度网盘_13.34.0_解锁会员_除了下载加速完全加速外，其他会员功能基本都解锁了.ipa": {
+    "bundle_id": "com.baidu.netdisk",
+    "version": "13.34.0",
+    "build": "13.32.2.4",
+    "name": "百度网盘",
+    "path": "/苹果应用 - Appstore apps/百度网盘_13.34.0_解锁会员_除了下载加速完全加速外，其他会员功能基本都解锁了.ipa",
+    "size": 445081556,
+    "modified": "2026-09-25T01:03:59.607+08:00",
+    "file_name": "百度网盘_13.34.0_解锁会员_除了下载加速完全加速外，其他会员功能基本都解锁了.ipa"
+  },
+  "/苹果应用 - Appstore apps/地铁跑酷_7.06.1_无敌所有英雄等.ipa": {
+    "bundle_id": "com.kiloo.subwaysurf.cn",
+    "version": "7.06.1",
+    "build": "70601",
+    "name": "地铁跑酷",
+    "path": "/苹果应用 - Appstore apps/地铁跑酷_7.06.1_无敌所有英雄等.ipa",
+    "size": 629463928,
+    "modified": "2026-09-25T02:40:41.743+08:00",
+    "file_name": "地铁跑酷_7.06.1_无敌所有英雄等.ipa"
+  },
+  "/苹果应用 - Appstore apps/Kumone（第三方网易云）_0.3.19_最低支持iOS16+系统.ipa": {
+    "bundle_id": "sb.moe.kumone",
+    "version": "0.3.19",
+    "build": "168",
+    "name": "Kumone",
+    "path": "/苹果应用 - Appstore apps/Kumone（第三方网易云）_0.3.19_最低支持iOS16+系统.ipa",
+    "size": 7492465,
+    "modified": "2026-09-25T01:03:59.503+08:00",
+    "file_name": "Kumone（第三方网易云）_0.3.19_最低支持iOS16+系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/红果短剧_7.3.9_解锁会员.ipa": {
+    "bundle_id": "com.phoenix.video",
+    "version": "7.3.9",
+    "build": "7.3.9.32",
+    "name": "红果短剧",
+    "path": "/苹果应用 - Appstore apps/红果短剧_7.3.9_解锁会员.ipa",
+    "size": 306542331,
+    "modified": "2026-10-05T16:29:16.697+08:00",
+    "file_name": "红果短剧_7.3.9_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/元气骑士_8.6.0_全功能版.ipa": {
+    "bundle_id": "com.ChillyRoom.DungeonShooter",
+    "version": "8.6.0",
+    "build": "1519",
+    "name": "SoulKnight",
+    "path": "/苹果应用 - Appstore apps/元气骑士_8.6.0_全功能版.ipa",
+    "size": 801262637,
+    "modified": "2026-09-25T01:03:59.334+08:00",
+    "file_name": "元气骑士_8.6.0_全功能版.ipa"
+  },
+  "/苹果应用 - Appstore apps/MiniWatts（充电信息）_1.4.0_最低支持iOS17.0+系统.ipa": {
+    "bundle_id": "org.zhaohe.MiniWatts",
+    "version": "1.4.0",
+    "build": "15",
+    "name": "MiniWatts",
+    "path": "/苹果应用 - Appstore apps/MiniWatts（充电信息）_1.4.0_最低支持iOS17.0+系统.ipa",
+    "size": 3264456,
+    "modified": "2026-09-25T01:03:59.077+08:00",
+    "file_name": "MiniWatts（充电信息）_1.4.0_最低支持iOS17.0+系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/猛鬼宿舍_2.5.6_无限道具金币无敌等.ipa": {
+    "bundle_id": "com.mihuan.haunteddorm",
+    "version": "2.5.6",
+    "build": "9",
+    "name": "mgss",
+    "path": "/苹果应用 - Appstore apps/猛鬼宿舍_2.5.6_无限道具金币无敌等.ipa",
+    "size": 78880258,
+    "modified": "2026-09-25T01:03:58.496+08:00",
+    "file_name": "猛鬼宿舍_2.5.6_无限道具金币无敌等.ipa"
+  },
+  "/巨魔商店 - TrollStore/王者视距_S45_需开启游戏才能打开.ipa": {
+    "bundle_id": "com.ioskuka.wzry.s45",
+    "version": "45.4",
+    "build": "4",
+    "name": "王者视距",
+    "path": "/巨魔商店 - TrollStore/王者视距_S45_需开启游戏才能打开.ipa",
+    "size": 3771914,
+    "modified": "2026-09-25T01:03:42.86+08:00",
+    "file_name": "王者视距_S45_需开启游戏才能打开.ipa"
+  },
+  "/巨魔商店 - TrollStore/Relaxin（证书版）_0.5.4.ipa": {
+    "bundle_id": "com.aapl.relaxin",
+    "version": "0.5.4",
+    "build": "0",
+    "name": "Relaxin",
+    "path": "/巨魔商店 - TrollStore/Relaxin（证书版）_0.5.4.ipa",
+    "size": 37773116,
+    "modified": "2026-09-25T01:03:33.277+08:00",
+    "file_name": "Relaxin（证书版）_0.5.4.ipa"
+  },
+  "/苹果应用 - Appstore apps/保卫萝卜3_6.3.0_所有货币资源无限.ipa": {
+    "bundle_id": "com.KaiLuo.Carrot3",
+    "version": "6.3.0",
+    "build": "9243",
+    "name": "保卫萝卜3",
+    "path": "/苹果应用 - Appstore apps/保卫萝卜3_6.3.0_所有货币资源无限.ipa",
+    "size": 764001301,
+    "modified": "2026-09-23T14:57:35.54+08:00",
+    "file_name": "保卫萝卜3_6.3.0_所有货币资源无限.ipa"
+  },
+  "/苹果应用 - Appstore apps/小红书_9.48_去水印_设置界面右上角打开菜单功能，打开插件才能使用功能.ipa": {
+    "bundle_id": "com.xingin.discover",
+    "version": "9.48",
+    "build": "9480813",
+    "name": "小红书",
+    "path": "/苹果应用 - Appstore apps/小红书_9.48_去水印_设置界面右上角打开菜单功能，打开插件才能使用功能.ipa",
+    "size": 209758305,
+    "modified": "2026-09-23T14:57:24.386+08:00",
+    "file_name": "小红书_9.48_去水印_设置界面右上角打开菜单功能，打开插件才能使用功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/YouTube_21.38.2_YTLite_支持下载高清视频，去除广告等，无限下载+画中画.ipa": {
+    "bundle_id": "com.google.ios.youtube",
+    "version": "21.38.2",
+    "build": "21.38.2",
+    "name": "YouTube",
+    "path": "/苹果应用 - Appstore apps/YouTube_21.38.2_YTLite_支持下载高清视频，去除广告等，无限下载+画中画.ipa",
+    "size": 160414381,
+    "modified": "2026-09-23T14:57:30.12+08:00",
+    "file_name": "YouTube_21.38.2_YTLite_支持下载高清视频，去除广告等，无限下载+画中画.ipa"
+  },
+  "/苹果应用 - Appstore apps/战魂铭人_3.6.0_无敌秒杀无限资源.ipa": {
+    "bundle_id": "com.chillyroom.otherworld",
+    "version": "3.6.0",
+    "build": "20675",
+    "name": "战魂铭人",
+    "path": "/苹果应用 - Appstore apps/战魂铭人_3.6.0_无敌秒杀无限资源.ipa",
+    "size": 858304152,
+    "modified": "2026-09-28T15:04:31.085+08:00",
+    "file_name": "战魂铭人_3.6.0_无敌秒杀无限资源.ipa"
+  },
+  "/苹果应用 - Appstore apps/小红书_9.48_去水印+液态玻璃_设置界面右上角打开菜单功能，打开插件才能使用功能.ipa": {
+    "bundle_id": "com.xingin.discover",
+    "version": "9.48",
+    "build": "9480813",
+    "name": "小红书",
+    "path": "/苹果应用 - Appstore apps/小红书_9.48_去水印+液态玻璃_设置界面右上角打开菜单功能，打开插件才能使用功能.ipa",
+    "size": 210239021,
+    "modified": "2026-09-23T14:57:17.693+08:00",
+    "file_name": "小红书_9.48_去水印+液态玻璃_设置界面右上角打开菜单功能，打开插件才能使用功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/遗弃之地_0.1.65_无敌秒杀加速等.ipa": {
+    "bundle_id": "com.hortor.yqzd",
+    "version": "0.1.65",
+    "build": "160",
+    "name": "遗弃之地",
+    "path": "/苹果应用 - Appstore apps/遗弃之地_0.1.65_无敌秒杀加速等.ipa",
+    "size": 32058579,
+    "modified": "2026-09-23T14:57:23.306+08:00",
+    "file_name": "遗弃之地_0.1.65_无敌秒杀加速等.ipa"
+  },
+  "/苹果应用 - Appstore apps/土豆兄弟_1.3.396_无限资源无敌秒杀.ipa": {
+    "bundle_id": "com.brotato.shooting.survivors.action.games.bullethell.ios",
+    "version": "1.3.396",
+    "build": "1.3.396",
+    "name": "Brotato",
+    "path": "/苹果应用 - Appstore apps/土豆兄弟_1.3.396_无限资源无敌秒杀.ipa",
+    "size": 192871072,
+    "modified": "2026-09-23T14:57:17.448+08:00",
+    "file_name": "土豆兄弟_1.3.396_无限资源无敌秒杀.ipa"
+  },
+  "/苹果应用 - Appstore apps/Punko.io_1.2.2_无限资源无敌秒杀.ipa": {
+    "bundle_id": "com.Agonalea.Punko.io",
+    "version": "1.2.2",
+    "build": "0",
+    "name": "Punko.io",
+    "path": "/苹果应用 - Appstore apps/Punko.io_1.2.2_无限资源无敌秒杀.ipa",
+    "size": 207287146,
+    "modified": "2026-09-23T14:57:11.945+08:00",
+    "file_name": "Punko.io_1.2.2_无限资源无敌秒杀.ipa"
+  },
+  "/苹果应用 - Appstore apps/疯狂背单词_2.26_解锁会员.ipa": {
+    "bundle_id": "com.shark.crazyword",
+    "version": "2.26",
+    "build": "2.26",
+    "name": "疯狂背单词",
+    "path": "/苹果应用 - Appstore apps/疯狂背单词_2.26_解锁会员.ipa",
+    "size": 55347441,
+    "modified": "2026-09-23T14:57:11.67+08:00",
+    "file_name": "疯狂背单词_2.26_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/Egern_2.21.0（TF）_代理工具_证书用户可用.ipa": {
+    "bundle_id": "com.bytecrossing.Egern",
+    "version": "2.21.0",
+    "build": "788",
+    "name": "Egern",
+    "path": "/苹果应用 - Appstore apps/Egern_2.21.0（TF）_代理工具_证书用户可用.ipa",
+    "size": 27624093,
+    "modified": "2026-09-23T14:57:09.852+08:00",
+    "file_name": "Egern_2.21.0（TF）_代理工具_证书用户可用.ipa"
+  },
+  "/苹果应用 - Appstore apps/克拉壁纸_9.0_解锁订阅.ipa": {
+    "bundle_id": "me.clarityapp",
+    "version": "9.0",
+    "build": "40",
+    "name": "Clarity",
+    "path": "/苹果应用 - Appstore apps/克拉壁纸_9.0_解锁订阅.ipa",
+    "size": 91809713,
+    "modified": "2026-09-23T14:57:08.781+08:00",
+    "file_name": "克拉壁纸_9.0_解锁订阅.ipa"
+  },
+  "/苹果应用 - Appstore apps/X_12.28_插件选项在推特设置里_仅限iOS15.0及以上.ipa": {
+    "bundle_id": "com.atebits.Tweetie2",
+    "version": "12.28",
+    "build": "12",
+    "name": "X",
+    "path": "/苹果应用 - Appstore apps/X_12.28_插件选项在推特设置里_仅限iOS15.0及以上.ipa",
+    "size": 283353369,
+    "modified": "2026-09-21T01:10:13.028+08:00",
+    "file_name": "X_12.28_插件选项在推特设置里_仅限iOS15.0及以上.ipa"
+  },
+  "/苹果应用 - Appstore apps/保卫萝卜3_6.3.0_所有货币资源无限_0元购.ipa": {
+    "bundle_id": "com.KaiLuo.Carrot3",
+    "version": "6.3.0",
+    "build": "9243",
+    "name": "保卫萝卜3",
+    "path": "/苹果应用 - Appstore apps/保卫萝卜3_6.3.0_所有货币资源无限_0元购.ipa",
+    "size": 764499631,
+    "modified": "2026-09-21T01:10:12.968+08:00",
+    "file_name": "保卫萝卜3_6.3.0_所有货币资源无限_0元购.ipa"
+  },
+  "/苹果应用 - Appstore apps/元气骑士_8.5.1_全功能版_无限血量无限能量无限技能.ipa": {
+    "bundle_id": "com.ChillyRoom.DungeonShooter",
+    "version": "8.5.1",
+    "build": "1517",
+    "name": "SoulKnight",
+    "path": "/苹果应用 - Appstore apps/元气骑士_8.5.1_全功能版_无限血量无限能量无限技能.ipa",
+    "size": 774265704,
+    "modified": "2026-09-21T01:10:12.861+08:00",
+    "file_name": "元气骑士_8.5.1_全功能版_无限血量无限能量无限技能.ipa"
+  },
+  "/苹果应用 - Appstore apps/快手_14.8.30_优化增强_APP右下角-我-点开右上角三横-长按空白区域打开菜单开启功能.ipa": {
+    "bundle_id": "com.jiangjia.gif",
+    "version": "14.8.30",
+    "build": "9999",
+    "name": "快手",
+    "path": "/苹果应用 - Appstore apps/快手_14.8.30_优化增强_APP右下角-我-点开右上角三横-长按空白区域打开菜单开启功能.ipa",
+    "size": 285651645,
+    "modified": "2026-09-21T01:10:12.495+08:00",
+    "file_name": "快手_14.8.30_优化增强_APP右下角-我-点开右上角三横-长按空白区域打开菜单开启功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/抖音_40.6.0_抖音助手_注入Yuki防撤回插件等，设置打开即可.ipa": {
+    "bundle_id": "com.ss.iphone.ugc.Aweme",
+    "version": "40.6.0",
+    "build": "406019",
+    "name": "抖音",
+    "path": "/苹果应用 - Appstore apps/抖音_40.6.0_抖音助手_注入Yuki防撤回插件等，设置打开即可.ipa",
+    "size": 786509566,
+    "modified": "2026-09-25T01:03:59.264+08:00",
+    "file_name": "抖音_40.6.0_抖音助手_注入Yuki防撤回插件等，设置打开即可.ipa"
+  },
+  "/苹果应用 - Appstore apps/YouTube_21.37.5_YTLite_支持下载高清视频，去除广告等，无限下载+画中画.ipa": {
+    "bundle_id": "com.google.ios.youtube",
+    "version": "21.37.5",
+    "build": "21.37.5",
+    "name": "YouTube",
+    "path": "/苹果应用 - Appstore apps/YouTube_21.37.5_YTLite_支持下载高清视频，去除广告等，无限下载+画中画.ipa",
+    "size": 160084060,
+    "modified": "2026-09-21T01:10:12.484+08:00",
+    "file_name": "YouTube_21.37.5_YTLite_支持下载高清视频，去除广告等，无限下载+画中画.ipa"
+  },
+  "/苹果应用 - Appstore apps/抖音_40.5.0_抖音助手_注入Yuki防撤回插件等，设置打开即可.ipa": {
+    "bundle_id": "com.ss.iphone.ugc.Aweme",
+    "version": "40.5.0",
+    "build": "405020",
+    "name": "抖音",
+    "path": "/苹果应用 - Appstore apps/抖音_40.5.0_抖音助手_注入Yuki防撤回插件等，设置打开即可.ipa",
+    "size": 784205227,
+    "modified": "2026-09-20T01:05:25.138+08:00",
+    "file_name": "抖音_40.5.0_抖音助手_注入Yuki防撤回插件等，设置打开即可.ipa"
+  },
+  "/苹果应用 - Appstore apps/大侠立志传_1.2.130_AppStore付费软件砸壳.ipa": {
+    "bundle_id": "com.xd.dxlzz.app",
+    "version": "1.2.130",
+    "build": "130",
+    "name": "Hero's Adventure",
+    "path": "/苹果应用 - Appstore apps/大侠立志传_1.2.130_AppStore付费软件砸壳.ipa",
+    "size": 898812284,
+    "modified": "2026-09-20T01:05:24.692+08:00",
+    "file_name": "大侠立志传_1.2.130_AppStore付费软件砸壳.ipa"
+  },
+  "/苹果应用 - Appstore apps/模拟城市_我是市长_1.82.3_无限货币.ipa": {
+    "bundle_id": "com.ea.simcitymobile.bv",
+    "version": "1.82.3",
+    "build": "1.82.3.15592225",
+    "name": "SimCity",
+    "path": "/苹果应用 - Appstore apps/模拟城市_我是市长_1.82.3_无限货币.ipa",
+    "size": 279645366,
+    "modified": "2026-09-20T01:05:24.153+08:00",
+    "file_name": "模拟城市_我是市长_1.82.3_无限货币.ipa"
+  },
+  "/苹果应用 - Appstore apps/元气骑士_8.5.1_全功能版.ipa": {
+    "bundle_id": "com.ChillyRoom.DungeonShooter",
+    "version": "8.5.1",
+    "build": "1517",
+    "name": "SoulKnight",
+    "path": "/苹果应用 - Appstore apps/元气骑士_8.5.1_全功能版.ipa",
+    "size": 774432858,
+    "modified": "2026-09-20T01:05:24.671+08:00",
+    "file_name": "元气骑士_8.5.1_全功能版.ipa"
+  },
+  "/苹果应用 - Appstore apps/TikTok_47.0.0_支持保存视频、去广告、自动下一条、纯净模式.ipa": {
+    "bundle_id": "com.zhiliaoapp.musically",
+    "version": "47.0.0",
+    "build": "470044",
+    "name": "TikTok",
+    "path": "/苹果应用 - Appstore apps/TikTok_47.0.0_支持保存视频、去广告、自动下一条、纯净模式.ipa",
+    "size": 533935352,
+    "modified": "2026-09-23T14:58:00.308+08:00",
+    "file_name": "TikTok_47.0.0_支持保存视频、去广告、自动下一条、纯净模式.ipa"
+  },
+  "/苹果应用 - Appstore apps/行尸走肉_2.1.1_无限资源无敌.ipa": {
+    "bundle_id": "com.ares.twd",
+    "version": "2.1.1",
+    "build": "97",
+    "name": "The Walking Dead",
+    "path": "/苹果应用 - Appstore apps/行尸走肉_2.1.1_无限资源无敌.ipa",
+    "size": 719463329,
+    "modified": "2026-09-19T16:08:58.291+08:00",
+    "file_name": "行尸走肉_2.1.1_无限资源无敌.ipa"
+  },
+  "/苹果应用 - Appstore apps/我比武特牛_0.65.0_无敌秒杀等_无限升级，不扣金币钻石等所有资源.ipa": {
+    "bundle_id": "com.peakx.idlegongfu.cn",
+    "version": "0.65.0",
+    "build": "1782",
+    "name": "idlegongfu",
+    "path": "/苹果应用 - Appstore apps/我比武特牛_0.65.0_无敌秒杀等_无限升级，不扣金币钻石等所有资源.ipa",
+    "size": 357843272,
+    "modified": "2026-09-19T16:08:58.059+08:00",
+    "file_name": "我比武特牛_0.65.0_无敌秒杀等_无限升级，不扣金币钻石等所有资源.ipa"
+  },
+  "/苹果应用 - Appstore apps/TikTok_46.9.0_支持保存视频、去广告、自动下一条、纯净模式_20260918_233216.ipa": {
+    "bundle_id": "com.zhiliaoapp.musically",
+    "version": "46.9.0",
+    "build": "469036",
+    "name": "TikTok",
+    "path": "/苹果应用 - Appstore apps/TikTok_46.9.0_支持保存视频、去广告、自动下一条、纯净模式_20260918_233216.ipa",
+    "size": 531012174,
+    "modified": "2026-09-18T23:32:16.779+08:00",
+    "file_name": "TikTok_46.9.0_支持保存视频、去广告、自动下一条、纯净模式_20260918_233216.ipa"
+  },
+  "/苹果应用 - Appstore apps/MIX_5.4.0_解锁会员.ipa": {
+    "bundle_id": "com.vstudio.MIX",
+    "version": "5.4.0",
+    "build": "1",
+    "name": "MIX",
+    "path": "/苹果应用 - Appstore apps/MIX_5.4.0_解锁会员.ipa",
+    "size": 365192872,
+    "modified": "2026-09-19T16:08:57.889+08:00",
+    "file_name": "MIX_5.4.0_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/X_12.27_插件选项在推特设置里_仅限iOS15.0及以上.ipa": {
+    "bundle_id": "com.atebits.Tweetie2",
+    "version": "12.27",
+    "build": "14",
+    "name": "X",
+    "path": "/苹果应用 - Appstore apps/X_12.27_插件选项在推特设置里_仅限iOS15.0及以上.ipa",
+    "size": 256219666,
+    "modified": "2026-09-19T16:08:58.007+08:00",
+    "file_name": "X_12.27_插件选项在推特设置里_仅限iOS15.0及以上.ipa"
+  },
+  "/苹果应用 - Appstore apps/SenPlayer_6.2.1_解锁会员_Emby等资源播放器.ipa": {
+    "bundle_id": "com.wuziqi.SenPlayer",
+    "version": "6.2.1",
+    "build": "1",
+    "name": "SenPlayer",
+    "path": "/苹果应用 - Appstore apps/SenPlayer_6.2.1_解锁会员_Emby等资源播放器.ipa",
+    "size": 84257622,
+    "modified": "2026-09-18T23:32:15.972+08:00",
+    "file_name": "SenPlayer_6.2.1_解锁会员_Emby等资源播放器.ipa"
+  },
+  "/苹果应用 - Appstore apps/Kumone（第三方网易云）_0.3.18_最低支持iOS16+系统.ipa": {
+    "bundle_id": "sb.moe.kumone",
+    "version": "0.3.18",
+    "build": "155",
+    "name": "Kumone",
+    "path": "/苹果应用 - Appstore apps/Kumone（第三方网易云）_0.3.18_最低支持iOS16+系统.ipa",
+    "size": 7321751,
+    "modified": "2026-09-18T23:32:15.982+08:00",
+    "file_name": "Kumone（第三方网易云）_0.3.18_最低支持iOS16+系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/SenPlayer_6.1.8_解锁会员_Emby等资源播放器_20260918_233215.ipa": {
+    "bundle_id": "com.wuziqi.SenPlayer",
+    "version": "6.1.8",
+    "build": "1",
+    "name": "SenPlayer",
+    "path": "/苹果应用 - Appstore apps/SenPlayer_6.1.8_解锁会员_Emby等资源播放器_20260918_233215.ipa",
+    "size": 61620734,
+    "modified": "2026-09-18T23:32:16.003+08:00",
+    "file_name": "SenPlayer_6.1.8_解锁会员_Emby等资源播放器_20260918_233215.ipa"
+  },
+  "/苹果应用 - Appstore apps/拦截猫_1.6.14_解锁会员_拦截各种垃圾短信，骚扰电话等.ipa": {
+    "bundle_id": "dev.sanjin.WasteCat",
+    "version": "1.6.14",
+    "build": "1",
+    "name": "拦截猫",
+    "path": "/苹果应用 - Appstore apps/拦截猫_1.6.14_解锁会员_拦截各种垃圾短信，骚扰电话等.ipa",
+    "size": 74700011,
+    "modified": "2026-09-18T23:32:15.899+08:00",
+    "file_name": "拦截猫_1.6.14_解锁会员_拦截各种垃圾短信，骚扰电话等.ipa"
+  },
+  "/苹果应用 - Appstore apps/MiniWatts（充电信息）_1.3_最低支持iOS17.0+系统.ipa": {
+    "bundle_id": "org.zhaohe.MiniWatts",
+    "version": "1.3.0",
+    "build": "14",
+    "name": "MiniWatts",
+    "path": "/苹果应用 - Appstore apps/MiniWatts（充电信息）_1.3_最低支持iOS17.0+系统.ipa",
+    "size": 3253927,
+    "modified": "2026-09-18T23:32:15.884+08:00",
+    "file_name": "MiniWatts（充电信息）_1.3_最低支持iOS17.0+系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/小红书_9.47_去水印+液态玻璃_设置界面右上角打开菜单功能，打开插件才能使用功能.ipa": {
+    "bundle_id": "com.xingin.discover",
+    "version": "9.47",
+    "build": "9470825",
+    "name": "小红书",
+    "path": "/苹果应用 - Appstore apps/小红书_9.47_去水印+液态玻璃_设置界面右上角打开菜单功能，打开插件才能使用功能.ipa",
+    "size": 209503236,
+    "modified": "2026-09-17T01:29:36.391+08:00",
+    "file_name": "小红书_9.47_去水印+液态玻璃_设置界面右上角打开菜单功能，打开插件才能使用功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/TikTok_46.9.0_支持保存视频、去广告、自动下一条、纯净模式.ipa": {
+    "bundle_id": "com.zhiliaoapp.musically",
+    "version": "46.9.0",
+    "build": "469036",
+    "name": "TikTok",
+    "path": "/苹果应用 - Appstore apps/TikTok_46.9.0_支持保存视频、去广告、自动下一条、纯净模式.ipa",
+    "size": 531199123,
+    "modified": "2026-09-17T01:29:36.782+08:00",
+    "file_name": "TikTok_46.9.0_支持保存视频、去广告、自动下一条、纯净模式.ipa"
+  },
+  "/巨魔商店 - TrollStore/Relaxin（证书版）_0.5.3.ipa": {
+    "bundle_id": "com.aapl.relaxin",
+    "version": "0.5.3",
+    "build": "0",
+    "name": "Relaxin",
+    "path": "/巨魔商店 - TrollStore/Relaxin（证书版）_0.5.3.ipa",
+    "size": 29642256,
+    "modified": "2026-09-17T01:28:57.515+08:00",
+    "file_name": "Relaxin（证书版）_0.5.3.ipa"
+  },
+  "/苹果应用 - Appstore apps/梦想城镇_39.0.2_无限金币点卷.ipa": {
+    "bundle_id": "com.plrx.township-cn",
+    "version": "39.0.2",
+    "build": "39.0.2",
+    "name": "Township",
+    "path": "/苹果应用 - Appstore apps/梦想城镇_39.0.2_无限金币点卷.ipa",
+    "size": 186907005,
+    "modified": "2026-09-21T01:10:12.565+08:00",
+    "file_name": "梦想城镇_39.0.2_无限金币点卷.ipa"
+  },
+  "/苹果应用 - Appstore apps/小红书_9.47_去水印_设置界面右上角打开菜单功能，打开插件才能使用功能.ipa": {
+    "bundle_id": "com.xingin.discover",
+    "version": "9.47",
+    "build": "9470825",
+    "name": "小红书",
+    "path": "/苹果应用 - Appstore apps/小红书_9.47_去水印_设置界面右上角打开菜单功能，打开插件才能使用功能.ipa",
+    "size": 209022562,
+    "modified": "2026-09-17T01:29:36.262+08:00",
+    "file_name": "小红书_9.47_去水印_设置界面右上角打开菜单功能，打开插件才能使用功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/MiniWatts_1.2.0_电池管理_最低支持iOS17.0+.ipa": {
+    "bundle_id": "org.zhaohe.MiniWatts",
+    "version": "1.2.0",
+    "build": "10",
+    "name": "MiniWatts",
+    "path": "/苹果应用 - Appstore apps/MiniWatts_1.2.0_电池管理_最低支持iOS17.0+.ipa",
+    "size": 3168189,
+    "modified": "2026-09-17T01:29:36.171+08:00",
+    "file_name": "MiniWatts_1.2.0_电池管理_最低支持iOS17.0+.ipa"
+  },
+  "/苹果应用 - Appstore apps/Surge_5.22.1_解锁Pro.ipa": {
+    "bundle_id": "com.nssurge.inc.surge-ios",
+    "version": "5.22.1",
+    "build": "3838",
+    "name": "Surge",
+    "path": "/苹果应用 - Appstore apps/Surge_5.22.1_解锁Pro.ipa",
+    "size": 54953516,
+    "modified": "2026-09-16T01:09:38.505+08:00",
+    "file_name": "Surge_5.22.1_解锁Pro.ipa"
+  },
+  "/苹果应用 - Appstore apps/Picsart_30.7.2_解锁会员_登录即解锁会员.ipa": {
+    "bundle_id": "com.picsart.studio",
+    "version": "30.7.2",
+    "build": "30702",
+    "name": "Picsart",
+    "path": "/苹果应用 - Appstore apps/Picsart_30.7.2_解锁会员_登录即解锁会员.ipa",
+    "size": 110986422,
+    "modified": "2026-09-17T01:29:36.196+08:00",
+    "file_name": "Picsart_30.7.2_解锁会员_登录即解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/我的桌面·iScreen_5.1.05_解锁会员.ipa": {
+    "bundle_id": "com.zerone.hidesktop",
+    "version": "5.1.05",
+    "build": "29",
+    "name": "HiWidget",
+    "path": "/苹果应用 - Appstore apps/我的桌面·iScreen_5.1.05_解锁会员.ipa",
+    "size": 327231443,
+    "modified": "2026-09-15T20:36:43.929+08:00",
+    "file_name": "我的桌面·iScreen_5.1.05_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/多邻国_7.140.0_解锁MIX无限红心.ipa": {
+    "bundle_id": "com.duolingo.DuolingoMobile",
+    "version": "7.140.0",
+    "build": "7.137.0.7",
+    "name": "Duolingo",
+    "path": "/苹果应用 - Appstore apps/多邻国_7.140.0_解锁MIX无限红心.ipa",
+    "size": 222288070,
+    "modified": "2026-09-16T01:09:38.586+08:00",
+    "file_name": "多邻国_7.140.0_解锁MIX无限红心.ipa"
+  },
+  "/苹果应用 - Appstore apps/我比武特牛_0.64.0_无敌秒杀等.ipa": {
+    "bundle_id": "com.peakx.idlegongfu.cn",
+    "version": "0.64.0",
+    "build": "1758",
+    "name": "idlegongfu",
+    "path": "/苹果应用 - Appstore apps/我比武特牛_0.64.0_无敌秒杀等.ipa",
+    "size": 365652206,
+    "modified": "2026-09-15T20:36:43.727+08:00",
+    "file_name": "我比武特牛_0.64.0_无敌秒杀等.ipa"
+  },
+  "/苹果应用 - Appstore apps/两步路户外助手_9.2.4_解锁会员.ipa": {
+    "bundle_id": "lolaage.2bulu.zhushou",
+    "version": "9.2.4",
+    "build": "9.2.4.8",
+    "name": "两步路",
+    "path": "/苹果应用 - Appstore apps/两步路户外助手_9.2.4_解锁会员.ipa",
+    "size": 132141164,
+    "modified": "2026-09-16T01:09:38.47+08:00",
+    "file_name": "两步路户外助手_9.2.4_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/X_12.26_NFX_具有下载视频，翻译等多个功能_仅限iOS15.0及以上.ipa": {
+    "bundle_id": "com.atebits.Tweetie2",
+    "version": "12.26",
+    "build": "18",
+    "name": "X",
+    "path": "/苹果应用 - Appstore apps/X_12.26_NFX_具有下载视频，翻译等多个功能_仅限iOS15.0及以上.ipa",
+    "size": 270493179,
+    "modified": "2026-09-15T20:36:43.635+08:00",
+    "file_name": "X_12.26_NFX_具有下载视频，翻译等多个功能_仅限iOS15.0及以上.ipa"
+  },
+  "/苹果应用 - Appstore apps/Colorful Widget_18.6.0_解锁会员.ipa": {
+    "bundle_id": "com.sm.widget",
+    "version": "18.6.0",
+    "build": "1029",
+    "name": "Colorful Widget",
+    "path": "/苹果应用 - Appstore apps/Colorful Widget_18.6.0_解锁会员.ipa",
+    "size": 367840794,
+    "modified": "2026-09-15T20:36:43.628+08:00",
+    "file_name": "Colorful Widget_18.6.0_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/地球末日_生存_1.52.0_无敌秒杀等.ipa": {
+    "bundle_id": "zombie.survival.craft.z",
+    "version": "1.52.0",
+    "build": "968",
+    "name": "Last Day On Earth: Survival",
+    "path": "/苹果应用 - Appstore apps/地球末日_生存_1.52.0_无敌秒杀等.ipa",
+    "size": 1083368549,
+    "modified": "2026-09-18T23:32:16.86+08:00",
+    "file_name": "地球末日_生存_1.52.0_无敌秒杀等.ipa"
+  },
+  "/苹果应用 - Appstore apps/YouTube_21.37.04_支持下载高清视频，去除广告等，无限下载+画中画.ipa": {
+    "bundle_id": "com.google.ios.youtube",
+    "version": "21.37.4",
+    "build": "21.37.4",
+    "name": "YouTube",
+    "path": "/苹果应用 - Appstore apps/YouTube_21.37.04_支持下载高清视频，去除广告等，无限下载+画中画.ipa",
+    "size": 151138241,
+    "modified": "2026-09-15T20:36:43.598+08:00",
+    "file_name": "YouTube_21.37.04_支持下载高清视频，去除广告等，无限下载+画中画.ipa"
+  },
+  "/苹果应用 - Appstore apps/番茄小说_7.3.7_解锁会员.ipa": {
+    "bundle_id": "com.dragon.read",
+    "version": "7.3.7",
+    "build": "7.3.7.32",
+    "name": "番茄小说",
+    "path": "/苹果应用 - Appstore apps/番茄小说_7.3.7_解锁会员.ipa",
+    "size": 300543275,
+    "modified": "2026-09-14T20:31:05.767+08:00",
+    "file_name": "番茄小说_7.3.7_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/番茄畅听_6.6.8_解锁会员.ipa": {
+    "bundle_id": "com.xs.fm",
+    "version": "6.6.8",
+    "build": "6.6.8.45",
+    "name": "番茄畅听",
+    "path": "/苹果应用 - Appstore apps/番茄畅听_6.6.8_解锁会员.ipa",
+    "size": 257872523,
+    "modified": "2026-09-14T20:31:03.311+08:00",
+    "file_name": "番茄畅听_6.6.8_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/潜水员戴夫_1.0.41_AppStore付费软件砸壳.ipa": {
+    "bundle_id": "com.xd.dave.ios.cn",
+    "version": "1.0.41",
+    "build": "95",
+    "name": "潜水员戴夫",
+    "path": "/苹果应用 - Appstore apps/潜水员戴夫_1.0.41_AppStore付费软件砸壳.ipa",
+    "size": 3174908002,
+    "modified": "2026-09-14T20:32:23.043+08:00",
+    "file_name": "潜水员戴夫_1.0.41_AppStore付费软件砸壳.ipa"
+  },
+  "/苹果应用 - Appstore apps/红果漫剧_7.3.7_解锁会员.ipa": {
+    "bundle_id": "com.kylin.readnew",
+    "version": "7.3.7",
+    "build": "7.3.7.32",
+    "name": "红果漫剧",
+    "path": "/苹果应用 - Appstore apps/红果漫剧_7.3.7_解锁会员.ipa",
+    "size": 323602416,
+    "modified": "2026-09-14T20:30:56.618+08:00",
+    "file_name": "红果漫剧_7.3.7_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/文墨天机Pro_2.5.25_解锁内购_点购买点取消即可.ipa": {
+    "bundle_id": "com.ziwei001.zwmobilepro",
+    "version": "2.5.25",
+    "build": "2.5.25",
+    "name": "658758a85929673a",
+    "path": "/苹果应用 - Appstore apps/文墨天机Pro_2.5.25_解锁内购_点购买点取消即可.ipa",
+    "size": 37603242,
+    "modified": "2026-09-14T20:30:47.8+08:00",
+    "file_name": "文墨天机Pro_2.5.25_解锁内购_点购买点取消即可.ipa"
+  },
+  "/苹果应用 - Appstore apps/红果短剧_7.3.7_解锁会员.ipa": {
+    "bundle_id": "com.phoenix.video",
+    "version": "7.3.7",
+    "build": "7.3.7.32",
+    "name": "红果短剧",
+    "path": "/苹果应用 - Appstore apps/红果短剧_7.3.7_解锁会员.ipa",
+    "size": 297125859,
+    "modified": "2026-09-14T20:30:56.382+08:00",
+    "file_name": "红果短剧_7.3.7_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/极简阅读_2.2.0_解锁会员_可导入书源的软件.ipa": {
+    "bundle_id": "com.photon.reader",
+    "version": "2.2.0",
+    "build": "210",
+    "name": "极简阅读",
+    "path": "/苹果应用 - Appstore apps/极简阅读_2.2.0_解锁会员_可导入书源的软件.ipa",
+    "size": 36012506,
+    "modified": "2026-09-14T20:30:47.743+08:00",
+    "file_name": "极简阅读_2.2.0_解锁会员_可导入书源的软件.ipa"
+  },
+  "/苹果应用 - Appstore apps/VidHub_3.0.6_解锁会员_点购买点取消解锁.ipa": {
+    "bundle_id": "com.mac.utility.media.hub",
+    "version": "3.0.6",
+    "build": "2026090901",
+    "name": "VidHub",
+    "path": "/苹果应用 - Appstore apps/VidHub_3.0.6_解锁会员_点购买点取消解锁.ipa",
+    "size": 68152638,
+    "modified": "2026-09-14T20:30:47.714+08:00",
+    "file_name": "VidHub_3.0.6_解锁会员_点购买点取消解锁.ipa"
+  },
+  "/苹果应用 - Appstore apps/3105_2.0_iOS17.0+_一键清理缓存垃圾.ipa": {
+    "bundle_id": "com.apple.mobile.MobileHouseArrest",
+    "version": "2.0",
+    "build": "8",
+    "name": "3105",
+    "path": "/苹果应用 - Appstore apps/3105_2.0_iOS17.0+_一键清理缓存垃圾.ipa",
+    "size": 4604223,
+    "modified": "2026-09-14T20:30:46.521+08:00",
+    "file_name": "3105_2.0_iOS17.0+_一键清理缓存垃圾.ipa"
+  },
+  "/苹果应用 - Appstore apps/彩云天气_7.63.1_解锁会员_签名移除EMB不会提示版本过低.ipa": {
+    "bundle_id": "net.colorfulclouds.app.pro",
+    "version": "7.63.1",
+    "build": "1",
+    "name": "彩云天气",
+    "path": "/苹果应用 - Appstore apps/彩云天气_7.63.1_解锁会员_签名移除EMB不会提示版本过低.ipa",
+    "size": 119336846,
+    "modified": "2026-09-14T20:30:47.625+08:00",
+    "file_name": "彩云天气_7.63.1_解锁会员_签名移除EMB不会提示版本过低.ipa"
+  },
+  "/苹果应用 - Appstore apps/彩云天气Pro_7.63.1_解锁会员_证书可能不支持Pro，先安装普通版再安装Pro可解决小组件问题.ipa": {
+    "bundle_id": "net.colorfulclouds.app.pro",
+    "version": "7.63.1",
+    "build": "1",
+    "name": "彩云天气Pro",
+    "path": "/苹果应用 - Appstore apps/彩云天气Pro_7.63.1_解锁会员_证书可能不支持Pro，先安装普通版再安装Pro可解决小组件问题.ipa",
+    "size": 74063274,
+    "modified": "2026-09-14T20:30:46.375+08:00",
+    "file_name": "彩云天气Pro_7.63.1_解锁会员_证书可能不支持Pro，先安装普通版再安装Pro可解决小组件问题.ipa"
+  },
+  "/巨魔商店 - TrollStore/Relaxin（证书版）_0.5.2.ipa": {
+    "bundle_id": "com.aapl.relaxin",
+    "version": "0.5.2",
+    "build": "0",
+    "name": "Relaxin",
+    "path": "/巨魔商店 - TrollStore/Relaxin（证书版）_0.5.2.ipa",
+    "size": 29659569,
+    "modified": "2026-09-14T20:30:23.31+08:00",
+    "file_name": "Relaxin（证书版）_0.5.2.ipa"
+  },
+  "/苹果应用 - Appstore apps/元书输入法_1.8.1_解锁会员.ipa": {
+    "bundle_id": "com.ihsiao.apps.Hamster3",
+    "version": "1.8.1",
+    "build": "526",
+    "name": "h3kb",
+    "path": "/苹果应用 - Appstore apps/元书输入法_1.8.1_解锁会员.ipa",
+    "size": 45976882,
+    "modified": "2026-09-12T18:29:34.459+08:00",
+    "file_name": "元书输入法_1.8.1_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/百度网盘_13.32.2_解锁会员_解锁部分会员功能.ipa": {
+    "bundle_id": "com.baidu.netdisk",
+    "version": "13.32.2",
+    "build": "13.32.2.4",
+    "name": "百度网盘",
+    "path": "/苹果应用 - Appstore apps/百度网盘_13.32.2_解锁会员_解锁部分会员功能.ipa",
+    "size": 443923254,
+    "modified": "2026-09-12T18:29:34.645+08:00",
+    "file_name": "百度网盘_13.32.2_解锁会员_解锁部分会员功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/疯狂背单词_2.25_解锁会员.ipa": {
+    "bundle_id": "com.shark.crazyword",
+    "version": "2.25",
+    "build": "3",
+    "name": "疯狂背单词",
+    "path": "/苹果应用 - Appstore apps/疯狂背单词_2.25_解锁会员.ipa",
+    "size": 51751498,
+    "modified": "2026-09-12T18:29:34.446+08:00",
+    "file_name": "疯狂背单词_2.25_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/训记_7.00.385_解锁会员.ipa": {
+    "bundle_id": "com.xunji.react.native.app",
+    "version": "7.00.385",
+    "build": "1",
+    "name": "SynFit",
+    "path": "/苹果应用 - Appstore apps/训记_7.00.385_解锁会员.ipa",
+    "size": 252273875,
+    "modified": "2026-09-12T18:29:34.447+08:00",
+    "file_name": "训记_7.00.385_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/Surge_5.102.0_TF_支持证书.ipa": {
+    "bundle_id": "com.nssurge.inc.surge-ios",
+    "version": "5.102.0",
+    "build": "3835",
+    "name": "Surge",
+    "path": "/苹果应用 - Appstore apps/Surge_5.102.0_TF_支持证书.ipa",
+    "size": 44147285,
+    "modified": "2026-09-11T16:43:51.364+08:00",
+    "file_name": "Surge_5.102.0_TF_支持证书.ipa"
+  },
+  "/苹果应用 - Appstore apps/开心消消乐_1.161.5-2_无限道具体力.ipa": {
+    "bundle_id": "com.happyelements.1OSAnimal",
+    "version": "1.161.5",
+    "build": "1.161.5",
+    "name": "开心消消乐",
+    "path": "/苹果应用 - Appstore apps/开心消消乐_1.161.5-2_无限道具体力.ipa",
+    "size": 327586910,
+    "modified": "2026-09-11T19:56:22.641+08:00",
+    "file_name": "开心消消乐_1.161.5-2_无限道具体力.ipa"
+  },
+  "/苹果应用 - Appstore apps/MiniWatts（充电信息）_1.0_最低支持iOS17+系统.ipa": {
+    "bundle_id": "org.zhaohe.MiniWatts",
+    "version": "1.0",
+    "build": "1",
+    "name": "MiniWatts",
+    "path": "/苹果应用 - Appstore apps/MiniWatts（充电信息）_1.0_最低支持iOS17+系统.ipa",
+    "size": 2905109,
+    "modified": "2026-09-11T16:43:50.632+08:00",
+    "file_name": "MiniWatts（充电信息）_1.0_最低支持iOS17+系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/植物大战僵尸杂交_0.27.0_修复BUG.ipa": {
+    "bundle_id": "com.xiaozhu.pvzhv",
+    "version": "0.27.0.0",
+    "build": "0.27.0.0",
+    "name": "植物大战僵尸杂交版",
+    "path": "/苹果应用 - Appstore apps/植物大战僵尸杂交_0.27.0_修复BUG.ipa",
+    "size": 360070658,
+    "modified": "2026-09-11T16:43:49.973+08:00",
+    "file_name": "植物大战僵尸杂交_0.27.0_修复BUG.ipa"
+  },
+  "/苹果应用 - Appstore apps/抖音_40.4.0_抖音助手_注入Yuki防撤回插件等，设置打开即可.ipa": {
+    "bundle_id": "com.ss.iphone.ugc.Aweme",
+    "version": "40.4.0",
+    "build": "404017",
+    "name": "抖音",
+    "path": "/苹果应用 - Appstore apps/抖音_40.4.0_抖音助手_注入Yuki防撤回插件等，设置打开即可.ipa",
+    "size": 720688911,
+    "modified": "2026-09-11T16:43:51.31+08:00",
+    "file_name": "抖音_40.4.0_抖音助手_注入Yuki防撤回插件等，设置打开即可.ipa"
+  },
+  "/苹果应用 - Appstore apps/我的桌面·iScreen_5.0.15_解锁会员_20260911_164350.ipa": {
+    "bundle_id": "com.zerone.hidesktop",
+    "version": "5.0.15",
+    "build": "8",
+    "name": "HiWidget",
+    "path": "/苹果应用 - Appstore apps/我的桌面·iScreen_5.0.15_解锁会员_20260911_164350.ipa",
+    "size": 444843674,
+    "modified": "2026-09-11T16:43:50.437+08:00",
+    "file_name": "我的桌面·iScreen_5.0.15_解锁会员_20260911_164350.ipa"
+  },
+  "/苹果应用 - Appstore apps/Kumone（第三方网易云）_0.3.17_最低支持iOS16+系统.ipa": {
+    "bundle_id": "sb.moe.kumone",
+    "version": "0.3.17",
+    "build": "141",
+    "name": "Kumone",
+    "path": "/苹果应用 - Appstore apps/Kumone（第三方网易云）_0.3.17_最低支持iOS16+系统.ipa",
+    "size": 7248832,
+    "modified": "2026-09-11T16:43:49.85+08:00",
+    "file_name": "Kumone（第三方网易云）_0.3.17_最低支持iOS16+系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/TikTok_46.8.0_支持保存视频、去广告、自动下一条、纯净模式.ipa": {
+    "bundle_id": "com.zhiliaoapp.musically",
+    "version": "46.8.0",
+    "build": "468036",
+    "name": "TikTok",
+    "path": "/苹果应用 - Appstore apps/TikTok_46.8.0_支持保存视频、去广告、自动下一条、纯净模式.ipa",
+    "size": 493202154,
+    "modified": "2026-09-11T16:43:49.765+08:00",
+    "file_name": "TikTok_46.8.0_支持保存视频、去广告、自动下一条、纯净模式.ipa"
+  },
+  "/巨魔商店 - TrollStore/Relaxin（证书版）_0.5.1.ipa": {
+    "bundle_id": "com.aapl.relaxin",
+    "version": "0.5.1",
+    "build": "0",
+    "name": "Relaxin",
+    "path": "/巨魔商店 - TrollStore/Relaxin（证书版）_0.5.1.ipa",
+    "size": 29655360,
+    "modified": "2026-09-10T01:38:02.501+08:00",
+    "file_name": "Relaxin（证书版）_0.5.1.ipa"
+  },
+  "/巨魔商店 - TrollStore/全局高刷_1.1.0fix.ipa": {
+    "bundle_id": "com.yoroin.globalrefresh",
+    "version": "1.1.0fix",
+    "build": "2026082901",
+    "name": "全局高刷",
+    "path": "/巨魔商店 - TrollStore/全局高刷_1.1.0fix.ipa",
+    "size": 7587004,
+    "modified": "2026-08-31T23:25:07.644+08:00",
+    "file_name": "全局高刷_1.1.0fix.ipa"
+  },
+  "/巨魔商店 - TrollStore/Relaxin（证书版）_0.4.9__现阶段支持A12～A15全系_支持iOS16.5.1～iOS17.3.1.ipa": {
+    "bundle_id": "com.aapl.relaxin",
+    "version": "0.4.9",
+    "build": "0",
+    "name": "Relaxin",
+    "path": "/巨魔商店 - TrollStore/Relaxin（证书版）_0.4.9__现阶段支持A12～A15全系_支持iOS16.5.1～iOS17.3.1.ipa",
+    "size": 29474619,
+    "modified": "2026-08-31T23:25:04.13+08:00",
+    "file_name": "Relaxin（证书版）_0.4.9__现阶段支持A12～A15全系_支持iOS16.5.1～iOS17.3.1.ipa"
+  },
+  "/巨魔商店 - TrollStore/Clash-1.0.0.ipa": {
+    "bundle_id": "com.hako.network",
+    "version": "1.0.0",
+    "build": "52",
+    "name": "Clash",
+    "path": "/巨魔商店 - TrollStore/Clash-1.0.0.ipa",
+    "size": 61447907,
+    "modified": "2026-08-26T01:42:45.647+08:00",
+    "file_name": "Clash-1.0.0.ipa"
+  },
+  "/巨魔商店 - TrollStore/全局高刷_1.1.0.ipa": {
+    "bundle_id": "com.yoroin.globalrefresh",
+    "version": "1.1.0",
+    "build": "2026082202",
+    "name": "全局高刷",
+    "path": "/巨魔商店 - TrollStore/全局高刷_1.1.0.ipa",
+    "size": 7587460,
+    "modified": "2026-08-25T20:36:06.927+08:00",
+    "file_name": "全局高刷_1.1.0.ipa"
+  },
+  "/巨魔商店 - TrollStore/Relaxin（证书版）_0.4.8_现阶段支持A12～A15全系_支持iOS16.5.1～iOS17.3.1.ipa": {
+    "bundle_id": "com.aapl.relaxin",
+    "version": "0.4.8",
+    "build": "0",
+    "name": "Relaxin",
+    "path": "/巨魔商店 - TrollStore/Relaxin（证书版）_0.4.8_现阶段支持A12～A15全系_支持iOS16.5.1～iOS17.3.1.ipa",
+    "size": 29459265,
+    "modified": "2026-08-25T20:35:43.886+08:00",
+    "file_name": "Relaxin（证书版）_0.4.8_现阶段支持A12～A15全系_支持iOS16.5.1～iOS17.3.1.ipa"
+  },
+  "/巨魔商店 - TrollStore/多巴胺越狱工具/Dopamine_3.0.9.ipa": {
+    "bundle_id": "com.opa334.Dopamine",
+    "version": "3.0.9",
+    "build": "1",
+    "name": "Dopamine",
+    "path": "/巨魔商店 - TrollStore/多巴胺越狱工具/Dopamine_3.0.9.ipa",
+    "size": 55409206,
+    "modified": "2026-08-25T20:35:46.66+08:00",
+    "file_name": "Dopamine_3.0.9.ipa"
+  },
+  "/巨魔商店 - TrollStore/Relaxin（证书版）_0.4.6_现阶段支持A12～A15全系_支持iOS16.5.1～iOS16.6.1，iOS17.0～iOS17.3.1.ipa": {
+    "bundle_id": "com.aapl.relaxin",
+    "version": "0.4.6",
+    "build": "0",
+    "name": "Relaxin",
+    "path": "/巨魔商店 - TrollStore/Relaxin（证书版）_0.4.6_现阶段支持A12～A15全系_支持iOS16.5.1～iOS16.6.1，iOS17.0～iOS17.3.1.ipa",
+    "size": 29271727,
+    "modified": "2026-08-18T18:41:00.152+08:00",
+    "file_name": "Relaxin（证书版）_0.4.6_现阶段支持A12～A15全系_支持iOS16.5.1～iOS16.6.1，iOS17.0～iOS17.3.1.ipa"
+  },
+  "/巨魔商店 - TrollStore/多巴胺越狱工具/Dopamine_3.0.7_适用于A8-A13（iPhone6全系～iPhone11全系）：iOS 15.0-18.7.1 以及 iOS 26.0-26.0.1_A14-A17（iPhone12－15PM）：iOS 15.0-17.3.1_M1-M2：iOS 15.0-17.3.1.ipa": {
+    "bundle_id": "com.opa334.Dopamine",
+    "version": "3.0.7",
+    "build": "1",
+    "name": "Dopamine",
+    "path": "/巨魔商店 - TrollStore/多巴胺越狱工具/Dopamine_3.0.7_适用于A8-A13（iPhone6全系～iPhone11全系）：iOS 15.0-18.7.1 以及 iOS 26.0-26.0.1_A14-A17（iPhone12－15PM）：iOS 15.0-17.3.1_M1-M2：iOS 15.0-17.3.1.ipa",
+    "size": 55409953,
+    "modified": "2026-08-17T23:39:41.397+08:00",
+    "file_name": "Dopamine_3.0.7_适用于A8-A13（iPhone6全系～iPhone11全系）：iOS 15.0-18.7.1 以及 iOS 26.0-26.0.1_A14-A17（iPhone12－15PM）：iOS 15.0-17.3.1_M1-M2：iOS 15.0-17.3.1.ipa"
+  },
+  "/巨魔商店 - TrollStore/Relaxin（证书版）_0.4.5_支持iOS16.5.1～iOS16.6.1，iOS17.0～iOS17.3.1_支持A12～A15全系.ipa": {
+    "bundle_id": "com.aapl.relaxin",
+    "version": "0.4.5",
+    "build": "0",
+    "name": "Relaxin",
+    "path": "/巨魔商店 - TrollStore/Relaxin（证书版）_0.4.5_支持iOS16.5.1～iOS16.6.1，iOS17.0～iOS17.3.1_支持A12～A15全系.ipa",
+    "size": 29258028,
+    "modified": "2026-08-12T13:33:03.166+08:00",
+    "file_name": "Relaxin（证书版）_0.4.5_支持iOS16.5.1～iOS16.6.1，iOS17.0～iOS17.3.1_支持A12～A15全系.ipa"
+  },
+  "/巨魔商店 - TrollStore/多巴胺越狱工具/Dopamine_3.0.5.ipa": {
+    "bundle_id": "com.opa334.FuckYou",
+    "version": "3.0.5",
+    "build": "1",
+    "name": "Dopamine",
+    "path": "/巨魔商店 - TrollStore/多巴胺越狱工具/Dopamine_3.0.5.ipa",
+    "size": 55407506,
+    "modified": "2026-08-15T01:59:06.37+08:00",
+    "file_name": "Dopamine_3.0.5.ipa"
+  },
+  "/巨魔商店 - TrollStore/多巴胺越狱工具/Dopamine_3.0.4_越狱失败或正在删除，请修复缺失的开发后清理.ipa": {
+    "bundle_id": "com.opa334.Dopamine",
+    "version": "3.0.4",
+    "build": "1",
+    "name": "Dopamine",
+    "path": "/巨魔商店 - TrollStore/多巴胺越狱工具/Dopamine_3.0.4_越狱失败或正在删除，请修复缺失的开发后清理.ipa",
+    "size": 55400119,
+    "modified": "2026-08-10T12:42:35.829+08:00",
+    "file_name": "Dopamine_3.0.4_越狱失败或正在删除，请修复缺失的开发后清理.ipa"
+  },
+  "/巨魔商店 - TrollStore/多巴胺越狱工具/Dopamine_3.0.2.ipa": {
+    "bundle_id": "com.opa334.Dopamine",
+    "version": "3.0.2",
+    "build": "1",
+    "name": "Dopamine",
+    "path": "/巨魔商店 - TrollStore/多巴胺越狱工具/Dopamine_3.0.2.ipa",
+    "size": 55397475,
+    "modified": "2026-08-10T12:42:28.094+08:00",
+    "file_name": "Dopamine_3.0.2.ipa"
+  },
+  "/巨魔商店 - TrollStore/多巴胺越狱工具/Dopamine（证书版）_3.0.1.ipa": {
+    "bundle_id": "com.opa334.Dopamine",
+    "version": "3.0.1",
+    "build": "1",
+    "name": "Dopamine",
+    "path": "/巨魔商店 - TrollStore/多巴胺越狱工具/Dopamine（证书版）_3.0.1.ipa",
+    "size": 56502838,
+    "modified": "2026-08-08T13:33:16.633+08:00",
+    "file_name": "Dopamine（证书版）_3.0.1.ipa"
+  },
+  "/巨魔商店 - TrollStore/Relaxin（证书版）_0.4.3_支持A12～A15全系_支持iOS17.0～iOS17.3.1.ipa": {
+    "bundle_id": "com.aapl.relaxin",
+    "version": "0.4.3",
+    "build": "0",
+    "name": "Relaxin",
+    "path": "/巨魔商店 - TrollStore/Relaxin（证书版）_0.4.3_支持A12～A15全系_支持iOS17.0～iOS17.3.1.ipa",
+    "size": 29138087,
+    "modified": "2026-08-05T18:26:48.149+08:00",
+    "file_name": "Relaxin（证书版）_0.4.3_支持A12～A15全系_支持iOS17.0～iOS17.3.1.ipa"
+  },
+  "/巨魔商店 - TrollStore/Relaxin（证书版）_0.4.2_支持A12～A15全系_支持iOS17.0～iOS17.3.1.ipa": {
+    "bundle_id": "com.aapl.relaxin",
+    "version": "0.4.2",
+    "build": "0",
+    "name": "Relaxin",
+    "path": "/巨魔商店 - TrollStore/Relaxin（证书版）_0.4.2_支持A12～A15全系_支持iOS17.0～iOS17.3.1.ipa",
+    "size": 29124564,
+    "modified": "2026-08-05T18:26:38.069+08:00",
+    "file_name": "Relaxin（证书版）_0.4.2_支持A12～A15全系_支持iOS17.0～iOS17.3.1.ipa"
+  },
+  "/巨魔商店 - TrollStore/Relaxin（证书版）_0.4.1_支持A12～A15全系_支持iOS17.0～iOS17.3.1.ipa": {
+    "bundle_id": "com.aapl.relaxin",
+    "version": "0.4.1",
+    "build": "0",
+    "name": "Relaxin",
+    "path": "/巨魔商店 - TrollStore/Relaxin（证书版）_0.4.1_支持A12～A15全系_支持iOS17.0～iOS17.3.1.ipa",
+    "size": 29119807,
+    "modified": "2026-08-05T18:26:31.297+08:00",
+    "file_name": "Relaxin（证书版）_0.4.1_支持A12～A15全系_支持iOS17.0～iOS17.3.1.ipa"
+  },
+  "/巨魔商店 - TrollStore/Loon/Loon_3.5.1(TF980).ipa": {
+    "bundle_id": "com.ruikq.decar",
+    "version": "3.5.1",
+    "build": "980",
+    "name": "Loon",
+    "path": "/巨魔商店 - TrollStore/Loon/Loon_3.5.1(TF980).ipa",
+    "size": 27924171,
+    "modified": "2026-08-05T18:26:20.154+08:00",
+    "file_name": "Loon_3.5.1(TF980).ipa"
+  },
+  "/巨魔商店 - TrollStore/Loon/Loon_3.5.1(TF978).ipa": {
+    "bundle_id": "com.ruikq.decar",
+    "version": "3.5.1",
+    "build": "978",
+    "name": "Loon",
+    "path": "/巨魔商店 - TrollStore/Loon/Loon_3.5.1(TF978).ipa",
+    "size": 27848963,
+    "modified": "2026-08-05T18:26:18.518+08:00",
+    "file_name": "Loon_3.5.1(TF978).ipa"
+  },
+  "/巨魔商店 - TrollStore/Relaxin（证书版）_0.4.0_支持iOS17.0～iOS17.3.1_现阶段支持iPhone11～iPhone15全系.ipa": {
+    "bundle_id": "com.aapl.relaxin",
+    "version": "0.4.0",
+    "build": "0",
+    "name": "Relaxin",
+    "path": "/巨魔商店 - TrollStore/Relaxin（证书版）_0.4.0_支持iOS17.0～iOS17.3.1_现阶段支持iPhone11～iPhone15全系.ipa",
+    "size": 29115960,
+    "modified": "2026-08-03T04:45:26.689+08:00",
+    "file_name": "Relaxin（证书版）_0.4.0_支持iOS17.0～iOS17.3.1_现阶段支持iPhone11～iPhone15全系.ipa"
+  },
+  "/巨魔商店 - TrollStore/Relaxin（证书版）_0.3.8_支持iOS17.0～iOS17.3.1_现阶段支持iPhone11～iPhone15全系.ipa": {
+    "bundle_id": "com.aapl.relaxin",
+    "version": "0.3.8",
+    "build": "0",
+    "name": "Relaxin",
+    "path": "/巨魔商店 - TrollStore/Relaxin（证书版）_0.3.8_支持iOS17.0～iOS17.3.1_现阶段支持iPhone11～iPhone15全系.ipa",
+    "size": 29116444,
+    "modified": "2026-08-01T14:54:38.721+08:00",
+    "file_name": "Relaxin（证书版）_0.3.8_支持iOS17.0～iOS17.3.1_现阶段支持iPhone11～iPhone15全系.ipa"
+  },
+  "/巨魔商店 - TrollStore/Relaxin（证书版）_0.3.7_支持iOS17.0～iOS17.3.1_现阶段支持iPhone11～iPhone15全系.ipa": {
+    "bundle_id": "com.aapl.relaxin",
+    "version": "0.3.7",
+    "build": "0",
+    "name": "Relaxin",
+    "path": "/巨魔商店 - TrollStore/Relaxin（证书版）_0.3.7_支持iOS17.0～iOS17.3.1_现阶段支持iPhone11～iPhone15全系.ipa",
+    "size": 29124803,
+    "modified": "2026-08-01T14:54:32.155+08:00",
+    "file_name": "Relaxin（证书版）_0.3.7_支持iOS17.0～iOS17.3.1_现阶段支持iPhone11～iPhone15全系.ipa"
+  },
+  "/巨魔商店 - TrollStore/Relaxin（证书版）_0.3.6_支持iOS17.0～iOS17.3.1_现阶段支持iPhone11～iPhone15全系.ipa": {
+    "bundle_id": "com.aapl.relaxin",
+    "version": "0.3.6",
+    "build": "0",
+    "name": "Relaxin",
+    "path": "/巨魔商店 - TrollStore/Relaxin（证书版）_0.3.6_支持iOS17.0～iOS17.3.1_现阶段支持iPhone11～iPhone15全系.ipa",
+    "size": 29125658,
+    "modified": "2026-08-01T14:54:04.868+08:00",
+    "file_name": "Relaxin（证书版）_0.3.6_支持iOS17.0～iOS17.3.1_现阶段支持iPhone11～iPhone15全系.ipa"
+  },
+  "/巨魔商店 - TrollStore/Relaxin（证书版）_0.3.4_支持iPhone13～iPhone15全系_支持iOS17.0～iOS17.3.1.ipa": {
+    "bundle_id": "com.aapl.relaxin",
+    "version": "0.3.4",
+    "build": "0",
+    "name": "Relaxin",
+    "path": "/巨魔商店 - TrollStore/Relaxin（证书版）_0.3.4_支持iPhone13～iPhone15全系_支持iOS17.0～iOS17.3.1.ipa",
+    "size": 29115353,
+    "modified": "2026-07-30T14:55:46.572+08:00",
+    "file_name": "Relaxin（证书版）_0.3.4_支持iPhone13～iPhone15全系_支持iOS17.0～iOS17.3.1.ipa"
+  },
+  "/巨魔商店 - TrollStore/王者视距S44_4.5_需开启游戏才能打开.ipa": {
+    "bundle_id": "com.shadow.h5ggapp",
+    "version": "5.9",
+    "build": "1",
+    "name": "王者S44",
+    "path": "/巨魔商店 - TrollStore/王者视距S44_4.5_需开启游戏才能打开.ipa",
+    "size": 2186173,
+    "modified": "2026-07-31T12:57:46.737+08:00",
+    "file_name": "王者视距S44_4.5_需开启游戏才能打开.ipa"
+  },
+  "/巨魔商店 - TrollStore/无畏巨魔内核绘制_7.17_巨魔安装需要多巴胺越狱环境，黑苹果屏蔽游戏和辅助避免越狱检测.ipa": {
+    "bundle_id": "ch.XCNBww.app",
+    "version": "1.1.1",
+    "build": "c016dd82",
+    "name": "Cude-魔方",
+    "path": "/巨魔商店 - TrollStore/无畏巨魔内核绘制_7.17_巨魔安装需要多巴胺越狱环境，黑苹果屏蔽游戏和辅助避免越狱检测.ipa",
+    "size": 12467437,
+    "modified": "2026-07-17T13:39:45.646+08:00",
+    "file_name": "无畏巨魔内核绘制_7.17_巨魔安装需要多巴胺越狱环境，黑苹果屏蔽游戏和辅助避免越狱检测.ipa"
+  },
+  "/巨魔商店 - TrollStore/Relaxin_v0.3.3_支持iPhone13～iPhone15全系_支持iOS17.0～iOS17.3.1.ipa": {
+    "bundle_id": "com.aapl.relaxin",
+    "version": "0.3.3",
+    "build": "0",
+    "name": "Relaxin",
+    "path": "/巨魔商店 - TrollStore/Relaxin_v0.3.3_支持iPhone13～iPhone15全系_支持iOS17.0～iOS17.3.1.ipa",
+    "size": 29115348,
+    "modified": "2026-07-29T20:42:10.67+08:00",
+    "file_name": "Relaxin_v0.3.3_支持iPhone13～iPhone15全系_支持iOS17.0～iOS17.3.1.ipa"
+  },
+  "/巨魔商店 - TrollStore/失控进化_7.24_巨魔绘制触摸_2.0.ipa": {
+    "bundle_id": "lab.trollreader.external",
+    "version": "6.27",
+    "build": "87",
+    "name": "Troll Reader",
+    "path": "/巨魔商店 - TrollStore/失控进化_7.24_巨魔绘制触摸_2.0.ipa",
+    "size": 327485,
+    "modified": "2026-07-24T16:00:35.737+08:00",
+    "file_name": "失控进化_7.24_巨魔绘制触摸_2.0.ipa"
+  },
+  "/巨魔商店 - TrollStore/TrollCleaner_2.1_清理垃圾_支持巨魔.ipa": {
+    "bundle_id": "com.local.trollcleaner",
+    "version": "2.1",
+    "build": "12",
+    "name": "巨魔清理",
+    "path": "/巨魔商店 - TrollStore/TrollCleaner_2.1_清理垃圾_支持巨魔.ipa",
+    "size": 2809989,
+    "modified": "2026-07-19T15:10:45.032+08:00",
+    "file_name": "TrollCleaner_2.1_清理垃圾_支持巨魔.ipa"
+  },
+  "/巨魔商店 - TrollStore/Loon/Loon_3.5.1(TF976).ipa": {
+    "bundle_id": "com.ruikq.decar",
+    "version": "3.5.1",
+    "build": "976",
+    "name": "Loon",
+    "path": "/巨魔商店 - TrollStore/Loon/Loon_3.5.1(TF976).ipa",
+    "size": 27517919,
+    "modified": "2026-07-13T12:51:43.123+08:00",
+    "file_name": "Loon_3.5.1(TF976).ipa"
+  },
+  "/巨魔商店 - TrollStore/和平精英稳定绘制_7.10_巨魔专用.ipa": {
+    "bundle_id": "ch.XCNBhp.app",
+    "version": "1.1.1",
+    "build": "c016dd82",
+    "name": "Cude",
+    "path": "/巨魔商店 - TrollStore/和平精英稳定绘制_7.10_巨魔专用.ipa",
+    "size": 10648889,
+    "modified": "2026-07-10T22:53:45.418+08:00",
+    "file_name": "和平精英稳定绘制_7.10_巨魔专用.ipa"
+  },
+  "/巨魔商店 - TrollStore/Shadowrocket/Shadowrocket_2.2.90.ipa": {
+    "bundle_id": "com.liguangming.Shadowrocket",
+    "version": "2.2.90",
+    "build": "3378",
+    "name": "Shadowrocket",
+    "path": "/巨魔商店 - TrollStore/Shadowrocket/Shadowrocket_2.2.90.ipa",
+    "size": 22981489,
+    "modified": "2026-07-09T23:39:58.458+08:00",
+    "file_name": "Shadowrocket_2.2.90.ipa"
+  },
+  "/巨魔商店 - TrollStore/全局高刷_1.0.9.ipa": {
+    "bundle_id": "com.yoroin.globalrefresh",
+    "version": "1.0.9",
+    "build": "2026070801",
+    "name": "全局高刷",
+    "path": "/巨魔商店 - TrollStore/全局高刷_1.0.9.ipa",
+    "size": 14940097,
+    "modified": "2026-07-09T23:39:51.533+08:00",
+    "file_name": "全局高刷_1.0.9.ipa"
+  },
+  "/巨魔商店 - TrollStore/AppRetro_1.1_巨魔升降级应用.ipa": {
+    "bundle_id": "com.iosdump.appretro",
+    "version": "1.1",
+    "build": "1",
+    "name": "AppRetro",
+    "path": "/巨魔商店 - TrollStore/AppRetro_1.1_巨魔升降级应用.ipa",
+    "size": 1004794,
+    "modified": "2026-07-04T23:39:25.432+08:00",
+    "file_name": "AppRetro_1.1_巨魔升降级应用.ipa"
+  },
+  "/巨魔商店 - TrollStore/Loon/Loon_3.5.0(TF971).ipa": {
+    "bundle_id": "com.ruikq.decar",
+    "version": "3.5.0",
+    "build": "972",
+    "name": "Loon",
+    "path": "/巨魔商店 - TrollStore/Loon/Loon_3.5.0(TF971).ipa",
+    "size": 27930594,
+    "modified": "2026-06-19T10:20:10.028+08:00",
+    "file_name": "Loon_3.5.0(TF971).ipa"
+  },
+  "/巨魔商店 - TrollStore/王者视距S44_4.4_巨魔专用.ipa": {
+    "bundle_id": "com.xiaobin.wzry",
+    "version": "4.4",
+    "build": "1",
+    "name": "王者视距(S44)",
+    "path": "/巨魔商店 - TrollStore/王者视距S44_4.4_巨魔专用.ipa",
+    "size": 2343352,
+    "modified": "2026-06-30T12:23:26.305+08:00",
+    "file_name": "王者视距S44_4.4_巨魔专用.ipa"
+  },
+  "/巨魔商店 - TrollStore/Shadowrocket/Shadowrocket_2.2.88.ipa": {
+    "bundle_id": "com.liguangming.Shadowrocket",
+    "version": "2.2.88",
+    "build": "3308",
+    "name": "Shadowrocket",
+    "path": "/巨魔商店 - TrollStore/Shadowrocket/Shadowrocket_2.2.88.ipa",
+    "size": 22750740,
+    "modified": "2026-06-14T21:51:29.347+08:00",
+    "file_name": "Shadowrocket_2.2.88.ipa"
+  },
+  "/巨魔商店 - TrollStore/Loon/Loon_3.5.0(TF964).ipa": {
+    "bundle_id": "com.ruikq.decar",
+    "version": "3.5.0",
+    "build": "964",
+    "name": "Loon",
+    "path": "/巨魔商店 - TrollStore/Loon/Loon_3.5.0(TF964).ipa",
+    "size": 27920169,
+    "modified": "2026-05-31T20:00:32.277+08:00",
+    "file_name": "Loon_3.5.0(TF964).ipa"
+  },
+  "/巨魔商店 - TrollStore/Shadowrocket/Shadowrocket_2.2.87.ipa": {
+    "bundle_id": "com.liguangming.Shadowrocket",
+    "version": "2.2.87",
+    "build": "3280",
+    "name": "Shadowrocket",
+    "path": "/巨魔商店 - TrollStore/Shadowrocket/Shadowrocket_2.2.87.ipa",
+    "size": 22680527,
+    "modified": "2026-06-05T01:50:06.696+08:00",
+    "file_name": "Shadowrocket_2.2.87.ipa"
+  },
+  "/巨魔商店 - TrollStore/三角洲公益内核_0605_合理使用，封号自理.ipa": {
+    "bundle_id": "ch.XCNB.app",
+    "version": "1.1.1",
+    "build": "c016dd82",
+    "name": "Cude-魔方",
+    "path": "/巨魔商店 - TrollStore/三角洲公益内核_0605_合理使用，封号自理.ipa",
+    "size": 12595808,
+    "modified": "2026-06-05T23:32:32.387+08:00",
+    "file_name": "三角洲公益内核_0605_合理使用，封号自理.ipa"
+  },
+  "/巨魔商店 - TrollStore/Shadowrocket/Shadowrocket_2.2.86.ipa": {
+    "bundle_id": "com.liguangming.Shadowrocket",
+    "version": "2.2.86",
+    "build": "3274",
+    "name": "Shadowrocket",
+    "path": "/巨魔商店 - TrollStore/Shadowrocket/Shadowrocket_2.2.86.ipa",
+    "size": 22694137,
+    "modified": "2026-05-29T11:43:19.931+08:00",
+    "file_name": "Shadowrocket_2.2.86.ipa"
+  },
+  "/巨魔商店 - TrollStore/Loon/Loon_3.4.0(TF962).ipa": {
+    "bundle_id": "com.ruikq.decar",
+    "version": "3.4.0",
+    "build": "962",
+    "name": "Loon",
+    "path": "/巨魔商店 - TrollStore/Loon/Loon_3.4.0(TF962).ipa",
+    "size": 25966302,
+    "modified": "2026-05-24T01:18:56.282+08:00",
+    "file_name": "Loon_3.4.0(TF962).ipa"
+  },
+  "/巨魔商店 - TrollStore/Shadowrocket/Shadowrocket_2.2.85.ipa": {
+    "bundle_id": "com.liguangming.Shadowrocket",
+    "version": "2.2.85",
+    "build": "3266",
+    "name": "Shadowrocket",
+    "path": "/巨魔商店 - TrollStore/Shadowrocket/Shadowrocket_2.2.85.ipa",
+    "size": 22685970,
+    "modified": "2026-05-24T01:19:02.63+08:00",
+    "file_name": "Shadowrocket_2.2.85.ipa"
+  },
+  "/巨魔商店 - TrollStore/Shadowrocket/Shadowrocket_2.2.83.ipa": {
+    "bundle_id": "com.liguangming.Shadowrocket",
+    "version": "2.2.83",
+    "build": "3256",
+    "name": "Shadowrocket",
+    "path": "/巨魔商店 - TrollStore/Shadowrocket/Shadowrocket_2.2.83.ipa",
+    "size": 22668681,
+    "modified": "2026-05-22T12:00:51.029+08:00",
+    "file_name": "Shadowrocket_2.2.83.ipa"
+  },
+  "/巨魔商店 - TrollStore/Loon/Loon_3.4.0(TF957).ipa": {
+    "bundle_id": "com.ruikq.decar",
+    "version": "3.4.0",
+    "build": "957",
+    "name": "Loon",
+    "path": "/巨魔商店 - TrollStore/Loon/Loon_3.4.0(TF957).ipa",
+    "size": 26095240,
+    "modified": "2026-05-15T02:23:06.899+08:00",
+    "file_name": "Loon_3.4.0(TF957).ipa"
+  },
+  "/巨魔商店 - TrollStore/多巴胺越狱工具/Dopamine_2.5Beta3.ipa": {
+    "bundle_id": "com.opa334.Dopamine",
+    "version": "2.4.99",
+    "build": "1",
+    "name": "Dopamine",
+    "path": "/巨魔商店 - TrollStore/多巴胺越狱工具/Dopamine_2.5Beta3.ipa",
+    "size": 53783818,
+    "modified": "2026-05-15T02:23:10.267+08:00",
+    "file_name": "Dopamine_2.5Beta3.ipa"
+  },
+  "/巨魔商店 - TrollStore/Quantumult X_1.6.0.ipa": {
+    "bundle_id": "com.crossutility.quantumult-x",
+    "version": "1.6.0",
+    "build": "927",
+    "name": "Quantumult X",
+    "path": "/巨魔商店 - TrollStore/Quantumult X_1.6.0.ipa",
+    "size": 38480637,
+    "modified": "2026-05-27T00:54:44.999+08:00",
+    "file_name": "Quantumult X_1.6.0.ipa"
+  },
+  "/巨魔商店 - TrollStore/Loon/Loon_3.4.0(TF956).ipa": {
+    "bundle_id": "com.ruikq.decar",
+    "version": "3.4.0",
+    "build": "956",
+    "name": "Loon",
+    "path": "/巨魔商店 - TrollStore/Loon/Loon_3.4.0(TF956).ipa",
+    "size": 26035852,
+    "modified": "2026-05-09T13:41:11.727+08:00",
+    "file_name": "Loon_3.4.0(TF956).ipa"
+  },
+  "/巨魔商店 - TrollStore/lara_v0.1_中文版.ipa": {
+    "bundle_id": "com.roooot.lara",
+    "version": "0.1",
+    "build": "Release",
+    "name": "lara",
+    "path": "/巨魔商店 - TrollStore/lara_v0.1_中文版.ipa",
+    "size": 6053569,
+    "modified": "2026-05-12T19:02:29.957+08:00",
+    "file_name": "lara_v0.1_中文版.ipa"
+  },
+  "/巨魔商店 - TrollStore/Loon/Loon_3.4.0(TF953).ipa": {
+    "bundle_id": "com.ruikq.decar",
+    "version": "3.4.0",
+    "build": "953",
+    "name": "Loon",
+    "path": "/巨魔商店 - TrollStore/Loon/Loon_3.4.0(TF953).ipa",
+    "size": 26033232,
+    "modified": "2026-05-09T01:15:47.502+08:00",
+    "file_name": "Loon_3.4.0(TF953).ipa"
+  },
+  "/巨魔商店 - TrollStore/FastClean_1.6-安全版本.ipa": {
+    "bundle_id": "com.fastClean.hbs.floatinghud",
+    "version": "1.6",
+    "build": "45",
+    "name": "CacheCleanerHUDTool",
+    "path": "/巨魔商店 - TrollStore/FastClean_1.6-安全版本.ipa",
+    "size": 6324215,
+    "modified": "2026-05-12T18:57:49.076+08:00",
+    "file_name": "FastClean_1.6-安全版本.ipa"
+  },
+  "/巨魔商店 - TrollStore/Innerfold VPN_1.6_解锁内购.ipa": {
+    "bundle_id": "filtifyid",
+    "version": "1.6",
+    "build": "1",
+    "name": "Innerfold",
+    "path": "/巨魔商店 - TrollStore/Innerfold VPN_1.6_解锁内购.ipa",
+    "size": 5525791,
+    "modified": "2026-05-06T10:30:50.554+08:00",
+    "file_name": "Innerfold VPN_1.6_解锁内购.ipa"
+  },
+  "/巨魔商店 - TrollStore/Fast VPN_2.4_解锁会员.ipa": {
+    "bundle_id": "com.alphacrypt.vpn",
+    "version": "1.1.9",
+    "build": "23",
+    "name": "Fast VPN",
+    "path": "/巨魔商店 - TrollStore/Fast VPN_2.4_解锁会员.ipa",
+    "size": 30950730,
+    "modified": "2026-05-09T01:15:47.147+08:00",
+    "file_name": "Fast VPN_2.4_解锁会员.ipa"
+  },
+  "/巨魔商店 - TrollStore/PROVPN_2.01_解锁订阅.ipa": {
+    "bundle_id": "com.adpsafe.provpnwebshield",
+    "version": "2.01",
+    "build": "1",
+    "name": "PROVPN",
+    "path": "/巨魔商店 - TrollStore/PROVPN_2.01_解锁订阅.ipa",
+    "size": 13871403,
+    "modified": "2026-05-06T10:30:39.109+08:00",
+    "file_name": "PROVPN_2.01_解锁订阅.ipa"
+  },
+  "/巨魔商店 - TrollStore/Loon/Loon_3.4.0(TF952).ipa": {
+    "bundle_id": "com.ruikq.decar",
+    "version": "3.4.0",
+    "build": "952",
+    "name": "Loon",
+    "path": "/巨魔商店 - TrollStore/Loon/Loon_3.4.0(TF952).ipa",
+    "size": 26083706,
+    "modified": "2026-04-29T21:50:02.862+08:00",
+    "file_name": "Loon_3.4.0(TF952).ipa"
+  },
+  "/巨魔商店 - TrollStore/GGBall-Z3.4.ipa": {
+    "bundle_id": "com.GGBall.mumu",
+    "version": "3.4",
+    "build": "1",
+    "name": "TheBallz",
+    "path": "/巨魔商店 - TrollStore/GGBall-Z3.4.ipa",
+    "size": 5941888,
+    "modified": "2026-05-06T10:30:34.984+08:00",
+    "file_name": "GGBall-Z3.4.ipa"
+  },
+  "/巨魔商店 - TrollStore/iBox_2.4.4_巨魔版.ipa": {
+    "bundle_id": "com.super.tvbox",
+    "version": "2.4.4",
+    "build": "1",
+    "name": "iBox",
+    "path": "/巨魔商店 - TrollStore/iBox_2.4.4_巨魔版.ipa",
+    "size": 84458683,
+    "modified": "2026-04-24T10:33:29.469+08:00",
+    "file_name": "iBox_2.4.4_巨魔版.ipa"
+  },
+  "/巨魔商店 - TrollStore/Loon/Loon_3.4.0(TF947).ipa": {
+    "bundle_id": "com.ruikq.decar",
+    "version": "3.4.0",
+    "build": "946",
+    "name": "Loon",
+    "path": "/巨魔商店 - TrollStore/Loon/Loon_3.4.0(TF947).ipa",
+    "size": 25666017,
+    "modified": "2026-04-05T02:26:12.92+08:00",
+    "file_name": "Loon_3.4.0(TF947).ipa"
+  },
+  "/巨魔商店 - TrollStore/FilzaJailed_2.0.ipa": {
+    "bundle_id": "com.tigisoftware.Filza",
+    "version": "4.0",
+    "build": "0",
+    "name": "Filza",
+    "path": "/巨魔商店 - TrollStore/FilzaJailed_2.0.ipa",
+    "size": 14203949,
+    "modified": "2026-04-10T10:58:59.904+08:00",
+    "file_name": "FilzaJailed_2.0.ipa"
+  },
+  "/巨魔商店 - TrollStore/分屏/分屏_1.1无最小化.ipa": {
+    "bundle_id": "com.thefool.fenping",
+    "version": "1.1",
+    "build": "1.1",
+    "name": "分屏",
+    "path": "/巨魔商店 - TrollStore/分屏/分屏_1.1无最小化.ipa",
+    "size": 5006912,
+    "modified": "2026-03-14T03:09:27.602+08:00",
+    "file_name": "分屏_1.1无最小化.ipa"
+  },
+  "/巨魔商店 - TrollStore/番石榴_1.0.3_无限重置_点击右边重置按钮无限重置2天.ipa": {
+    "bundle_id": "com.balecc.iosv2",
+    "version": "1.0.3",
+    "build": "5",
+    "name": "番石榴",
+    "path": "/巨魔商店 - TrollStore/番石榴_1.0.3_无限重置_点击右边重置按钮无限重置2天.ipa",
+    "size": 18617494,
+    "modified": "2026-03-29T17:14:12.897+08:00",
+    "file_name": "番石榴_1.0.3_无限重置_点击右边重置按钮无限重置2天.ipa"
+  },
+  "/巨魔商店 - TrollStore/快柠檬_1.0.3_无限重置_点击右边重置按钮无限重置2天.ipa": {
+    "bundle_id": "com.falemon.ios230829",
+    "version": "1.0.3",
+    "build": "5",
+    "name": "快柠檬",
+    "path": "/巨魔商店 - TrollStore/快柠檬_1.0.3_无限重置_点击右边重置按钮无限重置2天.ipa",
+    "size": 20462129,
+    "modified": "2026-03-29T17:14:13.007+08:00",
+    "file_name": "快柠檬_1.0.3_无限重置_点击右边重置按钮无限重置2天.ipa"
+  },
+  "/巨魔商店 - TrollStore/分屏/分屏_1.1(最小化动画,其他优化).ipa": {
+    "bundle_id": "com.thefool.fenping",
+    "version": "1.1",
+    "build": "1.1",
+    "name": "分屏",
+    "path": "/巨魔商店 - TrollStore/分屏/分屏_1.1(最小化动画,其他优化).ipa",
+    "size": 2734895,
+    "modified": "2026-03-14T03:09:27.574+08:00",
+    "file_name": "分屏_1.1(最小化动画,其他优化).ipa"
+  },
+  "/巨魔商店 - TrollStore/分屏/分屏1.1(修复最小化图标问题).ipa": {
+    "bundle_id": "com.thefool.fenping",
+    "version": "1.1",
+    "build": "1.1",
+    "name": "分屏",
+    "path": "/巨魔商店 - TrollStore/分屏/分屏1.1(修复最小化图标问题).ipa",
+    "size": 3282918,
+    "modified": "2026-03-14T03:09:27.592+08:00",
+    "file_name": "分屏1.1(修复最小化图标问题).ipa"
+  },
+  "/巨魔商店 - TrollStore/分屏/分屏_1.1加最小化功能.ipa": {
+    "bundle_id": "com.thefool.fenping",
+    "version": "1.1",
+    "build": "1.1",
+    "name": "分屏",
+    "path": "/巨魔商店 - TrollStore/分屏/分屏_1.1加最小化功能.ipa",
+    "size": 4985074,
+    "modified": "2026-03-14T03:09:27.569+08:00",
+    "file_name": "分屏_1.1加最小化功能.ipa"
+  },
+  "/巨魔商店 - TrollStore/分屏/分屏_1.1(最新修复版).ipa": {
+    "bundle_id": "com.thefool.fenping",
+    "version": "1.1",
+    "build": "1.1",
+    "name": "分屏",
+    "path": "/巨魔商店 - TrollStore/分屏/分屏_1.1(最新修复版).ipa",
+    "size": 3274066,
+    "modified": "2026-03-14T03:09:27.565+08:00",
+    "file_name": "分屏_1.1(最新修复版).ipa"
+  },
+  "/巨魔商店 - TrollStore/分屏/分屏2.0Free到期2038年.ipa": {
+    "bundle_id": "com.thefool.TrollDualView",
+    "version": "2.1",
+    "build": "1",
+    "name": "巨魔分屏",
+    "path": "/巨魔商店 - TrollStore/分屏/分屏2.0Free到期2038年.ipa",
+    "size": 10027917,
+    "modified": "2026-03-14T03:09:27.379+08:00",
+    "file_name": "分屏2.0Free到期2038年.ipa"
+  },
+  "/巨魔商店 - TrollStore/三角洲绘制_彼岸花-无畏_1.1.3__3.9更新_仅限巨魔使用.ipa": {
+    "bundle_id": "com.XCWW.AppLoad",
+    "version": "1.1.3",
+    "build": "8b5d2e1e",
+    "name": "彼岸花-无畏",
+    "path": "/巨魔商店 - TrollStore/三角洲绘制_彼岸花-无畏_1.1.3__3.9更新_仅限巨魔使用.ipa",
+    "size": 4204151,
+    "modified": "2026-03-09T13:48:16.541+08:00",
+    "file_name": "三角洲绘制_彼岸花-无畏_1.1.3__3.9更新_仅限巨魔使用.ipa"
+  },
+  "/巨魔商店 - TrollStore/Loon/Loon_3.3.9(TF941).ipa": {
+    "bundle_id": "com.ruikq.decar",
+    "version": "3.3.9",
+    "build": "941",
+    "name": "Loon",
+    "path": "/巨魔商店 - TrollStore/Loon/Loon_3.3.9(TF941).ipa",
+    "size": 25938486,
+    "modified": "2026-03-07T17:11:17.952+08:00",
+    "file_name": "Loon_3.3.9(TF941).ipa"
+  },
+  "/巨魔商店 - TrollStore/三角洲绘制_S内核_1.12.1_3.9更新_仅限巨魔使用.ipa": {
+    "bundle_id": "ch.XCNB.app",
+    "version": "1.12.1",
+    "build": "c016dd82",
+    "name": "S内核",
+    "path": "/巨魔商店 - TrollStore/三角洲绘制_S内核_1.12.1_3.9更新_仅限巨魔使用.ipa",
+    "size": 4959747,
+    "modified": "2026-03-09T13:48:16.043+08:00",
+    "file_name": "三角洲绘制_S内核_1.12.1_3.9更新_仅限巨魔使用.ipa"
+  },
+  "/巨魔商店 - TrollStore/Loon/Loon_3.3.9(TF938).ipa": {
+    "bundle_id": "com.ruikq.decar",
+    "version": "3.3.9",
+    "build": "939",
+    "name": "Loon",
+    "path": "/巨魔商店 - TrollStore/Loon/Loon_3.3.9(TF938).ipa",
+    "size": 25937356,
+    "modified": "2026-03-04T15:11:40.688+08:00",
+    "file_name": "Loon_3.3.9(TF938).ipa"
+  },
+  "/巨魔商店 - TrollStore/三角洲绘制_密雪冰城-无畏_1.1.3__3.9更新_仅限巨魔使用.ipa": {
+    "bundle_id": "com.XCWW.Ap",
+    "version": "1.1.3",
+    "build": "8b5d2e1e",
+    "name": "密雪冰城-无畏",
+    "path": "/巨魔商店 - TrollStore/三角洲绘制_密雪冰城-无畏_1.1.3__3.9更新_仅限巨魔使用.ipa",
+    "size": 8677241,
+    "modified": "2026-03-09T13:48:14.776+08:00",
+    "file_name": "三角洲绘制_密雪冰城-无畏_1.1.3__3.9更新_仅限巨魔使用.ipa"
+  },
+  "/巨魔商店 - TrollStore/iBox_2.4.2_巨魔版.ipa": {
+    "bundle_id": "com.super.tvbox",
+    "version": "2.4.2",
+    "build": "1",
+    "name": "iBox",
+    "path": "/巨魔商店 - TrollStore/iBox_2.4.2_巨魔版.ipa",
+    "size": 83018091,
+    "modified": "2026-02-20T15:03:32.506+08:00",
+    "file_name": "iBox_2.4.2_巨魔版.ipa"
+  },
+  "/巨魔商店 - TrollStore/Shadowrocket/Shadowrocket_2.2.80.ipa": {
+    "bundle_id": "com.liguangming.Shadowrocket",
+    "version": "2.2.80",
+    "build": "3082",
+    "name": "Shadowrocket",
+    "path": "/巨魔商店 - TrollStore/Shadowrocket/Shadowrocket_2.2.80.ipa",
+    "size": 21991971,
+    "modified": "2026-02-19T20:37:43.484+08:00",
+    "file_name": "Shadowrocket_2.2.80.ipa"
+  },
+  "/巨魔商店 - TrollStore/Shadowrocket/Shadowrocket_2.2.79.ipa": {
+    "bundle_id": "com.liguangming.Shadowrocket",
+    "version": "2.2.79",
+    "build": "3074",
+    "name": "Shadowrocket",
+    "path": "/巨魔商店 - TrollStore/Shadowrocket/Shadowrocket_2.2.79.ipa",
+    "size": 22134540,
+    "modified": "2026-02-16T20:34:28.276+08:00",
+    "file_name": "Shadowrocket_2.2.79.ipa"
+  },
+  "/巨魔商店 - TrollStore/SpeedGG（网速悬浮）_ 3.2-Z_添加单独的缩小放大.ipa": {
+    "bundle_id": "com.SpeedGG.mumu",
+    "version": "3.2",
+    "build": "1",
+    "name": "SpeedGG-Z",
+    "path": "/巨魔商店 - TrollStore/SpeedGG（网速悬浮）_ 3.2-Z_添加单独的缩小放大.ipa",
+    "size": 1624447,
+    "modified": "2026-02-08T04:20:19.917+08:00",
+    "file_name": "SpeedGG（网速悬浮）_ 3.2-Z_添加单独的缩小放大.ipa"
+  },
+  "/巨魔商店 - TrollStore/Loon/Loon_3.3.8(TF932).ipa": {
+    "bundle_id": "com.ruikq.decar",
+    "version": "3.3.8",
+    "build": "932",
+    "name": "Loon",
+    "path": "/巨魔商店 - TrollStore/Loon/Loon_3.3.8(TF932).ipa",
+    "size": 25859949,
+    "modified": "2026-02-08T04:20:06.344+08:00",
+    "file_name": "Loon_3.3.8(TF932).ipa"
+  },
+  "/巨魔商店 - TrollStore/S42王者视距_不防封  一直有人要就发了  早就说了现在检测很严格  封号所以没发 建议小号测试.ipa": {
+    "bundle_id": "com.smoba.xb",
+    "version": "2.0",
+    "build": "1",
+    "name": "S42王者视距",
+    "path": "/巨魔商店 - TrollStore/S42王者视距_不防封  一直有人要就发了  早就说了现在检测很严格  封号所以没发 建议小号测试.ipa",
+    "size": 3714159,
+    "modified": "2026-02-10T12:42:12.864+08:00",
+    "file_name": "S42王者视距_不防封  一直有人要就发了  早就说了现在检测很严格  封号所以没发 建议小号测试.ipa"
+  },
+  "/巨魔商店 - TrollStore/Loon/Loon_3.3.8(TF930).ipa": {
+    "bundle_id": "com.ruikq.decar",
+    "version": "3.3.8",
+    "build": "930",
+    "name": "Loon",
+    "path": "/巨魔商店 - TrollStore/Loon/Loon_3.3.8(TF930).ipa",
+    "size": 25853989,
+    "modified": "2026-02-02T14:36:06.855+08:00",
+    "file_name": "Loon_3.3.8(TF930).ipa"
+  },
+  "/巨魔商店 - TrollStore/和平-天命1.4.4_合理使用，封号自理.ipa": {
+    "bundle_id": "com.jiayiPro.hudapp",
+    "version": "1.4.4",
+    "build": "c016dd82",
+    "name": "DeStiny",
+    "path": "/巨魔商店 - TrollStore/和平-天命1.4.4_合理使用，封号自理.ipa",
+    "size": 41536987,
+    "modified": "2026-02-02T14:36:28.372+08:00",
+    "file_name": "和平-天命1.4.4_合理使用，封号自理.ipa"
+  },
+  "/巨魔商店 - TrollStore/Shadowrocket/Shadowrocket_2.2.78.ipa": {
+    "bundle_id": "com.liguangming.Shadowrocket",
+    "version": "2.2.78",
+    "build": "3056",
+    "name": "Shadowrocket",
+    "path": "/巨魔商店 - TrollStore/Shadowrocket/Shadowrocket_2.2.78.ipa",
+    "size": 22115454,
+    "modified": "2026-01-30T16:38:30.836+08:00",
+    "file_name": "Shadowrocket_2.2.78.ipa"
+  },
+  "/巨魔商店 - TrollStore/Loon/Loon_3.3.8(TF936).ipa": {
+    "bundle_id": "com.ruikq.decar",
+    "version": "3.3.8",
+    "build": "936",
+    "name": "Loon",
+    "path": "/巨魔商店 - TrollStore/Loon/Loon_3.3.8(TF936).ipa",
+    "size": 25890289,
+    "modified": "2026-02-13T12:49:11.04+08:00",
+    "file_name": "Loon_3.3.8(TF936).ipa"
   }
 }
