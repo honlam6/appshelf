@@ -30,7 +30,10 @@ jobs:
             --path "/电脑软件 - Computer software" \
             --path "/巨魔商店 - TrollStore" \
             --path "/插件专区 - Plugin Zone" \
-            --depth 3 --limit 1000 --workers 10 \
+            --path "/全球资源 - Global resources/果粉猫网盘/ipa分享" \
+            --path "/全球资源 - Global resources/V200网盘/iphone/ipa软件" \
+            --path "/全球资源 - Global resources/小熊网盘/iphone/ipa软件" \
+            --depth 3 --limit 1500 --workers 10 \
             --icon-base "https://appshelf-egm.pages.dev" \
             --out docs/source.json --cache .cache/ipa.json
 
