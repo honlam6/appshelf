@@ -7,13 +7,102 @@
   "headerURL": "https://github.com/honlam6.png",
   "tintColor": "#6385ef",
   "featuredApps": [
+    "com.coolapk.app",
+    "com.intsig.CamScannerLite",
+    "com.dragon.read",
     "com.ScarletWork.CounterFlame",
-    "com.keplerinteractive.sifu",
-    "com.rockstargames.rdr",
-    "com.a5game.ltzj.jj",
-    "com.happyelements.1OSAnimal"
+    "com.keplerinteractive.sifu"
   ],
   "apps": [
+    {
+      "name": "酷安",
+      "bundleIdentifier": "com.coolapk.app",
+      "developerName": "App Shelf",
+      "subtitle": "酷安_16.7.ipa",
+      "localizedDescription": "酷安_16.7.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.coolapk.app.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "16.7",
+          "buildVersion": "2610231",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E9%85%B7%E5%AE%89_16.7.ipa",
+          "size": 85443593,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "扫描全能王",
+      "bundleIdentifier": "com.intsig.CamScannerLite",
+      "developerName": "App Shelf",
+      "subtitle": "扫描全能王_7.27.5.ipa",
+      "localizedDescription": "扫描全能王_7.27.5.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.intsig.CamScannerLite.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "7.27.5",
+          "buildVersion": "7.27.5.2610151544",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%89%AB%E6%8F%8F%E5%85%A8%E8%83%BD%E7%8E%8B_7.27.5.ipa",
+          "size": 202405237,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "7.26.6",
+          "buildVersion": "7.26.6.2609201836",
+          "date": "2026-09-28",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%89%AB%E6%8F%8F%E5%85%A8%E8%83%BD%E7%8E%8B_7.26.6.ipa",
+          "size": 202617515,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "番茄小说",
+      "bundleIdentifier": "com.dragon.read",
+      "developerName": "App Shelf",
+      "subtitle": "番茄小说_7.4.1.ipa",
+      "localizedDescription": "番茄小说_7.4.1.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.dragon.read.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "7.4.1",
+          "buildVersion": "7.4.1.32",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E7%95%AA%E8%8C%84%E5%B0%8F%E8%AF%B4_7.4.1.ipa",
+          "size": 307813329,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "7.3.9",
+          "buildVersion": "7.3.9.32",
+          "date": "2026-10-12",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E7%95%AA%E8%8C%84%E5%B0%8F%E8%AF%B4_7.3.9.ipa",
+          "size": 301228169,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "7.3.9",
+          "buildVersion": "7.3.9.32",
+          "date": "2026-10-05",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%95%AA%E8%8C%84%E5%B0%8F%E8%AF%B4_7.3.9_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
+          "size": 306307750,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "7.3.7",
+          "buildVersion": "7.3.7.32",
+          "date": "2026-09-14",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%95%AA%E8%8C%84%E5%B0%8F%E8%AF%B4_7.3.7_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
+          "size": 300543275,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
     {
       "name": "CounterFlame",
       "bundleIdentifier": "com.ScarletWork.CounterFlame",
@@ -4833,14 +4922,6 @@
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E6%84%A4%E6%80%92%E7%9A%84%E5%B0%8F%E9%B8%9F2_26.5.0.ipa",
           "size": 563868883,
           "minOSVersion": "14.0"
-        },
-        {
-          "version": "10.0.0",
-          "buildVersion": "50294897",
-          "date": "2026-05-11",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F3%2F%E6%84%A4%E6%80%92%E7%9A%84%E5%B0%8F%E9%B8%9F2_10.0.0.ipa",
-          "size": 675284536,
-          "minOSVersion": "14.0"
         }
       ]
     },
@@ -5006,14 +5087,6 @@
           "date": "2026-05-26",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F3%2F%E8%BE%B9%E7%8B%B1%E5%85%AC%E5%8F%B8_1.105.1.ipa",
           "size": 605530131,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.104.1",
-          "buildVersion": "1",
-          "date": "2026-05-11",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F3%2F%E8%BE%B9%E7%8B%B1%E5%85%AC%E5%8F%B8_1.104.1.ipa",
-          "size": 642058546,
           "minOSVersion": "14.0"
         }
       ]
@@ -9517,41 +9590,6 @@
       ]
     },
     {
-      "name": "番茄小说",
-      "bundleIdentifier": "com.dragon.read",
-      "developerName": "App Shelf",
-      "subtitle": "番茄小说_7.3.9.ipa",
-      "localizedDescription": "番茄小说_7.3.9.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.dragon.read.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "7.3.9",
-          "buildVersion": "7.3.9.32",
-          "date": "2026-10-12",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E7%95%AA%E8%8C%84%E5%B0%8F%E8%AF%B4_7.3.9.ipa",
-          "size": 301228169,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "7.3.9",
-          "buildVersion": "7.3.9.32",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%95%AA%E8%8C%84%E5%B0%8F%E8%AF%B4_7.3.9_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
-          "size": 306307750,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "7.3.7",
-          "buildVersion": "7.3.7.32",
-          "date": "2026-09-14",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%95%AA%E8%8C%84%E5%B0%8F%E8%AF%B4_7.3.7_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
-          "size": 300543275,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "劫后公司",
       "bundleIdentifier": "com.ndemiccreations.survivors",
       "developerName": "App Shelf",
@@ -11464,6 +11502,22 @@
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%80%AA%E5%85%BD%E8%81%9A%E5%90%88_1.1.4_%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%BF%9B%E5%85%A5%E8%BD%AF%E4%BB%B6%E9%80%89%E6%8B%A9%E7%BD%91%E7%BB%9C%E5%90%8E%E5%A4%A7%E9%80%80%E5%9C%A8%E9%87%8D%E6%96%B0%E8%BF%9B%E5%85%A5%E5%8D%B3%E5%8F%AF.ipa",
           "size": 18168255,
           "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.1.1",
+          "buildVersion": "1011",
+          "date": "2026-08-12",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FGS-1.11%28%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%E5%AE%89%E8%A3%85%29.ipa",
+          "size": 18180512,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.1.1",
+          "buildVersion": "1011",
+          "date": "2026-08-12",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FGS-1.11%28%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%E5%AE%89%E8%A3%85%29.ipa",
+          "size": 18180512,
+          "minOSVersion": "14.0"
         }
       ]
     },
@@ -12163,25 +12217,6 @@
           "date": "2026-09-28",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E5%89%B2%E7%BB%B3%E5%AD%902%EF%BC%9A%E5%B0%8F%E6%80%AA%E7%89%A9%E7%9A%84%E6%8E%A2%E7%B4%A2%E4%B9%8B%E6%97%85_1.17.2.ipa",
           "size": 87023307,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "扫描全能王",
-      "bundleIdentifier": "com.intsig.CamScannerLite",
-      "developerName": "App Shelf",
-      "subtitle": "扫描全能王_7.26.6.ipa",
-      "localizedDescription": "扫描全能王_7.26.6.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.intsig.CamScannerLite.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "7.26.6",
-          "buildVersion": "7.26.6.2609201836",
-          "date": "2026-09-28",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%89%AB%E6%8F%8F%E5%85%A8%E8%83%BD%E7%8E%8B_7.26.6.ipa",
-          "size": 202617515,
           "minOSVersion": "14.0"
         }
       ]
@@ -15828,25 +15863,6 @@
           "date": "2026-05-11",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E7%B3%BB%E7%BB%9F%E7%94%B5%E6%B1%A0%E5%88%86%E6%9E%90_1.8.2.ipa",
           "size": 44132799,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "解压小橙子",
-      "bundleIdentifier": "com.stress.test.record",
-      "developerName": "App Shelf",
-      "subtitle": "解压小橙子_12.2.ipa",
-      "localizedDescription": "解压小橙子_12.2.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.stress.test.record.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "12.2",
-          "buildVersion": "12.2",
-          "date": "2026-05-11",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E8%A7%A3%E5%8E%8B%E5%B0%8F%E6%A9%99%E5%AD%90_12.2.ipa",
-          "size": 157405605,
           "minOSVersion": "14.0"
         }
       ]

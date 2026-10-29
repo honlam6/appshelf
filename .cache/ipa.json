@@ -17688,5 +17688,35 @@
     "size": 60150790,
     "modified": "2026-10-29T12:52:05.317+08:00",
     "file_name": "Folia（音乐播放器）_2.2.4.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/酷安_16.7.ipa": {
+    "bundle_id": "com.coolapk.app",
+    "version": "16.7",
+    "build": "2610231",
+    "name": "酷安",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/酷安_16.7.ipa",
+    "size": 85443593,
+    "modified": "2026-10-29T22:37:29.363+08:00",
+    "file_name": "酷安_16.7.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/番茄小说_7.4.1.ipa": {
+    "bundle_id": "com.dragon.read",
+    "version": "7.4.1",
+    "build": "7.4.1.32",
+    "name": "番茄小说",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/番茄小说_7.4.1.ipa",
+    "size": 307813329,
+    "modified": "2026-10-29T22:37:08.2+08:00",
+    "file_name": "番茄小说_7.4.1.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/扫描全能王_7.27.5.ipa": {
+    "bundle_id": "com.intsig.CamScannerLite",
+    "version": "7.27.5",
+    "build": "7.27.5.2610151544",
+    "name": "扫描全能王",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/扫描全能王_7.27.5.ipa",
+    "size": 202405237,
+    "modified": "2026-10-29T22:37:23.721+08:00",
+    "file_name": "扫描全能王_7.27.5.ipa"
   }
 }
