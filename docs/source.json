@@ -5503,6 +5503,41 @@
       ]
     },
     {
+      "name": "怪兽聚合",
+      "bundleIdentifier": "com.look.vbox",
+      "developerName": "App Shelf",
+      "subtitle": "怪兽1.0.1 _全新UI_第一次进入软件选择网络后大退在重新进入即可.ipa",
+      "localizedDescription": "怪兽1.0.1 _全新UI_第一次进入软件选择网络后大退在重新进入即可.ipa",
+      "iconURL": "https://github.com/honlam6.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "buildVersion": "101",
+          "date": "2026-10-24",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%80%AA%E5%85%BD1.0.1%20_%E5%85%A8%E6%96%B0UI_%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%BF%9B%E5%85%A5%E8%BD%AF%E4%BB%B6%E9%80%89%E6%8B%A9%E7%BD%91%E7%BB%9C%E5%90%8E%E5%A4%A7%E9%80%80%E5%9C%A8%E9%87%8D%E6%96%B0%E8%BF%9B%E5%85%A5%E5%8D%B3%E5%8F%AF.ipa",
+          "size": 31176376,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.0.0",
+          "buildVersion": "100",
+          "date": "2026-10-21",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E6%80%AA%E5%85%BD%E8%81%9A%E5%90%88_1.0.0.ipa",
+          "size": 26370575,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.0.0",
+          "buildVersion": "100",
+          "date": "2026-10-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%80%AA%E5%85%BD%E8%81%9A%E5%90%88_1.0.0_%E5%85%A8%E6%96%B0UI_%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%BF%9B%E5%85%A5%E8%BD%AF%E4%BB%B6%E9%80%89%E6%8B%A9%E7%BD%91%E7%BB%9C%E5%90%8E%E5%A4%A7%E9%80%80%E5%9C%A8%E9%87%8D%E6%96%B0%E8%BF%9B%E5%85%A5%E5%8D%B3%E5%8F%AF.ipa",
+          "size": 24488352,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
       "name": "WeChat",
       "bundleIdentifier": "com.tencent.xin.watchapp",
       "developerName": "App Shelf",
@@ -6415,25 +6450,6 @@
           "date": "2026-06-29",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E9%BA%A6%E7%90%AA%E9%A1%BF%E5%BA%84%E5%9B%AD_1.205.0.ipa",
           "size": 416445614,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "怪兽聚合",
-      "bundleIdentifier": "com.look.vbox",
-      "developerName": "App Shelf",
-      "subtitle": "怪兽聚合_1.0.0.ipa",
-      "localizedDescription": "怪兽聚合_1.0.0.ipa",
-      "iconURL": "https://github.com/honlam6.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "buildVersion": "100",
-          "date": "2026-10-21",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E6%80%AA%E5%85%BD%E8%81%9A%E5%90%88_1.0.0.ipa",
-          "size": 26370575,
           "minOSVersion": "14.0"
         }
       ]
@@ -14465,6 +14481,25 @@
           "date": "2026-07-22",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2Fuz%E5%BD%B1%E8%A7%86_1.6.76.ipa",
           "size": 46679330,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "巨魔清理",
+      "bundleIdentifier": "com.local.trollcleaner",
+      "developerName": "App Shelf",
+      "subtitle": "TrollCleaner_2.1_清理垃圾_支持巨魔.ipa",
+      "localizedDescription": "TrollCleaner_2.1_清理垃圾_支持巨魔.ipa",
+      "iconURL": "https://github.com/honlam6.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "2.1",
+          "buildVersion": "12",
+          "date": "2026-07-19",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FTrollCleaner_2.1_%E6%B8%85%E7%90%86%E5%9E%83%E5%9C%BE_%E6%94%AF%E6%8C%81%E5%B7%A8%E9%AD%94.ipa",
+          "size": 2809989,
           "minOSVersion": "14.0"
         }
       ]
