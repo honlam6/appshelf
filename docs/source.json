@@ -7,13 +7,615 @@
   "headerURL": "https://github.com/honlam6.png",
   "tintColor": "#6385ef",
   "featuredApps": [
-    "com.tencent.wx",
-    "com.tencent.xin",
-    "com.tencent.qy.xin",
-    "com.rovio.baba",
-    "com.ChillyRoom.DungeonShooter"
+    "com.ScarletWork.CounterFlame",
+    "com.keplerinteractive.sifu",
+    "com.rockstargames.rdr",
+    "com.a5game.ltzj.jj",
+    "com.happyelements.1OSAnimal"
   ],
   "apps": [
+    {
+      "name": "CounterFlame",
+      "bundleIdentifier": "com.ScarletWork.CounterFlame",
+      "developerName": "App Shelf",
+      "subtitle": "CS2手游_5.8.61_全功能.ipa",
+      "localizedDescription": "CS2手游_5.8.61_全功能.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.ScarletWork.CounterFlame.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.3.0.1",
+          "buildVersion": "0",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_5.8.61_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 1797129480,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.3.0.1",
+          "buildVersion": "0",
+          "date": "2026-10-24",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_1.3.0.1_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 1795490637,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.3.0.1",
+          "buildVersion": "0",
+          "date": "2026-10-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_1.3.0.1_%E8%87%AA%E7%9E%84%E7%BB%98%E5%88%B6%E7%9A%AE%E8%82%A4%E8%A7%A3%E9%94%81%E7%AD%89.ipa",
+          "size": 1837241664,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "Sifu",
+      "bundleIdentifier": "com.keplerinteractive.sifu",
+      "developerName": "App Shelf",
+      "subtitle": "Sifu_1.0.254260_优化下载.ipa",
+      "localizedDescription": "Sifu_1.0.254260_优化下载.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.keplerinteractive.sifu.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.0.254260",
+          "buildVersion": "534",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FSifu_1.0.254260_%E4%BC%98%E5%8C%96%E4%B8%8B%E8%BD%BD.ipa",
+          "size": 1170365569,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.0.254260",
+          "buildVersion": "534",
+          "date": "2026-10-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FSifu_1.0.254260_%E6%9C%80%E7%BB%88%E7%89%88%E6%9C%AC.ipa",
+          "size": 1170453079,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.0.254260",
+          "buildVersion": "534",
+          "date": "2026-10-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FSifu_1.0.254260_iPad%E5%85%BC%E5%AE%B9%E7%89%88%E6%9C%AC.ipa",
+          "size": 1170365567,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.0.254260",
+          "buildVersion": "534",
+          "date": "2026-10-15",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FSifu_1.0.254260_%E4%BF%AE%E5%A4%8D%E4%B8%8B%E8%BD%BD.ipa",
+          "size": 1170203645,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "RDR",
+      "bundleIdentifier": "com.rockstargames.rdr",
+      "developerName": "App Shelf",
+      "subtitle": "荒野大镖客_1.58_无敌锁血一击秒杀_20261029_125258.ipa",
+      "localizedDescription": "荒野大镖客_1.58_无敌锁血一击秒杀_20261029_125258.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.rockstargames.rdr.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.58.63226194",
+          "buildVersion": "1.58.63226194",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E8%8D%92%E9%87%8E%E5%A4%A7%E9%95%96%E5%AE%A2_1.58_%E6%97%A0%E6%95%8C%E9%94%81%E8%A1%80%E4%B8%80%E5%87%BB%E7%A7%92%E6%9D%80_20261029_125258.ipa",
+          "size": 2873524812,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.58.63226194",
+          "buildVersion": "1.58.63226194",
+          "date": "2026-10-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E8%8D%92%E9%87%8E%E5%A4%A7%E9%95%96%E5%AE%A2_1.58_%E6%97%A0%E6%95%8C%E9%94%81%E8%A1%80%E4%B8%80%E5%87%BB%E7%A7%92%E6%9D%80.ipa",
+          "size": 2874006461,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "雷霆战机：集结",
+      "bundleIdentifier": "com.a5game.ltzj.jj",
+      "developerName": "App Shelf",
+      "subtitle": "雷霆战机_1.29.11_全功能.ipa",
+      "localizedDescription": "雷霆战机_1.29.11_全功能.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.a5game.ltzj.jj.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.29.11",
+          "buildVersion": "182",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E9%9B%B7%E9%9C%86%E6%88%98%E6%9C%BA_1.29.11_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 1264677492,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.28.10",
+          "buildVersion": "178",
+          "date": "2026-10-05",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E9%9B%B7%E9%9C%86%E6%88%98%E6%9C%BA_1.28.10_%E6%97%A0%E6%95%8C%E7%A7%92%E6%9D%80%E7%AD%89.ipa",
+          "size": 1203904123,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "开心消消乐",
+      "bundleIdentifier": "com.happyelements.1OSAnimal",
+      "developerName": "App Shelf",
+      "subtitle": "开心消消乐_1.162.236_无限体力道具等.ipa",
+      "localizedDescription": "开心消消乐_1.162.236_无限体力道具等.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.happyelements.1OSAnimal.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.162.236",
+          "buildVersion": "1.162.236",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90_1.162.236_%E6%97%A0%E9%99%90%E4%BD%93%E5%8A%9B%E9%81%93%E5%85%B7%E7%AD%89.ipa",
+          "size": 346154191,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.162.126",
+          "buildVersion": "1.162.126",
+          "date": "2026-10-09",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90_1.162.126_%E6%97%A0%E9%99%90%E9%81%93%E5%85%B7%E4%BD%93%E5%8A%9B.ipa",
+          "size": 326498560,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "GTA V",
+      "bundleIdentifier": "kuka.ioskuka.gtavios",
+      "developerName": "App Shelf",
+      "subtitle": "GTA V_6.5.2_兼容iOS15.ipa",
+      "localizedDescription": "GTA V_6.5.2_兼容iOS15.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/kuka.ioskuka.gtavios.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "6.5.2",
+          "buildVersion": "87",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_6.5.2_%E5%85%BC%E5%AE%B9iOS15.ipa",
+          "size": 86191688,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "6.4.5",
+          "buildVersion": "71",
+          "date": "2026-10-24",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_6.4.5_%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA.ipa",
+          "size": 85362846,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "6.2.1",
+          "buildVersion": "63",
+          "date": "2026-10-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_6.2.1_%E4%BC%98%E5%8C%96%E7%89%88%E6%9C%AC.ipa",
+          "size": 85215950,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "5.8.3",
+          "buildVersion": "61",
+          "date": "2026-10-25",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2FGTA%20V_5.8.3%40kuka.ioskuka.gtavios.ipa",
+          "size": 95575361,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "5.8.3",
+          "buildVersion": "61",
+          "date": "2026-10-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_5.8.3_%E4%BF%AE%E5%A4%8D%E4%B8%8B%E8%BD%BD%E7%AD%89%E5%A4%A7%E9%83%A8%E5%88%86%E9%97%AE%E9%A2%98.ipa",
+          "size": 87304456,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "4.2.0",
+          "buildVersion": "42",
+          "date": "2026-10-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_4.2.0_%E6%95%B4%E4%BD%93%E4%BC%98%E5%8C%96%E6%94%AF%E6%8C%81%E5%9C%A8%E7%BA%BFMod.ipa",
+          "size": 87352356,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.1",
+          "buildVersion": "15",
+          "date": "2026-10-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_1.0_%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA.ipa",
+          "size": 75639427,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "X",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "App Shelf",
+      "subtitle": "X_12.38_具有下载视频，翻译等多个功能.ipa",
+      "localizedDescription": "X_12.38_具有下载视频，翻译等多个功能.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.atebits.Tweetie2.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "12.38",
+          "buildVersion": "24",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.38_%E5%85%B7%E6%9C%89%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%EF%BC%8C%E7%BF%BB%E8%AF%91%E7%AD%89%E5%A4%9A%E4%B8%AA%E5%8A%9F%E8%83%BD.ipa",
+          "size": 286027629,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "12.35",
+          "buildVersion": "27",
+          "date": "2026-10-25",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2FTwitter_12.35.ipa",
+          "size": 279793908,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "12.35",
+          "buildVersion": "27",
+          "date": "2026-10-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.35_NFX_%E5%85%B7%E6%9C%89%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%EF%BC%8C%E7%BF%BB%E8%AF%91%E7%AD%89%E5%A4%9A%E4%B8%AA%E5%8A%9F%E8%83%BD.ipa",
+          "size": 282333821,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "12.31.1",
+          "buildVersion": "1",
+          "date": "2026-10-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2FTwitter_12.31.1.ipa",
+          "size": 273078164,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "12.29",
+          "buildVersion": "20",
+          "date": "2026-09-28",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.29_NFX_%E5%85%B7%E6%9C%89%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%EF%BC%8C%E7%BF%BB%E8%AF%91%E7%AD%89%E5%A4%9A%E4%B8%AA%E5%8A%9F%E8%83%BD_%E4%BB%85%E9%99%90iOS15.0%E5%8F%8A%E4%BB%A5%E4%B8%8A.ipa",
+          "size": 277560020,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "12.28",
+          "buildVersion": "12",
+          "date": "2026-09-21",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.28_%E6%8F%92%E4%BB%B6%E9%80%89%E9%A1%B9%E5%9C%A8%E6%8E%A8%E7%89%B9%E8%AE%BE%E7%BD%AE%E9%87%8C_%E4%BB%85%E9%99%90iOS15.0%E5%8F%8A%E4%BB%A5%E4%B8%8A.ipa",
+          "size": 283353369,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "12.27",
+          "buildVersion": "14",
+          "date": "2026-09-19",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.27_%E6%8F%92%E4%BB%B6%E9%80%89%E9%A1%B9%E5%9C%A8%E6%8E%A8%E7%89%B9%E8%AE%BE%E7%BD%AE%E9%87%8C_%E4%BB%85%E9%99%90iOS15.0%E5%8F%8A%E4%BB%A5%E4%B8%8A.ipa",
+          "size": 256219666,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "12.26",
+          "buildVersion": "18",
+          "date": "2026-09-15",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.26_NFX_%E5%85%B7%E6%9C%89%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%EF%BC%8C%E7%BF%BB%E8%AF%91%E7%AD%89%E5%A4%9A%E4%B8%AA%E5%8A%9F%E8%83%BD_%E4%BB%85%E9%99%90iOS15.0%E5%8F%8A%E4%BB%A5%E4%B8%8A.ipa",
+          "size": 270493179,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "12.11",
+          "buildVersion": "12",
+          "date": "2026-07-30",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2FTwitter_12.11.ipa",
+          "size": 244175759,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "12.3",
+          "buildVersion": "10",
+          "date": "2026-06-30",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2FTwitter_12.3.ipa",
+          "size": 241534624,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "12.0",
+          "buildVersion": "28",
+          "date": "2026-06-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FX_Twitter_12.0_NFB5.5_%E7%A7%8B%E5%90%8D%E5%B1%B1.ipa",
+          "size": 227259013,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "12.0",
+          "buildVersion": "28",
+          "date": "2026-06-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FX_Twitter_12.0_NFB5.5_%E7%A7%8B%E5%90%8D%E5%B1%B1.ipa",
+          "size": 227259013,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "11.88",
+          "buildVersion": "12",
+          "date": "2026-05-12",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2FX_11.88.ipa",
+          "size": 203584605,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "SoulKnight",
+      "bundleIdentifier": "com.ChillyRoom.DungeonShooter",
+      "developerName": "App Shelf",
+      "subtitle": "元气骑士_8.7.1_全功能.ipa",
+      "localizedDescription": "元气骑士_8.7.1_全功能.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.ChillyRoom.DungeonShooter.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "8.7.1",
+          "buildVersion": "1527",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.7.1_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 825202088,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.7.0",
+          "buildVersion": "1524",
+          "date": "2026-10-26",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.7.0.ipa",
+          "size": 856065542,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.6.0",
+          "buildVersion": "1519",
+          "date": "2026-09-25",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.6.0_%E5%85%A8%E5%8A%9F%E8%83%BD%E7%89%88.ipa",
+          "size": 801262637,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.5.1",
+          "buildVersion": "1517",
+          "date": "2026-09-21",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.5.1_%E5%85%A8%E5%8A%9F%E8%83%BD%E7%89%88_%E6%97%A0%E9%99%90%E8%A1%80%E9%87%8F%E6%97%A0%E9%99%90%E8%83%BD%E9%87%8F%E6%97%A0%E9%99%90%E6%8A%80%E8%83%BD.ipa",
+          "size": 774265704,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.5.1",
+          "buildVersion": "1517",
+          "date": "2026-09-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.5.1_%E5%85%A8%E5%8A%9F%E8%83%BD%E7%89%88.ipa",
+          "size": 774432858,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.5.1",
+          "buildVersion": "1517",
+          "date": "2026-09-07",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.5.1.ipa",
+          "size": 809238699,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.3.0",
+          "buildVersion": "1501",
+          "date": "2026-07-14",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.3.0.ipa",
+          "size": 839020246,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.3.0",
+          "buildVersion": "1501",
+          "date": "2026-06-14",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F3%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.3.0.ipa",
+          "size": 842039597,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.2.1",
+          "buildVersion": "1498",
+          "date": "2026-05-21",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F3%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.2.1.ipa",
+          "size": 827303046,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "D2R Mobile",
+      "bundleIdentifier": "org.d2rmobile.app",
+      "developerName": "App Shelf",
+      "subtitle": "暗黑2重制版_iOS26.ipa",
+      "localizedDescription": "暗黑2重制版_iOS26.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/org.d2rmobile.app.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.0.15",
+          "buildVersion": "1",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%9A%97%E9%BB%912%E9%87%8D%E5%88%B6%E7%89%88_iOS26.ipa",
+          "size": 147790250,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.0.15",
+          "buildVersion": "1",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%9A%97%E9%BB%912%E9%87%8D%E5%88%B6%E7%89%88_iOS18.ipa",
+          "size": 147789281,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "Folia",
+      "bundleIdentifier": "top.izuna.foliaios",
+      "developerName": "App Shelf",
+      "subtitle": "Folia（音乐播放器）_2.2.4.ipa",
+      "localizedDescription": "Folia（音乐播放器）_2.2.4.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/top.izuna.foliaios.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "2.2.4",
+          "buildVersion": "229",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FFolia%EF%BC%88%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%EF%BC%89_2.2.4.ipa",
+          "size": 60150790,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "飓风相机",
+      "bundleIdentifier": "com.ysjf.lutcamera",
+      "developerName": "App Shelf",
+      "subtitle": "飓风相机_1.8.7_解锁会员.ipa",
+      "localizedDescription": "飓风相机_1.8.7_解锁会员.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.ysjf.lutcamera.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.8.7",
+          "buildVersion": "230",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E9%A3%93%E9%A3%8E%E7%9B%B8%E6%9C%BA_1.8.7_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
+          "size": 75616823,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.8.6",
+          "buildVersion": "226",
+          "date": "2026-10-13",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E9%A3%93%E9%A3%8E%E7%9B%B8%E6%9C%BA_1.8.6_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98_%E8%A7%A3%E9%94%81%E6%89%80%E6%9C%89%E7%9B%B8%E6%9C%BA%E6%A8%A1%E5%BC%8F_%E9%9C%80%E8%A6%8117.0%E4%BB%A5%E4%B8%8A%E7%B3%BB%E7%BB%9F.ipa",
+          "size": 79612226,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.8.3",
+          "buildVersion": "209",
+          "date": "2026-09-25",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E9%A3%93%E9%A3%8E%E7%9B%B8%E6%9C%BA_1.8.3_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98_%E9%9C%80%E8%A6%8117.0%E4%BB%A5%E4%B8%8A%E7%B3%BB%E7%BB%9F.ipa",
+          "size": 79589897,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "怪兽聚合",
+      "bundleIdentifier": "com.look.vbox",
+      "developerName": "App Shelf",
+      "subtitle": "怪兽聚合_1.0.1_第一次进入软件选择网络后大退在重新进入即可.ipa",
+      "localizedDescription": "怪兽聚合_1.0.1_第一次进入软件选择网络后大退在重新进入即可.ipa",
+      "iconURL": "https://github.com/honlam6.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "buildVersion": "101",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%80%AA%E5%85%BD%E8%81%9A%E5%90%88_1.0.1_%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%BF%9B%E5%85%A5%E8%BD%AF%E4%BB%B6%E9%80%89%E6%8B%A9%E7%BD%91%E7%BB%9C%E5%90%8E%E5%A4%A7%E9%80%80%E5%9C%A8%E9%87%8D%E6%96%B0%E8%BF%9B%E5%85%A5%E5%8D%B3%E5%8F%AF.ipa",
+          "size": 31176376,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.0.0",
+          "buildVersion": "100",
+          "date": "2026-10-21",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E6%80%AA%E5%85%BD%E8%81%9A%E5%90%88_1.0.0.ipa",
+          "size": 26370575,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.0.0",
+          "buildVersion": "100",
+          "date": "2026-10-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%80%AA%E5%85%BD%E8%81%9A%E5%90%88_1.0.0_%E5%85%A8%E6%96%B0UI_%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%BF%9B%E5%85%A5%E8%BD%AF%E4%BB%B6%E9%80%89%E6%8B%A9%E7%BD%91%E7%BB%9C%E5%90%8E%E5%A4%A7%E9%80%80%E5%9C%A8%E9%87%8D%E6%96%B0%E8%BF%9B%E5%85%A5%E5%8D%B3%E5%8F%AF.ipa",
+          "size": 24488352,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "SoulKnightPrequel",
+      "bundleIdentifier": "com.chillyroom.soulknightprequel",
+      "developerName": "App Shelf",
+      "subtitle": "元气骑士前传_1.13.0_无敌秒杀等.ipa",
+      "localizedDescription": "元气骑士前传_1.13.0_无敌秒杀等.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.chillyroom.soulknightprequel.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.13.0",
+          "buildVersion": "2",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB%E5%89%8D%E4%BC%A0_1.13.0_%E6%97%A0%E6%95%8C%E7%A7%92%E6%9D%80%E7%AD%89.ipa",
+          "size": 494432175,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "泰拉瑞亚",
+      "bundleIdentifier": "com.idreamsky.terraria",
+      "developerName": "App Shelf",
+      "subtitle": "泰拉瑞亚_1.4.58002_无敌秒杀等.ipa",
+      "localizedDescription": "泰拉瑞亚_1.4.58002_无敌秒杀等.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.idreamsky.terraria.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.4.58002",
+          "buildVersion": "303706",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A_1.4.58002_%E6%97%A0%E6%95%8C%E7%A7%92%E6%9D%80%E7%AD%89.ipa",
+          "size": 331697134,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.4.58001",
+          "buildVersion": "303682",
+          "date": "2026-10-24",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A_14.58001_%E6%97%A0%E6%95%8C%E7%A7%92%E6%9D%80%E7%AD%89_20261024_122402.ipa",
+          "size": 331958585,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.4.58001",
+          "buildVersion": "303682",
+          "date": "2026-10-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A_14.58001_%E6%97%A0%E6%95%8C%E7%A7%92%E6%9D%80%E7%AD%89.ipa",
+          "size": 331836814,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.4.55005",
+          "buildVersion": "302362",
+          "date": "2026-05-19",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F3%2F%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A_1.4.55005.ipa",
+          "size": 334634712,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
     {
       "name": "微信",
       "bundleIdentifier": "com.tencent.wx",
@@ -4243,81 +4845,6 @@
       ]
     },
     {
-      "name": "元气骑士",
-      "bundleIdentifier": "com.ChillyRoom.DungeonShooter",
-      "developerName": "App Shelf",
-      "subtitle": "元气骑士_8.7.0.ipa",
-      "localizedDescription": "元气骑士_8.7.0.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.ChillyRoom.DungeonShooter.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "8.7.0",
-          "buildVersion": "1524",
-          "date": "2026-10-26",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.7.0.ipa",
-          "size": 856065542,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.6.0",
-          "buildVersion": "1519",
-          "date": "2026-09-25",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.6.0_%E5%85%A8%E5%8A%9F%E8%83%BD%E7%89%88.ipa",
-          "size": 801262637,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.5.1",
-          "buildVersion": "1517",
-          "date": "2026-09-21",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.5.1_%E5%85%A8%E5%8A%9F%E8%83%BD%E7%89%88_%E6%97%A0%E9%99%90%E8%A1%80%E9%87%8F%E6%97%A0%E9%99%90%E8%83%BD%E9%87%8F%E6%97%A0%E9%99%90%E6%8A%80%E8%83%BD.ipa",
-          "size": 774265704,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.5.1",
-          "buildVersion": "1517",
-          "date": "2026-09-20",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.5.1_%E5%85%A8%E5%8A%9F%E8%83%BD%E7%89%88.ipa",
-          "size": 774432858,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.5.1",
-          "buildVersion": "1517",
-          "date": "2026-09-07",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.5.1.ipa",
-          "size": 809238699,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.3.0",
-          "buildVersion": "1501",
-          "date": "2026-07-14",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.3.0.ipa",
-          "size": 839020246,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.3.0",
-          "buildVersion": "1501",
-          "date": "2026-06-14",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F3%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.3.0.ipa",
-          "size": 842039597,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.2.1",
-          "buildVersion": "1498",
-          "date": "2026-05-21",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F3%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.2.1.ipa",
-          "size": 827303046,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "台球世界",
       "bundleIdentifier": "com.dreamtop.DevelopBall8",
       "developerName": "App Shelf",
@@ -5251,113 +5778,6 @@
       ]
     },
     {
-      "name": "Twitter",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "App Shelf",
-      "subtitle": "Twitter_12.35.ipa",
-      "localizedDescription": "Twitter_12.35.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.atebits.Tweetie2.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "12.35",
-          "buildVersion": "27",
-          "date": "2026-10-25",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2FTwitter_12.35.ipa",
-          "size": 279793908,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "12.35",
-          "buildVersion": "27",
-          "date": "2026-10-20",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.35_NFX_%E5%85%B7%E6%9C%89%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%EF%BC%8C%E7%BF%BB%E8%AF%91%E7%AD%89%E5%A4%9A%E4%B8%AA%E5%8A%9F%E8%83%BD.ipa",
-          "size": 282333821,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "12.31.1",
-          "buildVersion": "1",
-          "date": "2026-10-08",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2FTwitter_12.31.1.ipa",
-          "size": 273078164,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "12.29",
-          "buildVersion": "20",
-          "date": "2026-09-28",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.29_NFX_%E5%85%B7%E6%9C%89%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%EF%BC%8C%E7%BF%BB%E8%AF%91%E7%AD%89%E5%A4%9A%E4%B8%AA%E5%8A%9F%E8%83%BD_%E4%BB%85%E9%99%90iOS15.0%E5%8F%8A%E4%BB%A5%E4%B8%8A.ipa",
-          "size": 277560020,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "12.28",
-          "buildVersion": "12",
-          "date": "2026-09-21",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.28_%E6%8F%92%E4%BB%B6%E9%80%89%E9%A1%B9%E5%9C%A8%E6%8E%A8%E7%89%B9%E8%AE%BE%E7%BD%AE%E9%87%8C_%E4%BB%85%E9%99%90iOS15.0%E5%8F%8A%E4%BB%A5%E4%B8%8A.ipa",
-          "size": 283353369,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "12.27",
-          "buildVersion": "14",
-          "date": "2026-09-19",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.27_%E6%8F%92%E4%BB%B6%E9%80%89%E9%A1%B9%E5%9C%A8%E6%8E%A8%E7%89%B9%E8%AE%BE%E7%BD%AE%E9%87%8C_%E4%BB%85%E9%99%90iOS15.0%E5%8F%8A%E4%BB%A5%E4%B8%8A.ipa",
-          "size": 256219666,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "12.26",
-          "buildVersion": "18",
-          "date": "2026-09-15",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.26_NFX_%E5%85%B7%E6%9C%89%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%EF%BC%8C%E7%BF%BB%E8%AF%91%E7%AD%89%E5%A4%9A%E4%B8%AA%E5%8A%9F%E8%83%BD_%E4%BB%85%E9%99%90iOS15.0%E5%8F%8A%E4%BB%A5%E4%B8%8A.ipa",
-          "size": 270493179,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "12.11",
-          "buildVersion": "12",
-          "date": "2026-07-30",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2FTwitter_12.11.ipa",
-          "size": 244175759,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "12.3",
-          "buildVersion": "10",
-          "date": "2026-06-30",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2FTwitter_12.3.ipa",
-          "size": 241534624,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "12.0",
-          "buildVersion": "28",
-          "date": "2026-06-22",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FX_Twitter_12.0_NFB5.5_%E7%A7%8B%E5%90%8D%E5%B1%B1.ipa",
-          "size": 227259013,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "12.0",
-          "buildVersion": "28",
-          "date": "2026-06-22",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FX_Twitter_12.0_NFB5.5_%E7%A7%8B%E5%90%8D%E5%B1%B1.ipa",
-          "size": 227259013,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "11.88",
-          "buildVersion": "12",
-          "date": "2026-05-12",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2FX_11.88.ipa",
-          "size": 203584605,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "SOUL",
       "bundleIdentifier": "com.soulapp.cn",
       "developerName": "App Shelf",
@@ -5439,100 +5859,6 @@
           "date": "2026-06-17",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%89%AB%E6%8F%8F%E7%8E%8B_5.14.46.ipa",
           "size": 112601482,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "GTA V",
-      "bundleIdentifier": "kuka.ioskuka.gtavios",
-      "developerName": "App Shelf",
-      "subtitle": "GTA V_6.4.5_优化增强.ipa",
-      "localizedDescription": "GTA V_6.4.5_优化增强.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/kuka.ioskuka.gtavios.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "6.4.5",
-          "buildVersion": "71",
-          "date": "2026-10-24",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_6.4.5_%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA.ipa",
-          "size": 85362846,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "6.2.1",
-          "buildVersion": "63",
-          "date": "2026-10-22",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_6.2.1_%E4%BC%98%E5%8C%96%E7%89%88%E6%9C%AC.ipa",
-          "size": 85215950,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "5.8.3",
-          "buildVersion": "61",
-          "date": "2026-10-25",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2FGTA%20V_5.8.3%40kuka.ioskuka.gtavios.ipa",
-          "size": 95575361,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "5.8.3",
-          "buildVersion": "61",
-          "date": "2026-10-22",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_5.8.3_%E4%BF%AE%E5%A4%8D%E4%B8%8B%E8%BD%BD%E7%AD%89%E5%A4%A7%E9%83%A8%E5%88%86%E9%97%AE%E9%A2%98.ipa",
-          "size": 87304456,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "4.2.0",
-          "buildVersion": "42",
-          "date": "2026-10-20",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_4.2.0_%E6%95%B4%E4%BD%93%E4%BC%98%E5%8C%96%E6%94%AF%E6%8C%81%E5%9C%A8%E7%BA%BFMod.ipa",
-          "size": 87352356,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.1",
-          "buildVersion": "15",
-          "date": "2026-10-18",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_1.0_%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA.ipa",
-          "size": 75639427,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "怪兽聚合",
-      "bundleIdentifier": "com.look.vbox",
-      "developerName": "App Shelf",
-      "subtitle": "怪兽1.0.1 _全新UI_第一次进入软件选择网络后大退在重新进入即可.ipa",
-      "localizedDescription": "怪兽1.0.1 _全新UI_第一次进入软件选择网络后大退在重新进入即可.ipa",
-      "iconURL": "https://github.com/honlam6.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "1.0.1",
-          "buildVersion": "101",
-          "date": "2026-10-24",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%80%AA%E5%85%BD1.0.1%20_%E5%85%A8%E6%96%B0UI_%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%BF%9B%E5%85%A5%E8%BD%AF%E4%BB%B6%E9%80%89%E6%8B%A9%E7%BD%91%E7%BB%9C%E5%90%8E%E5%A4%A7%E9%80%80%E5%9C%A8%E9%87%8D%E6%96%B0%E8%BF%9B%E5%85%A5%E5%8D%B3%E5%8F%AF.ipa",
-          "size": 31176376,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.0.0",
-          "buildVersion": "100",
-          "date": "2026-10-21",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E6%80%AA%E5%85%BD%E8%81%9A%E5%90%88_1.0.0.ipa",
-          "size": 26370575,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.0.0",
-          "buildVersion": "100",
-          "date": "2026-10-20",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%80%AA%E5%85%BD%E8%81%9A%E5%90%88_1.0.0_%E5%85%A8%E6%96%B0UI_%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%BF%9B%E5%85%A5%E8%BD%AF%E4%BB%B6%E9%80%89%E6%8B%A9%E7%BD%91%E7%BB%9C%E5%90%8E%E5%A4%A7%E9%80%80%E5%9C%A8%E9%87%8D%E6%96%B0%E8%BF%9B%E5%85%A5%E5%8D%B3%E5%8F%AF.ipa",
-          "size": 24488352,
           "minOSVersion": "14.0"
         }
       ]
@@ -5651,68 +5977,6 @@
           "date": "2026-09-28",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E6%A8%A1%E6%8B%9F%E4%BA%BA%E7%94%9F%EF%BC%9A%E7%95%85%E7%8E%A9%E7%89%88_117.1.280231.ipa",
           "size": 1736860184,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "CounterFlame",
-      "bundleIdentifier": "com.ScarletWork.CounterFlame",
-      "developerName": "App Shelf",
-      "subtitle": "CS2手游_1.3.0.1_全功能.ipa",
-      "localizedDescription": "CS2手游_1.3.0.1_全功能.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.ScarletWork.CounterFlame.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "1.3.0.1",
-          "buildVersion": "0",
-          "date": "2026-10-24",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_1.3.0.1_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
-          "size": 1795490637,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.3.0.1",
-          "buildVersion": "0",
-          "date": "2026-10-22",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_1.3.0.1_%E8%87%AA%E7%9E%84%E7%BB%98%E5%88%B6%E7%9A%AE%E8%82%A4%E8%A7%A3%E9%94%81%E7%AD%89.ipa",
-          "size": 1837241664,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "泰拉瑞亚",
-      "bundleIdentifier": "com.idreamsky.terraria",
-      "developerName": "App Shelf",
-      "subtitle": "泰拉瑞亚_14.58001_无敌秒杀等_20261024_122402.ipa",
-      "localizedDescription": "泰拉瑞亚_14.58001_无敌秒杀等_20261024_122402.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.idreamsky.terraria.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "1.4.58001",
-          "buildVersion": "303682",
-          "date": "2026-10-24",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A_14.58001_%E6%97%A0%E6%95%8C%E7%A7%92%E6%9D%80%E7%AD%89_20261024_122402.ipa",
-          "size": 331958585,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.4.58001",
-          "buildVersion": "303682",
-          "date": "2026-10-20",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A_14.58001_%E6%97%A0%E6%95%8C%E7%A7%92%E6%9D%80%E7%AD%89.ipa",
-          "size": 331836814,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.4.55005",
-          "buildVersion": "302362",
-          "date": "2026-05-19",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F3%2F%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A_1.4.55005.ipa",
-          "size": 334634712,
           "minOSVersion": "14.0"
         }
       ]
@@ -6327,14 +6591,6 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "40.4.0",
-          "buildVersion": "404017",
-          "date": "2026-09-11",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%8A%96%E9%9F%B3_40.4.0_%E6%8A%96%E9%9F%B3%E5%8A%A9%E6%89%8B_%E6%B3%A8%E5%85%A5Yuki%E9%98%B2%E6%92%A4%E5%9B%9E%E6%8F%92%E4%BB%B6%E7%AD%89%EF%BC%8C%E8%AE%BE%E7%BD%AE%E6%89%93%E5%BC%80%E5%8D%B3%E5%8F%AF.ipa",
-          "size": 720688911,
-          "minOSVersion": "14.0"
-        },
-        {
           "version": "39.5.0",
           "buildVersion": "395012",
           "date": "2026-08-25",
@@ -6407,14 +6663,6 @@
           "date": "2026-09-17",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_46.9.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
           "size": 531199123,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "46.8.0",
-          "buildVersion": "468036",
-          "date": "2026-09-11",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_46.8.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
-          "size": 493202154,
           "minOSVersion": "14.0"
         }
       ]
@@ -6650,14 +6898,6 @@
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FKumone%EF%BC%88%E7%AC%AC%E4%B8%89%E6%96%B9%E7%BD%91%E6%98%93%E4%BA%91%EF%BC%89_0.3.18_%E6%9C%80%E4%BD%8E%E6%94%AF%E6%8C%81iOS16%2B%E7%B3%BB%E7%BB%9F.ipa",
           "size": 7321751,
           "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.3.17",
-          "buildVersion": "141",
-          "date": "2026-09-11",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FKumone%EF%BC%88%E7%AC%AC%E4%B8%89%E6%96%B9%E7%BD%91%E6%98%93%E4%BA%91%EF%BC%89_0.3.17_%E6%9C%80%E4%BD%8E%E6%94%AF%E6%8C%81iOS16%2B%E7%B3%BB%E7%BB%9F.ipa",
-          "size": 7248832,
-          "minOSVersion": "14.0"
         }
       ]
     },
@@ -6692,14 +6932,6 @@
           "date": "2026-09-14",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94_7.63.1_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98_%E7%AD%BE%E5%90%8D%E7%A7%BB%E9%99%A4EMB%E4%B8%8D%E4%BC%9A%E6%8F%90%E7%A4%BA%E7%89%88%E6%9C%AC%E8%BF%87%E4%BD%8E.ipa",
           "size": 119336846,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "7.63.1",
-          "buildVersion": "1",
-          "date": "2026-09-14",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94Pro_7.63.1_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98_%E8%AF%81%E4%B9%A6%E5%8F%AF%E8%83%BD%E4%B8%8D%E6%94%AF%E6%8C%81Pro%EF%BC%8C%E5%85%88%E5%AE%89%E8%A3%85%E6%99%AE%E9%80%9A%E7%89%88%E5%86%8D%E5%AE%89%E8%A3%85Pro%E5%8F%AF%E8%A7%A3%E5%86%B3%E5%B0%8F%E7%BB%84%E4%BB%B6%E9%97%AE%E9%A2%98.ipa",
-          "size": 74063274,
           "minOSVersion": "14.0"
         }
       ]
@@ -7186,41 +7418,6 @@
       ]
     },
     {
-      "name": "Sifu",
-      "bundleIdentifier": "com.keplerinteractive.sifu",
-      "developerName": "App Shelf",
-      "subtitle": "Sifu_1.0.254260_最终版本.ipa",
-      "localizedDescription": "Sifu_1.0.254260_最终版本.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.keplerinteractive.sifu.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "1.0.254260",
-          "buildVersion": "534",
-          "date": "2026-10-18",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FSifu_1.0.254260_%E6%9C%80%E7%BB%88%E7%89%88%E6%9C%AC.ipa",
-          "size": 1170453079,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.0.254260",
-          "buildVersion": "534",
-          "date": "2026-10-18",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FSifu_1.0.254260_iPad%E5%85%BC%E5%AE%B9%E7%89%88%E6%9C%AC.ipa",
-          "size": 1170365567,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.0.254260",
-          "buildVersion": "534",
-          "date": "2026-10-15",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FSifu_1.0.254260_%E4%BF%AE%E5%A4%8D%E4%B8%8B%E8%BD%BD.ipa",
-          "size": 1170203645,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "Stardew Valley",
       "bundleIdentifier": "com.chucklefish.stardewvalley",
       "developerName": "App Shelf",
@@ -7243,25 +7440,6 @@
           "date": "2026-10-15",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD_16.15.5_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
           "size": 308631281,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "RDR",
-      "bundleIdentifier": "com.rockstargames.rdr",
-      "developerName": "App Shelf",
-      "subtitle": "荒野大镖客_1.58_无敌锁血一击秒杀.ipa",
-      "localizedDescription": "荒野大镖客_1.58_无敌锁血一击秒杀.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.rockstargames.rdr.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "1.58.63226194",
-          "buildVersion": "1.58.63226194",
-          "date": "2026-10-18",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E8%8D%92%E9%87%8E%E5%A4%A7%E9%95%96%E5%AE%A2_1.58_%E6%97%A0%E6%95%8C%E9%94%81%E8%A1%80%E4%B8%80%E5%87%BB%E7%A7%92%E6%9D%80.ipa",
-          "size": 2874006461,
           "minOSVersion": "14.0"
         }
       ]
@@ -8764,33 +8942,6 @@
       ]
     },
     {
-      "name": "飓风相机",
-      "bundleIdentifier": "com.ysjf.lutcamera",
-      "developerName": "App Shelf",
-      "subtitle": "飓风相机_1.8.6_解锁会员_解锁所有相机模式_需要17.0以上系统.ipa",
-      "localizedDescription": "飓风相机_1.8.6_解锁会员_解锁所有相机模式_需要17.0以上系统.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.ysjf.lutcamera.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "1.8.6",
-          "buildVersion": "226",
-          "date": "2026-10-13",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E9%A3%93%E9%A3%8E%E7%9B%B8%E6%9C%BA_1.8.6_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98_%E8%A7%A3%E9%94%81%E6%89%80%E6%9C%89%E7%9B%B8%E6%9C%BA%E6%A8%A1%E5%BC%8F_%E9%9C%80%E8%A6%8117.0%E4%BB%A5%E4%B8%8A%E7%B3%BB%E7%BB%9F.ipa",
-          "size": 79612226,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.8.3",
-          "buildVersion": "209",
-          "date": "2026-09-25",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E9%A3%93%E9%A3%8E%E7%9B%B8%E6%9C%BA_1.8.3_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98_%E9%9C%80%E8%A6%8117.0%E4%BB%A5%E4%B8%8A%E7%B3%BB%E7%BB%9F.ipa",
-          "size": 79589897,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "MiniWatts",
       "bundleIdentifier": "org.zhaohe.MiniWatts",
       "developerName": "App Shelf",
@@ -8838,14 +8989,6 @@
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FMiniWatts_1.2.0_%E7%94%B5%E6%B1%A0%E7%AE%A1%E7%90%86_%E6%9C%80%E4%BD%8E%E6%94%AF%E6%8C%81iOS17.0%2B.ipa",
           "size": 3168189,
           "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.0",
-          "buildVersion": "1",
-          "date": "2026-09-11",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FMiniWatts%EF%BC%88%E5%85%85%E7%94%B5%E4%BF%A1%E6%81%AF%EF%BC%89_1.0_%E6%9C%80%E4%BD%8E%E6%94%AF%E6%8C%81iOS17%2B%E7%B3%BB%E7%BB%9F.ipa",
-          "size": 2905109,
-          "minOSVersion": "14.0"
         }
       ]
     },
@@ -8883,14 +9026,6 @@
           "date": "2026-10-13",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FFilza%20Mod_1.2.0_%E6%94%AF%E6%8C%81iOS18%EF%BC%8CiOS26%E5%92%8CiOS%2027.0%20Beta1-4%20%E7%B3%BB%E7%BB%9F.ipa",
           "size": 14947021,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "2.0",
-          "buildVersion": "8",
-          "date": "2026-09-14",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F3105_2.0_iOS17.0%2B_%E4%B8%80%E9%94%AE%E6%B8%85%E7%90%86%E7%BC%93%E5%AD%98%E5%9E%83%E5%9C%BE.ipa",
-          "size": 4604223,
           "minOSVersion": "14.0"
         }
       ]
@@ -10085,33 +10220,6 @@
       ]
     },
     {
-      "name": "开心消消乐",
-      "bundleIdentifier": "com.happyelements.1OSAnimal",
-      "developerName": "App Shelf",
-      "subtitle": "开心消消乐_1.162.126_无限道具体力.ipa",
-      "localizedDescription": "开心消消乐_1.162.126_无限道具体力.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.happyelements.1OSAnimal.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "1.162.126",
-          "buildVersion": "1.162.126",
-          "date": "2026-10-09",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90_1.162.126_%E6%97%A0%E9%99%90%E9%81%93%E5%85%B7%E4%BD%93%E5%8A%9B.ipa",
-          "size": 326498560,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.161.5",
-          "buildVersion": "1.161.5",
-          "date": "2026-09-11",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90_1.161.5-2_%E6%97%A0%E9%99%90%E9%81%93%E5%85%B7%E4%BD%93%E5%8A%9B.ipa",
-          "size": 327586910,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "Into the Dead 2",
       "bundleIdentifier": "com.pikpok.dr2.iosstore",
       "developerName": "App Shelf",
@@ -10363,14 +10471,6 @@
           "date": "2026-09-25",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98_13.34.0_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98_%E9%99%A4%E4%BA%86%E4%B8%8B%E8%BD%BD%E5%8A%A0%E9%80%9F%E5%AE%8C%E5%85%A8%E5%8A%A0%E9%80%9F%E5%A4%96%EF%BC%8C%E5%85%B6%E4%BB%96%E4%BC%9A%E5%91%98%E5%8A%9F%E8%83%BD%E5%9F%BA%E6%9C%AC%E9%83%BD%E8%A7%A3%E9%94%81%E4%BA%86.ipa",
           "size": 445081556,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "13.32.2",
-          "buildVersion": "13.32.2.4",
-          "date": "2026-09-12",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98_13.32.2_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98_%E8%A7%A3%E9%94%81%E9%83%A8%E5%88%86%E4%BC%9A%E5%91%98%E5%8A%9F%E8%83%BD.ipa",
-          "size": 443923254,
           "minOSVersion": "14.0"
         },
         {
@@ -10921,14 +11021,6 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "0.27.0.0",
-          "buildVersion": "0.27.0.0",
-          "date": "2026-09-11",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8%E6%9D%82%E4%BA%A4_0.27.0_%E4%BF%AE%E5%A4%8DBUG.ipa",
-          "size": 360070658,
-          "minOSVersion": "14.0"
-        },
-        {
           "version": "0.25.0.0",
           "buildVersion": "0.25.0.0",
           "date": "2026-07-30",
@@ -11007,25 +11099,6 @@
           "date": "2026-10-05",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%B9%BB%E6%83%B3%E7%94%9F%E6%B4%BBi_2_2_2_App%20Store%E4%BB%98%E8%B4%B9%E6%B8%B8%E6%88%8F_%E9%87%91%E5%B8%81%E5%8A%A09999999.ipa",
           "size": 3201783093,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "雷霆战机：集结",
-      "bundleIdentifier": "com.a5game.ltzj.jj",
-      "developerName": "App Shelf",
-      "subtitle": "雷霆战机_1.28.10_无敌秒杀等.ipa",
-      "localizedDescription": "雷霆战机_1.28.10_无敌秒杀等.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.a5game.ltzj.jj.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "1.28.10",
-          "buildVersion": "178",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E9%9B%B7%E9%9C%86%E6%88%98%E6%9C%BA_1.28.10_%E6%97%A0%E6%95%8C%E7%A7%92%E6%9D%80%E7%AD%89.ipa",
-          "size": 1203904123,
           "minOSVersion": "14.0"
         }
       ]
@@ -11391,22 +11464,6 @@
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%80%AA%E5%85%BD%E8%81%9A%E5%90%88_1.1.4_%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%BF%9B%E5%85%A5%E8%BD%AF%E4%BB%B6%E9%80%89%E6%8B%A9%E7%BD%91%E7%BB%9C%E5%90%8E%E5%A4%A7%E9%80%80%E5%9C%A8%E9%87%8D%E6%96%B0%E8%BF%9B%E5%85%A5%E5%8D%B3%E5%8F%AF.ipa",
           "size": 18168255,
           "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.1.1",
-          "buildVersion": "1011",
-          "date": "2026-08-12",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FGS-1.11%28%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%E5%AE%89%E8%A3%85%29.ipa",
-          "size": 18180512,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.1.1",
-          "buildVersion": "1011",
-          "date": "2026-08-12",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FGS-1.11%28%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%E5%AE%89%E8%A3%85%29.ipa",
-          "size": 18180512,
-          "minOSVersion": "14.0"
         }
       ]
     },
@@ -11433,14 +11490,6 @@
           "date": "2026-10-05",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FSurge_5.102.0%EF%BC%88TF3853%EF%BC%89.ipa",
           "size": 53807219,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "5.102.0",
-          "buildVersion": "3835",
-          "date": "2026-09-11",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FSurge_5.102.0_TF_%E6%94%AF%E6%8C%81%E8%AF%81%E4%B9%A6.ipa",
-          "size": 44147285,
           "minOSVersion": "14.0"
         },
         {
@@ -12160,14 +12209,6 @@
           "date": "2026-09-23",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%96%AF%E7%8B%82%E8%83%8C%E5%8D%95%E8%AF%8D_2.26_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
           "size": 55347441,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "2.25",
-          "buildVersion": "3",
-          "date": "2026-09-12",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%96%AF%E7%8B%82%E8%83%8C%E5%8D%95%E8%AF%8D_2.25_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
-          "size": 51751498,
           "minOSVersion": "14.0"
         }
       ]
@@ -12901,14 +12942,6 @@
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%88%91%E7%9A%84%E6%A1%8C%E9%9D%A2%C2%B7iScreen_5.1.05_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
           "size": 327231443,
           "minOSVersion": "14.0"
-        },
-        {
-          "version": "5.0.15",
-          "buildVersion": "8",
-          "date": "2026-09-11",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%88%91%E7%9A%84%E6%A1%8C%E9%9D%A2%C2%B7iScreen_5.0.15_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98_20260911_164350.ipa",
-          "size": 444843674,
-          "minOSVersion": "14.0"
         }
       ]
     },
@@ -13186,44 +13219,6 @@
           "date": "2026-09-14",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FVidHub_3.0.6_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98_%E7%82%B9%E8%B4%AD%E4%B9%B0%E7%82%B9%E5%8F%96%E6%B6%88%E8%A7%A3%E9%94%81.ipa",
           "size": 68152638,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "h3kb",
-      "bundleIdentifier": "com.ihsiao.apps.Hamster3",
-      "developerName": "App Shelf",
-      "subtitle": "元书输入法_1.8.1_解锁会员.ipa",
-      "localizedDescription": "元书输入法_1.8.1_解锁会员.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.ihsiao.apps.Hamster3.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "1.8.1",
-          "buildVersion": "526",
-          "date": "2026-09-12",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%85%83%E4%B9%A6%E8%BE%93%E5%85%A5%E6%B3%95_1.8.1_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
-          "size": 45976882,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "SynFit",
-      "bundleIdentifier": "com.xunji.react.native.app",
-      "developerName": "App Shelf",
-      "subtitle": "训记_7.00.385_解锁会员.ipa",
-      "localizedDescription": "训记_7.00.385_解锁会员.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.xunji.react.native.app.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "7.00.385",
-          "buildVersion": "1",
-          "date": "2026-09-12",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E8%AE%AD%E8%AE%B0_7.00.385_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
-          "size": 252273875,
           "minOSVersion": "14.0"
         }
       ]
