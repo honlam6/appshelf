@@ -17808,5 +17808,265 @@
     "size": 242601727,
     "modified": "2026-10-30T09:05:31.362+08:00",
     "file_name": "Facebook_584.1.0.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.75/微信_8.0.75多开qy简洁版1030.ipa": {
+    "bundle_id": "com.tencent.qy.xin",
+    "version": "8.0.75",
+    "build": "8.0.75.33",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.75/微信_8.0.75多开qy简洁版1030.ipa",
+    "size": 438594909,
+    "modified": "2026-10-30T21:48:12.206+08:00",
+    "file_name": "微信_8.0.75多开qy简洁版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.80/微信_8.0.80多开wx美化版1030.ipa": {
+    "bundle_id": "com.tencent.wx",
+    "version": "8.0.80",
+    "build": "8.0.80.34",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.80/微信_8.0.80多开wx美化版1030.ipa",
+    "size": 548450995,
+    "modified": "2026-10-30T21:51:55.626+08:00",
+    "file_name": "微信_8.0.80多开wx美化版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.79/微信_8.0.79多开qy美化版1030.ipa": {
+    "bundle_id": "com.tencent.qy.xin",
+    "version": "8.0.79",
+    "build": "8.0.79.35",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.79/微信_8.0.79多开qy美化版1030.ipa",
+    "size": 532323922,
+    "modified": "2026-10-30T21:54:19.165+08:00",
+    "file_name": "微信_8.0.79多开qy美化版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.80/微信_8.0.80多开qy美化版1030.ipa": {
+    "bundle_id": "com.tencent.qy.xin",
+    "version": "8.0.80",
+    "build": "8.0.80.34",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.80/微信_8.0.80多开qy美化版1030.ipa",
+    "size": 548451014,
+    "modified": "2026-10-30T21:49:29.313+08:00",
+    "file_name": "微信_8.0.80多开qy美化版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.79/微信_8.0.79官替简洁版1030.ipa": {
+    "bundle_id": "com.tencent.xin",
+    "version": "8.0.79",
+    "build": "8.0.79.35",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.79/微信_8.0.79官替简洁版1030.ipa",
+    "size": 489365391,
+    "modified": "2026-10-30T21:50:38.47+08:00",
+    "file_name": "微信_8.0.79官替简洁版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.80/微信_8.0.80官替简洁版1030.ipa": {
+    "bundle_id": "com.tencent.xin",
+    "version": "8.0.80",
+    "build": "8.0.80.34",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.80/微信_8.0.80官替简洁版1030.ipa",
+    "size": 505492661,
+    "modified": "2026-10-30T21:43:55.501+08:00",
+    "file_name": "微信_8.0.80官替简洁版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.75/微信_8.0.75多开qy精简版1030.ipa": {
+    "bundle_id": "com.tencent.qy.xin",
+    "version": "8.0.75",
+    "build": "8.0.75.33",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.75/微信_8.0.75多开qy精简版1030.ipa",
+    "size": 415335760,
+    "modified": "2026-10-30T21:47:10.256+08:00",
+    "file_name": "微信_8.0.75多开qy精简版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.75/微信_8.0.75多开wx美化版1030.ipa": {
+    "bundle_id": "com.tencent.wx",
+    "version": "8.0.75",
+    "build": "8.0.75.33",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.75/微信_8.0.75多开wx美化版1030.ipa",
+    "size": 481553490,
+    "modified": "2026-10-30T21:46:12.465+08:00",
+    "file_name": "微信_8.0.75多开wx美化版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.80/微信_8.0.80多开qy精简版1030.ipa": {
+    "bundle_id": "com.tencent.qy.xin",
+    "version": "8.0.80",
+    "build": "8.0.80.34",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.80/微信_8.0.80多开qy精简版1030.ipa",
+    "size": 482233457,
+    "modified": "2026-10-30T21:45:03.996+08:00",
+    "file_name": "微信_8.0.80多开qy精简版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.80/微信_8.0.80多开wx精简版1030.ipa": {
+    "bundle_id": "com.tencent.wx",
+    "version": "8.0.80",
+    "build": "8.0.80.34",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.80/微信_8.0.80多开wx精简版1030.ipa",
+    "size": 482233438,
+    "modified": "2026-10-30T21:53:03.906+08:00",
+    "file_name": "微信_8.0.80多开wx精简版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.75/微信_8.0.75官替简洁版1030.ipa": {
+    "bundle_id": "com.tencent.xin",
+    "version": "8.0.75",
+    "build": "8.0.75.33",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.75/微信_8.0.75官替简洁版1030.ipa",
+    "size": 438595044,
+    "modified": "2026-10-30T21:41:28.353+08:00",
+    "file_name": "微信_8.0.75官替简洁版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.75/微信_8.0.75官替精简版1030.ipa": {
+    "bundle_id": "com.tencent.xin",
+    "version": "8.0.75",
+    "build": "8.0.75.33",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.75/微信_8.0.75官替精简版1030.ipa",
+    "size": 415335895,
+    "modified": "2026-10-30T21:40:26.52+08:00",
+    "file_name": "微信_8.0.75官替精简版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.79/微信_8.0.79多开qy简洁版1030.ipa": {
+    "bundle_id": "com.tencent.qy.xin",
+    "version": "8.0.79",
+    "build": "8.0.79.35",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.79/微信_8.0.79多开qy简洁版1030.ipa",
+    "size": 489365256,
+    "modified": "2026-10-30T21:38:21.932+08:00",
+    "file_name": "微信_8.0.79多开qy简洁版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.80/微信_8.0.80多开wx简洁版1030.ipa": {
+    "bundle_id": "com.tencent.wx",
+    "version": "8.0.80",
+    "build": "8.0.80.34",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.80/微信_8.0.80多开wx简洁版1030.ipa",
+    "size": 505492498,
+    "modified": "2026-10-30T21:34:57.893+08:00",
+    "file_name": "微信_8.0.80多开wx简洁版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.79/微信_8.0.79多开wx美化版1030.ipa": {
+    "bundle_id": "com.tencent.wx",
+    "version": "8.0.79",
+    "build": "8.0.79.35",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.79/微信_8.0.79多开wx美化版1030.ipa",
+    "size": 532323906,
+    "modified": "2026-10-30T21:42:43.997+08:00",
+    "file_name": "微信_8.0.79多开wx美化版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.79/微信_8.0.79多开wx简洁版1030.ipa": {
+    "bundle_id": "com.tencent.wx",
+    "version": "8.0.79",
+    "build": "8.0.79.35",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.79/微信_8.0.79多开wx简洁版1030.ipa",
+    "size": 489365240,
+    "modified": "2026-10-30T21:37:13.151+08:00",
+    "file_name": "微信_8.0.79多开wx简洁版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.75/微信_8.0.75多开wx简洁版1030.ipa": {
+    "bundle_id": "com.tencent.wx",
+    "version": "8.0.75",
+    "build": "8.0.75.33",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.75/微信_8.0.75多开wx简洁版1030.ipa",
+    "size": 438594886,
+    "modified": "2026-10-30T21:33:46.589+08:00",
+    "file_name": "微信_8.0.75多开wx简洁版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.79/微信_8.0.79官替美化版1030.ipa": {
+    "bundle_id": "com.tencent.xin",
+    "version": "8.0.79",
+    "build": "8.0.79.35",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.79/微信_8.0.79官替美化版1030.ipa",
+    "size": 532324057,
+    "modified": "2026-10-30T21:39:27.147+08:00",
+    "file_name": "微信_8.0.79官替美化版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.79/微信_8.0.79多开qy精简版1030.ipa": {
+    "bundle_id": "com.tencent.qy.xin",
+    "version": "8.0.79",
+    "build": "8.0.79.35",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.79/微信_8.0.79多开qy精简版1030.ipa",
+    "size": 466105979,
+    "modified": "2026-10-30T21:32:44.298+08:00",
+    "file_name": "微信_8.0.79多开qy精简版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.79/微信_8.0.79官替精简版1030.ipa": {
+    "bundle_id": "com.tencent.xin",
+    "version": "8.0.79",
+    "build": "8.0.79.35",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.79/微信_8.0.79官替精简版1030.ipa",
+    "size": 466106114,
+    "modified": "2026-10-30T21:36:03.835+08:00",
+    "file_name": "微信_8.0.79官替精简版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.80/微信_8.0.80官替美化版1030.ipa": {
+    "bundle_id": "com.tencent.xin",
+    "version": "8.0.80",
+    "build": "8.0.80.34",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.80/微信_8.0.80官替美化版1030.ipa",
+    "size": 548451158,
+    "modified": "2026-10-30T21:29:27.753+08:00",
+    "file_name": "微信_8.0.80官替美化版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.80/微信_8.0.80多开qy简洁版1030.ipa": {
+    "bundle_id": "com.tencent.qy.xin",
+    "version": "8.0.80",
+    "build": "8.0.80.34",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.80/微信_8.0.80多开qy简洁版1030.ipa",
+    "size": 505492517,
+    "modified": "2026-10-30T21:31:38.366+08:00",
+    "file_name": "微信_8.0.80多开qy简洁版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.75/微信_8.0.75多开qy美化版1030.ipa": {
+    "bundle_id": "com.tencent.qy.xin",
+    "version": "8.0.75",
+    "build": "8.0.75.33",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.75/微信_8.0.75多开qy美化版1030.ipa",
+    "size": 481553513,
+    "modified": "2026-10-30T21:28:35.311+08:00",
+    "file_name": "微信_8.0.75多开qy美化版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.75/微信_8.0.75官替美化版1030.ipa": {
+    "bundle_id": "com.tencent.xin",
+    "version": "8.0.75",
+    "build": "8.0.75.33",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.75/微信_8.0.75官替美化版1030.ipa",
+    "size": 481553648,
+    "modified": "2026-10-30T21:26:21.026+08:00",
+    "file_name": "微信_8.0.75官替美化版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.80/微信_8.0.80官替精简版1030.ipa": {
+    "bundle_id": "com.tencent.xin",
+    "version": "8.0.80",
+    "build": "8.0.80.34",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.80/微信_8.0.80官替精简版1030.ipa",
+    "size": 482233601,
+    "modified": "2026-10-30T21:24:40.859+08:00",
+    "file_name": "微信_8.0.80官替精简版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.79/微信_8.0.79多开wx精简版1030.ipa": {
+    "bundle_id": "com.tencent.wx",
+    "version": "8.0.79",
+    "build": "8.0.79.35",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.79/微信_8.0.79多开wx精简版1030.ipa",
+    "size": 466105963,
+    "modified": "2026-10-30T21:27:26.729+08:00",
+    "file_name": "微信_8.0.79多开wx精简版1030.ipa"
   }
 }
