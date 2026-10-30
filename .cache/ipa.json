@@ -17718,5 +17718,95 @@
     "size": 202405237,
     "modified": "2026-10-29T22:37:23.721+08:00",
     "file_name": "扫描全能王_7.27.5.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/酷安_16.7_20261030_090452.ipa": {
+    "bundle_id": "com.coolapk.app",
+    "version": "16.7",
+    "build": "2610231",
+    "name": "酷安",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/酷安_16.7_20261030_090452.ipa",
+    "size": 85443593,
+    "modified": "2026-10-30T09:04:52.287+08:00",
+    "file_name": "酷安_16.7_20261030_090452.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/小红书_9.52.ipa": {
+    "bundle_id": "com.xingin.discover",
+    "version": "9.52",
+    "build": "9520815",
+    "name": "小红书",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/小红书_9.52.ipa",
+    "size": 207682844,
+    "modified": "2026-10-30T09:04:42.964+08:00",
+    "file_name": "小红书_9.52.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/国际短剧_47.1.0.ipa": {
+    "bundle_id": "com.ss.iphone.ttmd.video",
+    "version": "47.1.0",
+    "build": "471003",
+    "name": "国际短剧",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/国际短剧_47.1.0.ipa",
+    "size": 401430969,
+    "modified": "2026-10-30T09:04:37.666+08:00",
+    "file_name": "国际短剧_47.1.0.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/企业微信_5.0.13.ipa": {
+    "bundle_id": "com.tencent.ww",
+    "version": "5.0.13",
+    "build": "237509",
+    "name": "企业微信",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/企业微信_5.0.13.ipa",
+    "size": 418696275,
+    "modified": "2026-10-30T09:04:50.864+08:00",
+    "file_name": "企业微信_5.0.13.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/抖音pro_40.9.0.ipa": {
+    "bundle_id": "com.ss.iphone.ugc.Aweme😡",
+    "version": "40.9.0",
+    "build": "409015",
+    "name": "抖音pro",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/抖音pro_40.9.0.ipa",
+    "size": 779849867,
+    "modified": "2026-10-30T09:24:36.353+08:00",
+    "file_name": "抖音pro_40.9.0.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/TikTok_47.4.0.ipa": {
+    "bundle_id": "com.zhiliaoapp.musically",
+    "version": "47.4.0",
+    "build": "474032",
+    "name": "TikTok",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/TikTok_47.4.0.ipa",
+    "size": 526492313,
+    "modified": "2026-10-30T09:06:23.181+08:00",
+    "file_name": "TikTok_47.4.0.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/抖音_40.9.0.ipa": {
+    "bundle_id": "com.ss.iphone.ugc.Aweme",
+    "version": "40.9.0",
+    "build": "409015",
+    "name": "抖音",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/抖音_40.9.0.ipa",
+    "size": 779849710,
+    "modified": "2026-10-30T09:07:13.374+08:00",
+    "file_name": "抖音_40.9.0.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/YouTube_21.42.4.ipa": {
+    "bundle_id": "com.google.ios.youtube",
+    "version": "21.42.4",
+    "build": "21.42.4",
+    "name": "YouTube",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/YouTube_21.42.4.ipa",
+    "size": 170677951,
+    "modified": "2026-10-30T09:05:45.457+08:00",
+    "file_name": "YouTube_21.42.4.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/Facebook_584.1.0.ipa": {
+    "bundle_id": "com.facebook.Facebook",
+    "version": "584.1.0",
+    "build": "1097955119",
+    "name": "Facebook",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/Facebook_584.1.0.ipa",
+    "size": 242601727,
+    "modified": "2026-10-30T09:05:31.362+08:00",
+    "file_name": "Facebook_584.1.0.ipa"
   }
 }
