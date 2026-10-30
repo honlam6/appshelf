@@ -18068,5 +18068,15 @@
     "size": 466105963,
     "modified": "2026-10-30T21:27:26.729+08:00",
     "file_name": "微信_8.0.79多开wx精简版1030.ipa"
+  },
+  "/微信多开 - WeChat multi-open/8.0.75/微信_8.0.75多开wx精简版1030.ipa": {
+    "bundle_id": "com.tencent.wx",
+    "version": "8.0.75",
+    "build": "8.0.75.33",
+    "name": "微信",
+    "path": "/微信多开 - WeChat multi-open/8.0.75/微信_8.0.75多开wx精简版1030.ipa",
+    "size": 415335737,
+    "modified": "2026-10-30T21:30:26.607+08:00",
+    "file_name": "微信_8.0.75多开wx精简版1030.ipa"
   }
 }
