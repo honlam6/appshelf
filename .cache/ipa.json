@@ -18078,5 +18078,65 @@
     "size": 415335737,
     "modified": "2026-10-30T21:30:26.607+08:00",
     "file_name": "微信_8.0.75多开wx精简版1030.ipa"
+  },
+  "/苹果应用 - Appstore apps/元气骑士前传_1.13.0_无敌秒杀等_20261031_093116.ipa": {
+    "bundle_id": "com.chillyroom.soulknightprequel.gl",
+    "version": "1.13.0",
+    "build": "2",
+    "name": "SoulKnightPrequel",
+    "path": "/苹果应用 - Appstore apps/元气骑士前传_1.13.0_无敌秒杀等_20261031_093116.ipa",
+    "size": 496111858,
+    "modified": "2026-10-31T09:31:16.471+08:00",
+    "file_name": "元气骑士前传_1.13.0_无敌秒杀等_20261031_093116.ipa"
+  },
+  "/苹果应用 - Appstore apps/梦想城镇_40.0.0_无限资源等_可以修改无限点卷金币.ipa": {
+    "bundle_id": "com.plrx.township-cn",
+    "version": "40.0.0",
+    "build": "40.0.0",
+    "name": "Township",
+    "path": "/苹果应用 - Appstore apps/梦想城镇_40.0.0_无限资源等_可以修改无限点卷金币.ipa",
+    "size": 186513777,
+    "modified": "2026-10-31T09:31:16.395+08:00",
+    "file_name": "梦想城镇_40.0.0_无限资源等_可以修改无限点卷金币.ipa"
+  },
+  "/苹果应用 - Appstore apps/VidHub_3.0.9_解锁会员_点购买点取消解锁.ipa": {
+    "bundle_id": "com.mac.utility.media.hub",
+    "version": "3.0.9",
+    "build": "2026102301",
+    "name": "VidHub",
+    "path": "/苹果应用 - Appstore apps/VidHub_3.0.9_解锁会员_点购买点取消解锁.ipa",
+    "size": 70089065,
+    "modified": "2026-10-31T09:31:16.294+08:00",
+    "file_name": "VidHub_3.0.9_解锁会员_点购买点取消解锁.ipa"
+  },
+  "/苹果应用 - Appstore apps/CS2手游_5.8.62_全功能_自瞄绘制，飞天遁地，无敌免伤，自动开枪，开局敌方全员爆头等，局内无限金币，房主功能等.ipa": {
+    "bundle_id": "com.ScarletWork.CounterFlame",
+    "version": "1.3.0.1",
+    "build": "0",
+    "name": "CounterFlame",
+    "path": "/苹果应用 - Appstore apps/CS2手游_5.8.62_全功能_自瞄绘制，飞天遁地，无敌免伤，自动开枪，开局敌方全员爆头等，局内无限金币，房主功能等.ipa",
+    "size": 1795525118,
+    "modified": "2026-10-31T09:31:16.989+08:00",
+    "file_name": "CS2手游_5.8.62_全功能_自瞄绘制，飞天遁地，无敌免伤，自动开枪，开局敌方全员爆头等，局内无限金币，房主功能等.ipa"
+  },
+  "/苹果应用 - Appstore apps/阿瑞斯病毒_2.3.1_全功能.ipa": {
+    "bundle_id": "com.zzonegame.aresvirus2.ios",
+    "version": "2.2.0",
+    "build": "32",
+    "name": "阿瑞斯病毒2",
+    "path": "/苹果应用 - Appstore apps/阿瑞斯病毒_2.3.1_全功能.ipa",
+    "size": 450325038,
+    "modified": "2026-10-31T09:31:16.339+08:00",
+    "file_name": "阿瑞斯病毒_2.3.1_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/地球末日_生存_1.53.0_全功能版.ipa": {
+    "bundle_id": "zombie.survival.craft.z",
+    "version": "1.53.0",
+    "build": "982",
+    "name": "Last Day On Earth: Survival",
+    "path": "/苹果应用 - Appstore apps/地球末日_生存_1.53.0_全功能版.ipa",
+    "size": 1073806912,
+    "modified": "2026-10-31T09:31:17.507+08:00",
+    "file_name": "地球末日_生存_1.53.0_全功能版.ipa"
   }
 }
