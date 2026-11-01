@@ -18138,5 +18138,75 @@
     "size": 1073806912,
     "modified": "2026-10-31T09:31:17.507+08:00",
     "file_name": "地球末日_生存_1.53.0_全功能版.ipa"
+  },
+  "/苹果应用 - Appstore apps/番茄畅听_6.7.4_解锁会员.ipa": {
+    "bundle_id": "com.xs.fm",
+    "version": "6.7.4",
+    "build": "6.7.4.45",
+    "name": "番茄畅听",
+    "path": "/苹果应用 - Appstore apps/番茄畅听_6.7.4_解锁会员.ipa",
+    "size": 258472133,
+    "modified": "2026-11-01T15:05:37.226+08:00",
+    "file_name": "番茄畅听_6.7.4_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/番茄小说_7.4.1_解锁会员.ipa": {
+    "bundle_id": "com.dragon.read",
+    "version": "7.4.1",
+    "build": "7.4.1.32",
+    "name": "番茄小说",
+    "path": "/苹果应用 - Appstore apps/番茄小说_7.4.1_解锁会员.ipa",
+    "size": 311162875,
+    "modified": "2026-11-01T15:05:37.125+08:00",
+    "file_name": "番茄小说_7.4.1_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/LCSign.ipa": {
+    "bundle_id": "com.huami.LoadController",
+    "version": "1.4",
+    "build": "2",
+    "name": "LCSign",
+    "path": "/苹果应用 - Appstore apps/LCSign.ipa",
+    "size": 43936464,
+    "modified": "2026-11-01T15:17:47.966+08:00",
+    "file_name": "LCSign.ipa"
+  },
+  "/苹果应用 - Appstore apps/红果漫剧_7.4.1_解锁会员.ipa": {
+    "bundle_id": "com.kylin.readnew",
+    "version": "7.4.1",
+    "build": "7.4.1.32",
+    "name": "红果漫剧",
+    "path": "/苹果应用 - Appstore apps/红果漫剧_7.4.1_解锁会员.ipa",
+    "size": 335137934,
+    "modified": "2026-11-01T15:05:37.334+08:00",
+    "file_name": "红果漫剧_7.4.1_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/潜水员戴夫_1_0_49_KAlert551_v3_安全桥接闪退修复_待重签.ipa": {
+    "bundle_id": "com.xd.dave.ios.cn",
+    "version": "1.0.49",
+    "build": "103",
+    "name": "潜水员戴夫",
+    "path": "/苹果应用 - Appstore apps/潜水员戴夫_1_0_49_KAlert551_v3_安全桥接闪退修复_待重签.ipa",
+    "size": 3196077075,
+    "modified": "2026-11-01T15:05:38.499+08:00",
+    "file_name": "潜水员戴夫_1_0_49_KAlert551_v3_安全桥接闪退修复_待重签.ipa"
+  },
+  "/苹果应用 - Appstore apps/红果短剧_7.4.1_解锁会员.ipa": {
+    "bundle_id": "com.phoenix.video",
+    "version": "7.4.1",
+    "build": "7.4.1.32",
+    "name": "红果短剧",
+    "path": "/苹果应用 - Appstore apps/红果短剧_7.4.1_解锁会员.ipa",
+    "size": 311488348,
+    "modified": "2026-11-01T15:06:00.266+08:00",
+    "file_name": "红果短剧_7.4.1_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/雷霆战机_1.29.13_全功能.ipa": {
+    "bundle_id": "com.a5game.ltzj.jj",
+    "version": "1.29.13",
+    "build": "184",
+    "name": "雷霆战机：集结",
+    "path": "/苹果应用 - Appstore apps/雷霆战机_1.29.13_全功能.ipa",
+    "size": 1268820552,
+    "modified": "2026-11-01T15:05:39.072+08:00",
+    "file_name": "雷霆战机_1.29.13_全功能.ipa"
   }
 }
