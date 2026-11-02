@@ -2055,6 +2055,14 @@
           "minOSVersion": "14.0"
         },
         {
+          "version": "8.0.69",
+          "buildVersion": "8.0.69.33",
+          "date": "2026-02-15",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.69%2F%E5%BE%AE%E4%BF%A18.0.69%E5%A4%9A%E5%BC%80qy%E7%AE%80%E6%B4%81%E7%89%880214.ipa",
+          "size": 450430703,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "8.0.68",
           "buildVersion": "8.0.68.34",
           "date": "2026-03-24",
@@ -2282,6 +2290,14 @@
           "version": "8.0.67",
           "buildVersion": "8.0.67.35",
           "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.67%2F%E5%BE%AE%E4%BF%A1_8.0.67%E5%A4%9A%E5%BC%80qy%E7%B2%BE%E7%AE%80%E7%89%881226.ipa",
+          "size": 388496989,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.67",
+          "buildVersion": "8.0.67.35",
+          "date": "2026-01-08",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.67%2F%E5%BE%AE%E4%BF%A1_8.0.67%E5%A4%9A%E5%BC%80qy%E7%BE%8E%E5%8C%96%E7%89%881225.ipa",
           "size": 440235274,
           "minOSVersion": "14.0"
@@ -2441,6 +2457,22 @@
         {
           "version": "8.0.64",
           "buildVersion": "8.0.64.36",
+          "date": "2026-02-07",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%A4%9A%E5%BC%80qy%E7%B2%BE%E7%AE%80%E7%89%880207.ipa",
+          "size": 384975711,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
+          "date": "2026-01-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%A4%9A%E5%BC%80qy%E7%B2%BE%E7%AE%80%E7%89%880129.ipa",
+          "size": 383863530,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
           "date": "2026-01-08",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%A4%9A%E5%BC%80qy%E7%AE%80%E6%B4%81%E7%89%880926.ipa",
           "size": 407597543,
@@ -2562,8 +2594,32 @@
           "version": "8.0.64",
           "buildVersion": "8.0.64.36",
           "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%A4%9A%E5%BC%80qy%E7%BE%8E%E5%8C%96%E7%89%881024.ipa",
+          "size": 428640111,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
+          "date": "2026-01-08",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%A4%9A%E5%BC%80qy%E7%AE%80%E6%B4%81%E7%89%881025.ipa",
           "size": 402689933,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%A4%9A%E5%BC%80qy%E7%BE%8E%E5%8C%96%E7%89%881025.ipa",
+          "size": 428654988,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%A4%9A%E5%BC%80qy%E7%AE%80%E6%B4%81%E7%89%881027.ipa",
+          "size": 406819370,
           "minOSVersion": "14.0"
         },
         {
@@ -2586,6 +2642,14 @@
           "version": "8.0.64",
           "buildVersion": "8.0.64.36",
           "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%A4%9A%E5%BC%80qy%E7%BE%8E%E5%8C%96%E7%89%881101.ipa",
+          "size": 432806221,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
+          "date": "2026-01-08",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A18.0.64%E5%A4%9A%E5%BC%80qy%E7%BE%8E%E5%8C%96%E7%89%881126.ipa",
           "size": 431455368,
           "minOSVersion": "14.0"
@@ -2602,8 +2666,24 @@
           "version": "8.0.64",
           "buildVersion": "8.0.64.36",
           "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%A4%9A%E5%BC%80qy%E7%BE%8E%E5%8C%96%E7%89%881206.ipa",
+          "size": 434873846,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
+          "date": "2026-01-08",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%A4%9A%E5%BC%80qy%E7%AE%80%E6%B4%81%E7%89%881206.ipa",
           "size": 408561704,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%A4%9A%E5%BC%80qy%E7%BE%8E%E5%8C%96%E7%89%881212.ipa",
+          "size": 434881248,
           "minOSVersion": "14.0"
         },
         {
@@ -2636,6 +2716,38 @@
           "date": "2026-01-08",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.63%2FWeChat%20-%20%5Bv8.0.63%5D_14%E5%90%881%E5%A4%9A%E5%BC%80.ipa",
           "size": 342330743,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.63",
+          "buildVersion": "8.0.63.34",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.63%2F%E5%BE%AE%E4%BF%A1_8.0.63%E5%A4%9A%E5%BC%80qy%E7%BE%8E%E5%8C%96%E7%89%880922.ipa",
+          "size": 431542427,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.63",
+          "buildVersion": "8.0.63.34",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.63%2F%E5%BE%AE%E4%BF%A1_8.0.63%E5%A4%9A%E5%BC%80qy%E7%AE%80%E6%B4%81%E7%89%880922.ipa",
+          "size": 405674108,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.63",
+          "buildVersion": "8.0.63.34",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.63%2F%E5%BE%AE%E4%BF%A1_8.0.63%E5%A4%9A%E5%BC%80qy%E7%AE%80%E6%B4%81%E7%89%880926.ipa",
+          "size": 405674108,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.63",
+          "buildVersion": "8.0.63.34",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.63%2F%E5%BE%AE%E4%BF%A1_8.0.63%E5%A4%9A%E5%BC%80qy%E7%BE%8E%E5%8C%96%E7%89%880926.ipa",
+          "size": 431634734,
           "minOSVersion": "14.0"
         },
         {
@@ -2762,6 +2874,14 @@
           "version": "8.0.54",
           "buildVersion": "8.0.54.34",
           "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.54%2F%E5%BE%AE%E4%BF%A18.0.54%E5%A4%9A%E5%BC%80qy%E7%AE%80%E6%B4%81%E7%89%880515.ipa",
+          "size": 395333548,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.54",
+          "buildVersion": "8.0.54.34",
+          "date": "2026-01-08",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.54%2F%E5%BE%AE%E4%BF%A1_8.0.54_%E5%A4%9A%E5%BC%80%E6%97%A0%E5%90%8E%E5%8F%B0%E6%8E%A8%E9%80%81%E4%BB%85%E6%B3%A8%E5%85%A5%E5%BE%AE%E4%BF%A1%E5%8A%A9%E6%89%8B.ipa",
           "size": 318244117,
           "minOSVersion": "14.0"
@@ -2786,6 +2906,22 @@
           "version": "8.0.54",
           "buildVersion": "8.0.54.34",
           "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.54%2F%E5%BE%AE%E4%BF%A18.0.54%E5%A4%9A%E5%BC%80qy%E7%BE%8E%E5%8C%96%E7%89%880424.ipa",
+          "size": 421127224,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.54",
+          "buildVersion": "8.0.54.34",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.54%2F%E5%BE%AE%E4%BF%A18.0.54%E5%A4%9A%E5%BC%80qy%E7%AE%80%E6%B4%81%E7%89%880417.ipa",
+          "size": 394671070,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.54",
+          "buildVersion": "8.0.54.34",
+          "date": "2026-01-08",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.54%2F%E5%BE%AE%E4%BF%A18.0.54%E5%A4%9A%E5%BC%80qy%E7%BE%8E%E5%8C%96%E7%89%880515.ipa",
           "size": 422318408,
           "minOSVersion": "14.0"
@@ -2804,6 +2940,14 @@
           "date": "2026-01-08",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.54%2F%E5%BE%AE%E4%BF%A18.0.54%E5%A4%9A%E5%BC%80qy%E7%BE%8E%E5%8C%96%E7%89%880512.ipa",
           "size": 422053771,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.54",
+          "buildVersion": "8.0.54.34",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.54%2F%E5%BE%AE%E4%BF%A18.0.54%E5%A4%9A%E5%BC%80qy%E7%AE%80%E6%B4%81%E7%89%880424.ipa",
+          "size": 394982960,
           "minOSVersion": "14.0"
         },
         {
@@ -4885,6 +5029,14 @@
           "version": "8.0.68",
           "buildVersion": "8.0.68.34",
           "date": "2026-02-07",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.68%2F%E5%BE%AE%E4%BF%A18.0.68%E5%A4%9A%E5%BC%80wx%E7%BE%8E%E5%8C%96%E7%89%880204.ipa",
+          "size": 448450626,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.68",
+          "buildVersion": "8.0.68.34",
+          "date": "2026-02-07",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.68%2F%E5%BE%AE%E4%BF%A1_8.0.68%E5%A4%9A%E5%BC%80wx%E7%B2%BE%E7%AE%80%E7%89%880207.ipa",
           "size": 394394101,
           "minOSVersion": "14.0"
@@ -4903,6 +5055,22 @@
           "date": "2026-01-29",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.68%2F%E5%BE%AE%E4%BF%A1_8.0.68%E5%A4%9A%E5%BC%80wx%E7%B2%BE%E7%AE%80%E7%89%880129.ipa",
           "size": 393281956,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.68",
+          "buildVersion": "8.0.68.34",
+          "date": "2026-01-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.68%2F%E5%BE%AE%E4%BF%A18.0.68%E5%A4%9A%E5%BC%80wx%E7%BE%8E%E5%8C%96%E7%89%880129.ipa",
+          "size": 447078495,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.68",
+          "buildVersion": "8.0.68.34",
+          "date": "2026-01-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.68%2F%E5%BE%AE%E4%BF%A18.0.68%E5%A4%9A%E5%BC%80wx%E7%AE%80%E6%B4%81%E7%89%880129.ipa",
+          "size": 420125501,
           "minOSVersion": "14.0"
         },
         {
@@ -4927,6 +5095,14 @@
           "date": "2026-02-07",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.67%2F%E5%BE%AE%E4%BF%A1_8.0.67%E5%A4%9A%E5%BC%80wx%E7%B2%BE%E7%AE%80%E7%89%880207.ipa",
           "size": 390275833,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.67",
+          "buildVersion": "8.0.67.35",
+          "date": "2026-01-17",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.67%2F%E5%BE%AE%E4%BF%A1_8.0.67%E5%A4%9A%E5%BC%80wx%E7%BE%8E%E5%8C%96%E7%89%880117.ipa",
+          "size": 441483248,
           "minOSVersion": "14.0"
         },
         {
@@ -4965,6 +5141,14 @@
           "version": "8.0.67",
           "buildVersion": "8.0.67.35",
           "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.67%2F%E5%BE%AE%E4%BF%A1_8.0.67%E5%A4%9A%E5%BC%80wx%E7%BE%8E%E5%8C%96%E7%89%881225.ipa",
+          "size": 440235235,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.67",
+          "buildVersion": "8.0.67.35",
+          "date": "2026-01-08",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.67%2F%E5%BE%AE%E4%BF%A18.0.67%E5%A4%9A%E5%BC%80wx%E7%BE%8E%E5%8C%96%E7%89%881229.ipa",
           "size": 440971745,
           "minOSVersion": "14.0"
@@ -4975,6 +5159,14 @@
           "date": "2026-01-08",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.67%2F%E5%BE%AE%E4%BF%A18.0.67%E5%A4%9A%E5%BC%80wx%E7%AE%80%E6%B4%81%E7%89%881229.ipa",
           "size": 414732618,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.67",
+          "buildVersion": "8.0.67.35",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.67%2F%E5%BE%AE%E4%BF%A1_8.0.67%E5%A4%9A%E5%BC%80wx%E7%BE%8E%E5%8C%96%E7%89%881231.ipa",
+          "size": 440386940,
           "minOSVersion": "14.0"
         },
         {
@@ -5287,6 +5479,46 @@
           "date": "2026-01-08",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%A4%9A%E5%BC%80wx%E7%AE%80%E6%B4%81%E7%89%881101.ipa",
           "size": 406841120,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%A4%9A%E5%BC%80wx%E7%BE%8E%E5%8C%96%E7%89%881101.ipa",
+          "size": 432806163,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A18.0.64%E5%A4%9A%E5%BC%80wx%E7%AE%80%E6%B4%81%E7%89%881126.ipa",
+          "size": 405143156,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A18.0.64%E5%A4%9A%E5%BC%80wx%E7%BE%8E%E5%8C%96%E7%89%881126.ipa",
+          "size": 431455341,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%A4%9A%E5%BC%80wx%E7%BE%8E%E5%8C%96%E7%89%881206.ipa",
+          "size": 434873839,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%A4%9A%E5%BC%80wx%E7%AE%80%E6%B4%81%E7%89%881206.ipa",
+          "size": 408561638,
           "minOSVersion": "14.0"
         },
         {
@@ -7695,6 +7927,22 @@
         {
           "version": "8.0.68",
           "buildVersion": "8.0.68.34",
+          "date": "2026-01-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.68%2F%E5%BE%AE%E4%BF%A1_8.0.68%E5%AE%98%E6%9B%BF%E7%B2%BE%E7%AE%80%E7%89%880129.ipa",
+          "size": 393282114,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.68",
+          "buildVersion": "8.0.68.34",
+          "date": "2026-01-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.68%2F%E5%BE%AE%E4%BF%A18.0.68%E5%AE%98%E6%9B%BF%E7%AE%80%E6%B4%81%E7%89%880129.ipa",
+          "size": 420125875,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.68",
+          "buildVersion": "8.0.68.34",
           "date": "2026-01-27",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.68%2F%E5%BE%AE%E4%BF%A1_8.0.68_%E5%A4%9A%E5%90%88%E4%B8%80%E5%AE%98%E6%9B%BF_20260127_222709.ipa",
           "size": 425293852,
@@ -7743,6 +7991,22 @@
         {
           "version": "8.0.67",
           "buildVersion": "8.0.67.35",
+          "date": "2026-01-17",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.67%2F%E5%BE%AE%E4%BF%A1_8.0.67%E5%AE%98%E6%9B%BF%E7%B2%BE%E7%AE%80%E7%89%880117.ipa",
+          "size": 389094016,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.67",
+          "buildVersion": "8.0.67.35",
+          "date": "2026-01-11",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.67%2F%E5%BE%AE%E4%BF%A1_8.0.67%E5%AE%98%E6%9B%BF%E7%BE%8E%E5%8C%96%E7%89%880111.ipa",
+          "size": 441174635,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.67",
+          "buildVersion": "8.0.67.35",
           "date": "2026-01-11",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.67%2F%E5%BE%AE%E4%BF%A1_8.0.67%E5%AE%98%E6%9B%BF%E7%B2%BE%E7%AE%80%E7%89%880111.ipa",
           "size": 388995083,
@@ -7754,6 +8018,14 @@
           "date": "2026-01-08",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.67%2F%E5%BE%AE%E4%BF%A1_8.0.67%E5%AE%98%E6%9B%BF%E7%B2%BE%E7%AE%80%E7%89%881226.ipa",
           "size": 388497106,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.67",
+          "buildVersion": "8.0.67.35",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.67%2F%E5%BE%AE%E4%BF%A1_8.0.67%E5%AE%98%E6%9B%BF%E7%BE%8E%E5%8C%96%E7%89%881225.ipa",
+          "size": 440235394,
           "minOSVersion": "14.0"
         },
         {
@@ -7818,6 +8090,14 @@
           "date": "2026-01-08",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.66%2F%E5%BE%AE%E4%BF%A1_8.0.66%E5%AE%98%E6%9B%BF%E7%B2%BE%E7%AE%80%E7%89%881226.ipa",
           "size": 388314330,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.66",
+          "buildVersion": "8.0.66.34",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.66%2F%E5%BE%AE%E4%BF%A1_8.0.66%E5%AE%98%E6%9B%BF%E7%BE%8E%E5%8C%96%E7%89%881231.ipa",
+          "size": 440205269,
           "minOSVersion": "14.0"
         },
         {
@@ -7922,6 +8202,14 @@
           "date": "2026-02-07",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%AE%98%E6%9B%BF%E7%B2%BE%E7%AE%80%E7%89%880207.ipa",
           "size": 384975810,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
+          "date": "2026-01-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%AE%98%E6%9B%BF%E7%B2%BE%E7%AE%80%E7%89%880129.ipa",
+          "size": 383863649,
           "minOSVersion": "14.0"
         },
         {
@@ -8088,6 +8376,54 @@
           "version": "8.0.64",
           "buildVersion": "8.0.64.36",
           "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%AE%98%E6%9B%BF%E7%AE%80%E6%B4%81%E7%89%881027.ipa",
+          "size": 406819495,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%AE%98%E6%9B%BF%E7%BE%8E%E5%8C%96%E7%89%881101.ipa",
+          "size": 432806327,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%AE%98%E6%9B%BF%E7%AE%80%E6%B4%81%E7%89%881206.ipa",
+          "size": 408561830,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A18.0.64%E5%AE%98%E6%9B%BF%E7%AE%80%E6%B4%81%E7%89%881126.ipa",
+          "size": 405143458,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A18.0.64%E5%AE%98%E6%9B%BF%E7%BE%8E%E5%8C%96%E7%89%881126.ipa",
+          "size": 431455634,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%AE%98%E6%9B%BF%E7%BE%8E%E5%8C%96%E7%89%881206.ipa",
+          "size": 434874006,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
+          "date": "2026-01-08",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%AE%98%E6%9B%BF%E7%AE%80%E6%B4%81%E7%89%881212.ipa",
           "size": 408569026,
           "minOSVersion": "14.0"
@@ -8130,6 +8466,38 @@
           "date": "2026-01-08",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.63%2FWeChat%20-%20%5Bv8.0.63%5D_%E6%B3%A8%E5%85%A5%E7%BE%8E%E5%8C%96%E6%8F%92%E4%BB%B6%E7%AD%89.ipa",
           "size": 376185853,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.63",
+          "buildVersion": "8.0.63.34",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.63%2F%E5%BE%AE%E4%BF%A1_8.0.63%E5%AE%98%E6%9B%BF%E7%BE%8E%E5%8C%96%E7%89%880922.ipa",
+          "size": 431542556,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.63",
+          "buildVersion": "8.0.63.34",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.63%2F%E5%BE%AE%E4%BF%A1_8.0.63%E5%AE%98%E6%9B%BF%E7%AE%80%E6%B4%81%E7%89%880922.ipa",
+          "size": 405674234,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.63",
+          "buildVersion": "8.0.63.34",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.63%2F%E5%BE%AE%E4%BF%A1_8.0.63%E5%AE%98%E6%9B%BF%E7%AE%80%E6%B4%81%E7%89%880926.ipa",
+          "size": 405674234,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.63",
+          "buildVersion": "8.0.63.34",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.63%2F%E5%BE%AE%E4%BF%A1_8.0.63%E5%AE%98%E6%9B%BF%E7%BE%8E%E5%8C%96%E7%89%880926.ipa",
+          "size": 431634869,
           "minOSVersion": "14.0"
         },
         {
@@ -8280,6 +8648,14 @@
           "version": "8.0.54",
           "buildVersion": "8.0.54.34",
           "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.54%2F%E5%BE%AE%E4%BF%A18.0.54%E5%AE%98%E6%9B%BF%E7%BE%8E%E5%8C%96%E7%89%880417.ipa",
+          "size": 422554375,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.54",
+          "buildVersion": "8.0.54.34",
+          "date": "2026-01-08",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.54%2F%E5%BE%AE%E4%BF%A1_8.0.54_%E7%BA%AF%E5%87%80%E7%A0%B8%E5%A3%B3%E5%8C%85.ipa",
           "size": 302929024,
           "minOSVersion": "14.0"
@@ -8314,6 +8690,14 @@
           "date": "2026-01-08",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.54%2F%E5%BE%AE%E4%BF%A18.0.54%E5%AE%98%E6%9B%BF%E7%AE%80%E6%B4%81%E7%89%880424.ipa",
           "size": 396797746,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.54",
+          "buildVersion": "8.0.54.34",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.54%2F%E5%BE%AE%E4%BF%A18.0.54%E5%AE%98%E6%9B%BF%E7%AE%80%E6%B4%81%E7%89%880512.ipa",
+          "size": 397088922,
           "minOSVersion": "14.0"
         },
         {
@@ -9531,22 +9915,6 @@
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%8A%96%E9%9F%B3_40.5.0_%E6%8A%96%E9%9F%B3%E5%8A%A9%E6%89%8B_%E6%B3%A8%E5%85%A5Yuki%E9%98%B2%E6%92%A4%E5%9B%9E%E6%8F%92%E4%BB%B6%E7%AD%89%EF%BC%8C%E8%AE%BE%E7%BD%AE%E6%89%93%E5%BC%80%E5%8D%B3%E5%8F%AF.ipa",
           "size": 784205227,
           "minOSVersion": "14.0"
-        },
-        {
-          "version": "39.5.0",
-          "buildVersion": "395012",
-          "date": "2026-08-25",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E5%B8%A6%E8%99%9A%E6%8B%9F%E8%A7%86%E9%A2%91%E7%9A%84%E8%BD%AF%E4%BB%B6%2F%E4%B8%89%E6%89%8B%E6%8C%87%E5%8F%8C%E5%87%BB%E5%B1%8F%E5%B9%95%E5%87%BA%E9%9D%A2%E6%9D%BF%2F%E6%8A%96%E9%9F%B3_39.5.0com.ss.iphone.ugc.Aweme.ipa",
-          "size": 641453120,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "39.5.0",
-          "buildVersion": "395012",
-          "date": "2026-08-25",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E5%B8%A6%E8%99%9A%E6%8B%9F%E8%A7%86%E9%A2%91%E7%9A%84%E8%BD%AF%E4%BB%B6%2F%E4%B8%89%E6%89%8B%E6%8C%87%E5%8F%8C%E5%87%BB%E5%B1%8F%E5%B9%95%E5%87%BA%E9%9D%A2%E6%9D%BF%2F%E6%8A%96%E9%9F%B3_39.5.0com.ss.iphone.ugc.Aweme.ipa",
-          "size": 641453120,
-          "minOSVersion": "14.0"
         }
       ]
     },
@@ -9975,49 +10343,6 @@
           "date": "2026-10-15",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%98%9F%E9%9C%B2%E8%B0%B7%E7%89%A9%E8%AF%AD_16.15.5_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
           "size": 308631281,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "MOMO陌陌",
-      "bundleIdentifier": "com.wemomo.momoappdemo1",
-      "developerName": "App Shelf",
-      "subtitle": "MOMO陌陌_9.22.9com.wemomo.momoappdemo1.ipa",
-      "localizedDescription": "MOMO陌陌_9.22.9com.wemomo.momoappdemo1.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.wemomo.momoappdemo1.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "9.22.9",
-          "buildVersion": "9.22.9.8",
-          "date": "2026-10-16",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E5%B8%A6%E8%99%9A%E6%8B%9F%E8%A7%86%E9%A2%91%E7%9A%84%E8%BD%AF%E4%BB%B6%2F%E4%B8%89%E6%89%8B%E6%8C%87%E5%8F%8C%E5%87%BB%E5%B1%8F%E5%B9%95%E5%87%BA%E9%9D%A2%E6%9D%BF%2FMOMO%E9%99%8C%E9%99%8C_9.22.9com.wemomo.momoappdemo1.ipa",
-          "size": 181267040,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "9.22.9",
-          "buildVersion": "9.22.9.8",
-          "date": "2026-10-16",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E5%B8%A6%E8%99%9A%E6%8B%9F%E8%A7%86%E9%A2%91%E7%9A%84%E8%BD%AF%E4%BB%B6%2F%E4%B8%89%E6%89%8B%E6%8C%87%E5%8F%8C%E5%87%BB%E5%B1%8F%E5%B9%95%E5%87%BA%E9%9D%A2%E6%9D%BF%2FMOMO%E9%99%8C%E9%99%8C_9.22.9com.wemomo.momoappdemo1.ipa",
-          "size": 181267040,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "9.22.5",
-          "buildVersion": "9.22.5.9",
-          "date": "2026-08-28",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FMOMO%E9%99%8C%E9%99%8C_9.22.5com.wemomo.momoappdemo1.ipa",
-          "size": 168082789,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "9.22.5",
-          "buildVersion": "9.22.5.9",
-          "date": "2026-08-28",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FMOMO%E9%99%8C%E9%99%8C_9.22.5com.wemomo.momoappdemo1.ipa",
-          "size": 168082789,
           "minOSVersion": "14.0"
         }
       ]
@@ -10872,87 +11197,6 @@
           "date": "2026-09-17",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FPicsart_30.7.2_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98_%E7%99%BB%E5%BD%95%E5%8D%B3%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
           "size": 110986422,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "QQ",
-      "bundleIdentifier": "com.tencent.mqq.X",
-      "developerName": "App Shelf",
-      "subtitle": "com.tencent.mqq_9.3.70com.tencent.mqq.X.ipa",
-      "localizedDescription": "com.tencent.mqq_9.3.70com.tencent.mqq.X.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.tencent.mqq.X.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "9.3.70",
-          "buildVersion": "9.3.70.606",
-          "date": "2026-10-07",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E5%B8%A6%E8%99%9A%E6%8B%9F%E8%A7%86%E9%A2%91%E7%9A%84%E8%BD%AF%E4%BB%B6%2F%E4%B8%89%E6%89%8B%E6%8C%87%E5%8F%8C%E5%87%BB%E5%B1%8F%E5%B9%95%E5%87%BA%E9%9D%A2%E6%9D%BF%2Fcom.tencent.mqq_9.3.70com.tencent.mqq.X.ipa",
-          "size": 341857482,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "9.3.70",
-          "buildVersion": "9.3.70.606",
-          "date": "2026-10-07",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E5%B8%A6%E8%99%9A%E6%8B%9F%E8%A7%86%E9%A2%91%E7%9A%84%E8%BD%AF%E4%BB%B6%2F%E4%B8%89%E6%89%8B%E6%8C%87%E5%8F%8C%E5%87%BB%E5%B1%8F%E5%B9%95%E5%87%BA%E9%9D%A2%E6%9D%BF%2Fcom.tencent.mqq_9.3.70com.tencent.mqq.X.ipa",
-          "size": 341857482,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "TIM",
-      "bundleIdentifier": "com.tencent.tim",
-      "developerName": "App Shelf",
-      "subtitle": "TIM_4.0.99com.tencent.tim.ipa",
-      "localizedDescription": "TIM_4.0.99com.tencent.tim.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.tencent.tim.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "4.0.99",
-          "buildVersion": "4.0.99.60",
-          "date": "2026-10-06",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E5%B8%A6%E8%99%9A%E6%8B%9F%E8%A7%86%E9%A2%91%E7%9A%84%E8%BD%AF%E4%BB%B6%2F%E4%B8%89%E6%89%8B%E6%8C%87%E5%8F%8C%E5%87%BB%E5%B1%8F%E5%B9%95%E5%87%BA%E9%9D%A2%E6%9D%BF%2FTIM_4.0.99com.tencent.tim.ipa",
-          "size": 152301907,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "4.0.99",
-          "buildVersion": "4.0.99.60",
-          "date": "2026-10-06",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E5%B8%A6%E8%99%9A%E6%8B%9F%E8%A7%86%E9%A2%91%E7%9A%84%E8%BD%AF%E4%BB%B6%2F%E4%B8%89%E6%89%8B%E6%8C%87%E5%8F%8C%E5%87%BB%E5%B1%8F%E5%B9%95%E5%87%BA%E9%9D%A2%E6%9D%BF%2FTIM_4.0.99com.tencent.tim.ipa",
-          "size": 152301907,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "Tantan",
-      "bundleIdentifier": "com.yaymedialabs.putong",
-      "developerName": "App Shelf",
-      "subtitle": "Tantan_7.6.2com.yaymedialabs.putong-LC-2.ipa",
-      "localizedDescription": "Tantan_7.6.2com.yaymedialabs.putong-LC-2.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.yaymedialabs.putong.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "7.6.2",
-          "buildVersion": "7.6.2.0",
-          "date": "2026-10-06",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E5%B8%A6%E8%99%9A%E6%8B%9F%E8%A7%86%E9%A2%91%E7%9A%84%E8%BD%AF%E4%BB%B6%2F%E4%B8%89%E6%89%8B%E6%8C%87%E5%8F%8C%E5%87%BB%E5%B1%8F%E5%B9%95%E5%87%BA%E9%9D%A2%E6%9D%BF%2FTantan_7.6.2com.yaymedialabs.putong-LC-2.ipa",
-          "size": 228806332,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "7.6.2",
-          "buildVersion": "7.6.2.0",
-          "date": "2026-10-06",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E5%B8%A6%E8%99%9A%E6%8B%9F%E8%A7%86%E9%A2%91%E7%9A%84%E8%BD%AF%E4%BB%B6%2F%E4%B8%89%E6%89%8B%E6%8C%87%E5%8F%8C%E5%87%BB%E5%B1%8F%E5%B9%95%E5%87%BA%E9%9D%A2%E6%9D%BF%2FTantan_7.6.2com.yaymedialabs.putong-LC-2.ipa",
-          "size": 228806332,
           "minOSVersion": "14.0"
         }
       ]
@@ -12118,6 +12362,33 @@
       ]
     },
     {
+      "name": "MOMO陌陌",
+      "bundleIdentifier": "com.wemomo.momoappdemo1",
+      "developerName": "App Shelf",
+      "subtitle": "MOMO陌陌_9.22.5com.wemomo.momoappdemo1.ipa",
+      "localizedDescription": "MOMO陌陌_9.22.5com.wemomo.momoappdemo1.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.wemomo.momoappdemo1.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "9.22.5",
+          "buildVersion": "9.22.5.9",
+          "date": "2026-08-28",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FMOMO%E9%99%8C%E9%99%8C_9.22.5com.wemomo.momoappdemo1.ipa",
+          "size": 168082789,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "9.22.5",
+          "buildVersion": "9.22.5.9",
+          "date": "2026-08-28",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FMOMO%E9%99%8C%E9%99%8C_9.22.5com.wemomo.momoappdemo1.ipa",
+          "size": 168082789,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
       "name": "✈️ioshace短信轰炸",
       "bundleIdentifier": "com.yourcompany.tweak",
       "developerName": "App Shelf",
@@ -12159,33 +12430,6 @@
           "date": "2026-08-26",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FClash-1.0.0.ipa",
           "size": 61447907,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "SOUL",
-      "bundleIdentifier": "com.soulapp.cn",
-      "developerName": "App Shelf",
-      "subtitle": "SOUL_5.71.0com.soulapp.cn.ipa",
-      "localizedDescription": "SOUL_5.71.0com.soulapp.cn.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.soulapp.cn.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "5.71.0",
-          "buildVersion": "250427195900",
-          "date": "2026-08-25",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E5%B8%A6%E8%99%9A%E6%8B%9F%E8%A7%86%E9%A2%91%E7%9A%84%E8%BD%AF%E4%BB%B6%2F%E4%B8%89%E6%89%8B%E6%8C%87%E5%8F%8C%E5%87%BB%E5%B1%8F%E5%B9%95%E5%87%BA%E9%9D%A2%E6%9D%BF%2FSOUL_5.71.0com.soulapp.cn.ipa",
-          "size": 197617191,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "5.71.0",
-          "buildVersion": "250427195900",
-          "date": "2026-08-25",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E5%B8%A6%E8%99%9A%E6%8B%9F%E8%A7%86%E9%A2%91%E7%9A%84%E8%BD%AF%E4%BB%B6%2F%E4%B8%89%E6%89%8B%E6%8C%87%E5%8F%8C%E5%87%BB%E5%B1%8F%E5%B9%95%E5%87%BA%E9%9D%A2%E6%9D%BF%2FSOUL_5.71.0com.soulapp.cn.ipa",
-          "size": 197617191,
           "minOSVersion": "14.0"
         }
       ]
@@ -13257,6 +13501,14 @@
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FPicaComic-4.3.8-app-ios-build.ipa",
           "size": 14925813,
           "minOSVersion": "14.0"
+        },
+        {
+          "version": "4.3.8",
+          "buildVersion": "46115",
+          "date": "2026-01-10",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FPicaComic-4.3.8-app-ios-build.ipa",
+          "size": 14925813,
+          "minOSVersion": "14.0"
         }
       ]
     },
@@ -13736,8 +13988,24 @@
           "version": "8.0.54",
           "buildVersion": "8.0.54.34",
           "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.54%2F%E5%BE%AE%E4%BF%A18.0.54%E5%A4%9A%E5%BC%80mm%E7%BE%8E%E5%8C%96%E7%89%880417.ipa",
+          "size": 420739575,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.54",
+          "buildVersion": "8.0.54.34",
+          "date": "2026-01-08",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.54%2F%E5%BE%AE%E4%BF%A18.0.54%E5%A4%9A%E5%BC%80mm%E7%AE%80%E6%B4%81%E7%89%880515.ipa",
           "size": 395333558,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.54",
+          "buildVersion": "8.0.54.34",
+          "date": "2026-01-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.54%2F%E5%BE%AE%E4%BF%A18.0.54%E5%A4%9A%E5%BC%80mm%E7%AE%80%E6%B4%81%E7%89%880512.ipa",
+          "size": 395274124,
           "minOSVersion": "14.0"
         },
         {
