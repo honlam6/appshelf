@@ -11258,6 +11258,33 @@
       ]
     },
     {
+      "name": "tv",
+      "bundleIdentifier": "rog.v200ddbot.tv",
+      "developerName": "App Shelf",
+      "subtitle": "Selene-iOS-unsigned.ipa",
+      "localizedDescription": "Selene-iOS-unsigned.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/rog.v200ddbot.tv.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "4.0.0",
+          "buildVersion": "2164",
+          "date": "2026-10-05",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E6%9E%84%E5%BB%BAipa%2FSelene-iOS-unsigned.ipa",
+          "size": 19448327,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "4.0.0",
+          "buildVersion": "2164",
+          "date": "2026-10-05",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E6%9E%84%E5%BB%BAipa%2FSelene-iOS-unsigned.ipa",
+          "size": 19448327,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
       "name": "Quantumult X",
       "bundleIdentifier": "com.crossutility.quantumult-x",
       "developerName": "App Shelf",
@@ -11815,33 +11842,6 @@
           "date": "2026-10-05",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2F%E5%92%8C%E5%B9%B3AUG%E6%A8%A1%E5%9E%8B%E6%BC%8F%E6%89%93_%E6%94%AF%E6%8C%81%E7%BA%AF%E5%B7%A8%E9%AD%94%E5%86%85%E6%A0%B815-16.5.1%20%E6%97%A0%E9%9C%80%E8%B6%8A%E7%8B%B1%EF%BC%8C%E6%94%AF%E6%8C%81%E7%BA%AF%E5%B7%A8%E9%AD%9414.0-18.7.1%EF%BC%8C%E6%94%AF%E6%8C%81Relaxin%E8%B6%8A%E7%8B%B1-%E5%B7%A8%E9%AD%94R17.0-17.3.1%EF%BC%8C%E6%94%AF%E6%8C%81%E5%A4%9A%E5%B7%B4%E8%83%BA3.0%E8%B6%8A%E7%8B%B1-%E7%99%BD%E5%B7%A8%E9%AD%9417.0-18.7.1%E6%94%AF%E6%8C%8126-26.01.ipa",
           "size": 14489988,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "tv",
-      "bundleIdentifier": "rog.v200ddbot.tv",
-      "developerName": "App Shelf",
-      "subtitle": "Selene-iOS-unsigned.ipa",
-      "localizedDescription": "Selene-iOS-unsigned.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/rog.v200ddbot.tv.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "4.0.0",
-          "buildVersion": "2164",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E6%9E%84%E5%BB%BAipa%2FSelene-iOS-unsigned.ipa",
-          "size": 19448327,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "4.0.0",
-          "buildVersion": "2164",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E6%9E%84%E5%BB%BAipa%2FSelene-iOS-unsigned.ipa",
-          "size": 19448327,
           "minOSVersion": "14.0"
         }
       ]
