@@ -22218,5 +22218,45 @@
     "size": 431634731,
     "modified": "2026-01-08T01:21:32.074+08:00",
     "file_name": "微信_8.0.63多开wx美化版0926.ipa"
+  },
+  "/巨魔商店 - TrollStore/Relaxin（证书版）_0.5.7.ipa": {
+    "bundle_id": "com.aapl.relaxin",
+    "version": "0.5.7",
+    "build": "0",
+    "name": "Relaxin",
+    "path": "/巨魔商店 - TrollStore/Relaxin（证书版）_0.5.7.ipa",
+    "size": 37211518,
+    "modified": "2026-11-03T18:46:31.61+08:00",
+    "file_name": "Relaxin（证书版）_0.5.7.ipa"
+  },
+  "/苹果应用 - Appstore apps/TikTok_47.5.0_支持保存视频、去广告、自动下一条、纯净模式.ipa": {
+    "bundle_id": "com.zhiliaoapp.musically",
+    "version": "47.5.0",
+    "build": "475038",
+    "name": "TikTok",
+    "path": "/苹果应用 - Appstore apps/TikTok_47.5.0_支持保存视频、去广告、自动下一条、纯净模式.ipa",
+    "size": 528705770,
+    "modified": "2026-11-03T18:46:32.675+08:00",
+    "file_name": "TikTok_47.5.0_支持保存视频、去广告、自动下一条、纯净模式.ipa"
+  },
+  "/苹果应用 - Appstore apps/X_12.39_NFX_具有下载视频，翻译等多个功能_仅限iOS15.0及以上.ipa": {
+    "bundle_id": "com.atebits.Tweetie2",
+    "version": "12.39",
+    "build": "20",
+    "name": "X",
+    "path": "/苹果应用 - Appstore apps/X_12.39_NFX_具有下载视频，翻译等多个功能_仅限iOS15.0及以上.ipa",
+    "size": 294792636,
+    "modified": "2026-11-03T18:46:31.775+08:00",
+    "file_name": "X_12.39_NFX_具有下载视频，翻译等多个功能_仅限iOS15.0及以上.ipa"
+  },
+  "/苹果应用 - Appstore apps/CS2手游_5.8.75_1.4_全功能.ipa": {
+    "bundle_id": "com.ScarletWork.CounterFlame",
+    "version": "1.4",
+    "build": "6",
+    "name": "CounterFlame",
+    "path": "/苹果应用 - Appstore apps/CS2手游_5.8.75_1.4_全功能.ipa",
+    "size": 1762802781,
+    "modified": "2026-11-03T18:47:38.413+08:00",
+    "file_name": "CS2手游_5.8.75_1.4_全功能.ipa"
   }
 }

@@ -7,13 +7,385 @@
   "headerURL": "https://github.com/honlam6.png",
   "tintColor": "#6385ef",
   "featuredApps": [
-    "com.huami.LoadController",
-    "com.phoenix.video",
-    "com.a5game.ltzj.jj",
-    "com.xd.dave.ios.cn",
-    "com.kylin.readnew"
+    "com.ScarletWork.CounterFlame",
+    "com.zhiliaoapp.musically",
+    "com.atebits.Tweetie2",
+    "com.aapl.relaxin",
+    "com.huami.LoadController"
   ],
   "apps": [
+    {
+      "name": "CounterFlame",
+      "bundleIdentifier": "com.ScarletWork.CounterFlame",
+      "developerName": "App Shelf",
+      "subtitle": "CS2手游_5.8.75_1.4_全功能.ipa",
+      "localizedDescription": "CS2手游_5.8.75_1.4_全功能.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.ScarletWork.CounterFlame.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.4",
+          "buildVersion": "6",
+          "date": "2026-11-03",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_5.8.75_1.4_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 1762802781,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.3.0.1",
+          "buildVersion": "0",
+          "date": "2026-10-31",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_5.8.62_%E5%85%A8%E5%8A%9F%E8%83%BD_%E8%87%AA%E7%9E%84%E7%BB%98%E5%88%B6%EF%BC%8C%E9%A3%9E%E5%A4%A9%E9%81%81%E5%9C%B0%EF%BC%8C%E6%97%A0%E6%95%8C%E5%85%8D%E4%BC%A4%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%BC%80%E6%9E%AA%EF%BC%8C%E5%BC%80%E5%B1%80%E6%95%8C%E6%96%B9%E5%85%A8%E5%91%98%E7%88%86%E5%A4%B4%E7%AD%89%EF%BC%8C%E5%B1%80%E5%86%85%E6%97%A0%E9%99%90%E9%87%91%E5%B8%81%EF%BC%8C%E6%88%BF%E4%B8%BB%E5%8A%9F%E8%83%BD%E7%AD%89.ipa",
+          "size": 1795525118,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.3.0.1",
+          "buildVersion": "0",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_5.8.61_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 1797129480,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.3.0.1",
+          "buildVersion": "0",
+          "date": "2026-10-24",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_1.3.0.1_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 1795490637,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.3.0.1",
+          "buildVersion": "0",
+          "date": "2026-10-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_1.3.0.1_%E8%87%AA%E7%9E%84%E7%BB%98%E5%88%B6%E7%9A%AE%E8%82%A4%E8%A7%A3%E9%94%81%E7%AD%89.ipa",
+          "size": 1837241664,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "TikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "App Shelf",
+      "subtitle": "TikTok_47.5.0_支持保存视频、去广告、自动下一条、纯净模式.ipa",
+      "localizedDescription": "TikTok_47.5.0_支持保存视频、去广告、自动下一条、纯净模式.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.zhiliaoapp.musically.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "47.5.0",
+          "buildVersion": "475038",
+          "date": "2026-11-03",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_47.5.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
+          "size": 528705770,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "47.4.0",
+          "buildVersion": "474032",
+          "date": "2026-10-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_47.4.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
+          "size": 522692463,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "47.1.0",
+          "buildVersion": "471044",
+          "date": "2026-10-13",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_47.1.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
+          "size": 511925228,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "47.0.0",
+          "buildVersion": "470044",
+          "date": "2026-09-23",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_47.0.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
+          "size": 533935352,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "46.9.0",
+          "buildVersion": "469036",
+          "date": "2026-09-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_46.9.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F_20260918_233216.ipa",
+          "size": 531012174,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "46.9.0",
+          "buildVersion": "469036",
+          "date": "2026-09-17",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_46.9.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
+          "size": 531199123,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "36.6.0",
+          "buildVersion": "366024",
+          "date": "2026-02-03",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FTikTok_36.6.0_BH%2B%2B1.9.3_%E7%A7%8B%E5%90%8D%E5%B1%B1.ipa",
+          "size": 287217182,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "36.6.0",
+          "buildVersion": "366024",
+          "date": "2026-02-03",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FTikTok_36.6.0_BH%2B%2B1.9.3_%E7%A7%8B%E5%90%8D%E5%B1%B1.ipa",
+          "size": 287217182,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "X",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "App Shelf",
+      "subtitle": "X_12.39_NFX_具有下载视频，翻译等多个功能_仅限iOS15.0及以上.ipa",
+      "localizedDescription": "X_12.39_NFX_具有下载视频，翻译等多个功能_仅限iOS15.0及以上.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.atebits.Tweetie2.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "12.39",
+          "buildVersion": "20",
+          "date": "2026-11-03",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.39_NFX_%E5%85%B7%E6%9C%89%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%EF%BC%8C%E7%BF%BB%E8%AF%91%E7%AD%89%E5%A4%9A%E4%B8%AA%E5%8A%9F%E8%83%BD_%E4%BB%85%E9%99%90iOS15.0%E5%8F%8A%E4%BB%A5%E4%B8%8A.ipa",
+          "size": 294792636,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "12.38",
+          "buildVersion": "24",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.38_%E5%85%B7%E6%9C%89%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%EF%BC%8C%E7%BF%BB%E8%AF%91%E7%AD%89%E5%A4%9A%E4%B8%AA%E5%8A%9F%E8%83%BD.ipa",
+          "size": 286027629,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "12.35",
+          "buildVersion": "27",
+          "date": "2026-10-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.35_NFX_%E5%85%B7%E6%9C%89%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%EF%BC%8C%E7%BF%BB%E8%AF%91%E7%AD%89%E5%A4%9A%E4%B8%AA%E5%8A%9F%E8%83%BD.ipa",
+          "size": 282333821,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "12.29",
+          "buildVersion": "20",
+          "date": "2026-09-28",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.29_NFX_%E5%85%B7%E6%9C%89%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%EF%BC%8C%E7%BF%BB%E8%AF%91%E7%AD%89%E5%A4%9A%E4%B8%AA%E5%8A%9F%E8%83%BD_%E4%BB%85%E9%99%90iOS15.0%E5%8F%8A%E4%BB%A5%E4%B8%8A.ipa",
+          "size": 277560020,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "12.28",
+          "buildVersion": "12",
+          "date": "2026-09-21",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.28_%E6%8F%92%E4%BB%B6%E9%80%89%E9%A1%B9%E5%9C%A8%E6%8E%A8%E7%89%B9%E8%AE%BE%E7%BD%AE%E9%87%8C_%E4%BB%85%E9%99%90iOS15.0%E5%8F%8A%E4%BB%A5%E4%B8%8A.ipa",
+          "size": 283353369,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "12.27",
+          "buildVersion": "14",
+          "date": "2026-09-19",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.27_%E6%8F%92%E4%BB%B6%E9%80%89%E9%A1%B9%E5%9C%A8%E6%8E%A8%E7%89%B9%E8%AE%BE%E7%BD%AE%E9%87%8C_%E4%BB%85%E9%99%90iOS15.0%E5%8F%8A%E4%BB%A5%E4%B8%8A.ipa",
+          "size": 256219666,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "12.0",
+          "buildVersion": "28",
+          "date": "2026-06-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FX_Twitter_12.0_NFB5.5_%E7%A7%8B%E5%90%8D%E5%B1%B1.ipa",
+          "size": 227259013,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "12.0",
+          "buildVersion": "28",
+          "date": "2026-06-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FX_Twitter_12.0_NFB5.5_%E7%A7%8B%E5%90%8D%E5%B1%B1.ipa",
+          "size": 227259013,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "Relaxin",
+      "bundleIdentifier": "com.aapl.relaxin",
+      "developerName": "App Shelf",
+      "subtitle": "Relaxin（证书版）_0.5.7.ipa",
+      "localizedDescription": "Relaxin（证书版）_0.5.7.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.aapl.relaxin.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "0.5.7",
+          "buildVersion": "0",
+          "date": "2026-11-03",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.5.7.ipa",
+          "size": 37211518,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.5.6",
+          "buildVersion": "0",
+          "date": "2026-10-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.5.6.ipa",
+          "size": 39026725,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.5.5",
+          "buildVersion": "0",
+          "date": "2026-10-07",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.5.5.ipa",
+          "size": 38221108,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.5.4",
+          "buildVersion": "0",
+          "date": "2026-09-25",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.5.4.ipa",
+          "size": 37773116,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.5.3",
+          "buildVersion": "0",
+          "date": "2026-09-17",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.5.3.ipa",
+          "size": 29642256,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.5.2",
+          "buildVersion": "0",
+          "date": "2026-09-14",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.5.2.ipa",
+          "size": 29659569,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.5.1",
+          "buildVersion": "0",
+          "date": "2026-09-10",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.5.1.ipa",
+          "size": 29655360,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.4.9",
+          "buildVersion": "0",
+          "date": "2026-08-31",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.4.9__%E7%8E%B0%E9%98%B6%E6%AE%B5%E6%94%AF%E6%8C%81A12%EF%BD%9EA15%E5%85%A8%E7%B3%BB_%E6%94%AF%E6%8C%81iOS16.5.1%EF%BD%9EiOS17.3.1.ipa",
+          "size": 29474619,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.4.8",
+          "buildVersion": "0",
+          "date": "2026-08-25",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.4.8_%E7%8E%B0%E9%98%B6%E6%AE%B5%E6%94%AF%E6%8C%81A12%EF%BD%9EA15%E5%85%A8%E7%B3%BB_%E6%94%AF%E6%8C%81iOS16.5.1%EF%BD%9EiOS17.3.1.ipa",
+          "size": 29459265,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.4.6",
+          "buildVersion": "0",
+          "date": "2026-08-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.4.6_%E7%8E%B0%E9%98%B6%E6%AE%B5%E6%94%AF%E6%8C%81A12%EF%BD%9EA15%E5%85%A8%E7%B3%BB_%E6%94%AF%E6%8C%81iOS16.5.1%EF%BD%9EiOS16.6.1%EF%BC%8CiOS17.0%EF%BD%9EiOS17.3.1.ipa",
+          "size": 29271727,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.4.5",
+          "buildVersion": "0",
+          "date": "2026-08-12",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.4.5_%E6%94%AF%E6%8C%81iOS16.5.1%EF%BD%9EiOS16.6.1%EF%BC%8CiOS17.0%EF%BD%9EiOS17.3.1_%E6%94%AF%E6%8C%81A12%EF%BD%9EA15%E5%85%A8%E7%B3%BB.ipa",
+          "size": 29258028,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.4.3",
+          "buildVersion": "0",
+          "date": "2026-08-05",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.4.3_%E6%94%AF%E6%8C%81A12%EF%BD%9EA15%E5%85%A8%E7%B3%BB_%E6%94%AF%E6%8C%81iOS17.0%EF%BD%9EiOS17.3.1.ipa",
+          "size": 29138087,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.4.2",
+          "buildVersion": "0",
+          "date": "2026-08-05",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.4.2_%E6%94%AF%E6%8C%81A12%EF%BD%9EA15%E5%85%A8%E7%B3%BB_%E6%94%AF%E6%8C%81iOS17.0%EF%BD%9EiOS17.3.1.ipa",
+          "size": 29124564,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.4.1",
+          "buildVersion": "0",
+          "date": "2026-08-05",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.4.1_%E6%94%AF%E6%8C%81A12%EF%BD%9EA15%E5%85%A8%E7%B3%BB_%E6%94%AF%E6%8C%81iOS17.0%EF%BD%9EiOS17.3.1.ipa",
+          "size": 29119807,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.4.0",
+          "buildVersion": "0",
+          "date": "2026-08-03",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.4.0_%E6%94%AF%E6%8C%81iOS17.0%EF%BD%9EiOS17.3.1_%E7%8E%B0%E9%98%B6%E6%AE%B5%E6%94%AF%E6%8C%81iPhone11%EF%BD%9EiPhone15%E5%85%A8%E7%B3%BB.ipa",
+          "size": 29115960,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.3.8",
+          "buildVersion": "0",
+          "date": "2026-08-01",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.3.8_%E6%94%AF%E6%8C%81iOS17.0%EF%BD%9EiOS17.3.1_%E7%8E%B0%E9%98%B6%E6%AE%B5%E6%94%AF%E6%8C%81iPhone11%EF%BD%9EiPhone15%E5%85%A8%E7%B3%BB.ipa",
+          "size": 29116444,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.3.7",
+          "buildVersion": "0",
+          "date": "2026-08-01",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.3.7_%E6%94%AF%E6%8C%81iOS17.0%EF%BD%9EiOS17.3.1_%E7%8E%B0%E9%98%B6%E6%AE%B5%E6%94%AF%E6%8C%81iPhone11%EF%BD%9EiPhone15%E5%85%A8%E7%B3%BB.ipa",
+          "size": 29124803,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.3.6",
+          "buildVersion": "0",
+          "date": "2026-08-01",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.3.6_%E6%94%AF%E6%8C%81iOS17.0%EF%BD%9EiOS17.3.1_%E7%8E%B0%E9%98%B6%E6%AE%B5%E6%94%AF%E6%8C%81iPhone11%EF%BD%9EiPhone15%E5%85%A8%E7%B3%BB.ipa",
+          "size": 29125658,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.3.4",
+          "buildVersion": "0",
+          "date": "2026-07-30",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.3.4_%E6%94%AF%E6%8C%81iPhone13%EF%BD%9EiPhone15%E5%85%A8%E7%B3%BB_%E6%94%AF%E6%8C%81iOS17.0%EF%BD%9EiOS17.3.1.ipa",
+          "size": 29115353,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.3.3",
+          "buildVersion": "0",
+          "date": "2026-07-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin_v0.3.3_%E6%94%AF%E6%8C%81iPhone13%EF%BD%9EiPhone15%E5%85%A8%E7%B3%BB_%E6%94%AF%E6%8C%81iOS17.0%EF%BD%9EiOS17.3.1.ipa",
+          "size": 29115348,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
     {
       "name": "LCSign",
       "bundleIdentifier": "com.huami.LoadController",
@@ -242,49 +614,6 @@
           "date": "2026-09-18",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%9C%B0%E7%90%83%E6%9C%AB%E6%97%A5_%E7%94%9F%E5%AD%98_1.52.0_%E6%97%A0%E6%95%8C%E7%A7%92%E6%9D%80%E7%AD%89.ipa",
           "size": 1083368549,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "CounterFlame",
-      "bundleIdentifier": "com.ScarletWork.CounterFlame",
-      "developerName": "App Shelf",
-      "subtitle": "CS2手游_5.8.62_全功能_自瞄绘制，飞天遁地，无敌免伤，自动开枪，开局敌方全员爆头等，局内无限金币，房主功能等.ipa",
-      "localizedDescription": "CS2手游_5.8.62_全功能_自瞄绘制，飞天遁地，无敌免伤，自动开枪，开局敌方全员爆头等，局内无限金币，房主功能等.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.ScarletWork.CounterFlame.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "1.3.0.1",
-          "buildVersion": "0",
-          "date": "2026-10-31",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_5.8.62_%E5%85%A8%E5%8A%9F%E8%83%BD_%E8%87%AA%E7%9E%84%E7%BB%98%E5%88%B6%EF%BC%8C%E9%A3%9E%E5%A4%A9%E9%81%81%E5%9C%B0%EF%BC%8C%E6%97%A0%E6%95%8C%E5%85%8D%E4%BC%A4%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%BC%80%E6%9E%AA%EF%BC%8C%E5%BC%80%E5%B1%80%E6%95%8C%E6%96%B9%E5%85%A8%E5%91%98%E7%88%86%E5%A4%B4%E7%AD%89%EF%BC%8C%E5%B1%80%E5%86%85%E6%97%A0%E9%99%90%E9%87%91%E5%B8%81%EF%BC%8C%E6%88%BF%E4%B8%BB%E5%8A%9F%E8%83%BD%E7%AD%89.ipa",
-          "size": 1795525118,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.3.0.1",
-          "buildVersion": "0",
-          "date": "2026-10-29",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_5.8.61_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
-          "size": 1797129480,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.3.0.1",
-          "buildVersion": "0",
-          "date": "2026-10-24",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_1.3.0.1_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
-          "size": 1795490637,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.3.0.1",
-          "buildVersion": "0",
-          "date": "2026-10-22",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_1.3.0.1_%E8%87%AA%E7%9E%84%E7%BB%98%E5%88%B6%E7%9A%AE%E8%82%A4%E8%A7%A3%E9%94%81%E7%AD%89.ipa",
-          "size": 1837241664,
           "minOSVersion": "14.0"
         }
       ]
@@ -5586,14 +5915,6 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "8.0.63",
-          "buildVersion": "8.0.63.34",
-          "date": "2026-01-08",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.63%2F%E5%BE%AE%E4%BF%A1_8.0.63%E5%A4%9A%E5%BC%80wx%E7%BE%8E%E5%8C%96%E7%89%880926.ipa",
-          "size": 431634731,
-          "minOSVersion": "14.0"
-        },
-        {
           "version": "8.0.62",
           "buildVersion": "8.0.62.38",
           "date": "2026-01-08",
@@ -8923,73 +9244,6 @@
       ]
     },
     {
-      "name": "X",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "App Shelf",
-      "subtitle": "X_12.38_具有下载视频，翻译等多个功能.ipa",
-      "localizedDescription": "X_12.38_具有下载视频，翻译等多个功能.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.atebits.Tweetie2.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "12.38",
-          "buildVersion": "24",
-          "date": "2026-10-29",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.38_%E5%85%B7%E6%9C%89%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%EF%BC%8C%E7%BF%BB%E8%AF%91%E7%AD%89%E5%A4%9A%E4%B8%AA%E5%8A%9F%E8%83%BD.ipa",
-          "size": 286027629,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "12.35",
-          "buildVersion": "27",
-          "date": "2026-10-20",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.35_NFX_%E5%85%B7%E6%9C%89%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%EF%BC%8C%E7%BF%BB%E8%AF%91%E7%AD%89%E5%A4%9A%E4%B8%AA%E5%8A%9F%E8%83%BD.ipa",
-          "size": 282333821,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "12.29",
-          "buildVersion": "20",
-          "date": "2026-09-28",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.29_NFX_%E5%85%B7%E6%9C%89%E4%B8%8B%E8%BD%BD%E8%A7%86%E9%A2%91%EF%BC%8C%E7%BF%BB%E8%AF%91%E7%AD%89%E5%A4%9A%E4%B8%AA%E5%8A%9F%E8%83%BD_%E4%BB%85%E9%99%90iOS15.0%E5%8F%8A%E4%BB%A5%E4%B8%8A.ipa",
-          "size": 277560020,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "12.28",
-          "buildVersion": "12",
-          "date": "2026-09-21",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.28_%E6%8F%92%E4%BB%B6%E9%80%89%E9%A1%B9%E5%9C%A8%E6%8E%A8%E7%89%B9%E8%AE%BE%E7%BD%AE%E9%87%8C_%E4%BB%85%E9%99%90iOS15.0%E5%8F%8A%E4%BB%A5%E4%B8%8A.ipa",
-          "size": 283353369,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "12.27",
-          "buildVersion": "14",
-          "date": "2026-09-19",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FX_12.27_%E6%8F%92%E4%BB%B6%E9%80%89%E9%A1%B9%E5%9C%A8%E6%8E%A8%E7%89%B9%E8%AE%BE%E7%BD%AE%E9%87%8C_%E4%BB%85%E9%99%90iOS15.0%E5%8F%8A%E4%BB%A5%E4%B8%8A.ipa",
-          "size": 256219666,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "12.0",
-          "buildVersion": "28",
-          "date": "2026-06-22",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FX_Twitter_12.0_NFB5.5_%E7%A7%8B%E5%90%8D%E5%B1%B1.ipa",
-          "size": 227259013,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "12.0",
-          "buildVersion": "28",
-          "date": "2026-06-22",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FX_Twitter_12.0_NFB5.5_%E7%A7%8B%E5%90%8D%E5%B1%B1.ipa",
-          "size": 227259013,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "SoulKnight",
       "bundleIdentifier": "com.ChillyRoom.DungeonShooter",
       "developerName": "App Shelf",
@@ -9643,169 +9897,6 @@
       ]
     },
     {
-      "name": "Relaxin",
-      "bundleIdentifier": "com.aapl.relaxin",
-      "developerName": "App Shelf",
-      "subtitle": "Relaxin（证书版）_0.5.6.ipa",
-      "localizedDescription": "Relaxin（证书版）_0.5.6.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.aapl.relaxin.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "0.5.6",
-          "buildVersion": "0",
-          "date": "2026-10-22",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.5.6.ipa",
-          "size": 39026725,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.5.5",
-          "buildVersion": "0",
-          "date": "2026-10-07",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.5.5.ipa",
-          "size": 38221108,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.5.4",
-          "buildVersion": "0",
-          "date": "2026-09-25",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.5.4.ipa",
-          "size": 37773116,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.5.3",
-          "buildVersion": "0",
-          "date": "2026-09-17",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.5.3.ipa",
-          "size": 29642256,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.5.2",
-          "buildVersion": "0",
-          "date": "2026-09-14",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.5.2.ipa",
-          "size": 29659569,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.5.1",
-          "buildVersion": "0",
-          "date": "2026-09-10",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.5.1.ipa",
-          "size": 29655360,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.4.9",
-          "buildVersion": "0",
-          "date": "2026-08-31",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.4.9__%E7%8E%B0%E9%98%B6%E6%AE%B5%E6%94%AF%E6%8C%81A12%EF%BD%9EA15%E5%85%A8%E7%B3%BB_%E6%94%AF%E6%8C%81iOS16.5.1%EF%BD%9EiOS17.3.1.ipa",
-          "size": 29474619,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.4.8",
-          "buildVersion": "0",
-          "date": "2026-08-25",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.4.8_%E7%8E%B0%E9%98%B6%E6%AE%B5%E6%94%AF%E6%8C%81A12%EF%BD%9EA15%E5%85%A8%E7%B3%BB_%E6%94%AF%E6%8C%81iOS16.5.1%EF%BD%9EiOS17.3.1.ipa",
-          "size": 29459265,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.4.6",
-          "buildVersion": "0",
-          "date": "2026-08-18",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.4.6_%E7%8E%B0%E9%98%B6%E6%AE%B5%E6%94%AF%E6%8C%81A12%EF%BD%9EA15%E5%85%A8%E7%B3%BB_%E6%94%AF%E6%8C%81iOS16.5.1%EF%BD%9EiOS16.6.1%EF%BC%8CiOS17.0%EF%BD%9EiOS17.3.1.ipa",
-          "size": 29271727,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.4.5",
-          "buildVersion": "0",
-          "date": "2026-08-12",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.4.5_%E6%94%AF%E6%8C%81iOS16.5.1%EF%BD%9EiOS16.6.1%EF%BC%8CiOS17.0%EF%BD%9EiOS17.3.1_%E6%94%AF%E6%8C%81A12%EF%BD%9EA15%E5%85%A8%E7%B3%BB.ipa",
-          "size": 29258028,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.4.3",
-          "buildVersion": "0",
-          "date": "2026-08-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.4.3_%E6%94%AF%E6%8C%81A12%EF%BD%9EA15%E5%85%A8%E7%B3%BB_%E6%94%AF%E6%8C%81iOS17.0%EF%BD%9EiOS17.3.1.ipa",
-          "size": 29138087,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.4.2",
-          "buildVersion": "0",
-          "date": "2026-08-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.4.2_%E6%94%AF%E6%8C%81A12%EF%BD%9EA15%E5%85%A8%E7%B3%BB_%E6%94%AF%E6%8C%81iOS17.0%EF%BD%9EiOS17.3.1.ipa",
-          "size": 29124564,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.4.1",
-          "buildVersion": "0",
-          "date": "2026-08-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.4.1_%E6%94%AF%E6%8C%81A12%EF%BD%9EA15%E5%85%A8%E7%B3%BB_%E6%94%AF%E6%8C%81iOS17.0%EF%BD%9EiOS17.3.1.ipa",
-          "size": 29119807,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.4.0",
-          "buildVersion": "0",
-          "date": "2026-08-03",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.4.0_%E6%94%AF%E6%8C%81iOS17.0%EF%BD%9EiOS17.3.1_%E7%8E%B0%E9%98%B6%E6%AE%B5%E6%94%AF%E6%8C%81iPhone11%EF%BD%9EiPhone15%E5%85%A8%E7%B3%BB.ipa",
-          "size": 29115960,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.3.8",
-          "buildVersion": "0",
-          "date": "2026-08-01",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.3.8_%E6%94%AF%E6%8C%81iOS17.0%EF%BD%9EiOS17.3.1_%E7%8E%B0%E9%98%B6%E6%AE%B5%E6%94%AF%E6%8C%81iPhone11%EF%BD%9EiPhone15%E5%85%A8%E7%B3%BB.ipa",
-          "size": 29116444,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.3.7",
-          "buildVersion": "0",
-          "date": "2026-08-01",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.3.7_%E6%94%AF%E6%8C%81iOS17.0%EF%BD%9EiOS17.3.1_%E7%8E%B0%E9%98%B6%E6%AE%B5%E6%94%AF%E6%8C%81iPhone11%EF%BD%9EiPhone15%E5%85%A8%E7%B3%BB.ipa",
-          "size": 29124803,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.3.6",
-          "buildVersion": "0",
-          "date": "2026-08-01",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.3.6_%E6%94%AF%E6%8C%81iOS17.0%EF%BD%9EiOS17.3.1_%E7%8E%B0%E9%98%B6%E6%AE%B5%E6%94%AF%E6%8C%81iPhone11%EF%BD%9EiPhone15%E5%85%A8%E7%B3%BB.ipa",
-          "size": 29125658,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.3.4",
-          "buildVersion": "0",
-          "date": "2026-07-30",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin%EF%BC%88%E8%AF%81%E4%B9%A6%E7%89%88%EF%BC%89_0.3.4_%E6%94%AF%E6%8C%81iPhone13%EF%BD%9EiPhone15%E5%85%A8%E7%B3%BB_%E6%94%AF%E6%8C%81iOS17.0%EF%BD%9EiOS17.3.1.ipa",
-          "size": 29115353,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.3.3",
-          "buildVersion": "0",
-          "date": "2026-07-29",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FRelaxin_v0.3.3_%E6%94%AF%E6%8C%81iPhone13%EF%BD%9EiPhone15%E5%85%A8%E7%B3%BB_%E6%94%AF%E6%8C%81iOS17.0%EF%BD%9EiOS17.3.1.ipa",
-          "size": 29115348,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "Husk",
       "bundleIdentifier": "com.husk.app",
       "developerName": "App Shelf",
@@ -9946,73 +10037,6 @@
           "date": "2026-09-20",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%8A%96%E9%9F%B3_40.5.0_%E6%8A%96%E9%9F%B3%E5%8A%A9%E6%89%8B_%E6%B3%A8%E5%85%A5Yuki%E9%98%B2%E6%92%A4%E5%9B%9E%E6%8F%92%E4%BB%B6%E7%AD%89%EF%BC%8C%E8%AE%BE%E7%BD%AE%E6%89%93%E5%BC%80%E5%8D%B3%E5%8F%AF.ipa",
           "size": 784205227,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "TikTok",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "App Shelf",
-      "subtitle": "TikTok_47.4.0_支持保存视频、去广告、自动下一条、纯净模式.ipa",
-      "localizedDescription": "TikTok_47.4.0_支持保存视频、去广告、自动下一条、纯净模式.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.zhiliaoapp.musically.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "47.4.0",
-          "buildVersion": "474032",
-          "date": "2026-10-22",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_47.4.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
-          "size": 522692463,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "47.1.0",
-          "buildVersion": "471044",
-          "date": "2026-10-13",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_47.1.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
-          "size": 511925228,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "47.0.0",
-          "buildVersion": "470044",
-          "date": "2026-09-23",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_47.0.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
-          "size": 533935352,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "46.9.0",
-          "buildVersion": "469036",
-          "date": "2026-09-18",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_46.9.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F_20260918_233216.ipa",
-          "size": 531012174,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "46.9.0",
-          "buildVersion": "469036",
-          "date": "2026-09-17",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_46.9.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
-          "size": 531199123,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "36.6.0",
-          "buildVersion": "366024",
-          "date": "2026-02-03",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FTikTok_36.6.0_BH%2B%2B1.9.3_%E7%A7%8B%E5%90%8D%E5%B1%B1.ipa",
-          "size": 287217182,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "36.6.0",
-          "buildVersion": "366024",
-          "date": "2026-02-03",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FTikTok_36.6.0_BH%2B%2B1.9.3_%E7%A7%8B%E5%90%8D%E5%B1%B1.ipa",
-          "size": 287217182,
           "minOSVersion": "14.0"
         }
       ]
@@ -11773,14 +11797,6 @@
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FSurge_5.102.0%EF%BC%88TF3853%EF%BC%89.ipa",
           "size": 53807219,
           "minOSVersion": "14.0"
-        },
-        {
-          "version": "5.22.1",
-          "buildVersion": "3838",
-          "date": "2026-09-16",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FSurge_5.22.1_%E8%A7%A3%E9%94%81Pro.ipa",
-          "size": 54953516,
-          "minOSVersion": "14.0"
         }
       ]
     },
@@ -12148,44 +12164,6 @@
           "date": "2026-09-18",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%8B%A6%E6%88%AA%E7%8C%AB_1.6.14_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98_%E6%8B%A6%E6%88%AA%E5%90%84%E7%A7%8D%E5%9E%83%E5%9C%BE%E7%9F%AD%E4%BF%A1%EF%BC%8C%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D%E7%AD%89.ipa",
           "size": 74700011,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "两步路",
-      "bundleIdentifier": "lolaage.2bulu.zhushou",
-      "developerName": "App Shelf",
-      "subtitle": "两步路户外助手_9.2.4_解锁会员.ipa",
-      "localizedDescription": "两步路户外助手_9.2.4_解锁会员.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/lolaage.2bulu.zhushou.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "9.2.4",
-          "buildVersion": "9.2.4.8",
-          "date": "2026-09-16",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E4%B8%A4%E6%AD%A5%E8%B7%AF%E6%88%B7%E5%A4%96%E5%8A%A9%E6%89%8B_9.2.4_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
-          "size": 132141164,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "HiWidget",
-      "bundleIdentifier": "com.zerone.hidesktop",
-      "developerName": "App Shelf",
-      "subtitle": "我的桌面·iScreen_5.1.05_解锁会员.ipa",
-      "localizedDescription": "我的桌面·iScreen_5.1.05_解锁会员.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.zerone.hidesktop.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "5.1.05",
-          "buildVersion": "29",
-          "date": "2026-09-15",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%88%91%E7%9A%84%E6%A1%8C%E9%9D%A2%C2%B7iScreen_5.1.05_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
-          "size": 327231443,
           "minOSVersion": "14.0"
         }
       ]
