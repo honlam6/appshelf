@@ -22258,5 +22258,105 @@
     "size": 1762802781,
     "modified": "2026-11-03T18:47:38.413+08:00",
     "file_name": "CS2手游_5.8.75_1.4_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/小红书_9.53_去水印+液态玻璃.ipa": {
+    "bundle_id": "com.xingin.discover",
+    "version": "9.53",
+    "build": "9530833",
+    "name": "小红书",
+    "path": "/苹果应用 - Appstore apps/小红书_9.53_去水印+液态玻璃.ipa",
+    "size": 213303678,
+    "modified": "2026-11-06T10:21:27.27+08:00",
+    "file_name": "小红书_9.53_去水印+液态玻璃.ipa"
+  },
+  "/苹果应用 - Appstore apps/CS2手游_5.8.76_1.4_全功能.ipa": {
+    "bundle_id": "com.ScarletWork.CounterFlame",
+    "version": "1.4",
+    "build": "6",
+    "name": "CounterFlame",
+    "path": "/苹果应用 - Appstore apps/CS2手游_5.8.76_1.4_全功能.ipa",
+    "size": 1762806488,
+    "modified": "2026-11-06T10:21:46.871+08:00",
+    "file_name": "CS2手游_5.8.76_1.4_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/向僵尸开炮_500.0.0_全功能.ipa": {
+    "bundle_id": "com.wiwi.azssx",
+    "version": "500.0.0",
+    "build": "2",
+    "name": "向僵尸开炮",
+    "path": "/苹果应用 - Appstore apps/向僵尸开炮_500.0.0_全功能.ipa",
+    "size": 1878031723,
+    "modified": "2026-11-06T10:22:08.03+08:00",
+    "file_name": "向僵尸开炮_500.0.0_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/小红书_9.53_去水印.ipa": {
+    "bundle_id": "com.xingin.discover",
+    "version": "9.53",
+    "build": "9530833",
+    "name": "小红书",
+    "path": "/苹果应用 - Appstore apps/小红书_9.53_去水印.ipa",
+    "size": 212822928,
+    "modified": "2026-11-06T10:21:26.618+08:00",
+    "file_name": "小红书_9.53_去水印.ipa"
+  },
+  "/苹果应用 - Appstore apps/雷霆战机_1.30.5_全功能.ipa": {
+    "bundle_id": "com.a5game.ltzj.jj",
+    "version": "1.30.5",
+    "build": "186",
+    "name": "雷霆战机：集结",
+    "path": "/苹果应用 - Appstore apps/雷霆战机_1.30.5_全功能.ipa",
+    "size": 1240245076,
+    "modified": "2026-11-06T10:21:19.955+08:00",
+    "file_name": "雷霆战机_1.30.5_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/模拟城市_1.84.1_无限资源.ipa": {
+    "bundle_id": "com.ea.simcitymobile.bv",
+    "version": "1.84.1",
+    "build": "1.84.1.16211726",
+    "name": "SimCity",
+    "path": "/苹果应用 - Appstore apps/模拟城市_1.84.1_无限资源.ipa",
+    "size": 271688572,
+    "modified": "2026-11-06T10:21:29.281+08:00",
+    "file_name": "模拟城市_1.84.1_无限资源.ipa"
+  },
+  "/苹果应用 - Appstore apps/明日方舟_2.7.91_部署无冷却、无消耗.ipa": {
+    "bundle_id": "com.hypergryph.arknights",
+    "version": "2.7.91",
+    "build": "76",
+    "name": "明日方舟",
+    "path": "/苹果应用 - Appstore apps/明日方舟_2.7.91_部署无冷却、无消耗.ipa",
+    "size": 2746648409,
+    "modified": "2026-11-06T10:23:34.551+08:00",
+    "file_name": "明日方舟_2.7.91_部署无冷却、无消耗.ipa"
+  },
+  "/苹果应用 - Appstore apps/土豆兄弟_1.3.410_全功能.ipa": {
+    "bundle_id": "com.brotato.shooting.survivors.action.games.bullethell.ios",
+    "version": "1.3.410",
+    "build": "1.3.410",
+    "name": "Brotato",
+    "path": "/苹果应用 - Appstore apps/土豆兄弟_1.3.410_全功能.ipa",
+    "size": 213535321,
+    "modified": "2026-11-06T10:21:41.282+08:00",
+    "file_name": "土豆兄弟_1.3.410_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/抖音_41.0.0_注入Yuki防撤回插件等，设置打开即可.ipa": {
+    "bundle_id": "com.ss.iphone.ugc.Aweme",
+    "version": "41.0.0",
+    "build": "410017",
+    "name": "抖音",
+    "path": "/苹果应用 - Appstore apps/抖音_41.0.0_注入Yuki防撤回插件等，设置打开即可.ipa",
+    "size": 785803313,
+    "modified": "2026-11-06T10:21:20.325+08:00",
+    "file_name": "抖音_41.0.0_注入Yuki防撤回插件等，设置打开即可.ipa"
+  },
+  "/苹果应用 - Appstore apps/魔法工艺_1.2.45_无敌秒杀.ipa": {
+    "bundle_id": "com.bilibili.mfgy",
+    "version": "1.2.45",
+    "build": "2",
+    "name": "魔法工艺",
+    "path": "/苹果应用 - Appstore apps/魔法工艺_1.2.45_无敌秒杀.ipa",
+    "size": 769665386,
+    "modified": "2026-11-06T10:22:11.281+08:00",
+    "file_name": "魔法工艺_1.2.45_无敌秒杀.ipa"
   }
 }
