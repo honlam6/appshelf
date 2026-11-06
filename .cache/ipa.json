@@ -22358,5 +22358,25 @@
     "size": 769665386,
     "modified": "2026-11-06T10:22:11.281+08:00",
     "file_name": "魔法工艺_1.2.45_无敌秒杀.ipa"
+  },
+  "/全球资源 - Global resources/小熊网盘/iphone/ipa软件/Turrit_1.5.7_Lead.ipa": {
+    "bundle_id": "com.seastar.turrit",
+    "version": "1.5.7",
+    "build": "10397",
+    "name": "Turrit",
+    "path": "/全球资源 - Global resources/小熊网盘/iphone/ipa软件/Turrit_1.5.7_Lead.ipa",
+    "size": 102638108,
+    "modified": "2026-11-06T23:52:45+08:00",
+    "file_name": "Turrit_1.5.7_Lead.ipa"
+  },
+  "/全球资源 - Global resources/V200网盘/iphone/ipa软件/Turrit_1.5.7_Lead.ipa": {
+    "bundle_id": "com.seastar.turrit",
+    "version": "1.5.7",
+    "build": "10397",
+    "name": "Turrit",
+    "path": "/全球资源 - Global resources/V200网盘/iphone/ipa软件/Turrit_1.5.7_Lead.ipa",
+    "size": 102638108,
+    "modified": "2026-11-06T23:52:45+08:00",
+    "file_name": "Turrit_1.5.7_Lead.ipa"
   }
 }
