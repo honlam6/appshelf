@@ -22378,5 +22378,105 @@
     "size": 102638108,
     "modified": "2026-11-06T23:52:45+08:00",
     "file_name": "Turrit_1.5.7_Lead.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/Dopamine-roothide-3.0.13-30.ipa": {
+    "bundle_id": "com.opa334.Dopamine-roothide",
+    "version": "3.0.13-30",
+    "build": "1",
+    "name": "Dopamine",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/Dopamine-roothide-3.0.13-30.ipa",
+    "size": 55348740,
+    "modified": "2026-11-08T16:26:05.748+08:00",
+    "file_name": "Dopamine-roothide-3.0.13-30.ipa"
+  },
+  "/苹果应用 - Appstore apps/Turrit_1.5.8_防撤回，去广告，保存受限制的照片视频等.ipa": {
+    "bundle_id": "com.seastar.turrit",
+    "version": "1.5.8",
+    "build": "10403",
+    "name": "Turrit",
+    "path": "/苹果应用 - Appstore apps/Turrit_1.5.8_防撤回，去广告，保存受限制的照片视频等.ipa",
+    "size": 102852375,
+    "modified": "2026-11-08T14:19:02.888+08:00",
+    "file_name": "Turrit_1.5.8_防撤回，去广告，保存受限制的照片视频等.ipa"
+  },
+  "/苹果应用 - Appstore apps/无悔华夏_1.2.426_全功能_自动战斗策略等.ipa": {
+    "bundle_id": "com.yhhy.whrhx",
+    "version": "1.2.426",
+    "build": "1",
+    "name": "无悔华夏",
+    "path": "/苹果应用 - Appstore apps/无悔华夏_1.2.426_全功能_自动战斗策略等.ipa",
+    "size": 1417269643,
+    "modified": "2026-11-08T14:19:05.72+08:00",
+    "file_name": "无悔华夏_1.2.426_全功能_自动战斗策略等.ipa"
+  },
+  "/苹果应用 - Appstore apps/Swiftgram_13.1.2_解锁Pro.ipa": {
+    "bundle_id": "app.swiftgram.ios",
+    "version": "13.1.2",
+    "build": "350",
+    "name": "Swiftgram",
+    "path": "/苹果应用 - Appstore apps/Swiftgram_13.1.2_解锁Pro.ipa",
+    "size": 82037570,
+    "modified": "2026-11-08T14:19:02.859+08:00",
+    "file_name": "Swiftgram_13.1.2_解锁Pro.ipa"
+  },
+  "/苹果应用 - Appstore apps/Telegram_13.2_防撤回，去广告，保存受限制的照片视频等.ipa": {
+    "bundle_id": "ph.telegra.Telegraph",
+    "version": "13.2",
+    "build": "36535",
+    "name": "Telegram",
+    "path": "/苹果应用 - Appstore apps/Telegram_13.2_防撤回，去广告，保存受限制的照片视频等.ipa",
+    "size": 86716050,
+    "modified": "2026-11-08T14:19:02.846+08:00",
+    "file_name": "Telegram_13.2_防撤回，去广告，保存受限制的照片视频等.ipa"
+  },
+  "/巨魔商店 - TrollStore/Filza_5.0.1_解锁完整版.ipa": {
+    "bundle_id": "com.tigisoftware.Filza",
+    "version": "5.0.1",
+    "build": "0",
+    "name": "Filza",
+    "path": "/巨魔商店 - TrollStore/Filza_5.0.1_解锁完整版.ipa",
+    "size": 20590797,
+    "modified": "2026-11-08T14:18:40.316+08:00",
+    "file_name": "Filza_5.0.1_解锁完整版.ipa"
+  },
+  "/巨魔商店 - TrollStore/Filza_5.0.1_巨魔专用_官方正版，没有破解.ipa": {
+    "bundle_id": "com.tigisoftware.Filza",
+    "version": "5.0.1",
+    "build": "0",
+    "name": "Filza",
+    "path": "/巨魔商店 - TrollStore/Filza_5.0.1_巨魔专用_官方正版，没有破解.ipa",
+    "size": 20287789,
+    "modified": "2026-11-08T14:18:40.421+08:00",
+    "file_name": "Filza_5.0.1_巨魔专用_官方正版，没有破解.ipa"
+  },
+  "/苹果应用 - Appstore apps/YouTube_21.39.4_支持下载高清视频，去除广告等，无限下载+画中画.ipa": {
+    "bundle_id": "com.google.ios.youtube",
+    "version": "21.44.4",
+    "build": "21.44.4",
+    "name": "YouTube",
+    "path": "/苹果应用 - Appstore apps/YouTube_21.39.4_支持下载高清视频，去除广告等，无限下载+画中画.ipa",
+    "size": 154996839,
+    "modified": "2026-11-08T14:19:05.064+08:00",
+    "file_name": "YouTube_21.39.4_支持下载高清视频，去除广告等，无限下载+画中画.ipa"
+  },
+  "/苹果应用 - Appstore apps/Swiftgram_13.1.2_防撤回，去广告，保存受限制的照片视频等.ipa": {
+    "bundle_id": "app.swiftgram.ios",
+    "version": "13.1.2",
+    "build": "350",
+    "name": "Swiftgram",
+    "path": "/苹果应用 - Appstore apps/Swiftgram_13.1.2_防撤回，去广告，保存受限制的照片视频等.ipa",
+    "size": 86533421,
+    "modified": "2026-11-08T14:19:02.871+08:00",
+    "file_name": "Swiftgram_13.1.2_防撤回，去广告，保存受限制的照片视频等.ipa"
+  },
+  "/巨魔商店 - TrollStore/Filza_5.0.1_巨魔专用_官方正版，没有破解_不支持 UrlScheme 跳转，适合容易被检测的场景.ipa": {
+    "bundle_id": "com.tigisoftware.Filza000",
+    "version": "5.0.1",
+    "build": "0",
+    "name": "Filza",
+    "path": "/巨魔商店 - TrollStore/Filza_5.0.1_巨魔专用_官方正版，没有破解_不支持 UrlScheme 跳转，适合容易被检测的场景.ipa",
+    "size": 20287776,
+    "modified": "2026-11-08T14:18:40.413+08:00",
+    "file_name": "Filza_5.0.1_巨魔专用_官方正版，没有破解_不支持 UrlScheme 跳转，适合容易被检测的场景.ipa"
   }
 }
