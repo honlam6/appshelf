@@ -22528,5 +22528,15 @@
     "size": 766296477,
     "modified": "2026-11-09T10:54:38.221+08:00",
     "file_name": "抖音_41.0.0.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/iPlayer_2.1.1.ipa": {
+    "bundle_id": "com.kang.iPlayer.swift",
+    "version": "2.1.1",
+    "build": "25",
+    "name": "iPlayer",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/iPlayer_2.1.1.ipa",
+    "size": 16653376,
+    "modified": "2026-11-09T17:33:16.288+08:00",
+    "file_name": "iPlayer_2.1.1.ipa"
   }
 }

@@ -7,13 +7,40 @@
   "headerURL": "https://github.com/honlam6.png",
   "tintColor": "#6385ef",
   "featuredApps": [
+    "com.kang.iPlayer.swift",
     "com.ss.iphone.ugc.Aweme😡",
     "com.ss.iphone.ugc.Aweme",
     "com.xingin.discover",
-    "sb.moe.kumone-ios",
-    "com.husk.app"
+    "sb.moe.kumone-ios"
   ],
   "apps": [
+    {
+      "name": "iPlayer",
+      "bundleIdentifier": "com.kang.iPlayer.swift",
+      "developerName": "App Shelf",
+      "subtitle": "iPlayer_2.1.1.ipa",
+      "localizedDescription": "iPlayer_2.1.1.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.kang.iPlayer.swift.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "2.1.1",
+          "buildVersion": "25",
+          "date": "2026-11-09",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2FiPlayer_2.1.1.ipa",
+          "size": 16653376,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "2.1.0",
+          "buildVersion": "21",
+          "date": "2026-10-15",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2FiPlayer_2.1.0.ipa",
+          "size": 18070879,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
     {
       "name": "抖音pro",
       "bundleIdentifier": "com.ss.iphone.ugc.Aweme😡",
@@ -9304,25 +9331,6 @@
       ]
     },
     {
-      "name": "iPlayer",
-      "bundleIdentifier": "com.kang.iPlayer.swift",
-      "developerName": "App Shelf",
-      "subtitle": "iPlayer_2.1.0.ipa",
-      "localizedDescription": "iPlayer_2.1.0.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.kang.iPlayer.swift.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "2.1.0",
-          "buildVersion": "21",
-          "date": "2026-10-15",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2FiPlayer_2.1.0.ipa",
-          "size": 18070879,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "动听播放器",
       "bundleIdentifier": "com.danluo.tempproject",
       "developerName": "App Shelf",
@@ -10929,14 +10937,6 @@
           "date": "2026-06-29",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E9%93%81%E7%94%B2%E9%92%A2%E6%8B%B3_111.111.108.ipa",
           "size": 864267229,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "109.109.106",
-          "buildVersion": "109.109.106",
-          "date": "2026-05-19",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F3%2F%E9%93%81%E7%94%B2%E9%92%A2%E6%8B%B3_109.109.106.ipa",
-          "size": 846572546,
           "minOSVersion": "14.0"
         }
       ]
