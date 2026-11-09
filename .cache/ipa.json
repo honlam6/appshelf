@@ -22478,5 +22478,55 @@
     "size": 20287776,
     "modified": "2026-11-08T14:18:40.413+08:00",
     "file_name": "Filza_5.0.1_巨魔专用_官方正版，没有破解_不支持 UrlScheme 跳转，适合容易被检测的场景.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/Kumone_0.3.29.ipa": {
+    "bundle_id": "sb.moe.kumone-ios",
+    "version": "0.3.29",
+    "build": "399",
+    "name": "Kumone",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/Kumone_0.3.29.ipa",
+    "size": 4674430,
+    "modified": "2026-11-09T10:52:31.967+08:00",
+    "file_name": "Kumone_0.3.29.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/小红书_9.54.ipa": {
+    "bundle_id": "com.xingin.discover",
+    "version": "9.54",
+    "build": "9540813",
+    "name": "小红书",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/小红书_9.54.ipa",
+    "size": 206494422,
+    "modified": "2026-11-09T10:52:50.128+08:00",
+    "file_name": "小红书_9.54.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/Husk苹果运行安卓_3.4.ipa": {
+    "bundle_id": "com.husk.app",
+    "version": "3.4",
+    "build": "149",
+    "name": "Husk",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/Husk苹果运行安卓_3.4.ipa",
+    "size": 142303569,
+    "modified": "2026-11-09T10:52:14.975+08:00",
+    "file_name": "Husk苹果运行安卓_3.4.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/抖音pro_41.0.0.ipa": {
+    "bundle_id": "com.ss.iphone.ugc.Aweme😡",
+    "version": "41.0.0",
+    "build": "410017",
+    "name": "抖音pro",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/抖音pro_41.0.0.ipa",
+    "size": 766296617,
+    "modified": "2026-11-09T10:54:53.032+08:00",
+    "file_name": "抖音pro_41.0.0.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/抖音_41.0.0.ipa": {
+    "bundle_id": "com.ss.iphone.ugc.Aweme",
+    "version": "41.0.0",
+    "build": "410017",
+    "name": "抖音",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/抖音_41.0.0.ipa",
+    "size": 766296477,
+    "modified": "2026-11-09T10:54:38.221+08:00",
+    "file_name": "抖音_41.0.0.ipa"
   }
 }
