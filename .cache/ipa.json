@@ -22768,5 +22768,15 @@
     "size": 2470306458,
     "modified": "2026-11-10T11:54:08.241+08:00",
     "file_name": "英雄没有闪_1.8.1_无敌秒杀等.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/企业微信_5.0.15.ipa": {
+    "bundle_id": "com.tencent.ww",
+    "version": "5.0.15",
+    "build": "238710",
+    "name": "企业微信",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/企业微信_5.0.15.ipa",
+    "size": 426122320,
+    "modified": "2026-11-10T21:13:06.533+08:00",
+    "file_name": "企业微信_5.0.15.ipa"
   }
 }
