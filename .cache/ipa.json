@@ -22718,5 +22718,55 @@
     "size": 549276902,
     "modified": "2026-11-09T23:41:21.989+08:00",
     "file_name": "微信_8.0.80官替美化版1109.ipa"
+  },
+  "/苹果应用 - Appstore apps/勇闯死人谷2_1.88.0_无敌无限货币等.ipa": {
+    "bundle_id": "com.pikpok.dr2.iosstore",
+    "version": "1.88.0",
+    "build": "19408",
+    "name": "Into the Dead 2",
+    "path": "/苹果应用 - Appstore apps/勇闯死人谷2_1.88.0_无敌无限货币等.ipa",
+    "size": 1826091071,
+    "modified": "2026-11-10T11:53:40.152+08:00",
+    "file_name": "勇闯死人谷2_1.88.0_无敌无限货币等.ipa"
+  },
+  "/苹果应用 - Appstore apps/GestaltX_1.0.2_适用于iOS 27.x的MobileGestalt编辑器，具有区域代码调整、设备预设、备份和对7种语言的支持.ipa": {
+    "bundle_id": "com.huami.gestultx",
+    "version": "1.0.2",
+    "build": "11091750",
+    "name": "GestaltX",
+    "path": "/苹果应用 - Appstore apps/GestaltX_1.0.2_适用于iOS 27.x的MobileGestalt编辑器，具有区域代码调整、设备预设、备份和对7种语言的支持.ipa",
+    "size": 2489231,
+    "modified": "2026-11-10T11:53:18.868+08:00",
+    "file_name": "GestaltX_1.0.2_适用于iOS 27.x的MobileGestalt编辑器，具有区域代码调整、设备预设、备份和对7种语言的支持.ipa"
+  },
+  "/苹果应用 - Appstore apps/WQFiles_0.7（汉化版）_适用于iOS 27的文件浏览器、应用程序数据管理器和缓存清理器.ipa": {
+    "bundle_id": "cz.kolbi.wqfiles",
+    "version": "0.7",
+    "build": "26",
+    "name": "WQ 文件",
+    "path": "/苹果应用 - Appstore apps/WQFiles_0.7（汉化版）_适用于iOS 27的文件浏览器、应用程序数据管理器和缓存清理器.ipa",
+    "size": 301819,
+    "modified": "2026-11-10T11:53:18.943+08:00",
+    "file_name": "WQFiles_0.7（汉化版）_适用于iOS 27的文件浏览器、应用程序数据管理器和缓存清理器.ipa"
+  },
+  "/苹果应用 - Appstore apps/CS2手游_5.8.78_1.4.1_全功能.ipa": {
+    "bundle_id": "com.ScarletWork.CounterFlame",
+    "version": "1.4.1",
+    "build": "7",
+    "name": "CounterFlame",
+    "path": "/苹果应用 - Appstore apps/CS2手游_5.8.78_1.4.1_全功能.ipa",
+    "size": 1830224781,
+    "modified": "2026-11-10T11:53:40.933+08:00",
+    "file_name": "CS2手游_5.8.78_1.4.1_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/英雄没有闪_1.8.1_无敌秒杀等.ipa": {
+    "bundle_id": "com.ahyqnet.yxmys",
+    "version": "1.8.1",
+    "build": "1.8.1",
+    "name": "英雄没有闪",
+    "path": "/苹果应用 - Appstore apps/英雄没有闪_1.8.1_无敌秒杀等.ipa",
+    "size": 2470306458,
+    "modified": "2026-11-10T11:54:08.241+08:00",
+    "file_name": "英雄没有闪_1.8.1_无敌秒杀等.ipa"
   }
 }
