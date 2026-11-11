@@ -22778,5 +22778,225 @@
     "size": 426122320,
     "modified": "2026-11-10T21:13:06.533+08:00",
     "file_name": "企业微信_5.0.15.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/神魔之塔_2026.610.ipa": {
+    "bundle_id": "com.madhead.tos.zh",
+    "version": "2026.610",
+    "build": "27595",
+    "name": "神魔之塔",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/神魔之塔_2026.610.ipa",
+    "size": 213419752,
+    "modified": "2026-11-11T12:45:58.551+08:00",
+    "file_name": "神魔之塔_2026.610.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/太空射击_2.034.ipa": {
+    "bundle_id": "com.game.space.shooter2",
+    "version": "2.034",
+    "build": "0",
+    "name": "太空射击",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/太空射击_2.034.ipa",
+    "size": 288200048,
+    "modified": "2026-11-11T12:50:29.242+08:00",
+    "file_name": "太空射击_2.034.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/模拟城市：乌托邦_21.0.22.ipa": {
+    "bundle_id": "com.atari.mobile.citytopia",
+    "version": "21.0.22",
+    "build": "9334",
+    "name": "模拟城市：乌托邦",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/模拟城市：乌托邦_21.0.22.ipa",
+    "size": 228393142,
+    "modified": "2026-11-11T12:44:35.098+08:00",
+    "file_name": "模拟城市：乌托邦_21.0.22.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/刀锋养成_1.83.0.ipa": {
+    "bundle_id": "com.mobirix.mbbi",
+    "version": "1.83.0",
+    "build": "4",
+    "name": "刀锋养成",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/刀锋养成_1.83.0.ipa",
+    "size": 478309029,
+    "modified": "2026-11-11T12:46:49.813+08:00",
+    "file_name": "刀锋养成_1.83.0.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/传说对决_1.64.11768514.ipa": {
+    "bundle_id": "com.ngame.allstar.eu",
+    "version": "1.64.11768514",
+    "build": "1.64.1.1768514",
+    "name": "传说对决",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/传说对决_1.64.11768514.ipa",
+    "size": 227427462,
+    "modified": "2026-11-11T12:43:06.5+08:00",
+    "file_name": "传说对决_1.64.11768514.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/魔法时代_3.12.0.ipa": {
+    "bundle_id": "com.playkot.ageofmagic",
+    "version": "3.12.0",
+    "build": "0",
+    "name": "魔法时代",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/魔法时代_3.12.0.ipa",
+    "size": 383452452,
+    "modified": "2026-11-11T12:49:44.234+08:00",
+    "file_name": "魔法时代_3.12.0.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/弓箭传说_4.0.2.ipa": {
+    "bundle_id": "com.habby.gongjian",
+    "version": "4.0.2",
+    "build": "2",
+    "name": "弓箭传说",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/弓箭传说_4.0.2.ipa",
+    "size": 762628921,
+    "modified": "2026-11-11T12:48:45.787+08:00",
+    "file_name": "弓箭传说_4.0.2.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/行尸走肉终局_3.1.0.ipa": {
+    "bundle_id": "com.ares.twd",
+    "version": "3.1.0",
+    "build": "124",
+    "name": "行尸走肉终局",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/行尸走肉终局_3.1.0.ipa",
+    "size": 848001039,
+    "modified": "2026-11-11T12:50:58.635+08:00",
+    "file_name": "行尸走肉终局_3.1.0.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/SOUL_6.40.0.ipa": {
+    "bundle_id": "com.soulapp.cn",
+    "version": "6.40.0",
+    "build": "261022213400",
+    "name": "SOUL",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/SOUL_6.40.0.ipa",
+    "size": 218332283,
+    "modified": "2026-11-11T12:43:36.43+08:00",
+    "file_name": "SOUL_6.40.0.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/恒星亲和力_17.ipa": {
+    "bundle_id": "com.himefun.stellaraffinity.erolabs",
+    "version": "17",
+    "build": "17",
+    "name": "恒星亲和力",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/恒星亲和力_17.ipa",
+    "size": 85224857,
+    "modified": "2026-11-11T12:43:33.146+08:00",
+    "file_name": "恒星亲和力_17.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/闲置忍者在线_2.820.ipa": {
+    "bundle_id": "com.puzzlemonsters.growninja",
+    "version": "2.820",
+    "build": "2.820",
+    "name": "闲置忍者在线",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/闲置忍者在线_2.820.ipa",
+    "size": 155803877,
+    "modified": "2026-11-11T12:42:19.619+08:00",
+    "file_name": "闲置忍者在线_2.820.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/铁甲钢拳_115.115.116.ipa": {
+    "bundle_id": "com.jumpgames.rswrb",
+    "version": "115.115.116",
+    "build": "115.115.116",
+    "name": "铁甲钢拳",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/铁甲钢拳_115.115.116.ipa",
+    "size": 1054018002,
+    "modified": "2026-11-11T12:26:07.9+08:00",
+    "file_name": "铁甲钢拳_115.115.116.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/英雄战争_1.293.400.ipa": {
+    "bundle_id": "com.nexters.titanhunters",
+    "version": "1.293.400",
+    "build": "129304000",
+    "name": "英雄战争",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/英雄战争_1.293.400.ipa",
+    "size": 177220213,
+    "modified": "2026-11-11T12:42:43.345+08:00",
+    "file_name": "英雄战争_1.293.400.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/死亡扳机2_3.1.7.ipa": {
+    "bundle_id": "com.madfingergames.deadtrigger2",
+    "version": "3.1.7",
+    "build": "263",
+    "name": "死亡扳机2",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/死亡扳机2_3.1.7.ipa",
+    "size": 724428828,
+    "modified": "2026-11-11T12:12:38.867+08:00",
+    "file_name": "死亡扳机2_3.1.7.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/点击泰坦2_8.3.3.ipa": {
+    "bundle_id": "com.gamehivecorp.taptitans2",
+    "version": "8.3.3",
+    "build": "8.3.3.1",
+    "name": "点击泰坦2",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/点击泰坦2_8.3.3.ipa",
+    "size": 214035696,
+    "modified": "2026-11-11T12:15:33.174+08:00",
+    "file_name": "点击泰坦2_8.3.3.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/机甲战队_12.5.0.ipa": {
+    "bundle_id": "com.pixonic.wwr",
+    "version": "12.5.0",
+    "build": "292433",
+    "name": "机甲战队",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/机甲战队_12.5.0.ipa",
+    "size": 850483841,
+    "modified": "2026-11-11T12:03:13.207+08:00",
+    "file_name": "机甲战队_12.5.0.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/漫威：超级争霸战_59.1.0.ipa": {
+    "bundle_id": "com.kabam.marvelbattle",
+    "version": "59.1.0",
+    "build": "1456141",
+    "name": "漫威：超级争霸战",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/漫威：超级争霸战_59.1.0.ipa",
+    "size": 2186361262,
+    "modified": "2026-11-11T12:19:27.058+08:00",
+    "file_name": "漫威：超级争霸战_59.1.0.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/地球末日：生存之战_1.53.2.ipa": {
+    "bundle_id": "zombie.survival.craft.z",
+    "version": "1.53.2",
+    "build": "985",
+    "name": "地球末日：生存之战",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/地球末日：生存之战_1.53.2.ipa",
+    "size": 1097837956,
+    "modified": "2026-11-11T12:26:05.333+08:00",
+    "file_name": "地球末日：生存之战_1.53.2.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/CS反恐精英2_1.4.1.ipa": {
+    "bundle_id": "com.ScarletWork.CounterFlame",
+    "version": "1.4.1",
+    "build": "7",
+    "name": "CS反恐精英2",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/CS反恐精英2_1.4.1.ipa",
+    "size": 1890497638,
+    "modified": "2026-11-11T12:15:06.649+08:00",
+    "file_name": "CS反恐精英2_1.4.1.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/魅欲别墅_73.1.1.ipa": {
+    "bundle_id": "com.GreenT.HornyVilla",
+    "version": "73.1.1",
+    "build": "0",
+    "name": "魅欲别墅",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/魅欲别墅_73.1.1.ipa",
+    "size": 157687677,
+    "modified": "2026-11-11T11:50:47.493+08:00",
+    "file_name": "魅欲别墅_73.1.1.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/激情裂痕_1.1.1053.ipa": {
+    "bundle_id": "com.jnt.erolabs.passionrift",
+    "version": "1.1.1053",
+    "build": "1561",
+    "name": "激情裂痕",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/激情裂痕_1.1.1053.ipa",
+    "size": 170569591,
+    "modified": "2026-11-11T11:50:34.795+08:00",
+    "file_name": "激情裂痕_1.1.1053.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/美式台球_56.31.0.ipa": {
+    "bundle_id": "com.miniclip.8ballpoolmult36",
+    "version": "56.31.0",
+    "build": "5330",
+    "name": "美式台球",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/美式台球_56.31.0.ipa",
+    "size": 180208927,
+    "modified": "2026-11-11T11:51:50.492+08:00",
+    "file_name": "美式台球_56.31.0.ipa"
   }
 }
