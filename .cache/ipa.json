@@ -22998,5 +22998,65 @@
     "size": 180208927,
     "modified": "2026-11-11T11:51:50.492+08:00",
     "file_name": "美式台球_56.31.0.ipa"
+  },
+  "/苹果应用 - Appstore apps/WQFiles_0.8（汉化版）_适用于iOS 27的文件浏览器、应用程序数据管理器和缓存清理器.ipa": {
+    "bundle_id": "cz.kolbi.wqfiles",
+    "version": "0.8",
+    "build": "34",
+    "name": "WQ 文件",
+    "path": "/苹果应用 - Appstore apps/WQFiles_0.8（汉化版）_适用于iOS 27的文件浏览器、应用程序数据管理器和缓存清理器.ipa",
+    "size": 326878,
+    "modified": "2026-11-11T14:30:24.09+08:00",
+    "file_name": "WQFiles_0.8（汉化版）_适用于iOS 27的文件浏览器、应用程序数据管理器和缓存清理器.ipa"
+  },
+  "/苹果应用 - Appstore apps/X_12.42_具有下载视频，翻译等多个功能_仅限iOS15及以上.ipa": {
+    "bundle_id": "com.atebits.Tweetie2",
+    "version": "12.42",
+    "build": "21",
+    "name": "X",
+    "path": "/苹果应用 - Appstore apps/X_12.42_具有下载视频，翻译等多个功能_仅限iOS15及以上.ipa",
+    "size": 300859039,
+    "modified": "2026-11-11T14:30:31.991+08:00",
+    "file_name": "X_12.42_具有下载视频，翻译等多个功能_仅限iOS15及以上.ipa"
+  },
+  "/苹果应用 - Appstore apps/3106_3.1.4r2_支持iOS17.0–18.7.1，iOS26.0–26.7.2，iOS27.0–27.3测试版.ipa": {
+    "bundle_id": "com.qingtang.3106",
+    "version": "3.1.4",
+    "build": "7",
+    "name": "3106",
+    "path": "/苹果应用 - Appstore apps/3106_3.1.4r2_支持iOS17.0–18.7.1，iOS26.0–26.7.2，iOS27.0–27.3测试版.ipa",
+    "size": 3891895,
+    "modified": "2026-11-11T14:30:24.088+08:00",
+    "file_name": "3106_3.1.4r2_支持iOS17.0–18.7.1，iOS26.0–26.7.2，iOS27.0–27.3测试版.ipa"
+  },
+  "/苹果应用 - Appstore apps/iPadn_1.8.5_最低支持iOS17.0+系统.ipa": {
+    "bundle_id": "app.local.iPadn",
+    "version": "1.8.5",
+    "build": "24",
+    "name": "iPadn",
+    "path": "/苹果应用 - Appstore apps/iPadn_1.8.5_最低支持iOS17.0+系统.ipa",
+    "size": 43961928,
+    "modified": "2026-11-11T14:30:22.128+08:00",
+    "file_name": "iPadn_1.8.5_最低支持iOS17.0+系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/雷霆战机_1.30.5_全功能_20261111_143021.ipa": {
+    "bundle_id": "com.a5game.ltzj.jj",
+    "version": "1.30.5",
+    "build": "184",
+    "name": "雷霆战机：集结",
+    "path": "/苹果应用 - Appstore apps/雷霆战机_1.30.5_全功能_20261111_143021.ipa",
+    "size": 1235824967,
+    "modified": "2026-11-11T14:30:21.227+08:00",
+    "file_name": "雷霆战机_1.30.5_全功能_20261111_143021.ipa"
+  },
+  "/苹果应用 - Appstore apps/泰拉瑞亚_14.58003_无敌秒杀等.ipa": {
+    "bundle_id": "com.idreamsky.terraria",
+    "version": "1.4.58003",
+    "build": "303712",
+    "name": "泰拉瑞亚",
+    "path": "/苹果应用 - Appstore apps/泰拉瑞亚_14.58003_无敌秒杀等.ipa",
+    "size": 331693540,
+    "modified": "2026-11-11T14:30:58.352+08:00",
+    "file_name": "泰拉瑞亚_14.58003_无敌秒杀等.ipa"
   }
 }
