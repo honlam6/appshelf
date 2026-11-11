@@ -23058,5 +23058,45 @@
     "size": 331693540,
     "modified": "2026-11-11T14:30:58.352+08:00",
     "file_name": "泰拉瑞亚_14.58003_无敌秒杀等.ipa"
+  },
+  "/全球资源 - Global resources/小熊网盘/iphone/ipa软件/小熊tv.ipa": {
+    "bundle_id": "rog.v200ddbot.tv",
+    "version": "4.0.2",
+    "build": "2166",
+    "name": "tv",
+    "path": "/全球资源 - Global resources/小熊网盘/iphone/ipa软件/小熊tv.ipa",
+    "size": 19456644,
+    "modified": "2026-11-12T03:44:49+08:00",
+    "file_name": "小熊tv.ipa"
+  },
+  "/全球资源 - Global resources/小熊网盘/iphone/ipa软件/证书签名网络代理工具/Surge.6.(证书签名).100.0.Build4022.Pro.ipa": {
+    "bundle_id": "com.nssurge.inc.surge-ios",
+    "version": "6.100.0",
+    "build": "4022",
+    "name": "Surge",
+    "path": "/全球资源 - Global resources/小熊网盘/iphone/ipa软件/证书签名网络代理工具/Surge.6.(证书签名).100.0.Build4022.Pro.ipa",
+    "size": 65731790,
+    "modified": "2026-11-12T01:35:46+08:00",
+    "file_name": "Surge.6.(证书签名).100.0.Build4022.Pro.ipa"
+  },
+  "/全球资源 - Global resources/V200网盘/iphone/ipa软件/小熊tv.ipa": {
+    "bundle_id": "rog.v200ddbot.tv",
+    "version": "4.0.2",
+    "build": "2166",
+    "name": "tv",
+    "path": "/全球资源 - Global resources/V200网盘/iphone/ipa软件/小熊tv.ipa",
+    "size": 19456644,
+    "modified": "2026-11-12T03:44:49+08:00",
+    "file_name": "小熊tv.ipa"
+  },
+  "/全球资源 - Global resources/V200网盘/iphone/ipa软件/证书签名网络代理工具/Surge.6.(证书签名).100.0.Build4022.Pro.ipa": {
+    "bundle_id": "com.nssurge.inc.surge-ios",
+    "version": "6.100.0",
+    "build": "4022",
+    "name": "Surge",
+    "path": "/全球资源 - Global resources/V200网盘/iphone/ipa软件/证书签名网络代理工具/Surge.6.(证书签名).100.0.Build4022.Pro.ipa",
+    "size": 65731790,
+    "modified": "2026-11-12T01:35:46+08:00",
+    "file_name": "Surge.6.(证书签名).100.0.Build4022.Pro.ipa"
   }
 }

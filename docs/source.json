@@ -7,13 +7,99 @@
   "headerURL": "https://github.com/honlam6.png",
   "tintColor": "#6385ef",
   "featuredApps": [
+    "rog.v200ddbot.tv",
+    "com.nssurge.inc.surge-ios",
     "com.idreamsky.terraria",
     "com.atebits.Tweetie2",
-    "cz.kolbi.wqfiles",
-    "com.qingtang.3106",
-    "app.local.iPadn"
+    "cz.kolbi.wqfiles"
   ],
   "apps": [
+    {
+      "name": "tv",
+      "bundleIdentifier": "rog.v200ddbot.tv",
+      "developerName": "App Shelf",
+      "subtitle": "小熊tv.ipa",
+      "localizedDescription": "小熊tv.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/rog.v200ddbot.tv.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "4.0.2",
+          "buildVersion": "2166",
+          "date": "2026-11-12",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E5%B0%8F%E7%86%8Atv.ipa",
+          "size": 19456644,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "4.0.2",
+          "buildVersion": "2166",
+          "date": "2026-11-12",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E5%B0%8F%E7%86%8Atv.ipa",
+          "size": 19456644,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "4.0.0",
+          "buildVersion": "2164",
+          "date": "2026-10-05",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E6%9E%84%E5%BB%BAipa%2FSelene-iOS-unsigned.ipa",
+          "size": 19448327,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "4.0.0",
+          "buildVersion": "2164",
+          "date": "2026-10-05",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E6%9E%84%E5%BB%BAipa%2FSelene-iOS-unsigned.ipa",
+          "size": 19448327,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "Surge",
+      "bundleIdentifier": "com.nssurge.inc.surge-ios",
+      "developerName": "App Shelf",
+      "subtitle": "Surge.6.(证书签名).100.0.Build4022.Pro.ipa",
+      "localizedDescription": "Surge.6.(证书签名).100.0.Build4022.Pro.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.nssurge.inc.surge-ios.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "6.100.0",
+          "buildVersion": "4022",
+          "date": "2026-11-12",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E8%AF%81%E4%B9%A6%E7%AD%BE%E5%90%8D%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7%2FSurge.6.%28%E8%AF%81%E4%B9%A6%E7%AD%BE%E5%90%8D%29.100.0.Build4022.Pro.ipa",
+          "size": 65731790,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "6.100.0",
+          "buildVersion": "4022",
+          "date": "2026-11-12",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E8%AF%81%E4%B9%A6%E7%AD%BE%E5%90%8D%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7%2FSurge.6.%28%E8%AF%81%E4%B9%A6%E7%AD%BE%E5%90%8D%29.100.0.Build4022.Pro.ipa",
+          "size": 65731790,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "5.102.0",
+          "buildVersion": "3853",
+          "date": "2026-10-05",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FSurge_5.102.0%EF%BC%88TF3853%EF%BC%89.ipa",
+          "size": 53807219,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "5.102.0",
+          "buildVersion": "3853",
+          "date": "2026-10-05",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FSurge_5.102.0%EF%BC%88TF3853%EF%BC%89.ipa",
+          "size": 53807219,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
     {
       "name": "泰拉瑞亚",
       "bundleIdentifier": "com.idreamsky.terraria",
@@ -3864,22 +3950,6 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "8.0.73",
-          "buildVersion": "8.0.73.33",
-          "date": "2026-05-24",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.73%2F%E5%BE%AE%E4%BF%A1_8.0.73%E5%AE%98%E6%9B%BF%E7%B2%BE%E7%AE%80%E7%89%880524.ipa",
-          "size": 416362624,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.0.73",
-          "buildVersion": "8.0.73.33",
-          "date": "2026-05-24",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.73%2F%E5%BE%AE%E4%BF%A1_8.0.73%E5%AE%98%E6%9B%BF%E7%AE%80%E6%B4%81%E7%89%880524.ipa",
-          "size": 452860034,
-          "minOSVersion": "14.0"
-        },
-        {
           "version": "8.0.70",
           "buildVersion": "8.0.70.33",
           "date": "2026-10-29",
@@ -5416,22 +5486,6 @@
           "date": "2026-06-02",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.73%2F%E5%BE%AE%E4%BF%A1_8.0.73%E5%A4%9A%E5%BC%80wx%E7%AE%80%E6%B4%81%E7%89%880601.ipa",
           "size": 454153957,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.0.73",
-          "buildVersion": "8.0.73.33",
-          "date": "2026-05-24",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.73%2F%E5%BE%AE%E4%BF%A1_8.0.73%E5%A4%9A%E5%BC%80wx%E7%BE%8E%E5%8C%96%E7%89%880524.ipa",
-          "size": 483123864,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.0.73",
-          "buildVersion": "8.0.73.33",
-          "date": "2026-05-24",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.73%2F%E5%BE%AE%E4%BF%A1_8.0.73%E5%A4%9A%E5%BC%80wx%E7%B2%BE%E7%AE%80%E7%89%880524.ipa",
-          "size": 416362498,
           "minOSVersion": "14.0"
         },
         {
@@ -11804,33 +11858,6 @@
       ]
     },
     {
-      "name": "tv",
-      "bundleIdentifier": "rog.v200ddbot.tv",
-      "developerName": "App Shelf",
-      "subtitle": "Selene-iOS-unsigned.ipa",
-      "localizedDescription": "Selene-iOS-unsigned.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/rog.v200ddbot.tv.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "4.0.0",
-          "buildVersion": "2164",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E6%9E%84%E5%BB%BAipa%2FSelene-iOS-unsigned.ipa",
-          "size": 19448327,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "4.0.0",
-          "buildVersion": "2164",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E6%9E%84%E5%BB%BAipa%2FSelene-iOS-unsigned.ipa",
-          "size": 19448327,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "Quantumult X",
       "bundleIdentifier": "com.crossutility.quantumult-x",
       "developerName": "App Shelf",
@@ -12325,33 +12352,6 @@
           "date": "2026-08-12",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FGS-1.11%28%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%E5%AE%89%E8%A3%85%29.ipa",
           "size": 18180512,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "Surge",
-      "bundleIdentifier": "com.nssurge.inc.surge-ios",
-      "developerName": "App Shelf",
-      "subtitle": "Surge_5.102.0（TF3853）.ipa",
-      "localizedDescription": "Surge_5.102.0（TF3853）.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.nssurge.inc.surge-ios.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "5.102.0",
-          "buildVersion": "3853",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FSurge_5.102.0%EF%BC%88TF3853%EF%BC%89.ipa",
-          "size": 53807219,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "5.102.0",
-          "buildVersion": "3853",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FSurge_5.102.0%EF%BC%88TF3853%EF%BC%89.ipa",
-          "size": 53807219,
           "minOSVersion": "14.0"
         }
       ]
