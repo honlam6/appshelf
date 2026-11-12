@@ -23098,5 +23098,155 @@
     "size": 65731790,
     "modified": "2026-11-12T01:35:46+08:00",
     "file_name": "Surge.6.(证书签名).100.0.Build4022.Pro.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/WQ Files_0.9.3.ipa": {
+    "bundle_id": "cz.kolbi.wqfiles",
+    "version": "0.9.3",
+    "build": "59",
+    "name": "WQ Files",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/WQ Files_0.9.3.ipa",
+    "size": 626750,
+    "modified": "2026-11-12T12:51:48.438+08:00",
+    "file_name": "WQ Files_0.9.3.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/QQ_9.3.85.ipa": {
+    "bundle_id": "com.tencent.mqq.watchapp",
+    "version": "9.3.85",
+    "build": "9.3.85.614",
+    "name": "QQ",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/QQ_9.3.85.ipa",
+    "size": 358450720,
+    "modified": "2026-11-12T12:52:27.341+08:00",
+    "file_name": "QQ_9.3.85.ipa"
+  },
+  "/苹果应用 - Appstore apps/千阅_2.9.12_解锁会员.ipa": {
+    "bundle_id": "com.zct2.flReader",
+    "version": "2.9.12",
+    "build": "1",
+    "name": "千阅",
+    "path": "/苹果应用 - Appstore apps/千阅_2.9.12_解锁会员.ipa",
+    "size": 53888421,
+    "modified": "2026-11-12T12:22:44.13+08:00",
+    "file_name": "千阅_2.9.12_解锁会员.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/闲鱼_7.29.10.ipa": {
+    "bundle_id": "com.taobao.fleamarket",
+    "version": "7.29.10",
+    "build": "59807432",
+    "name": "闲鱼",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/闲鱼_7.29.10.ipa",
+    "size": 178068155,
+    "modified": "2026-11-12T12:52:02.368+08:00",
+    "file_name": "闲鱼_7.29.10.ipa"
+  },
+  "/苹果应用 - Appstore apps/TikTok_47.7.0_支持保存视频、去广告、自动下一条、纯净模式.ipa": {
+    "bundle_id": "com.zhiliaoapp.musically",
+    "version": "47.7.0",
+    "build": "477034",
+    "name": "TikTok",
+    "path": "/苹果应用 - Appstore apps/TikTok_47.7.0_支持保存视频、去广告、自动下一条、纯净模式.ipa",
+    "size": 539911739,
+    "modified": "2026-11-12T12:22:44.611+08:00",
+    "file_name": "TikTok_47.7.0_支持保存视频、去广告、自动下一条、纯净模式.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/APP_2.6.3.ipa": {
+    "bundle_id": "com.pxx917144686.App",
+    "version": "2.6.3",
+    "build": "1",
+    "name": "APP",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/APP_2.6.3.ipa",
+    "size": 49061108,
+    "modified": "2026-11-12T12:51:50.141+08:00",
+    "file_name": "APP_2.6.3.ipa"
+  },
+  "/苹果应用 - Appstore apps/LCSign.1.4-6.ipa": {
+    "bundle_id": "com.huami.LoadController",
+    "version": "1.4",
+    "build": "6",
+    "name": "LCSign",
+    "path": "/苹果应用 - Appstore apps/LCSign.1.4-6.ipa",
+    "size": 22601459,
+    "modified": "2026-11-12T13:51:05.822+08:00",
+    "file_name": "LCSign.1.4-6.ipa"
+  },
+  "/苹果应用 - Appstore apps/WQFiles_0.9.3_中文版.ipa": {
+    "bundle_id": "cz.kolbi.wqfiles",
+    "version": "0.9.3",
+    "build": "59",
+    "name": "WQ Files",
+    "path": "/苹果应用 - Appstore apps/WQFiles_0.9.3_中文版.ipa",
+    "size": 559984,
+    "modified": "2026-11-12T12:22:44.166+08:00",
+    "file_name": "WQFiles_0.9.3_中文版.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/央视频_3.5.7.ipa": {
+    "bundle_id": "com.cctv.yangshipin.app.iphone",
+    "version": "3.5.7",
+    "build": "23886",
+    "name": "央视频",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/央视频_3.5.7.ipa",
+    "size": 79952469,
+    "modified": "2026-11-12T11:11:51.219+08:00",
+    "file_name": "央视频_3.5.7.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/红果漫剧_7.4.3.ipa": {
+    "bundle_id": "com.kylin.readnew",
+    "version": "7.4.3",
+    "build": "7.4.3.34",
+    "name": "红果漫剧",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/红果漫剧_7.4.3.ipa",
+    "size": 337863500,
+    "modified": "2026-11-12T11:13:49.889+08:00",
+    "file_name": "红果漫剧_7.4.3.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/红果短剧_7.4.3.ipa": {
+    "bundle_id": "com.phoenix.video",
+    "version": "7.4.3",
+    "build": "7.4.3.33",
+    "name": "红果短剧",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/红果短剧_7.4.3.ipa",
+    "size": 319014291,
+    "modified": "2026-11-12T11:14:00.935+08:00",
+    "file_name": "红果短剧_7.4.3.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/植物大战僵尸2_4.2.8.ipa": {
+    "bundle_id": "com.popcap.ios.chs.PVZ2",
+    "version": "4.2.8",
+    "build": "4.2.8.414",
+    "name": "植物大战僵尸2",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/植物大战僵尸2_4.2.8.ipa",
+    "size": 3307657422,
+    "modified": "2026-11-12T11:18:24.573+08:00",
+    "file_name": "植物大战僵尸2_4.2.8.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/网易云音乐_9.6.20.ipa": {
+    "bundle_id": "com.netease.cloudmusic.watchkitapp",
+    "version": "9.6.20",
+    "build": "7636",
+    "name": "网易云音乐",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/网易云音乐_9.6.20.ipa",
+    "size": 211791660,
+    "modified": "2026-11-12T11:12:55.817+08:00",
+    "file_name": "网易云音乐_9.6.20.ipa"
+  },
+  "/全球资源 - Global resources/V200网盘/iphone/ipa软件/证书签名网络代理工具/Surge_6.100.0_4024_破解_iOS27证书测试.ipa": {
+    "bundle_id": "com.nssurge.inc.surge-ios",
+    "version": "6.100.0",
+    "build": "4024",
+    "name": "Surge",
+    "path": "/全球资源 - Global resources/V200网盘/iphone/ipa软件/证书签名网络代理工具/Surge_6.100.0_4024_破解_iOS27证书测试.ipa",
+    "size": 44079160,
+    "modified": "2026-11-12T16:06:58+08:00",
+    "file_name": "Surge_6.100.0_4024_破解_iOS27证书测试.ipa"
+  },
+  "/全球资源 - Global resources/小熊网盘/iphone/ipa软件/证书签名网络代理工具/Surge_6.100.0_4024_破解_iOS27证书测试.ipa": {
+    "bundle_id": "com.nssurge.inc.surge-ios",
+    "version": "6.100.0",
+    "build": "4024",
+    "name": "Surge",
+    "path": "/全球资源 - Global resources/小熊网盘/iphone/ipa软件/证书签名网络代理工具/Surge_6.100.0_4024_破解_iOS27证书测试.ipa",
+    "size": 44079160,
+    "modified": "2026-11-12T16:06:58+08:00",
+    "file_name": "Surge_6.100.0_4024_破解_iOS27证书测试.ipa"
   }
 }
