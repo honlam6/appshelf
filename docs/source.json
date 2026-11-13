@@ -576,22 +576,6 @@
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E5%B0%8F%E7%86%8Atv.ipa",
           "size": 19456644,
           "minOSVersion": "14.0"
-        },
-        {
-          "version": "4.0.0",
-          "buildVersion": "2164",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E6%9E%84%E5%BB%BAipa%2FSelene-iOS-unsigned.ipa",
-          "size": 19448327,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "4.0.0",
-          "buildVersion": "2164",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E6%9E%84%E5%BB%BAipa%2FSelene-iOS-unsigned.ipa",
-          "size": 19448327,
-          "minOSVersion": "14.0"
         }
       ]
     },
@@ -4831,6 +4815,22 @@
           "minOSVersion": "14.0"
         },
         {
+          "version": "8.0.70",
+          "buildVersion": "8.0.70.33",
+          "date": "2026-05-25",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.70%2F%E5%BE%AE%E4%BF%A1_8.0.70%E5%AE%98%E6%9B%BF%E7%B2%BE%E7%AE%80%E7%89%880524.ipa",
+          "size": 407019549,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.70",
+          "buildVersion": "8.0.70.33",
+          "date": "2026-05-25",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.70%2F%E5%BE%AE%E4%BF%A1_8.0.70%E5%AE%98%E6%9B%BF%E7%AE%80%E6%B4%81%E7%89%880524.ipa",
+          "size": 443517009,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "8.0.69",
           "buildVersion": "8.0.69.33",
           "date": "2026-09-03",
@@ -4908,6 +4908,14 @@
           "date": "2026-05-25",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%AE%98%E6%9B%BF%E7%AE%80%E6%B4%81%E7%89%880524.ipa",
           "size": 425115765,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.64",
+          "buildVersion": "8.0.64.36",
+          "date": "2026-05-25",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%AE%98%E6%9B%BF%E7%BE%8E%E5%8C%96%E7%89%880524.ipa",
+          "size": 455379703,
           "minOSVersion": "14.0"
         }
       ]
@@ -6335,6 +6343,30 @@
           "date": "2026-06-02",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.70%2F%E5%BE%AE%E4%BF%A1_8.0.70%E5%A4%9A%E5%BC%80wx%E7%AE%80%E6%B4%81%E7%89%880601.ipa",
           "size": 444810918,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.70",
+          "buildVersion": "8.0.70.33",
+          "date": "2026-05-25",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.70%2F%E5%BE%AE%E4%BF%A1_8.0.70%E5%A4%9A%E5%BC%80wx%E7%BE%8E%E5%8C%96%E7%89%880524.ipa",
+          "size": 473780770,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.70",
+          "buildVersion": "8.0.70.33",
+          "date": "2026-05-25",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.70%2F%E5%BE%AE%E4%BF%A1_8.0.70%E5%A4%9A%E5%BC%80wx%E7%B2%BE%E7%AE%80%E7%89%880524.ipa",
+          "size": 407019377,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.0.70",
+          "buildVersion": "8.0.70.33",
+          "date": "2026-05-24",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.70%2F%E5%BE%AE%E4%BF%A1_8.0.70%E5%A4%9A%E5%BC%80wx%E7%AE%80%E6%B4%81%E7%89%880524.ipa",
+          "size": 443516872,
           "minOSVersion": "14.0"
         },
         {
@@ -13875,33 +13907,6 @@
       ]
     },
     {
-      "name": "MOMO陌陌",
-      "bundleIdentifier": "com.wemomo.momoappdemo1",
-      "developerName": "App Shelf",
-      "subtitle": "MOMO陌陌_9.22.5com.wemomo.momoappdemo1.ipa",
-      "localizedDescription": "MOMO陌陌_9.22.5com.wemomo.momoappdemo1.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.wemomo.momoappdemo1.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "9.22.5",
-          "buildVersion": "9.22.5.9",
-          "date": "2026-08-28",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FMOMO%E9%99%8C%E9%99%8C_9.22.5com.wemomo.momoappdemo1.ipa",
-          "size": 168082789,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "9.22.5",
-          "buildVersion": "9.22.5.9",
-          "date": "2026-08-28",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FMOMO%E9%99%8C%E9%99%8C_9.22.5com.wemomo.momoappdemo1.ipa",
-          "size": 168082789,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "✈️ioshace短信轰炸",
       "bundleIdentifier": "com.yourcompany.tweak",
       "developerName": "App Shelf",
@@ -14027,33 +14032,6 @@
           "date": "2026-08-23",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E9%97%AA%E7%94%B5%E6%B0%B4%E5%8D%B0_4.9.9.ipa",
           "size": 20480413,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "NodeCrypt",
-      "bundleIdentifier": "xyz.200996.e2ee",
-      "developerName": "App Shelf",
-      "subtitle": "NodeCrypt-unsigned-2.ipa",
-      "localizedDescription": "NodeCrypt-unsigned-2.ipa",
-      "iconURL": "https://github.com/honlam6.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "buildVersion": "1",
-          "date": "2026-08-22",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E6%9E%84%E5%BB%BAipa%2FNodeCrypt-unsigned-2.ipa",
-          "size": 50738,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.0.0",
-          "buildVersion": "1",
-          "date": "2026-08-22",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E6%9E%84%E5%BB%BAipa%2FNodeCrypt-unsigned-2.ipa",
-          "size": 50738,
           "minOSVersion": "14.0"
         }
       ]
