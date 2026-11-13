@@ -23248,5 +23248,25 @@
     "size": 44079160,
     "modified": "2026-11-12T16:06:58+08:00",
     "file_name": "Surge_6.100.0_4024_破解_iOS27证书测试.ipa"
+  },
+  "/苹果应用 - Appstore apps/Surge_6.100.0（TF4025）_破解_最低支持iOS17+.ipa": {
+    "bundle_id": "com.nssurge.inc.surge-ios",
+    "version": "6.100.0",
+    "build": "4025",
+    "name": "Surge",
+    "path": "/苹果应用 - Appstore apps/Surge_6.100.0（TF4025）_破解_最低支持iOS17+.ipa",
+    "size": 44179125,
+    "modified": "2026-11-13T10:37:37.17+08:00",
+    "file_name": "Surge_6.100.0（TF4025）_破解_最低支持iOS17+.ipa"
+  },
+  "/苹果应用 - Appstore apps/CS2手游_5.8.80_1.4.1_全功能.ipa": {
+    "bundle_id": "com.ScarletWork.CounterFlame",
+    "version": "1.4.1",
+    "build": "7",
+    "name": "CounterFlame",
+    "path": "/苹果应用 - Appstore apps/CS2手游_5.8.80_1.4.1_全功能.ipa",
+    "size": 1830224158,
+    "modified": "2026-11-13T10:37:37.889+08:00",
+    "file_name": "CS2手游_5.8.80_1.4.1_全功能.ipa"
   }
 }

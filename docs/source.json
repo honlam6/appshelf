@@ -7,22 +7,113 @@
   "headerURL": "https://github.com/honlam6.png",
   "tintColor": "#6385ef",
   "featuredApps": [
+    "com.ScarletWork.CounterFlame",
     "com.nssurge.inc.surge-ios",
     "com.huami.LoadController",
     "com.tencent.mqq.watchapp",
-    "com.taobao.fleamarket",
-    "com.pxx917144686.App"
+    "com.taobao.fleamarket"
   ],
   "apps": [
+    {
+      "name": "CounterFlame",
+      "bundleIdentifier": "com.ScarletWork.CounterFlame",
+      "developerName": "App Shelf",
+      "subtitle": "CS2手游_5.8.80_1.4.1_全功能.ipa",
+      "localizedDescription": "CS2手游_5.8.80_1.4.1_全功能.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.ScarletWork.CounterFlame.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.4.1",
+          "buildVersion": "7",
+          "date": "2026-11-13",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_5.8.80_1.4.1_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 1830224158,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.4.1",
+          "buildVersion": "7",
+          "date": "2026-11-11",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2FCS%E5%8F%8D%E6%81%90%E7%B2%BE%E8%8B%B12_1.4.1.ipa",
+          "size": 1890497638,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.4.1",
+          "buildVersion": "7",
+          "date": "2026-11-10",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_5.8.78_1.4.1_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 1830224781,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.4",
+          "buildVersion": "6",
+          "date": "2026-11-06",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_5.8.76_1.4_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 1762806488,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.4",
+          "buildVersion": "6",
+          "date": "2026-11-03",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_5.8.75_1.4_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 1762802781,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.3.0.1",
+          "buildVersion": "0",
+          "date": "2026-10-31",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_5.8.62_%E5%85%A8%E5%8A%9F%E8%83%BD_%E8%87%AA%E7%9E%84%E7%BB%98%E5%88%B6%EF%BC%8C%E9%A3%9E%E5%A4%A9%E9%81%81%E5%9C%B0%EF%BC%8C%E6%97%A0%E6%95%8C%E5%85%8D%E4%BC%A4%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%BC%80%E6%9E%AA%EF%BC%8C%E5%BC%80%E5%B1%80%E6%95%8C%E6%96%B9%E5%85%A8%E5%91%98%E7%88%86%E5%A4%B4%E7%AD%89%EF%BC%8C%E5%B1%80%E5%86%85%E6%97%A0%E9%99%90%E9%87%91%E5%B8%81%EF%BC%8C%E6%88%BF%E4%B8%BB%E5%8A%9F%E8%83%BD%E7%AD%89.ipa",
+          "size": 1795525118,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.3.0.1",
+          "buildVersion": "0",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_5.8.61_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 1797129480,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.3.0.1",
+          "buildVersion": "0",
+          "date": "2026-10-24",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_1.3.0.1_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 1795490637,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.3.0.1",
+          "buildVersion": "0",
+          "date": "2026-10-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_1.3.0.1_%E8%87%AA%E7%9E%84%E7%BB%98%E5%88%B6%E7%9A%AE%E8%82%A4%E8%A7%A3%E9%94%81%E7%AD%89.ipa",
+          "size": 1837241664,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
     {
       "name": "Surge",
       "bundleIdentifier": "com.nssurge.inc.surge-ios",
       "developerName": "App Shelf",
-      "subtitle": "Surge_6.100.0_4024_破解_iOS27证书测试.ipa",
-      "localizedDescription": "Surge_6.100.0_4024_破解_iOS27证书测试.ipa",
+      "subtitle": "Surge_6.100.0（TF4025）_破解_最低支持iOS17+.ipa",
+      "localizedDescription": "Surge_6.100.0（TF4025）_破解_最低支持iOS17+.ipa",
       "iconURL": "https://appshelf-egm.pages.dev/icons/com.nssurge.inc.surge-ios.png",
       "tintColor": "#6385ef",
       "versions": [
+        {
+          "version": "6.100.0",
+          "buildVersion": "4025",
+          "date": "2026-11-13",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FSurge_6.100.0%EF%BC%88TF4025%EF%BC%89_%E7%A0%B4%E8%A7%A3_%E6%9C%80%E4%BD%8E%E6%94%AF%E6%8C%81iOS17%2B.ipa",
+          "size": 44179125,
+          "minOSVersion": "14.0"
+        },
         {
           "version": "6.100.0",
           "buildVersion": "4024",
@@ -1632,81 +1723,6 @@
           "date": "2026-08-03",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E7%82%B9%E5%87%BB%E6%B3%B0%E5%9D%A62_8.0.3.ipa",
           "size": 199889519,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "CS反恐精英2",
-      "bundleIdentifier": "com.ScarletWork.CounterFlame",
-      "developerName": "App Shelf",
-      "subtitle": "CS反恐精英2_1.4.1.ipa",
-      "localizedDescription": "CS反恐精英2_1.4.1.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.ScarletWork.CounterFlame.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "1.4.1",
-          "buildVersion": "7",
-          "date": "2026-11-11",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2FCS%E5%8F%8D%E6%81%90%E7%B2%BE%E8%8B%B12_1.4.1.ipa",
-          "size": 1890497638,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.4.1",
-          "buildVersion": "7",
-          "date": "2026-11-10",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_5.8.78_1.4.1_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
-          "size": 1830224781,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.4",
-          "buildVersion": "6",
-          "date": "2026-11-06",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_5.8.76_1.4_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
-          "size": 1762806488,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.4",
-          "buildVersion": "6",
-          "date": "2026-11-03",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_5.8.75_1.4_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
-          "size": 1762802781,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.3.0.1",
-          "buildVersion": "0",
-          "date": "2026-10-31",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_5.8.62_%E5%85%A8%E5%8A%9F%E8%83%BD_%E8%87%AA%E7%9E%84%E7%BB%98%E5%88%B6%EF%BC%8C%E9%A3%9E%E5%A4%A9%E9%81%81%E5%9C%B0%EF%BC%8C%E6%97%A0%E6%95%8C%E5%85%8D%E4%BC%A4%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%BC%80%E6%9E%AA%EF%BC%8C%E5%BC%80%E5%B1%80%E6%95%8C%E6%96%B9%E5%85%A8%E5%91%98%E7%88%86%E5%A4%B4%E7%AD%89%EF%BC%8C%E5%B1%80%E5%86%85%E6%97%A0%E9%99%90%E9%87%91%E5%B8%81%EF%BC%8C%E6%88%BF%E4%B8%BB%E5%8A%9F%E8%83%BD%E7%AD%89.ipa",
-          "size": 1795525118,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.3.0.1",
-          "buildVersion": "0",
-          "date": "2026-10-29",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_5.8.61_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
-          "size": 1797129480,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.3.0.1",
-          "buildVersion": "0",
-          "date": "2026-10-24",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_1.3.0.1_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
-          "size": 1795490637,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.3.0.1",
-          "buildVersion": "0",
-          "date": "2026-10-22",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FCS2%E6%89%8B%E6%B8%B8_1.3.0.1_%E8%87%AA%E7%9E%84%E7%BB%98%E5%88%B6%E7%9A%AE%E8%82%A4%E8%A7%A3%E9%94%81%E7%AD%89.ipa",
-          "size": 1837241664,
           "minOSVersion": "14.0"
         }
       ]
@@ -6670,14 +6686,6 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "9.48",
-          "buildVersion": "9480813",
-          "date": "2026-09-23",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%B0%8F%E7%BA%A2%E4%B9%A6_9.48_%E5%8E%BB%E6%B0%B4%E5%8D%B0%2B%E6%B6%B2%E6%80%81%E7%8E%BB%E7%92%83_%E8%AE%BE%E7%BD%AE%E7%95%8C%E9%9D%A2%E5%8F%B3%E4%B8%8A%E8%A7%92%E6%89%93%E5%BC%80%E8%8F%9C%E5%8D%95%E5%8A%9F%E8%83%BD%EF%BC%8C%E6%89%93%E5%BC%80%E6%8F%92%E4%BB%B6%E6%89%8D%E8%83%BD%E4%BD%BF%E7%94%A8%E5%8A%9F%E8%83%BD.ipa",
-          "size": 210239021,
-          "minOSVersion": "14.0"
-        },
-        {
           "version": "9.47.2",
           "buildVersion": "9472801",
           "date": "2026-09-22",
@@ -7160,14 +7168,6 @@
           "date": "2026-11-06",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%9C%9F%E8%B1%86%E5%85%84%E5%BC%9F_1.3.410_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
           "size": 213535321,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.3.396",
-          "buildVersion": "1.3.396",
-          "date": "2026-09-23",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%9C%9F%E8%B1%86%E5%85%84%E5%BC%9F_1.3.396_%E6%97%A0%E9%99%90%E8%B5%84%E6%BA%90%E6%97%A0%E6%95%8C%E7%A7%92%E6%9D%80.ipa",
-          "size": 192871072,
           "minOSVersion": "14.0"
         }
       ]
