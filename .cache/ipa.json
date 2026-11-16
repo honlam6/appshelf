@@ -23368,5 +23368,125 @@
     "size": 251356189,
     "modified": "2026-11-15T18:22:44.823+08:00",
     "file_name": "猎手大逃杀_3.37.1.ipa"
+  },
+  "/苹果应用 - Appstore apps/WQFiles_0.9.11.ipa": {
+    "bundle_id": "cz.kolbi.wqfiles",
+    "version": "0.9.11",
+    "build": "92",
+    "name": "WQ Files",
+    "path": "/苹果应用 - Appstore apps/WQFiles_0.9.11.ipa",
+    "size": 1969224,
+    "modified": "2026-11-16T12:02:49.241+08:00",
+    "file_name": "WQFiles_0.9.11.ipa"
+  },
+  "/苹果应用 - Appstore apps/猛鬼宿舍_2.5.8_无限道具金币无敌等.ipa": {
+    "bundle_id": "com.mihuan.haunteddorm",
+    "version": "2.5.8",
+    "build": "12",
+    "name": "mgss",
+    "path": "/苹果应用 - Appstore apps/猛鬼宿舍_2.5.8_无限道具金币无敌等.ipa",
+    "size": 78382519,
+    "modified": "2026-11-16T12:02:49.266+08:00",
+    "file_name": "猛鬼宿舍_2.5.8_无限道具金币无敌等.ipa"
+  },
+  "/苹果应用 - Appstore apps/我叫MT_崛起_3.0_全功能.ipa": {
+    "bundle_id": "com.wjmtjq.ios",
+    "version": "3.0.0",
+    "build": "6",
+    "name": "我叫MT：崛起",
+    "path": "/苹果应用 - Appstore apps/我叫MT_崛起_3.0_全功能.ipa",
+    "size": 615501607,
+    "modified": "2026-11-16T12:02:49.551+08:00",
+    "file_name": "我叫MT_崛起_3.0_全功能.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/动物王者_7.6.0.ipa": {
+    "bundle_id": "com.fungames.battleroyale",
+    "version": "7.6.0",
+    "build": "52070",
+    "name": "动物王者",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/动物王者_7.6.0.ipa",
+    "size": 213557072,
+    "modified": "2026-11-16T08:36:15.515+08:00",
+    "file_name": "动物王者_7.6.0.ipa"
+  },
+  "/苹果应用 - Appstore apps/地球末日_生存_1.53.2_全功能版.ipa": {
+    "bundle_id": "zombie.survival.craft.z",
+    "version": "1.53.2",
+    "build": "985",
+    "name": "Last Day On Earth: Survival",
+    "path": "/苹果应用 - Appstore apps/地球末日_生存_1.53.2_全功能版.ipa",
+    "size": 1073827752,
+    "modified": "2026-11-16T12:03:32.229+08:00",
+    "file_name": "地球末日_生存_1.53.2_全功能版.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/魔法琴键3_13.111.010.ipa": {
+    "bundle_id": "com.amanotes.magictiles",
+    "version": "13.111.010",
+    "build": "2611111452",
+    "name": "魔法琴键3",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/魔法琴键3_13.111.010.ipa",
+    "size": 327154943,
+    "modified": "2026-11-16T08:36:10.738+08:00",
+    "file_name": "魔法琴键3_13.111.010.ipa"
+  },
+  "/苹果应用 - Appstore apps/镇邪人回归_6.6.6_全功能.ipa": {
+    "bundle_id": "com.zhenxieren.local",
+    "version": "1.0.0",
+    "build": "1",
+    "name": "回归镇邪人",
+    "path": "/苹果应用 - Appstore apps/镇邪人回归_6.6.6_全功能.ipa",
+    "size": 2566934925,
+    "modified": "2026-11-16T12:03:19.955+08:00",
+    "file_name": "镇邪人回归_6.6.6_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/英雄没有闪_1.8.1_全功能.ipa": {
+    "bundle_id": "com.ahyqnet.yxmys",
+    "version": "1.8.1",
+    "build": "1.8.1",
+    "name": "英雄没有闪",
+    "path": "/苹果应用 - Appstore apps/英雄没有闪_1.8.1_全功能.ipa",
+    "size": 2470307602,
+    "modified": "2026-11-16T12:02:50.608+08:00",
+    "file_name": "英雄没有闪_1.8.1_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/史莱姆城堡_3.6.6_无限升级.ipa": {
+    "bundle_id": "com.redtailworks.slimetd",
+    "version": "3.6.6",
+    "build": "0",
+    "name": "Slime Castle",
+    "path": "/苹果应用 - Appstore apps/史莱姆城堡_3.6.6_无限升级.ipa",
+    "size": 525981339,
+    "modified": "2026-11-16T12:03:38.761+08:00",
+    "file_name": "史莱姆城堡_3.6.6_无限升级.ipa"
+  },
+  "/苹果应用 - Appstore apps/Spotify_9.2.0_解锁会员.ipa": {
+    "bundle_id": "com.spotify.client",
+    "version": "9.2.0",
+    "build": "920002054",
+    "name": "Spotify",
+    "path": "/苹果应用 - Appstore apps/Spotify_9.2.0_解锁会员.ipa",
+    "size": 149189742,
+    "modified": "2026-11-16T12:03:08.28+08:00",
+    "file_name": "Spotify_9.2.0_解锁会员.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/死亡目标_6.186.0.ipa": {
+    "bundle_id": "com.vng.g6.a.zombie",
+    "version": "6.186.0",
+    "build": "906501",
+    "name": "死亡目标",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/死亡目标_6.186.0.ipa",
+    "size": 293144831,
+    "modified": "2026-11-16T08:35:56.755+08:00",
+    "file_name": "死亡目标_6.186.0.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/狙击手3D_7.15.0.ipa": {
+    "bundle_id": "com.fungames.sniper3d",
+    "version": "7.15.0",
+    "build": "33186",
+    "name": "狙击手3D",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/狙击手3D_7.15.0.ipa",
+    "size": 213420322,
+    "modified": "2026-11-16T08:35:18.331+08:00",
+    "file_name": "狙击手3D_7.15.0.ipa"
   }
 }
