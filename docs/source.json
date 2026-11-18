@@ -7,13 +7,177 @@
   "headerURL": "https://github.com/honlam6.png",
   "tintColor": "#6385ef",
   "featuredApps": [
-    "com.intsig.CamScannerLite",
-    "com.differ.xiaoming",
-    "com.local.STV",
-    "com.popcap.ios.chs.PVZ2",
-    "com.xiaozhu.pvzhv"
+    "com.trinhios.kog",
+    "com.ss.iphone.ugc.Aweme",
+    "cz.kolbi.wqfiles",
+    "com.dsxys.app",
+    "com.intsig.CamScannerLite"
   ],
   "apps": [
+    {
+      "name": "KOG TrollStore",
+      "bundleIdentifier": "com.trinhios.kog",
+      "developerName": "App Shelf",
+      "subtitle": "王者荣耀KOG_1.0_仅支持巨魔.ipa",
+      "localizedDescription": "王者荣耀KOG_1.0_仅支持巨魔.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.trinhios.kog.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2F%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80KOG_1.0_%E4%BB%85%E6%94%AF%E6%8C%81%E5%B7%A8%E9%AD%94.ipa",
+          "size": 58563333,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "抖音",
+      "bundleIdentifier": "com.ss.iphone.ugc.Aweme",
+      "developerName": "App Shelf",
+      "subtitle": "抖音_41.2.0_纯净版.ipa",
+      "localizedDescription": "抖音_41.2.0_纯净版.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.ss.iphone.ugc.Aweme.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "41.2.0",
+          "buildVersion": "412021",
+          "date": "2026-11-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%8A%96%E9%9F%B3_41.2.0_%E7%BA%AF%E5%87%80%E7%89%88.ipa",
+          "size": 720034470,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "41.0.0",
+          "buildVersion": "410017",
+          "date": "2026-11-09",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%8A%96%E9%9F%B3_41.0.0.ipa",
+          "size": 766296477,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "40.9.0",
+          "buildVersion": "409015",
+          "date": "2026-10-30",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%8A%96%E9%9F%B3_40.9.0.ipa",
+          "size": 779849710,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "40.8.0",
+          "buildVersion": "408018",
+          "date": "2026-10-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%8A%96%E9%9F%B3_40.8.0_%E7%BA%AF%E5%87%80%E7%89%88.ipa",
+          "size": 673711770,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "40.7.0",
+          "buildVersion": "407019",
+          "date": "2026-10-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%8A%96%E9%9F%B3_40.7.0_%E7%BA%AF%E5%87%80%E7%89%88.ipa",
+          "size": 683160202,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "40.7.0",
+          "buildVersion": "407019",
+          "date": "2026-10-17",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%8A%96%E9%9F%B3_40.7.0%281%29.ipa",
+          "size": 696838758,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "40.5.0",
+          "buildVersion": "405020",
+          "date": "2026-09-23",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%8A%96%E9%9F%B3_40.5.0.ipa",
+          "size": 709345028,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "WQ Files",
+      "bundleIdentifier": "cz.kolbi.wqfiles",
+      "developerName": "App Shelf",
+      "subtitle": "WQFiles_0.9.18_支持iOS26～iOS27.3Beta1.ipa",
+      "localizedDescription": "WQFiles_0.9.18_支持iOS26～iOS27.3Beta1.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/cz.kolbi.wqfiles.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "0.9.18",
+          "buildVersion": "106",
+          "date": "2026-11-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FWQFiles_0.9.18_%E6%94%AF%E6%8C%81iOS26%EF%BD%9EiOS27.3Beta1.ipa",
+          "size": 2171189,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.9.11",
+          "buildVersion": "92",
+          "date": "2026-11-16",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FWQFiles_0.9.11.ipa",
+          "size": 1969224,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.9.3",
+          "buildVersion": "59",
+          "date": "2026-11-12",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2FWQ%20Files_0.9.3.ipa",
+          "size": 626750,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.9.3",
+          "buildVersion": "59",
+          "date": "2026-11-12",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FWQFiles_0.9.3_%E4%B8%AD%E6%96%87%E7%89%88.ipa",
+          "size": 559984,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.8",
+          "buildVersion": "34",
+          "date": "2026-11-11",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FWQFiles_0.8%EF%BC%88%E6%B1%89%E5%8C%96%E7%89%88%EF%BC%89_%E9%80%82%E7%94%A8%E4%BA%8EiOS%2027%E7%9A%84%E6%96%87%E4%BB%B6%E6%B5%8F%E8%A7%88%E5%99%A8%E3%80%81%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E5%99%A8%E5%92%8C%E7%BC%93%E5%AD%98%E6%B8%85%E7%90%86%E5%99%A8.ipa",
+          "size": 326878,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.7",
+          "buildVersion": "26",
+          "date": "2026-11-10",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FWQFiles_0.7%EF%BC%88%E6%B1%89%E5%8C%96%E7%89%88%EF%BC%89_%E9%80%82%E7%94%A8%E4%BA%8EiOS%2027%E7%9A%84%E6%96%87%E4%BB%B6%E6%B5%8F%E8%A7%88%E5%99%A8%E3%80%81%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E5%99%A8%E5%92%8C%E7%BC%93%E5%AD%98%E6%B8%85%E7%90%86%E5%99%A8.ipa",
+          "size": 301819,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "大师兄影视",
+      "bundleIdentifier": "com.dsxys.app",
+      "developerName": "App Shelf",
+      "subtitle": "大师兄影视_1.0.7_去广告.ipa",
+      "localizedDescription": "大师兄影视_1.0.7_去广告.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.dsxys.app.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.0.7",
+          "buildVersion": "17",
+          "date": "2026-11-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%A4%A7%E5%B8%88%E5%85%84%E5%BD%B1%E8%A7%86_1.0.7_%E5%8E%BB%E5%B9%BF%E5%91%8A.ipa",
+          "size": 55506171,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
     {
       "name": "扫描全能王",
       "bundleIdentifier": "com.intsig.CamScannerLite",
@@ -1140,57 +1304,6 @@
           "date": "2026-10-05",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%8C%9B%E9%AC%BC%E5%AE%BF%E8%88%8D_2.5.6_%E6%97%A0%E9%99%90%E9%81%93%E5%85%B7%E9%87%91%E5%B8%81%E6%97%A0%E6%95%8C%E7%AD%89_20261005_163225.ipa",
           "size": 87767689,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "WQ Files",
-      "bundleIdentifier": "cz.kolbi.wqfiles",
-      "developerName": "App Shelf",
-      "subtitle": "WQFiles_0.9.11.ipa",
-      "localizedDescription": "WQFiles_0.9.11.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/cz.kolbi.wqfiles.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "0.9.11",
-          "buildVersion": "92",
-          "date": "2026-11-16",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FWQFiles_0.9.11.ipa",
-          "size": 1969224,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.9.3",
-          "buildVersion": "59",
-          "date": "2026-11-12",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2FWQ%20Files_0.9.3.ipa",
-          "size": 626750,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.9.3",
-          "buildVersion": "59",
-          "date": "2026-11-12",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FWQFiles_0.9.3_%E4%B8%AD%E6%96%87%E7%89%88.ipa",
-          "size": 559984,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.8",
-          "buildVersion": "34",
-          "date": "2026-11-11",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FWQFiles_0.8%EF%BC%88%E6%B1%89%E5%8C%96%E7%89%88%EF%BC%89_%E9%80%82%E7%94%A8%E4%BA%8EiOS%2027%E7%9A%84%E6%96%87%E4%BB%B6%E6%B5%8F%E8%A7%88%E5%99%A8%E3%80%81%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E5%99%A8%E5%92%8C%E7%BC%93%E5%AD%98%E6%B8%85%E7%90%86%E5%99%A8.ipa",
-          "size": 326878,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.7",
-          "buildVersion": "26",
-          "date": "2026-11-10",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FWQFiles_0.7%EF%BC%88%E6%B1%89%E5%8C%96%E7%89%88%EF%BC%89_%E9%80%82%E7%94%A8%E4%BA%8EiOS%2027%E7%9A%84%E6%96%87%E4%BB%B6%E6%B5%8F%E8%A7%88%E5%99%A8%E3%80%81%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E5%99%A8%E5%92%8C%E7%BC%93%E5%AD%98%E6%B8%85%E7%90%86%E5%99%A8.ipa",
-          "size": 301819,
           "minOSVersion": "14.0"
         }
       ]
@@ -6334,14 +6447,6 @@
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%AE%98%E6%9B%BF%E7%B2%BE%E7%AE%80%E7%89%880524.ipa",
           "size": 388618476,
           "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.0.64",
-          "buildVersion": "8.0.64.36",
-          "date": "2026-05-25",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%AE%98%E6%9B%BF%E7%AE%80%E6%B4%81%E7%89%880524.ipa",
-          "size": 425115765,
-          "minOSVersion": "14.0"
         }
       ]
     },
@@ -7907,65 +8012,6 @@
       ]
     },
     {
-      "name": "抖音",
-      "bundleIdentifier": "com.ss.iphone.ugc.Aweme",
-      "developerName": "App Shelf",
-      "subtitle": "抖音_41.0.0.ipa",
-      "localizedDescription": "抖音_41.0.0.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.ss.iphone.ugc.Aweme.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "41.0.0",
-          "buildVersion": "410017",
-          "date": "2026-11-09",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%8A%96%E9%9F%B3_41.0.0.ipa",
-          "size": 766296477,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "40.9.0",
-          "buildVersion": "409015",
-          "date": "2026-10-30",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%8A%96%E9%9F%B3_40.9.0.ipa",
-          "size": 779849710,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "40.8.0",
-          "buildVersion": "408018",
-          "date": "2026-10-22",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%8A%96%E9%9F%B3_40.8.0_%E7%BA%AF%E5%87%80%E7%89%88.ipa",
-          "size": 673711770,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "40.7.0",
-          "buildVersion": "407019",
-          "date": "2026-10-18",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%8A%96%E9%9F%B3_40.7.0_%E7%BA%AF%E5%87%80%E7%89%88.ipa",
-          "size": 683160202,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "40.7.0",
-          "buildVersion": "407019",
-          "date": "2026-10-17",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%8A%96%E9%9F%B3_40.7.0%281%29.ipa",
-          "size": 696838758,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "40.5.0",
-          "buildVersion": "405020",
-          "date": "2026-09-23",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%8A%96%E9%9F%B3_40.5.0.ipa",
-          "size": 709345028,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "Kumone",
       "bundleIdentifier": "sb.moe.kumone-ios",
       "developerName": "App Shelf",
@@ -8088,14 +8134,6 @@
           "date": "2026-10-05",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FYouTube_21.39.4_YTLite_%E6%94%AF%E6%8C%81%E4%B8%8B%E8%BD%BD%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91%EF%BC%8C%E5%8E%BB%E9%99%A4%E5%B9%BF%E5%91%8A%E7%AD%89%EF%BC%8C%E6%97%A0%E9%99%90%E4%B8%8B%E8%BD%BD%2B%E7%94%BB%E4%B8%AD%E7%94%BB.ipa",
           "size": 160343459,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "21.38.3",
-          "buildVersion": "21.38.3",
-          "date": "2026-09-28",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FYouTube_21.38.3_YTLite_%E6%94%AF%E6%8C%81%E4%B8%8B%E8%BD%BD%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91%EF%BC%8C%E5%8E%BB%E9%99%A4%E5%B9%BF%E5%91%8A%E7%AD%89%EF%BC%8C%E6%97%A0%E9%99%90%E4%B8%8B%E8%BD%BD%2B%E7%94%BB%E4%B8%AD%E7%94%BB.ipa",
-          "size": 160415322,
           "minOSVersion": "14.0"
         },
         {
@@ -9839,14 +9877,6 @@
           "date": "2026-10-24",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FSenPlayer_6.2.3_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
           "size": 77126564,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "6.2.2",
-          "buildVersion": "1",
-          "date": "2026-09-28",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FSenPlayer_6.2.2_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98_Emby%E7%AD%89%E8%B5%84%E6%BA%90%E6%92%AD%E6%94%BE%E5%99%A8.ipa",
-          "size": 90984093,
           "minOSVersion": "14.0"
         }
       ]
@@ -13442,14 +13472,6 @@
       "iconURL": "https://appshelf-egm.pages.dev/icons/com.bytecrossing.Egern.png",
       "tintColor": "#6385ef",
       "versions": [
-        {
-          "version": "2.21.0",
-          "buildVersion": "788",
-          "date": "2026-09-28",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FEgern_2.21.0_%E6%9C%80%E4%BD%8E%E6%94%AF%E6%8C%81iOS16.0%2B%E7%B3%BB%E7%BB%9F.ipa",
-          "size": 28709308,
-          "minOSVersion": "14.0"
-        },
         {
           "version": "2.21.0",
           "buildVersion": "788",

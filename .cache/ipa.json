@@ -24188,5 +24188,45 @@
     "size": 9528701,
     "modified": "2026-11-17T09:15:11.719+08:00",
     "file_name": "Camlo_v1.3.0_Bilingual.ipa"
+  },
+  "/苹果应用 - Appstore apps/WQFiles_0.9.18_支持iOS26～iOS27.3Beta1.ipa": {
+    "bundle_id": "cz.kolbi.wqfiles",
+    "version": "0.9.18",
+    "build": "106",
+    "name": "WQ Files",
+    "path": "/苹果应用 - Appstore apps/WQFiles_0.9.18_支持iOS26～iOS27.3Beta1.ipa",
+    "size": 2171189,
+    "modified": "2026-11-18T21:20:26.152+08:00",
+    "file_name": "WQFiles_0.9.18_支持iOS26～iOS27.3Beta1.ipa"
+  },
+  "/苹果应用 - Appstore apps/大师兄影视_1.0.7_去广告.ipa": {
+    "bundle_id": "com.dsxys.app",
+    "version": "1.0.7",
+    "build": "17",
+    "name": "大师兄影视",
+    "path": "/苹果应用 - Appstore apps/大师兄影视_1.0.7_去广告.ipa",
+    "size": 55506171,
+    "modified": "2026-11-18T21:20:26.149+08:00",
+    "file_name": "大师兄影视_1.0.7_去广告.ipa"
+  },
+  "/巨魔商店 - TrollStore/王者荣耀KOG_1.0_仅支持巨魔.ipa": {
+    "bundle_id": "com.trinhios.kog",
+    "version": "1.0",
+    "build": "1",
+    "name": "KOG TrollStore",
+    "path": "/巨魔商店 - TrollStore/王者荣耀KOG_1.0_仅支持巨魔.ipa",
+    "size": 58563333,
+    "modified": "2026-11-18T21:20:32.162+08:00",
+    "file_name": "王者荣耀KOG_1.0_仅支持巨魔.ipa"
+  },
+  "/苹果应用 - Appstore apps/抖音_41.2.0_纯净版.ipa": {
+    "bundle_id": "com.ss.iphone.ugc.Aweme",
+    "version": "41.2.0",
+    "build": "412021",
+    "name": "抖音",
+    "path": "/苹果应用 - Appstore apps/抖音_41.2.0_纯净版.ipa",
+    "size": 720034470,
+    "modified": "2026-11-18T21:20:26.405+08:00",
+    "file_name": "抖音_41.2.0_纯净版.ipa"
   }
 }
