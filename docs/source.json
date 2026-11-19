@@ -7,13 +7,32 @@
   "headerURL": "https://github.com/honlam6.png",
   "tintColor": "#6385ef",
   "featuredApps": [
+    "app.twoyi",
     "com.trinhios.kog",
     "com.ss.iphone.ugc.Aweme",
     "cz.kolbi.wqfiles",
-    "com.dsxys.app",
-    "com.intsig.CamScannerLite"
+    "com.dsxys.app"
   ],
   "apps": [
+    {
+      "name": "twoyi",
+      "bundleIdentifier": "app.twoyi",
+      "developerName": "App Shelf",
+      "subtitle": "twoyi_1.1.0_928_2.ipa",
+      "localizedDescription": "twoyi_1.1.0_928_2.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/app.twoyi.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "buildVersion": "898",
+          "date": "2026-11-19",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2Ftwoyi_1.1.0_928_2.ipa",
+          "size": 556913190,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
     {
       "name": "KOG TrollStore",
       "bundleIdentifier": "com.trinhios.kog",
@@ -6438,14 +6457,6 @@
           "date": "2026-07-31",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.69%2F%E5%BE%AE%E4%BF%A18.0.69%E5%AE%98%E6%9B%BF%E7%BE%8E%E5%8C%96%E7%89%880730.ipa",
           "size": 487344242,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.0.64",
-          "buildVersion": "8.0.64.36",
-          "date": "2026-05-25",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%BE%AE%E4%BF%A1%E5%A4%9A%E5%BC%80%20-%20WeChat%20multi-open%2F8.0.64%2F%E5%BE%AE%E4%BF%A1_8.0.64%E5%AE%98%E6%9B%BF%E7%B2%BE%E7%AE%80%E7%89%880524.ipa",
-          "size": 388618476,
           "minOSVersion": "14.0"
         }
       ]

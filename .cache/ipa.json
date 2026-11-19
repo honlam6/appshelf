@@ -24228,5 +24228,15 @@
     "size": 720034470,
     "modified": "2026-11-18T21:20:26.405+08:00",
     "file_name": "抖音_41.2.0_纯净版.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/twoyi_1.1.0_928_2.ipa": {
+    "bundle_id": "app.twoyi",
+    "version": "1.1.0",
+    "build": "898",
+    "name": "twoyi",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/twoyi_1.1.0_928_2.ipa",
+    "size": 556913190,
+    "modified": "2026-11-19T07:47:27.162+08:00",
+    "file_name": "twoyi_1.1.0_928_2.ipa"
   }
 }
