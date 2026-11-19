@@ -24238,5 +24238,45 @@
     "size": 556913190,
     "modified": "2026-11-19T07:47:27.162+08:00",
     "file_name": "twoyi_1.1.0_928_2.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/突袭：暗影传说_11.95.0.ipa": {
+    "bundle_id": "com.plarium.raidlegends",
+    "version": "11.95.0",
+    "build": "137537",
+    "name": "突袭：暗影传说",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/突袭：暗影传说_11.95.0.ipa",
+    "size": 156979284,
+    "modified": "2026-11-19T11:25:52.282+08:00",
+    "file_name": "突袭：暗影传说_11.95.0.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/命悬一日_9.0.0.ipa": {
+    "bundle_id": "com.glu.zbs",
+    "version": "9.0.0",
+    "build": "900.261113.2049",
+    "name": "命悬一日",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/命悬一日_9.0.0.ipa",
+    "size": 1084999552,
+    "modified": "2026-11-19T11:28:02.664+08:00",
+    "file_name": "命悬一日_9.0.0.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/侏罗纪世界：适者生存_3.24.38.ipa": {
+    "bundle_id": "com.ludia.jw2",
+    "version": "3.24.38",
+    "build": "3.24.38",
+    "name": "侏罗纪世界：适者生存",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/侏罗纪世界：适者生存_3.24.38.ipa",
+    "size": 2011436594,
+    "modified": "2026-11-19T11:30:17.821+08:00",
+    "file_name": "侏罗纪世界：适者生存_3.24.38.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/毛豆爱古诗_5.27.30.ipa": {
+    "bundle_id": "com.baijiahulian.maodou",
+    "version": "5.27.30",
+    "build": "663",
+    "name": "毛豆爱古诗",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/毛豆爱古诗_5.27.30.ipa",
+    "size": 349742745,
+    "modified": "2026-11-19T11:59:37.392+08:00",
+    "file_name": "毛豆爱古诗_5.27.30.ipa"
   }
 }

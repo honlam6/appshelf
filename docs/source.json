@@ -7,13 +7,169 @@
   "headerURL": "https://github.com/honlam6.png",
   "tintColor": "#6385ef",
   "featuredApps": [
-    "app.twoyi",
-    "com.trinhios.kog",
-    "com.ss.iphone.ugc.Aweme",
-    "cz.kolbi.wqfiles",
-    "com.dsxys.app"
+    "com.baijiahulian.maodou",
+    "com.ludia.jw2",
+    "com.glu.zbs",
+    "com.plarium.raidlegends",
+    "app.twoyi"
   ],
   "apps": [
+    {
+      "name": "毛豆爱古诗",
+      "bundleIdentifier": "com.baijiahulian.maodou",
+      "developerName": "App Shelf",
+      "subtitle": "毛豆爱古诗_5.27.30.ipa",
+      "localizedDescription": "毛豆爱古诗_5.27.30.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.baijiahulian.maodou.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "5.27.30",
+          "buildVersion": "663",
+          "date": "2026-11-19",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%AF%9B%E8%B1%86%E7%88%B1%E5%8F%A4%E8%AF%97_5.27.30.ipa",
+          "size": 349742745,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "5.27.00",
+          "buildVersion": "663",
+          "date": "2026-07-30",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%AF%9B%E8%B1%86%E7%88%B1%E5%8F%A4%E8%AF%97_5.27.00.ipa",
+          "size": 349440426,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "侏罗纪世界：适者生存",
+      "bundleIdentifier": "com.ludia.jw2",
+      "developerName": "App Shelf",
+      "subtitle": "侏罗纪世界：适者生存_3.24.38.ipa",
+      "localizedDescription": "侏罗纪世界：适者生存_3.24.38.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.ludia.jw2.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "3.24.38",
+          "buildVersion": "3.24.38",
+          "date": "2026-11-19",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E4%BE%8F%E7%BD%97%E7%BA%AA%E4%B8%96%E7%95%8C%EF%BC%9A%E9%80%82%E8%80%85%E7%94%9F%E5%AD%98_3.24.38.ipa",
+          "size": 2011436594,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "3.22.36",
+          "buildVersion": "3.22.36",
+          "date": "2026-08-14",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E4%BE%8F%E7%BD%97%E7%BA%AA%E4%B8%96%E7%95%8C%EF%BC%9A%E9%80%82%E8%80%85%E7%94%9F%E5%AD%98_3.22.36.ipa",
+          "size": 1987226591,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "3.21.42",
+          "buildVersion": "3.21.42",
+          "date": "2026-07-14",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E4%BE%8F%E7%BD%97%E7%BA%AA%E4%B8%96%E7%95%8C%EF%BC%9A%E9%80%82%E8%80%85%E7%94%9F%E5%AD%98_3.21.42.ipa",
+          "size": 1827286051,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "3.20.63",
+          "buildVersion": "3.20.63",
+          "date": "2026-06-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E4%BE%8F%E7%BD%97%E7%BA%AA%E4%B8%96%E7%95%8C%EF%BC%9A%E9%80%82%E8%80%85%E7%94%9F%E5%AD%98_3.20.63.ipa",
+          "size": 1822139861,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "命悬一日",
+      "bundleIdentifier": "com.glu.zbs",
+      "developerName": "App Shelf",
+      "subtitle": "命悬一日_9.0.0.ipa",
+      "localizedDescription": "命悬一日_9.0.0.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.glu.zbs.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "9.0.0",
+          "buildVersion": "900.261113.2049",
+          "date": "2026-11-19",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E5%91%BD%E6%82%AC%E4%B8%80%E6%97%A5_9.0.0.ipa",
+          "size": 1084999552,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.8.1",
+          "buildVersion": "881.261002.1403",
+          "date": "2026-10-12",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E5%91%BD%E6%82%AC%E4%B8%80%E6%97%A5_8.8.1.ipa",
+          "size": 1072370869,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.8.0",
+          "buildVersion": "880.260909.2108",
+          "date": "2026-09-19",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E5%91%BD%E6%82%AC%E4%B8%80%E6%97%A5_8.8.0.ipa",
+          "size": 1072829675,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.6.0",
+          "buildVersion": "860.260730.1721",
+          "date": "2026-08-08",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E5%91%BD%E6%82%AC%E4%B8%80%E6%97%A5_8.6.0.ipa",
+          "size": 1097087778,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.5.0",
+          "buildVersion": "850.260702.1855",
+          "date": "2026-07-14",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E5%91%BD%E6%82%AC%E4%B8%80%E6%97%A5_8.5.0.ipa",
+          "size": 1088234387,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.4.2",
+          "buildVersion": "842.260617.1954",
+          "date": "2026-06-28",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E5%91%BD%E6%82%AC%E4%B8%80%E6%97%A5_8.4.2.ipa",
+          "size": 1088686179,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.4.1",
+          "buildVersion": "841.260604.1743",
+          "date": "2026-06-14",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F3%2F%E5%91%BD%E6%82%AC%E4%B8%80%E6%97%A5_8.4.1.ipa",
+          "size": 1088637640,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "突袭：暗影传说",
+      "bundleIdentifier": "com.plarium.raidlegends",
+      "developerName": "App Shelf",
+      "subtitle": "突袭：暗影传说_11.95.0.ipa",
+      "localizedDescription": "突袭：暗影传说_11.95.0.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.plarium.raidlegends.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "11.95.0",
+          "buildVersion": "137537",
+          "date": "2026-11-19",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E7%AA%81%E8%A2%AD%EF%BC%9A%E6%9A%97%E5%BD%B1%E4%BC%A0%E8%AF%B4_11.95.0.ipa",
+          "size": 156979284,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
     {
       "name": "twoyi",
       "bundleIdentifier": "app.twoyi",
@@ -1889,14 +2045,6 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "1.26.900",
-          "buildVersion": "3644",
-          "date": "2026-09-15",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E5%85%A8%E9%9D%A2%E5%B0%B8%E6%8E%A7_1.26.900.ipa",
-          "size": 733905844,
-          "minOSVersion": "14.0"
-        },
-        {
           "version": "1.26.600",
           "buildVersion": "3612",
           "date": "2026-08-03",
@@ -3144,14 +3292,6 @@
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F3%2F%E8%8B%B1%E9%9B%84%E6%88%98%E4%BA%89_1.280.200.ipa",
           "size": 148274923,
           "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.279.201",
-          "buildVersion": "127902010",
-          "date": "2026-05-26",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F3%2F%E8%8B%B1%E9%9B%84%E6%88%98%E4%BA%89_1.279.201.ipa",
-          "size": 147102263,
-          "minOSVersion": "14.0"
         }
       ]
     },
@@ -3377,14 +3517,6 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "3.1.6",
-          "buildVersion": "245",
-          "date": "2026-09-15",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E6%AD%BB%E4%BA%A1%E6%89%B3%E6%9C%BA2_3.1.6_20260915_195252.ipa",
-          "size": 736317703,
-          "minOSVersion": "14.0"
-        },
-        {
           "version": "3.1.5",
           "buildVersion": "233",
           "date": "2026-08-08",
@@ -3463,14 +3595,6 @@
           "date": "2026-10-12",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E9%AD%85%E6%AC%B2%E5%88%AB%E5%A2%85_71.1.1.ipa",
           "size": 155529247,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "68.2.1",
-          "buildVersion": "0",
-          "date": "2026-09-17",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E9%AD%85%E6%AC%B2%E5%88%AB%E5%A2%85_68.2.1.ipa",
-          "size": 155368479,
           "minOSVersion": "14.0"
         }
       ]
@@ -11869,65 +11993,6 @@
       ]
     },
     {
-      "name": "命悬一日",
-      "bundleIdentifier": "com.glu.zbs",
-      "developerName": "App Shelf",
-      "subtitle": "命悬一日_8.8.1.ipa",
-      "localizedDescription": "命悬一日_8.8.1.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.glu.zbs.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "8.8.1",
-          "buildVersion": "881.261002.1403",
-          "date": "2026-10-12",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E5%91%BD%E6%82%AC%E4%B8%80%E6%97%A5_8.8.1.ipa",
-          "size": 1072370869,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.8.0",
-          "buildVersion": "880.260909.2108",
-          "date": "2026-09-19",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E5%91%BD%E6%82%AC%E4%B8%80%E6%97%A5_8.8.0.ipa",
-          "size": 1072829675,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.6.0",
-          "buildVersion": "860.260730.1721",
-          "date": "2026-08-08",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E5%91%BD%E6%82%AC%E4%B8%80%E6%97%A5_8.6.0.ipa",
-          "size": 1097087778,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.5.0",
-          "buildVersion": "850.260702.1855",
-          "date": "2026-07-14",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E5%91%BD%E6%82%AC%E4%B8%80%E6%97%A5_8.5.0.ipa",
-          "size": 1088234387,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.4.2",
-          "buildVersion": "842.260617.1954",
-          "date": "2026-06-28",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E5%91%BD%E6%82%AC%E4%B8%80%E6%97%A5_8.4.2.ipa",
-          "size": 1088686179,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.4.1",
-          "buildVersion": "841.260604.1743",
-          "date": "2026-06-14",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F3%2F%E5%91%BD%E6%82%AC%E4%B8%80%E6%97%A5_8.4.1.ipa",
-          "size": 1088637640,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "开心农场2：热带逃生",
       "bundleIdentifier": "com.zynga.FarmVilleTropicEscape",
       "developerName": "App Shelf",
@@ -14326,41 +14391,6 @@
       ]
     },
     {
-      "name": "侏罗纪世界：适者生存",
-      "bundleIdentifier": "com.ludia.jw2",
-      "developerName": "App Shelf",
-      "subtitle": "侏罗纪世界：适者生存_3.22.36.ipa",
-      "localizedDescription": "侏罗纪世界：适者生存_3.22.36.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.ludia.jw2.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "3.22.36",
-          "buildVersion": "3.22.36",
-          "date": "2026-08-14",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E4%BE%8F%E7%BD%97%E7%BA%AA%E4%B8%96%E7%95%8C%EF%BC%9A%E9%80%82%E8%80%85%E7%94%9F%E5%AD%98_3.22.36.ipa",
-          "size": 1987226591,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "3.21.42",
-          "buildVersion": "3.21.42",
-          "date": "2026-07-14",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E4%BE%8F%E7%BD%97%E7%BA%AA%E4%B8%96%E7%95%8C%EF%BC%9A%E9%80%82%E8%80%85%E7%94%9F%E5%AD%98_3.21.42.ipa",
-          "size": 1827286051,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "3.20.63",
-          "buildVersion": "3.20.63",
-          "date": "2026-06-29",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E4%BE%8F%E7%BD%97%E7%BA%AA%E4%B8%96%E7%95%8C%EF%BC%9A%E9%80%82%E8%80%85%E7%94%9F%E5%AD%98_3.20.63.ipa",
-          "size": 1822139861,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "光合战队",
       "bundleIdentifier": "com.funconnect.lightteam",
       "developerName": "App Shelf",
@@ -14713,25 +14743,6 @@
           "date": "2026-07-30",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E5%90%88%E9%87%91%E5%BC%B9%E5%A4%B4_1.0.3.ipa",
           "size": 78245319,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "毛豆爱古诗",
-      "bundleIdentifier": "com.baijiahulian.maodou",
-      "developerName": "App Shelf",
-      "subtitle": "毛豆爱古诗_5.27.00.ipa",
-      "localizedDescription": "毛豆爱古诗_5.27.00.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.baijiahulian.maodou.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "5.27.00",
-          "buildVersion": "663",
-          "date": "2026-07-30",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%AF%9B%E8%B1%86%E7%88%B1%E5%8F%A4%E8%AF%97_5.27.00.ipa",
-          "size": 349440426,
           "minOSVersion": "14.0"
         }
       ]
