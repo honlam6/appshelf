@@ -24278,5 +24278,75 @@
     "size": 349742745,
     "modified": "2026-11-19T11:59:37.392+08:00",
     "file_name": "毛豆爱古诗_5.27.30.ipa"
+  },
+  "/苹果应用 - Appstore apps/藏武_1.95_解锁内购.ipa": {
+    "bundle_id": "com.LYG.Dungeon",
+    "version": "1.95",
+    "build": "5",
+    "name": "藏武",
+    "path": "/苹果应用 - Appstore apps/藏武_1.95_解锁内购.ipa",
+    "size": 252119641,
+    "modified": "2026-11-20T11:40:54.738+08:00",
+    "file_name": "藏武_1.95_解锁内购.ipa"
+  },
+  "/苹果应用 - Appstore apps/失落城堡2_1.0.5_全功能.ipa": {
+    "bundle_id": "com.leiting.slcb2",
+    "version": "1.0.5",
+    "build": "3",
+    "name": "失落城堡2",
+    "path": "/苹果应用 - Appstore apps/失落城堡2_1.0.5_全功能.ipa",
+    "size": 535271513,
+    "modified": "2026-11-20T11:40:54.867+08:00",
+    "file_name": "失落城堡2_1.0.5_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/元气骑士_8.8.0_全功能.ipa": {
+    "bundle_id": "com.ChillyRoom.DungeonShooter",
+    "version": "8.8.0",
+    "build": "1531",
+    "name": "SoulKnight",
+    "path": "/苹果应用 - Appstore apps/元气骑士_8.8.0_全功能.ipa",
+    "size": 861126221,
+    "modified": "2026-11-20T11:41:16.043+08:00",
+    "file_name": "元气骑士_8.8.0_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/开心消消乐_1.163.235_无限道具步数.ipa": {
+    "bundle_id": "com.happyelements.1OSAnimal",
+    "version": "1.163.235",
+    "build": "1.163.235",
+    "name": "开心消消乐",
+    "path": "/苹果应用 - Appstore apps/开心消消乐_1.163.235_无限道具步数.ipa",
+    "size": 353581485,
+    "modified": "2026-11-20T11:40:54.662+08:00",
+    "file_name": "开心消消乐_1.163.235_无限道具步数.ipa"
+  },
+  "/苹果应用 - Appstore apps/迷雾大陆_16.0.0_全功能.ipa": {
+    "bundle_id": "com.hortor.mwdl.ios",
+    "version": "16.0.0",
+    "build": "1",
+    "name": "迷雾大陆",
+    "path": "/苹果应用 - Appstore apps/迷雾大陆_16.0.0_全功能.ipa",
+    "size": 28745584,
+    "modified": "2026-11-20T11:40:54.648+08:00",
+    "file_name": "迷雾大陆_16.0.0_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/梦想城镇_40.1.0_无限点卷等.ipa": {
+    "bundle_id": "com.plrx.township-cn",
+    "version": "40.1.0",
+    "build": "40.1.0",
+    "name": "Township",
+    "path": "/苹果应用 - Appstore apps/梦想城镇_40.1.0_无限点卷等.ipa",
+    "size": 188840198,
+    "modified": "2026-11-20T11:41:07.763+08:00",
+    "file_name": "梦想城镇_40.1.0_无限点卷等.ipa"
+  },
+  "/苹果应用 - Appstore apps/失落城堡_1.1.8_全功能.ipa": {
+    "bundle_id": "com.leiting.LostCastle",
+    "version": "1.1.80",
+    "build": "1",
+    "name": "失落城堡",
+    "path": "/苹果应用 - Appstore apps/失落城堡_1.1.8_全功能.ipa",
+    "size": 342168192,
+    "modified": "2026-11-20T11:41:14.91+08:00",
+    "file_name": "失落城堡_1.1.8_全功能.ipa"
   }
 }

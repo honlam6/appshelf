@@ -7,13 +7,218 @@
   "headerURL": "https://github.com/honlam6.png",
   "tintColor": "#6385ef",
   "featuredApps": [
-    "com.baijiahulian.maodou",
-    "com.ludia.jw2",
-    "com.glu.zbs",
-    "com.plarium.raidlegends",
-    "app.twoyi"
+    "com.ChillyRoom.DungeonShooter",
+    "com.leiting.LostCastle",
+    "com.plrx.township-cn",
+    "com.leiting.slcb2",
+    "com.LYG.Dungeon"
   ],
   "apps": [
+    {
+      "name": "SoulKnight",
+      "bundleIdentifier": "com.ChillyRoom.DungeonShooter",
+      "developerName": "App Shelf",
+      "subtitle": "元气骑士_8.8.0_全功能.ipa",
+      "localizedDescription": "元气骑士_8.8.0_全功能.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.ChillyRoom.DungeonShooter.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "8.8.0",
+          "buildVersion": "1531",
+          "date": "2026-11-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.8.0_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 861126221,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.7.1",
+          "buildVersion": "1527",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.7.1_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 825202088,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.7.0",
+          "buildVersion": "1524",
+          "date": "2026-10-26",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.7.0.ipa",
+          "size": 856065542,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.3.0",
+          "buildVersion": "1501",
+          "date": "2026-07-14",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.3.0.ipa",
+          "size": 839020246,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.3.0",
+          "buildVersion": "1501",
+          "date": "2026-06-14",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F3%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.3.0.ipa",
+          "size": 842039597,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "失落城堡",
+      "bundleIdentifier": "com.leiting.LostCastle",
+      "developerName": "App Shelf",
+      "subtitle": "失落城堡_1.1.8_全功能.ipa",
+      "localizedDescription": "失落城堡_1.1.8_全功能.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.leiting.LostCastle.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.1.80",
+          "buildVersion": "1",
+          "date": "2026-11-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%A4%B1%E8%90%BD%E5%9F%8E%E5%A0%A1_1.1.8_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 342168192,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "Township",
+      "bundleIdentifier": "com.plrx.township-cn",
+      "developerName": "App Shelf",
+      "subtitle": "梦想城镇_40.1.0_无限点卷等.ipa",
+      "localizedDescription": "梦想城镇_40.1.0_无限点卷等.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.plrx.township-cn.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "40.1.0",
+          "buildVersion": "40.1.0",
+          "date": "2026-11-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%A2%A6%E6%83%B3%E5%9F%8E%E9%95%87_40.1.0_%E6%97%A0%E9%99%90%E7%82%B9%E5%8D%B7%E7%AD%89.ipa",
+          "size": 188840198,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "40.0.0",
+          "buildVersion": "40.0.0",
+          "date": "2026-10-31",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%A2%A6%E6%83%B3%E5%9F%8E%E9%95%87_40.0.0_%E6%97%A0%E9%99%90%E8%B5%84%E6%BA%90%E7%AD%89_%E5%8F%AF%E4%BB%A5%E4%BF%AE%E6%94%B9%E6%97%A0%E9%99%90%E7%82%B9%E5%8D%B7%E9%87%91%E5%B8%81.ipa",
+          "size": 186513777,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "39.1.0",
+          "buildVersion": "39.1.0",
+          "date": "2026-10-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%A2%A6%E6%83%B3%E5%9F%8E%E9%95%87_39.1.0_%E6%97%A0%E9%99%90%E9%87%91%E5%B8%81%E7%82%B9%E5%8D%B7.ipa",
+          "size": 185451056,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "失落城堡2",
+      "bundleIdentifier": "com.leiting.slcb2",
+      "developerName": "App Shelf",
+      "subtitle": "失落城堡2_1.0.5_全功能.ipa",
+      "localizedDescription": "失落城堡2_1.0.5_全功能.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.leiting.slcb2.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.0.5",
+          "buildVersion": "3",
+          "date": "2026-11-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%A4%B1%E8%90%BD%E5%9F%8E%E5%A0%A12_1.0.5_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 535271513,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "藏武",
+      "bundleIdentifier": "com.LYG.Dungeon",
+      "developerName": "App Shelf",
+      "subtitle": "藏武_1.95_解锁内购.ipa",
+      "localizedDescription": "藏武_1.95_解锁内购.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.LYG.Dungeon.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.95",
+          "buildVersion": "5",
+          "date": "2026-11-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E8%97%8F%E6%AD%A6_1.95_%E8%A7%A3%E9%94%81%E5%86%85%E8%B4%AD.ipa",
+          "size": 252119641,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "开心消消乐",
+      "bundleIdentifier": "com.happyelements.1OSAnimal",
+      "developerName": "App Shelf",
+      "subtitle": "开心消消乐_1.163.235_无限道具步数.ipa",
+      "localizedDescription": "开心消消乐_1.163.235_无限道具步数.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.happyelements.1OSAnimal.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.163.235",
+          "buildVersion": "1.163.235",
+          "date": "2026-11-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90_1.163.235_%E6%97%A0%E9%99%90%E9%81%93%E5%85%B7%E6%AD%A5%E6%95%B0.ipa",
+          "size": 353581485,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.162.236",
+          "buildVersion": "1.162.236",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90_1.162.236_%E6%97%A0%E9%99%90%E4%BD%93%E5%8A%9B%E9%81%93%E5%85%B7%E7%AD%89.ipa",
+          "size": 346154191,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.162.126",
+          "buildVersion": "1.162.126",
+          "date": "2026-10-09",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90_1.162.126_%E6%97%A0%E9%99%90%E9%81%93%E5%85%B7%E4%BD%93%E5%8A%9B.ipa",
+          "size": 326498560,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "迷雾大陆",
+      "bundleIdentifier": "com.hortor.mwdl.ios",
+      "developerName": "App Shelf",
+      "subtitle": "迷雾大陆_16.0.0_全功能.ipa",
+      "localizedDescription": "迷雾大陆_16.0.0_全功能.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.hortor.mwdl.ios.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "16.0.0",
+          "buildVersion": "1",
+          "date": "2026-11-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E8%BF%B7%E9%9B%BE%E5%A4%A7%E9%99%86_16.0.0_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 28745584,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "15.0.0",
+          "buildVersion": "2",
+          "date": "2026-10-13",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E8%BF%B7%E9%9B%BE%E5%A4%A7%E9%99%86_15.0.0_%E5%85%A8%E5%8A%9F%E8%83%BD_%E6%97%A0%E6%95%8C%E5%85%8D%E4%BC%A4%E8%B6%85%E7%BA%A7%E7%A7%92%E6%9D%80.ipa",
+          "size": 28148289,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
     {
       "name": "毛豆爱古诗",
       "bundleIdentifier": "com.baijiahulian.maodou",
@@ -986,14 +1191,6 @@
           "date": "2026-09-28",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E8%A1%8C%E5%B0%B8%E8%B5%B0%E8%82%89%E7%BB%88%E5%B1%80_2.1.3.ipa",
           "size": 704963479,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "2.1.3",
-          "buildVersion": "102",
-          "date": "2026-09-28",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E8%A1%8C%E5%B0%B8%E8%B5%B0%E8%82%89_2.1.3_%E6%97%A0%E9%99%90%E8%B5%84%E6%BA%90%E6%97%A0%E6%95%8C.ipa",
-          "size": 718931541,
           "minOSVersion": "14.0"
         },
         {
@@ -2444,14 +2641,6 @@
           "date": "2026-11-12",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2F%E8%AF%81%E4%B9%A6%E7%AD%BE%E5%90%8D%E7%BD%91%E7%BB%9C%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7%2FSurge_6.100.0_4024_%E7%A0%B4%E8%A7%A3_iOS27%E8%AF%81%E4%B9%A6%E6%B5%8B%E8%AF%95.ipa",
           "size": 44079160,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "5.102.0",
-          "buildVersion": "3853",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FSurge_5.102.0%EF%BC%88TF3853%EF%BC%89.ipa",
-          "size": 53807219,
           "minOSVersion": "14.0"
         },
         {
@@ -8264,14 +8453,6 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "21.39.4",
-          "buildVersion": "21.39.4",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FYouTube_21.39.4_YTLite_%E6%94%AF%E6%8C%81%E4%B8%8B%E8%BD%BD%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91%EF%BC%8C%E5%8E%BB%E9%99%A4%E5%B9%BF%E5%91%8A%E7%AD%89%EF%BC%8C%E6%97%A0%E9%99%90%E4%B8%8B%E8%BD%BD%2B%E7%94%BB%E4%B8%AD%E7%94%BB.ipa",
-          "size": 160343459,
-          "minOSVersion": "14.0"
-        },
-        {
           "version": "21.34.3",
           "buildVersion": "21.34.3",
           "date": "2026-09-01",
@@ -8943,33 +9124,6 @@
       ]
     },
     {
-      "name": "Township",
-      "bundleIdentifier": "com.plrx.township-cn",
-      "developerName": "App Shelf",
-      "subtitle": "梦想城镇_40.0.0_无限资源等_可以修改无限点卷金币.ipa",
-      "localizedDescription": "梦想城镇_40.0.0_无限资源等_可以修改无限点卷金币.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.plrx.township-cn.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "40.0.0",
-          "buildVersion": "40.0.0",
-          "date": "2026-10-31",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%A2%A6%E6%83%B3%E5%9F%8E%E9%95%87_40.0.0_%E6%97%A0%E9%99%90%E8%B5%84%E6%BA%90%E7%AD%89_%E5%8F%AF%E4%BB%A5%E4%BF%AE%E6%94%B9%E6%97%A0%E9%99%90%E7%82%B9%E5%8D%B7%E9%87%91%E5%B8%81.ipa",
-          "size": 186513777,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "39.1.0",
-          "buildVersion": "39.1.0",
-          "date": "2026-10-18",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%A2%A6%E6%83%B3%E5%9F%8E%E9%95%87_39.1.0_%E6%97%A0%E9%99%90%E9%87%91%E5%B8%81%E7%82%B9%E5%8D%B7.ipa",
-          "size": 185451056,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "阿瑞斯病毒2",
       "bundleIdentifier": "com.zzonegame.aresvirus2.ios",
       "developerName": "App Shelf",
@@ -9151,33 +9305,6 @@
       ]
     },
     {
-      "name": "开心消消乐",
-      "bundleIdentifier": "com.happyelements.1OSAnimal",
-      "developerName": "App Shelf",
-      "subtitle": "开心消消乐_1.162.236_无限体力道具等.ipa",
-      "localizedDescription": "开心消消乐_1.162.236_无限体力道具等.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.happyelements.1OSAnimal.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "1.162.236",
-          "buildVersion": "1.162.236",
-          "date": "2026-10-29",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90_1.162.236_%E6%97%A0%E9%99%90%E4%BD%93%E5%8A%9B%E9%81%93%E5%85%B7%E7%AD%89.ipa",
-          "size": 346154191,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.162.126",
-          "buildVersion": "1.162.126",
-          "date": "2026-10-09",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90_1.162.126_%E6%97%A0%E9%99%90%E9%81%93%E5%85%B7%E4%BD%93%E5%8A%9B.ipa",
-          "size": 326498560,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "GTA V",
       "bundleIdentifier": "kuka.ioskuka.gtavios",
       "developerName": "App Shelf",
@@ -9240,49 +9367,6 @@
           "date": "2026-10-18",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_1.0_%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA.ipa",
           "size": 75639427,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "SoulKnight",
-      "bundleIdentifier": "com.ChillyRoom.DungeonShooter",
-      "developerName": "App Shelf",
-      "subtitle": "元气骑士_8.7.1_全功能.ipa",
-      "localizedDescription": "元气骑士_8.7.1_全功能.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.ChillyRoom.DungeonShooter.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "8.7.1",
-          "buildVersion": "1527",
-          "date": "2026-10-29",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.7.1_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
-          "size": 825202088,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.7.0",
-          "buildVersion": "1524",
-          "date": "2026-10-26",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.7.0.ipa",
-          "size": 856065542,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.3.0",
-          "buildVersion": "1501",
-          "date": "2026-07-14",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.3.0.ipa",
-          "size": 839020246,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.3.0",
-          "buildVersion": "1501",
-          "date": "2026-06-14",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F3%2F%E5%85%83%E6%B0%94%E9%AA%91%E5%A3%AB_8.3.0.ipa",
-          "size": 842039597,
           "minOSVersion": "14.0"
         }
       ]
@@ -11153,14 +11237,6 @@
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E5%8A%A8%E5%90%AC%E6%92%AD%E6%94%BE%E5%99%A8_1.0.ipa",
           "size": 45038839,
           "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.0",
-          "buildVersion": "54",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%8A%A8%E5%90%AC%E6%92%AD%E6%94%BE%E5%99%A8_1.1_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
-          "size": 35094398,
-          "minOSVersion": "14.0"
         }
       ]
     },
@@ -11574,14 +11650,6 @@
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FMiniWatts%EF%BC%88%E5%85%85%E7%94%B5%E4%BF%A1%E6%81%AF%EF%BC%89_1.5.0_%E6%9C%80%E4%BD%8E%E6%94%AF%E6%8C%81iOS17.0%2B%E7%B3%BB%E7%BB%9F.ipa",
           "size": 3284306,
           "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.4.1",
-          "buildVersion": "18",
-          "date": "2026-09-28",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FMiniWatts%EF%BC%88%E5%85%85%E7%94%B5%E4%BF%A1%E6%81%AF%EF%BC%89_1.4.1_%E6%9C%80%E4%BD%8E%E6%94%AF%E6%8C%81iOS17.0%2B%E7%B3%BB%E7%BB%9F.ipa",
-          "size": 3270441,
-          "minOSVersion": "14.0"
         }
       ]
     },
@@ -11638,25 +11706,6 @@
           "date": "2026-10-13",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B0%B4%E5%8D%B0%E7%9B%B8%E6%9C%BA_2.3.06_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98_%E6%9B%B4%E6%94%B9%E5%AE%9A%E4%BD%8D%EF%BC%8C%E8%BF%9B%E5%85%A5%E4%B8%8D%E8%A6%81%E6%8E%88%E6%9D%83%E5%AE%9A%E4%BD%8D%E5%8D%B3%E5%8F%AF%EF%BC%8C%E5%A4%9A%E6%8B%8D%E5%87%A0%E5%BC%A0.ipa",
           "size": 50257315,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "迷雾大陆",
-      "bundleIdentifier": "com.hortor.mwdl.ios",
-      "developerName": "App Shelf",
-      "subtitle": "迷雾大陆_15.0.0_全功能_无敌免伤超级秒杀.ipa",
-      "localizedDescription": "迷雾大陆_15.0.0_全功能_无敌免伤超级秒杀.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.hortor.mwdl.ios.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "15.0.0",
-          "buildVersion": "2",
-          "date": "2026-10-13",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E8%BF%B7%E9%9B%BE%E5%A4%A7%E9%99%86_15.0.0_%E5%85%A8%E5%8A%9F%E8%83%BD_%E6%97%A0%E6%95%8C%E5%85%8D%E4%BC%A4%E8%B6%85%E7%BA%A7%E7%A7%92%E6%9D%80.ipa",
-          "size": 28148289,
           "minOSVersion": "14.0"
         }
       ]
@@ -12884,41 +12933,6 @@
       ]
     },
     {
-      "name": "怪兽聚合",
-      "bundleIdentifier": "com.box.byg",
-      "developerName": "App Shelf",
-      "subtitle": "怪兽聚合_1.1.4_第一次进入软件选择网络后大退在重新进入即可.ipa",
-      "localizedDescription": "怪兽聚合_1.1.4_第一次进入软件选择网络后大退在重新进入即可.ipa",
-      "iconURL": "https://github.com/honlam6.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "1.1.4",
-          "buildVersion": "1014",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%80%AA%E5%85%BD%E8%81%9A%E5%90%88_1.1.4_%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%BF%9B%E5%85%A5%E8%BD%AF%E4%BB%B6%E9%80%89%E6%8B%A9%E7%BD%91%E7%BB%9C%E5%90%8E%E5%A4%A7%E9%80%80%E5%9C%A8%E9%87%8D%E6%96%B0%E8%BF%9B%E5%85%A5%E5%8D%B3%E5%8F%AF.ipa",
-          "size": 18168255,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.1.1",
-          "buildVersion": "1011",
-          "date": "2026-08-12",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FGS-1.11%28%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%E5%AE%89%E8%A3%85%29.ipa",
-          "size": 18180512,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.1.1",
-          "buildVersion": "1011",
-          "date": "2026-08-12",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FGS-1.11%28%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%E5%AE%89%E8%A3%85%29.ipa",
-          "size": 18180512,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "AUG模型漏打",
       "bundleIdentifier": "com.HPAUG.jh",
       "developerName": "App Shelf",
@@ -13497,44 +13511,6 @@
           "date": "2026-09-28",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80_12.1.1.1_%E8%A7%86%E8%B7%9D%E5%B7%A8%E9%AD%94%E7%89%88S45%40com.tencent.smoba.ipa",
           "size": 3809755,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "保卫萝卜3",
-      "bundleIdentifier": "com.KaiLuo.Carrot3",
-      "developerName": "App Shelf",
-      "subtitle": "保卫萝卜3_6.3.1_所有货币资源无限.ipa",
-      "localizedDescription": "保卫萝卜3_6.3.1_所有货币资源无限.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.KaiLuo.Carrot3.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "6.3.1",
-          "buildVersion": "9245",
-          "date": "2026-09-28",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E4%BF%9D%E5%8D%AB%E8%90%9D%E5%8D%9C3_6.3.1_%E6%89%80%E6%9C%89%E8%B4%A7%E5%B8%81%E8%B5%84%E6%BA%90%E6%97%A0%E9%99%90.ipa",
-          "size": 764571932,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "战魂铭人",
-      "bundleIdentifier": "com.chillyroom.otherworld",
-      "developerName": "App Shelf",
-      "subtitle": "战魂铭人_3.6.0_无敌秒杀无限资源.ipa",
-      "localizedDescription": "战魂铭人_3.6.0_无敌秒杀无限资源.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.chillyroom.otherworld.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "3.6.0",
-          "buildVersion": "20675",
-          "date": "2026-09-28",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%88%98%E9%AD%82%E9%93%AD%E4%BA%BA_3.6.0_%E6%97%A0%E6%95%8C%E7%A7%92%E6%9D%80%E6%97%A0%E9%99%90%E8%B5%84%E6%BA%90.ipa",
-          "size": 858304152,
           "minOSVersion": "14.0"
         }
       ]
@@ -14421,6 +14397,33 @@
           "date": "2026-06-14",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F3%2F%E5%85%89%E5%90%88%E6%88%98%E9%98%9F_1.4.60.ipa",
           "size": 662138482,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "怪兽聚合",
+      "bundleIdentifier": "com.box.byg",
+      "developerName": "App Shelf",
+      "subtitle": "GS-1.11(开发模式安装).ipa",
+      "localizedDescription": "GS-1.11(开发模式安装).ipa",
+      "iconURL": "https://github.com/honlam6.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.1.1",
+          "buildVersion": "1011",
+          "date": "2026-08-12",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2FV200%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FGS-1.11%28%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%E5%AE%89%E8%A3%85%29.ipa",
+          "size": 18180512,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.1.1",
+          "buildVersion": "1011",
+          "date": "2026-08-12",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E5%B0%8F%E7%86%8A%E7%BD%91%E7%9B%98%2Fiphone%2Fipa%E8%BD%AF%E4%BB%B6%2FGS-1.11%28%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%E5%AE%89%E8%A3%85%29.ipa",
+          "size": 18180512,
           "minOSVersion": "14.0"
         }
       ]
