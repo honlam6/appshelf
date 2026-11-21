@@ -14867,6 +14867,25 @@
       ]
     },
     {
+      "name": "巨魔清理",
+      "bundleIdentifier": "com.local.trollcleaner",
+      "developerName": "App Shelf",
+      "subtitle": "TrollCleaner_2.1_清理垃圾_支持巨魔.ipa",
+      "localizedDescription": "TrollCleaner_2.1_清理垃圾_支持巨魔.ipa",
+      "iconURL": "https://github.com/honlam6.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "2.1",
+          "buildVersion": "12",
+          "date": "2026-07-19",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FTrollCleaner_2.1_%E6%B8%85%E7%90%86%E5%9E%83%E5%9C%BE_%E6%94%AF%E6%8C%81%E5%B7%A8%E9%AD%94.ipa",
+          "size": 2809989,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
       "name": "极品飞车：无限狂飙",
       "bundleIdentifier": "com.ea.nfs2014.bv",
       "developerName": "App Shelf",
