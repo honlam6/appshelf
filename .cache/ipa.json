@@ -24528,5 +24528,75 @@
     "size": 1830229218,
     "modified": "2026-11-21T09:40:03.302+08:00",
     "file_name": "CS2手游_5.8.84_1.4.1_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/怪兽聚合_1.0.3_全新UI_第一次进入软件选择网络后大退在重新进入即可.ipa": {
+    "bundle_id": "com.look.vbox",
+    "version": "1.0.3",
+    "build": "103",
+    "name": "怪兽聚合",
+    "path": "/苹果应用 - Appstore apps/怪兽聚合_1.0.3_全新UI_第一次进入软件选择网络后大退在重新进入即可.ipa",
+    "size": 24875404,
+    "modified": "2026-11-21T18:42:52.489+08:00",
+    "file_name": "怪兽聚合_1.0.3_全新UI_第一次进入软件选择网络后大退在重新进入即可.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/GestaltX_1.1.1.ipa": {
+    "bundle_id": "com.huami.gestultx",
+    "version": "1.1.1",
+    "build": "11140102",
+    "name": "GestaltX",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/GestaltX_1.1.1.ipa",
+    "size": 7298732,
+    "modified": "2026-11-21T17:13:05.632+08:00",
+    "file_name": "GestaltX_1.1.1.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/WQ Files_0.9.12.ipa": {
+    "bundle_id": "cz.kolbi.wqfiles",
+    "version": "0.9.12",
+    "build": "94",
+    "name": "WQ Files",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/WQ Files_0.9.12.ipa",
+    "size": 2199251,
+    "modified": "2026-11-21T17:13:19.088+08:00",
+    "file_name": "WQ Files_0.9.12.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/Alook_23.5.ipa": {
+    "bundle_id": "com.ld.TakeBrowser",
+    "version": "23.5",
+    "build": "2",
+    "name": "Alook",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/Alook_23.5.ipa",
+    "size": 13328357,
+    "modified": "2026-11-21T17:13:40.685+08:00",
+    "file_name": "Alook_23.5.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/i短剧_1.5_20261121_171342.ipa": {
+    "bundle_id": "com.local.STV",
+    "version": "1.5",
+    "build": "12",
+    "name": "i短剧",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/i短剧_1.5_20261121_171342.ipa",
+    "size": 48379825,
+    "modified": "2026-11-21T17:19:26.316+08:00",
+    "file_name": "i短剧_1.5_20261121_171342.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/YouTube_21.46.3.ipa": {
+    "bundle_id": "com.google.ios.youtube",
+    "version": "21.46.3",
+    "build": "21.46.3",
+    "name": "YouTube",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/YouTube_21.46.3.ipa",
+    "size": 178368192,
+    "modified": "2026-11-21T17:19:54.513+08:00",
+    "file_name": "YouTube_21.46.3.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/SOUL_6.42.0.ipa": {
+    "bundle_id": "com.soulapp.cn",
+    "version": "6.42.0",
+    "build": "261112180200",
+    "name": "SOUL",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/SOUL_6.42.0.ipa",
+    "size": 222345681,
+    "modified": "2026-11-21T17:19:53.112+08:00",
+    "file_name": "SOUL_6.42.0.ipa"
   }
 }
