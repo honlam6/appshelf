@@ -24598,5 +24598,35 @@
     "size": 222345681,
     "modified": "2026-11-21T17:19:53.112+08:00",
     "file_name": "SOUL_6.42.0.ipa"
+  },
+  "/苹果应用 - Appstore apps/Punko.io_1.2.7_全功能.ipa": {
+    "bundle_id": "com.Agonalea.Punko.io",
+    "version": "1.2.7",
+    "build": "0",
+    "name": "Punko.io",
+    "path": "/苹果应用 - Appstore apps/Punko.io_1.2.7_全功能.ipa",
+    "size": 222893647,
+    "modified": "2026-11-22T14:46:14.398+08:00",
+    "file_name": "Punko.io_1.2.7_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/王国保卫战6_1.00.040_全功能_20261122_144614.ipa": {
+    "bundle_id": "com.ironhidegames.kingdomrush6.genesis",
+    "version": "2.00.026",
+    "build": "15",
+    "name": "Genesis",
+    "path": "/苹果应用 - Appstore apps/王国保卫战6_1.00.040_全功能_20261122_144614.ipa",
+    "size": 560736235,
+    "modified": "2026-11-22T14:46:38.335+08:00",
+    "file_name": "王国保卫战6_1.00.040_全功能_20261122_144614.ipa"
+  },
+  "/苹果应用 - Appstore apps/GTA V_6.6.0_优化增强.ipa": {
+    "bundle_id": "kuka.ioskuka.gtavios",
+    "version": "6.6.0",
+    "build": "15212",
+    "name": "GTA V",
+    "path": "/苹果应用 - Appstore apps/GTA V_6.6.0_优化增强.ipa",
+    "size": 83865381,
+    "modified": "2026-11-22T14:46:20.158+08:00",
+    "file_name": "GTA V_6.6.0_优化增强.ipa"
   }
 }

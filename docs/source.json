@@ -7,13 +7,150 @@
   "headerURL": "https://github.com/honlam6.png",
   "tintColor": "#6385ef",
   "featuredApps": [
+    "com.ironhidegames.kingdomrush6.genesis",
+    "kuka.ioskuka.gtavios",
+    "com.Agonalea.Punko.io",
     "com.look.vbox",
-    "com.google.ios.youtube",
-    "com.soulapp.cn",
-    "com.ld.TakeBrowser",
-    "com.huami.gestultx"
+    "com.google.ios.youtube"
   ],
   "apps": [
+    {
+      "name": "Genesis",
+      "bundleIdentifier": "com.ironhidegames.kingdomrush6.genesis",
+      "developerName": "App Shelf",
+      "subtitle": "王国保卫战6_1.00.040_全功能_20261122_144614.ipa",
+      "localizedDescription": "王国保卫战6_1.00.040_全功能_20261122_144614.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.ironhidegames.kingdomrush6.genesis.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "2.00.026",
+          "buildVersion": "15",
+          "date": "2026-11-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%8E%8B%E5%9B%BD%E4%BF%9D%E5%8D%AB%E6%88%986_1.00.040_%E5%85%A8%E5%8A%9F%E8%83%BD_20261122_144614.ipa",
+          "size": 560736235,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.01.010",
+          "buildVersion": "0",
+          "date": "2026-10-11",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%8E%8B%E5%9B%BD%E4%BF%9D%E5%8D%AB%E6%88%986_1.01.010_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 517303636,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.00.040",
+          "buildVersion": "0",
+          "date": "2026-10-07",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%8E%8B%E5%9B%BD%E4%BF%9D%E5%8D%AB%E6%88%986_1.00.040_%E5%85%A8%E5%8A%9F%E8%83%BD%E5%85%BC%E5%AE%B9iPad.ipa",
+          "size": 520167595,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "GTA V",
+      "bundleIdentifier": "kuka.ioskuka.gtavios",
+      "developerName": "App Shelf",
+      "subtitle": "GTA V_6.6.0_优化增强.ipa",
+      "localizedDescription": "GTA V_6.6.0_优化增强.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/kuka.ioskuka.gtavios.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "6.6.0",
+          "buildVersion": "15212",
+          "date": "2026-11-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_6.6.0_%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA.ipa",
+          "size": 83865381,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "6.5.2",
+          "buildVersion": "87",
+          "date": "2026-10-29",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_6.5.2_%E5%85%BC%E5%AE%B9iOS15.ipa",
+          "size": 86191688,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "6.4.5",
+          "buildVersion": "71",
+          "date": "2026-10-24",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_6.4.5_%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA.ipa",
+          "size": 85362846,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "6.2.1",
+          "buildVersion": "63",
+          "date": "2026-10-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_6.2.1_%E4%BC%98%E5%8C%96%E7%89%88%E6%9C%AC.ipa",
+          "size": 85215950,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "5.8.3",
+          "buildVersion": "61",
+          "date": "2026-10-25",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2FGTA%20V_5.8.3%40kuka.ioskuka.gtavios.ipa",
+          "size": 95575361,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "5.8.3",
+          "buildVersion": "61",
+          "date": "2026-10-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_5.8.3_%E4%BF%AE%E5%A4%8D%E4%B8%8B%E8%BD%BD%E7%AD%89%E5%A4%A7%E9%83%A8%E5%88%86%E9%97%AE%E9%A2%98.ipa",
+          "size": 87304456,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "4.2.0",
+          "buildVersion": "42",
+          "date": "2026-10-20",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_4.2.0_%E6%95%B4%E4%BD%93%E4%BC%98%E5%8C%96%E6%94%AF%E6%8C%81%E5%9C%A8%E7%BA%BFMod.ipa",
+          "size": 87352356,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "0.1",
+          "buildVersion": "15",
+          "date": "2026-10-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_1.0_%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA.ipa",
+          "size": 75639427,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "Punko.io",
+      "bundleIdentifier": "com.Agonalea.Punko.io",
+      "developerName": "App Shelf",
+      "subtitle": "Punko.io_1.2.7_全功能.ipa",
+      "localizedDescription": "Punko.io_1.2.7_全功能.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.Agonalea.Punko.io.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "1.2.7",
+          "buildVersion": "0",
+          "date": "2026-11-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FPunko.io_1.2.7_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
+          "size": 222893647,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "1.2.2",
+          "buildVersion": "0",
+          "date": "2026-10-05",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FPunko.io_1.2.2_%E6%97%A0%E9%99%90%E8%B5%84%E6%BA%90%E6%97%A0%E6%95%8C%E7%A7%92%E6%9D%80_20261005_163036.ipa",
+          "size": 207175566,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
     {
       "name": "怪兽聚合",
       "bundleIdentifier": "com.look.vbox",
@@ -3601,14 +3738,6 @@
           "date": "2026-10-12",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7_7.3.9.ipa",
           "size": 314438425,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "7.3.9",
-          "buildVersion": "7.3.9.32",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7_7.3.9_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
-          "size": 306542331,
           "minOSVersion": "14.0"
         }
       ]
@@ -9695,73 +9824,6 @@
       ]
     },
     {
-      "name": "GTA V",
-      "bundleIdentifier": "kuka.ioskuka.gtavios",
-      "developerName": "App Shelf",
-      "subtitle": "GTA V_6.5.2_兼容iOS15.ipa",
-      "localizedDescription": "GTA V_6.5.2_兼容iOS15.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/kuka.ioskuka.gtavios.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "6.5.2",
-          "buildVersion": "87",
-          "date": "2026-10-29",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_6.5.2_%E5%85%BC%E5%AE%B9iOS15.ipa",
-          "size": 86191688,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "6.4.5",
-          "buildVersion": "71",
-          "date": "2026-10-24",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_6.4.5_%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA.ipa",
-          "size": 85362846,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "6.2.1",
-          "buildVersion": "63",
-          "date": "2026-10-22",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_6.2.1_%E4%BC%98%E5%8C%96%E7%89%88%E6%9C%AC.ipa",
-          "size": 85215950,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "5.8.3",
-          "buildVersion": "61",
-          "date": "2026-10-25",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2FGTA%20V_5.8.3%40kuka.ioskuka.gtavios.ipa",
-          "size": 95575361,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "5.8.3",
-          "buildVersion": "61",
-          "date": "2026-10-22",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_5.8.3_%E4%BF%AE%E5%A4%8D%E4%B8%8B%E8%BD%BD%E7%AD%89%E5%A4%A7%E9%83%A8%E5%88%86%E9%97%AE%E9%A2%98.ipa",
-          "size": 87304456,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "4.2.0",
-          "buildVersion": "42",
-          "date": "2026-10-20",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_4.2.0_%E6%95%B4%E4%BD%93%E4%BC%98%E5%8C%96%E6%94%AF%E6%8C%81%E5%9C%A8%E7%BA%BFMod.ipa",
-          "size": 87352356,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.1",
-          "buildVersion": "15",
-          "date": "2026-10-18",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FGTA%20V_1.0_%E4%BC%98%E5%8C%96%E5%A2%9E%E5%BC%BA.ipa",
-          "size": 75639427,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "D2R Mobile",
       "bundleIdentifier": "org.d2rmobile.app",
       "developerName": "App Shelf",
@@ -12336,33 +12398,6 @@
       ]
     },
     {
-      "name": "Genesis",
-      "bundleIdentifier": "com.ironhidegames.kingdomrush6.genesis",
-      "developerName": "App Shelf",
-      "subtitle": "王国保卫战6_1.01.010_全功能.ipa",
-      "localizedDescription": "王国保卫战6_1.01.010_全功能.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.ironhidegames.kingdomrush6.genesis.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "1.01.010",
-          "buildVersion": "0",
-          "date": "2026-10-11",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%8E%8B%E5%9B%BD%E4%BF%9D%E5%8D%AB%E6%88%986_1.01.010_%E5%85%A8%E5%8A%9F%E8%83%BD.ipa",
-          "size": 517303636,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "1.00.040",
-          "buildVersion": "0",
-          "date": "2026-10-07",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%8E%8B%E5%9B%BD%E4%BF%9D%E5%8D%AB%E6%88%986_1.00.040_%E5%85%A8%E5%8A%9F%E8%83%BD%E5%85%BC%E5%AE%B9iPad.ipa",
-          "size": 520167595,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "AirBeep",
       "bundleIdentifier": "com.linkpass888.airbeep",
       "developerName": "App Shelf",
@@ -12946,25 +12981,6 @@
       ]
     },
     {
-      "name": "Punko.io",
-      "bundleIdentifier": "com.Agonalea.Punko.io",
-      "developerName": "App Shelf",
-      "subtitle": "Punko.io_1.2.2_无限资源无敌秒杀_20261005_163036.ipa",
-      "localizedDescription": "Punko.io_1.2.2_无限资源无敌秒杀_20261005_163036.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.Agonalea.Punko.io.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "1.2.2",
-          "buildVersion": "0",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FPunko.io_1.2.2_%E6%97%A0%E9%99%90%E8%B5%84%E6%BA%90%E6%97%A0%E6%95%8C%E7%A7%92%E6%9D%80_20261005_163036.ipa",
-          "size": 207175566,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "快来当领主",
       "bundleIdentifier": "com.kldlz.ios.sqhd",
       "developerName": "App Shelf",
@@ -13025,76 +13041,6 @@
           "date": "2026-10-05",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E9%95%87%E9%82%AA%E4%BA%BA_1.1.0_%E5%85%A8%E5%8A%9F%E8%83%BD%E7%89%88.ipa",
           "size": 94156544,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "Penguin GO!",
-      "bundleIdentifier": "com.slacksurvivorgame.ios",
-      "developerName": "App Shelf",
-      "subtitle": "快来当领主_1.2.5_无限银币绿币_国际版.ipa",
-      "localizedDescription": "快来当领主_1.2.5_无限银币绿币_国际版.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.slacksurvivorgame.ios.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "1.2.5",
-          "buildVersion": "1",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%BF%AB%E6%9D%A5%E5%BD%93%E9%A2%86%E4%B8%BB_1.2.5_%E6%97%A0%E9%99%90%E9%93%B6%E5%B8%81%E7%BB%BF%E5%B8%81_%E5%9B%BD%E9%99%85%E7%89%88.ipa",
-          "size": 1906197649,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "Grim Soul",
-      "bundleIdentifier": "fantasy.survival.game.rpg",
-      "developerName": "App Shelf",
-      "subtitle": "冷酷灵魂_8.5.1_多功能.ipa",
-      "localizedDescription": "冷酷灵魂_8.5.1_多功能.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/fantasy.survival.game.rpg.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "8.5.1",
-          "buildVersion": "805010807",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%86%B7%E9%85%B7%E7%81%B5%E9%AD%82_8.5.1_%E5%A4%9A%E5%8A%9F%E8%83%BD.ipa",
-          "size": 377839669,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.5.1",
-          "buildVersion": "805010807",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E5%86%B7%E9%85%B7%E7%81%B5%E9%AD%82_8.5.1.ipa",
-          "size": 409990647,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.3.1",
-          "buildVersion": "803010792",
-          "date": "2026-07-30",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E5%86%B7%E9%85%B7%E7%81%B5%E9%AD%82_8.3.1.ipa",
-          "size": 359483684,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.3.0",
-          "buildVersion": "803000791",
-          "date": "2026-07-19",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E5%86%B7%E9%85%B7%E7%81%B5%E9%AD%82_8.3.0.ipa",
-          "size": 369840670,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "8.2.0",
-          "buildVersion": "802000785",
-          "date": "2026-06-02",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F3%2F%E5%86%B7%E9%85%B7%E7%81%B5%E9%AD%82_8.2.0.ipa",
-          "size": 356174306,
           "minOSVersion": "14.0"
         }
       ]
@@ -13187,6 +13133,49 @@
           "date": "2026-10-05",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%94%AF%E4%BB%98%E5%AE%9D_12.12.30.ipa",
           "size": 197641019,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "冷酷灵魂",
+      "bundleIdentifier": "fantasy.survival.game.rpg",
+      "developerName": "App Shelf",
+      "subtitle": "冷酷灵魂_8.5.1.ipa",
+      "localizedDescription": "冷酷灵魂_8.5.1.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/fantasy.survival.game.rpg.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "8.5.1",
+          "buildVersion": "805010807",
+          "date": "2026-10-05",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E5%86%B7%E9%85%B7%E7%81%B5%E9%AD%82_8.5.1.ipa",
+          "size": 409990647,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.3.1",
+          "buildVersion": "803010792",
+          "date": "2026-07-30",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E5%86%B7%E9%85%B7%E7%81%B5%E9%AD%82_8.3.1.ipa",
+          "size": 359483684,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.3.0",
+          "buildVersion": "803000791",
+          "date": "2026-07-19",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F4%2F%E5%86%B7%E9%85%B7%E7%81%B5%E9%AD%82_8.3.0.ipa",
+          "size": 369840670,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "8.2.0",
+          "buildVersion": "802000785",
+          "date": "2026-06-02",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F3%2F%E5%86%B7%E9%85%B7%E7%81%B5%E9%AD%82_8.2.0.ipa",
+          "size": 356174306,
           "minOSVersion": "14.0"
         }
       ]
