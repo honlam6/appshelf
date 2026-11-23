@@ -24628,5 +24628,105 @@
     "size": 83865381,
     "modified": "2026-11-22T14:46:20.158+08:00",
     "file_name": "GTA V_6.6.0_优化增强.ipa"
+  },
+  "/苹果应用 - Appstore apps/怪兽聚合_1.0.4_第一次进入软件选择网络后大退在重新进入即可.ipa": {
+    "bundle_id": "com.look.vbox",
+    "version": "1.0.4",
+    "build": "104",
+    "name": "怪兽聚合",
+    "path": "/苹果应用 - Appstore apps/怪兽聚合_1.0.4_第一次进入软件选择网络后大退在重新进入即可.ipa",
+    "size": 24878452,
+    "modified": "2026-11-23T13:27:20.092+08:00",
+    "file_name": "怪兽聚合_1.0.4_第一次进入软件选择网络后大退在重新进入即可.ipa"
+  },
+  "/苹果应用 - Appstore apps/植物大战僵尸杂交版_0.33.0_无限阳光等.ipa": {
+    "bundle_id": "com.xiaozhu.pvzhv",
+    "version": "0.33.0.0",
+    "build": "20261121.1",
+    "name": "植物大战僵尸杂交版",
+    "path": "/苹果应用 - Appstore apps/植物大战僵尸杂交版_0.33.0_无限阳光等.ipa",
+    "size": 556305521,
+    "modified": "2026-11-23T13:27:20.086+08:00",
+    "file_name": "植物大战僵尸杂交版_0.33.0_无限阳光等.ipa"
+  },
+  "/苹果应用 - Appstore apps/iPadn_2.3.4_标准版_证书APP降级.ipa": {
+    "bundle_id": "app.local.iPadn",
+    "version": "2.3.4",
+    "build": "40",
+    "name": "iPadn",
+    "path": "/苹果应用 - Appstore apps/iPadn_2.3.4_标准版_证书APP降级.ipa",
+    "size": 49929497,
+    "modified": "2026-11-23T13:27:19.989+08:00",
+    "file_name": "iPadn_2.3.4_标准版_证书APP降级.ipa"
+  },
+  "/苹果应用 - Appstore apps/iPadn_2.3.4_lite_精简版_证书APP降级.ipa": {
+    "bundle_id": "app.local.iPadn",
+    "version": "2.3.4",
+    "build": "40",
+    "name": "iPadn",
+    "path": "/苹果应用 - Appstore apps/iPadn_2.3.4_lite_精简版_证书APP降级.ipa",
+    "size": 49848919,
+    "modified": "2026-11-23T13:27:19.884+08:00",
+    "file_name": "iPadn_2.3.4_lite_精简版_证书APP降级.ipa"
+  },
+  "/苹果应用 - Appstore apps/地铁跑酷_7.08.0_全功能.ipa": {
+    "bundle_id": "com.kiloo.subwaysurf.cn",
+    "version": "7.08.0",
+    "build": "70800",
+    "name": "地铁跑酷",
+    "path": "/苹果应用 - Appstore apps/地铁跑酷_7.08.0_全功能.ipa",
+    "size": 657076742,
+    "modified": "2026-11-23T13:27:20.671+08:00",
+    "file_name": "地铁跑酷_7.08.0_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/转运军团_1.3.2_全功能.ipa": {
+    "bundle_id": "com.yakult00.slotbound",
+    "version": "1.3.2",
+    "build": "132",
+    "name": "转运军团",
+    "path": "/苹果应用 - Appstore apps/转运军团_1.3.2_全功能.ipa",
+    "size": 103272786,
+    "modified": "2026-11-23T13:27:19.955+08:00",
+    "file_name": "转运军团_1.3.2_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/战魂铭人_3.8.0_全功能.ipa": {
+    "bundle_id": "com.chillyroom.otherworld",
+    "version": "3.8.0",
+    "build": "20685",
+    "name": "战魂铭人",
+    "path": "/苹果应用 - Appstore apps/战魂铭人_3.8.0_全功能.ipa",
+    "size": 918803735,
+    "modified": "2026-11-23T13:27:20.246+08:00",
+    "file_name": "战魂铭人_3.8.0_全功能.ipa"
+  },
+  "/苹果应用 - Appstore apps/WQFiles_0.9.20_支持iOS26～iOS27.3Beta1.ipa": {
+    "bundle_id": "cz.kolbi.wqfiles",
+    "version": "0.9.20",
+    "build": "114",
+    "name": "WQ Files",
+    "path": "/苹果应用 - Appstore apps/WQFiles_0.9.20_支持iOS26～iOS27.3Beta1.ipa",
+    "size": 2199929,
+    "modified": "2026-11-23T13:27:20.073+08:00",
+    "file_name": "WQFiles_0.9.20_支持iOS26～iOS27.3Beta1.ipa"
+  },
+  "/全球资源 - Global resources/小熊网盘/iphone/ipa软件/醒图_15.9.0.ipa": {
+    "bundle_id": "com.xt.retouch",
+    "version": "15.9.0",
+    "build": "15.9.0.90",
+    "name": "醒图",
+    "path": "/全球资源 - Global resources/小熊网盘/iphone/ipa软件/醒图_15.9.0.ipa",
+    "size": 410604725,
+    "modified": "2026-11-23T16:12:03+08:00",
+    "file_name": "醒图_15.9.0.ipa"
+  },
+  "/全球资源 - Global resources/V200网盘/iphone/ipa软件/醒图_15.9.0.ipa": {
+    "bundle_id": "com.xt.retouch",
+    "version": "15.9.0",
+    "build": "15.9.0.90",
+    "name": "醒图",
+    "path": "/全球资源 - Global resources/V200网盘/iphone/ipa软件/醒图_15.9.0.ipa",
+    "size": 410604725,
+    "modified": "2026-11-23T16:12:03+08:00",
+    "file_name": "醒图_15.9.0.ipa"
   }
 }
