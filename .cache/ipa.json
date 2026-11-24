@@ -25088,5 +25088,35 @@
     "size": 507705008,
     "modified": "2026-11-23T23:53:32.933+08:00",
     "file_name": "微信_8.0.80多开qy简洁版1123.ipa"
+  },
+  "/苹果应用 - Appstore apps/藏武_1.96_解锁内购.ipa": {
+    "bundle_id": "com.LYG.Dungeon",
+    "version": "1.96",
+    "build": "1",
+    "name": "藏武",
+    "path": "/苹果应用 - Appstore apps/藏武_1.96_解锁内购.ipa",
+    "size": 252130911,
+    "modified": "2026-11-24T11:16:48.16+08:00",
+    "file_name": "藏武_1.96_解锁内购.ipa"
+  },
+  "/苹果应用 - Appstore apps/今日水印相机_3.0.500_修改定位_更改日期和时间.ipa": {
+    "bundle_id": "com.xhey.XCamera",
+    "version": "3.0.500",
+    "build": "3.0.500",
+    "name": "今日水印相机",
+    "path": "/苹果应用 - Appstore apps/今日水印相机_3.0.500_修改定位_更改日期和时间.ipa",
+    "size": 175927645,
+    "modified": "2026-11-24T11:16:48.081+08:00",
+    "file_name": "今日水印相机_3.0.500_修改定位_更改日期和时间.ipa"
+  },
+  "/苹果应用 - Appstore apps/飞机大厨_16.0.1_全功能_无限金币／无限宝石／无限燃油等资源.ipa": {
+    "bundle_id": "com.nordcurrent.flyingfever",
+    "version": "16.0.1",
+    "build": "2537",
+    "name": "Airplane Chefs",
+    "path": "/苹果应用 - Appstore apps/飞机大厨_16.0.1_全功能_无限金币／无限宝石／无限燃油等资源.ipa",
+    "size": 198384263,
+    "modified": "2026-11-24T11:16:48.061+08:00",
+    "file_name": "飞机大厨_16.0.1_全功能_无限金币／无限宝石／无限燃油等资源.ipa"
   }
 }
