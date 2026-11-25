@@ -25118,5 +25118,45 @@
     "size": 198384263,
     "modified": "2026-11-24T11:16:48.061+08:00",
     "file_name": "飞机大厨_16.0.1_全功能_无限金币／无限宝石／无限燃油等资源.ipa"
+  },
+  "/苹果应用 - Appstore apps/红果漫剧_7.4.5_解锁会员.ipa": {
+    "bundle_id": "com.kylin.readnew",
+    "version": "7.4.5",
+    "build": "7.4.5.32",
+    "name": "红果漫剧",
+    "path": "/苹果应用 - Appstore apps/红果漫剧_7.4.5_解锁会员.ipa",
+    "size": 343170920,
+    "modified": "2026-11-25T10:08:40.731+08:00",
+    "file_name": "红果漫剧_7.4.5_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/红果短剧_7.4.5_解锁会员.ipa": {
+    "bundle_id": "com.phoenix.video",
+    "version": "7.4.5",
+    "build": "7.4.5.33",
+    "name": "红果短剧",
+    "path": "/苹果应用 - Appstore apps/红果短剧_7.4.5_解锁会员.ipa",
+    "size": 332860928,
+    "modified": "2026-11-25T10:08:40.684+08:00",
+    "file_name": "红果短剧_7.4.5_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/TikTok_47.8.0_支持保存视频、去广告、自动下一条、纯净模式.ipa": {
+    "bundle_id": "com.zhiliaoapp.musically",
+    "version": "47.8.0",
+    "build": "478036",
+    "name": "TikTok",
+    "path": "/苹果应用 - Appstore apps/TikTok_47.8.0_支持保存视频、去广告、自动下一条、纯净模式.ipa",
+    "size": 545463575,
+    "modified": "2026-11-25T10:08:40.873+08:00",
+    "file_name": "TikTok_47.8.0_支持保存视频、去广告、自动下一条、纯净模式.ipa"
+  },
+  "/苹果应用 - Appstore apps/黄果_2.2.10_要开魔法才能用.ipa": {
+    "bundle_id": "com.hghubx.app",
+    "version": "2.2.10",
+    "build": "2.2.10",
+    "name": "HGhubX",
+    "path": "/苹果应用 - Appstore apps/黄果_2.2.10_要开魔法才能用.ipa",
+    "size": 4048150,
+    "modified": "2026-11-25T10:08:40.711+08:00",
+    "file_name": "黄果_2.2.10_要开魔法才能用.ipa"
   }
 }

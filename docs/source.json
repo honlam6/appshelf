@@ -7,13 +7,185 @@
   "headerURL": "https://github.com/honlam6.png",
   "tintColor": "#6385ef",
   "featuredApps": [
-    "com.look.vbox",
-    "com.LYG.Dungeon",
-    "com.xhey.XCamera",
-    "com.nordcurrent.flyingfever",
-    "com.tencent.wx"
+    "com.zhiliaoapp.musically",
+    "com.kylin.readnew",
+    "com.hghubx.app",
+    "com.phoenix.video",
+    "com.look.vbox"
   ],
   "apps": [
+    {
+      "name": "TikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "App Shelf",
+      "subtitle": "TikTok_47.8.0_支持保存视频、去广告、自动下一条、纯净模式.ipa",
+      "localizedDescription": "TikTok_47.8.0_支持保存视频、去广告、自动下一条、纯净模式.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.zhiliaoapp.musically.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "47.8.0",
+          "buildVersion": "478036",
+          "date": "2026-11-25",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_47.8.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
+          "size": 545463575,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "47.7.0",
+          "buildVersion": "477034",
+          "date": "2026-11-12",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_47.7.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
+          "size": 539911739,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "47.5.0",
+          "buildVersion": "475038",
+          "date": "2026-11-03",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_47.5.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
+          "size": 528705770,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "47.4.0",
+          "buildVersion": "474032",
+          "date": "2026-10-30",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2FTikTok_47.4.0.ipa",
+          "size": 526492313,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "47.4.0",
+          "buildVersion": "474032",
+          "date": "2026-10-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_47.4.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
+          "size": 522692463,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "47.1.0",
+          "buildVersion": "471044",
+          "date": "2026-10-13",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_47.1.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
+          "size": 511925228,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "46.9.0",
+          "buildVersion": "469036",
+          "date": "2026-09-22",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2FTikTok_46.9.0.ipa",
+          "size": 494202218,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "红果漫剧",
+      "bundleIdentifier": "com.kylin.readnew",
+      "developerName": "App Shelf",
+      "subtitle": "红果漫剧_7.4.5_解锁会员.ipa",
+      "localizedDescription": "红果漫剧_7.4.5_解锁会员.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.kylin.readnew.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "7.4.5",
+          "buildVersion": "7.4.5.32",
+          "date": "2026-11-25",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%BA%A2%E6%9E%9C%E6%BC%AB%E5%89%A7_7.4.5_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
+          "size": 343170920,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "7.4.3",
+          "buildVersion": "7.4.3.34",
+          "date": "2026-11-12",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E7%BA%A2%E6%9E%9C%E6%BC%AB%E5%89%A7_7.4.3.ipa",
+          "size": 337863500,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "7.4.1",
+          "buildVersion": "7.4.1.32",
+          "date": "2026-11-01",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%BA%A2%E6%9E%9C%E6%BC%AB%E5%89%A7_7.4.1_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
+          "size": 335137934,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "HGhubX",
+      "bundleIdentifier": "com.hghubx.app",
+      "developerName": "App Shelf",
+      "subtitle": "黄果_2.2.10_要开魔法才能用.ipa",
+      "localizedDescription": "黄果_2.2.10_要开魔法才能用.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.hghubx.app.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "2.2.10",
+          "buildVersion": "2.2.10",
+          "date": "2026-11-25",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E9%BB%84%E6%9E%9C_2.2.10_%E8%A6%81%E5%BC%80%E9%AD%94%E6%B3%95%E6%89%8D%E8%83%BD%E7%94%A8.ipa",
+          "size": 4048150,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "2.2.0",
+          "buildVersion": "2.2.0.1",
+          "date": "2026-11-18",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E9%BB%84%E6%9E%9C%E7%9F%AD%E5%89%A7_2.2.0.ipa",
+          "size": 3851530,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
+    {
+      "name": "红果短剧",
+      "bundleIdentifier": "com.phoenix.video",
+      "developerName": "App Shelf",
+      "subtitle": "红果短剧_7.4.5_解锁会员.ipa",
+      "localizedDescription": "红果短剧_7.4.5_解锁会员.ipa",
+      "iconURL": "https://appshelf-egm.pages.dev/icons/com.phoenix.video.png",
+      "tintColor": "#6385ef",
+      "versions": [
+        {
+          "version": "7.4.5",
+          "buildVersion": "7.4.5.33",
+          "date": "2026-11-25",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7_7.4.5_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
+          "size": 332860928,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "7.4.3",
+          "buildVersion": "7.4.3.33",
+          "date": "2026-11-12",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7_7.4.3.ipa",
+          "size": 319014291,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "7.4.1",
+          "buildVersion": "7.4.1.32",
+          "date": "2026-11-01",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7_7.4.1_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
+          "size": 311488348,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "7.3.9",
+          "buildVersion": "7.3.9.32",
+          "date": "2026-10-12",
+          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7_7.3.9.ipa",
+          "size": 314438425,
+          "minOSVersion": "14.0"
+        }
+      ]
+    },
     {
       "name": "怪兽聚合",
       "bundleIdentifier": "com.look.vbox",
@@ -4689,14 +4861,6 @@
           "version": "0.29.0.0",
           "buildVersion": "0.29.0.0",
           "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8%E6%9D%82%E4%BA%A4%E7%89%88_0.29.0_%E5%8E%9F%E7%89%88.ipa",
-          "size": 383773444,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.29.0.0",
-          "buildVersion": "0.29.0.0",
-          "date": "2026-10-05",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8%E6%9D%82%E4%BA%A4%E7%89%88_0.29.0.0.ipa",
           "size": 405001200,
           "minOSVersion": "14.0"
@@ -5591,14 +5755,6 @@
           "version": "9.49",
           "buildVersion": "9490866",
           "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%B0%8F%E7%BA%A2%E4%B9%A6_9.49_%E5%8E%BB%E6%B0%B4%E5%8D%B0%2B%E6%B6%B2%E6%80%81%E7%8E%BB%E7%92%83_%E6%B3%A8%E5%85%A5%20%E5%9B%BE%E5%B1%82%E6%8F%92%E4%BB%B6%EF%BC%8C%E5%8E%BB%E5%AE%9E%E5%86%B5%E6%B0%B4%E5%8D%B0%E6%8F%92%E4%BB%B6%EF%BC%8C%E5%8E%BB%E8%A7%86%E9%A2%91%E6%B0%B4%E5%8D%B0%E7%AD%89%20%E5%8E%BB%E9%99%A4%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89%E5%B9%BF%E5%91%8A%EF%BC%8C%E6%94%AF%E6%8C%81%E6%89%80%E6%9C%89%E5%9B%BE%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91%E6%97%A0%E6%B0%B4%E5%8D%B0%EF%BC%8C%E6%8F%92%E4%BB%B6%E5%9C%A8%E8%AE%BE%E7%BD%AE%E5%8F%B3%E4%B8%8A%E6%96%B9.ipa",
-          "size": 215680846,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "9.49",
-          "buildVersion": "9490866",
-          "date": "2026-10-05",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E5%B0%8F%E7%BA%A2%E4%B9%A6_9.49.ipa",
           "size": 208220656,
           "minOSVersion": "14.0"
@@ -6468,14 +6624,6 @@
           "minOSVersion": "14.0"
         },
         {
-          "version": "4.2.4",
-          "buildVersion": "4.2.4.399",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B82_4.2.4_%E6%A4%8D%E7%89%A9%E5%B1%9E%E6%80%A7%E6%BB%A1%E7%BA%A7%E6%97%A0%E5%86%B7%E5%8D%B4%E7%AD%89.ipa",
-          "size": 3440683581,
-          "minOSVersion": "14.0"
-        },
-        {
           "version": "4.1.6",
           "buildVersion": "4.1.6.365",
           "date": "2026-07-13",
@@ -6608,25 +6756,6 @@
           "date": "2026-11-18",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FDSH%20Go_1.1.0.ipa",
           "size": 123421588,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "HGhubX",
-      "bundleIdentifier": "com.hghubx.app",
-      "developerName": "App Shelf",
-      "subtitle": "黄果短剧_2.2.0.ipa",
-      "localizedDescription": "黄果短剧_2.2.0.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.hghubx.app.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "2.2.0",
-          "buildVersion": "2.2.0.1",
-          "date": "2026-11-18",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E9%BB%84%E6%9E%9C%E7%9F%AD%E5%89%A7_2.2.0.ipa",
-          "size": 3851530,
           "minOSVersion": "14.0"
         }
       ]
@@ -8201,65 +8330,6 @@
       ]
     },
     {
-      "name": "TikTok",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "App Shelf",
-      "subtitle": "TikTok_47.7.0_支持保存视频、去广告、自动下一条、纯净模式.ipa",
-      "localizedDescription": "TikTok_47.7.0_支持保存视频、去广告、自动下一条、纯净模式.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.zhiliaoapp.musically.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "47.7.0",
-          "buildVersion": "477034",
-          "date": "2026-11-12",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_47.7.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
-          "size": 539911739,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "47.5.0",
-          "buildVersion": "475038",
-          "date": "2026-11-03",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_47.5.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
-          "size": 528705770,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "47.4.0",
-          "buildVersion": "474032",
-          "date": "2026-10-30",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2FTikTok_47.4.0.ipa",
-          "size": 526492313,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "47.4.0",
-          "buildVersion": "474032",
-          "date": "2026-10-22",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_47.4.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
-          "size": 522692463,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "47.1.0",
-          "buildVersion": "471044",
-          "date": "2026-10-13",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FTikTok_47.1.0_%E6%94%AF%E6%8C%81%E4%BF%9D%E5%AD%98%E8%A7%86%E9%A2%91%E3%80%81%E5%8E%BB%E5%B9%BF%E5%91%8A%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E4%B8%80%E6%9D%A1%E3%80%81%E7%BA%AF%E5%87%80%E6%A8%A1%E5%BC%8F.ipa",
-          "size": 511925228,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "46.9.0",
-          "buildVersion": "469036",
-          "date": "2026-09-22",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2FTikTok_46.9.0.ipa",
-          "size": 494202218,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
       "name": "千阅",
       "bundleIdentifier": "com.zct2.flReader",
       "developerName": "App Shelf",
@@ -8274,68 +8344,6 @@
           "date": "2026-11-12",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E5%8D%83%E9%98%85_2.9.12_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
           "size": 53888421,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "红果短剧",
-      "bundleIdentifier": "com.phoenix.video",
-      "developerName": "App Shelf",
-      "subtitle": "红果短剧_7.4.3.ipa",
-      "localizedDescription": "红果短剧_7.4.3.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.phoenix.video.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "7.4.3",
-          "buildVersion": "7.4.3.33",
-          "date": "2026-11-12",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7_7.4.3.ipa",
-          "size": 319014291,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "7.4.1",
-          "buildVersion": "7.4.1.32",
-          "date": "2026-11-01",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7_7.4.1_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
-          "size": 311488348,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "7.3.9",
-          "buildVersion": "7.3.9.32",
-          "date": "2026-10-12",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E6%B8%B8%E6%88%8Fipa%2F5%2F%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7_7.3.9.ipa",
-          "size": 314438425,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "红果漫剧",
-      "bundleIdentifier": "com.kylin.readnew",
-      "developerName": "App Shelf",
-      "subtitle": "红果漫剧_7.4.3.ipa",
-      "localizedDescription": "红果漫剧_7.4.3.ipa",
-      "iconURL": "https://appshelf-egm.pages.dev/icons/com.kylin.readnew.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "7.4.3",
-          "buildVersion": "7.4.3.34",
-          "date": "2026-11-12",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2F%E7%BA%A2%E6%9E%9C%E6%BC%AB%E5%89%A7_7.4.3.ipa",
-          "size": 337863500,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "7.4.1",
-          "buildVersion": "7.4.1.32",
-          "date": "2026-11-01",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2F%E7%BA%A2%E6%9E%9C%E6%BC%AB%E5%89%A7_7.4.1_%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98.ipa",
-          "size": 335137934,
           "minOSVersion": "14.0"
         }
       ]
@@ -11070,14 +11078,6 @@
           "date": "2026-10-20",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FKumone%EF%BC%88%E7%AC%AC%E4%B8%89%E6%96%B9%E7%BD%91%E6%98%93%E4%BA%91%EF%BC%89_0.3.21_%E6%9C%80%E4%BD%8E%E6%94%AF%E6%8C%81iOS16%2B%E7%B3%BB%E7%BB%9F.ipa",
           "size": 8725929,
-          "minOSVersion": "14.0"
-        },
-        {
-          "version": "0.3.20",
-          "buildVersion": "199",
-          "date": "2026-10-05",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E8%8B%B9%E6%9E%9C%E5%BA%94%E7%94%A8%20-%20Appstore%20apps%2FKumone%EF%BC%88%E7%AC%AC%E4%B8%89%E6%96%B9%E7%BD%91%E6%98%93%E4%BA%91%EF%BC%89_0.3.20_%E6%9C%80%E4%BD%8E%E6%94%AF%E6%8C%81iOS16%2B%E7%B3%BB%E7%BB%9F.ipa",
-          "size": 7546632,
           "minOSVersion": "14.0"
         }
       ]
@@ -14883,25 +14883,6 @@
           "date": "2026-07-22",
           "downloadURL": "https://pan.qlam.cc/d/%2F%E5%85%A8%E7%90%83%E8%B5%84%E6%BA%90%20-%20Global%20resources%2F%E6%9E%9C%E7%B2%89%E7%8C%AB%E7%BD%91%E7%9B%98%2Fipa%E5%88%86%E4%BA%AB%2Fuz%E5%BD%B1%E8%A7%86_1.6.76.ipa",
           "size": 46679330,
-          "minOSVersion": "14.0"
-        }
-      ]
-    },
-    {
-      "name": "巨魔清理",
-      "bundleIdentifier": "com.local.trollcleaner",
-      "developerName": "App Shelf",
-      "subtitle": "TrollCleaner_2.1_清理垃圾_支持巨魔.ipa",
-      "localizedDescription": "TrollCleaner_2.1_清理垃圾_支持巨魔.ipa",
-      "iconURL": "https://github.com/honlam6.png",
-      "tintColor": "#6385ef",
-      "versions": [
-        {
-          "version": "2.1",
-          "buildVersion": "12",
-          "date": "2026-07-19",
-          "downloadURL": "https://pan.qlam.cc/d/%2F%E5%B7%A8%E9%AD%94%E5%95%86%E5%BA%97%20-%20TrollStore%2FTrollCleaner_2.1_%E6%B8%85%E7%90%86%E5%9E%83%E5%9C%BE_%E6%94%AF%E6%8C%81%E5%B7%A8%E9%AD%94.ipa",
-          "size": 2809989,
           "minOSVersion": "14.0"
         }
       ]
