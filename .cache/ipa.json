@@ -25158,5 +25158,165 @@
     "size": 4048150,
     "modified": "2026-11-25T10:08:40.711+08:00",
     "file_name": "黄果_2.2.10_要开魔法才能用.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/神庙逃亡2_1.138.0.ipa": {
+    "bundle_id": "com.imangi.templerun2",
+    "version": "1.138.0",
+    "build": "29899534.1686",
+    "name": "神庙逃亡2",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/神庙逃亡2_1.138.0.ipa",
+    "size": 143394918,
+    "modified": "2026-11-26T10:41:47.738+08:00",
+    "file_name": "神庙逃亡2_1.138.0.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/铁甲钢拳：冠军_85.85.103.ipa": {
+    "bundle_id": "com.reliancegames.rschampions",
+    "version": "85.85.103",
+    "build": "85.85.103",
+    "name": "铁甲钢拳：冠军",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/铁甲钢拳：冠军_85.85.103.ipa",
+    "size": 724281839,
+    "modified": "2026-11-26T10:57:57.083+08:00",
+    "file_name": "铁甲钢拳：冠军_85.85.103.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/太空射击_2.036.ipa": {
+    "bundle_id": "com.game.space.shooter2",
+    "version": "2.036",
+    "build": "1",
+    "name": "太空射击",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/太空射击_2.036.ipa",
+    "size": 288423140,
+    "modified": "2026-11-26T10:41:00.54+08:00",
+    "file_name": "太空射击_2.036.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/机场模拟器_2.01.1810.ipa": {
+    "bundle_id": "com.playrion.airportmanager",
+    "version": "2.01.1810",
+    "build": "2.01.1810",
+    "name": "机场模拟器",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/机场模拟器_2.01.1810.ipa",
+    "size": 218837493,
+    "modified": "2026-11-26T10:42:37.572+08:00",
+    "file_name": "机场模拟器_2.01.1810.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/狙击手围攻_3.79.5.ipa": {
+    "bundle_id": "com.tapped.sniperdefense",
+    "version": "3.79.5",
+    "build": "551",
+    "name": "狙击手围攻",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/狙击手围攻_3.79.5.ipa",
+    "size": 543595085,
+    "modified": "2026-11-26T10:55:06.025+08:00",
+    "file_name": "狙击手围攻_3.79.5.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/今日水印相机_3.0.500.ipa": {
+    "bundle_id": "com.xhey.XCamera",
+    "version": "3.0.500",
+    "build": "3.0.500",
+    "name": "今日水印相机",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/今日水印相机_3.0.500.ipa",
+    "size": 174226310,
+    "modified": "2026-11-26T11:16:35.834+08:00",
+    "file_name": "今日水印相机_3.0.500.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/地铁跑酷_3.72.0.ipa": {
+    "bundle_id": "com.kiloo.subwaysurfers",
+    "version": "3.72.0",
+    "build": "98248",
+    "name": "地铁跑酷",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/地铁跑酷_3.72.0.ipa",
+    "size": 248931072,
+    "modified": "2026-11-26T10:42:09.185+08:00",
+    "file_name": "地铁跑酷_3.72.0.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/火线出击_1.85.8.ipa": {
+    "bundle_id": "com.gamedevltd.modernstrikeonline",
+    "version": "1.85.8",
+    "build": "4187",
+    "name": "火线出击",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/火线出击_1.85.8.ipa",
+    "size": 1694012484,
+    "modified": "2026-11-26T10:40:57.032+08:00",
+    "file_name": "火线出击_1.85.8.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/地球末日：生存之战_1.54.1.ipa": {
+    "bundle_id": "zombie.survival.craft.z",
+    "version": "1.54.1",
+    "build": "988",
+    "name": "地球末日：生存之战",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/地球末日：生存之战_1.54.1.ipa",
+    "size": 1102597205,
+    "modified": "2026-11-26T10:41:00.497+08:00",
+    "file_name": "地球末日：生存之战_1.54.1.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/死亡扳机2_3.1.8.ipa": {
+    "bundle_id": "com.madfingergames.deadtrigger2",
+    "version": "3.1.8",
+    "build": "279",
+    "name": "死亡扳机2",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/死亡扳机2_3.1.8.ipa",
+    "size": 727088181,
+    "modified": "2026-11-26T10:56:59.418+08:00",
+    "file_name": "死亡扳机2_3.1.8.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/樱境物语_2.2.1.ipa": {
+    "bundle_id": "com.neversoft.rpg.erolabsios2",
+    "version": "2.2.1",
+    "build": "595",
+    "name": "樱境物语",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/樱境物语_2.2.1.ipa",
+    "size": 222281218,
+    "modified": "2026-11-26T10:34:03.824+08:00",
+    "file_name": "樱境物语_2.2.1.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/铁甲钢拳_116.116.105.ipa": {
+    "bundle_id": "com.jumpgames.rswrb",
+    "version": "116.116.105",
+    "build": "116.116.105",
+    "name": "铁甲钢拳",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/铁甲钢拳_116.116.105.ipa",
+    "size": 1058806926,
+    "modified": "2026-11-26T10:38:45.284+08:00",
+    "file_name": "铁甲钢拳_116.116.105.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/植物大战僵尸3_36.0.9.ipa": {
+    "bundle_id": "com.ea.ios.pvzn3xt",
+    "version": "36.0.9",
+    "build": "1",
+    "name": "植物大战僵尸3",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/植物大战僵尸3_36.0.9.ipa",
+    "size": 154795944,
+    "modified": "2026-11-26T10:33:06.07+08:00",
+    "file_name": "植物大战僵尸3_36.0.9.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/狙击手3D_7.17.1.ipa": {
+    "bundle_id": "com.fungames.sniper3d",
+    "version": "7.17.1",
+    "build": "34473",
+    "name": "狙击手3D",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/狙击手3D_7.17.1.ipa",
+    "size": 211772751,
+    "modified": "2026-11-26T10:33:30.24+08:00",
+    "file_name": "狙击手3D_7.17.1.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/星陨计划_5.0.0.116271.ipa": {
+    "bundle_id": "com.nerversoft.ark.recode",
+    "version": "5.0.0.116271",
+    "build": "0",
+    "name": "星陨计划",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/星陨计划_5.0.0.116271.ipa",
+    "size": 360656697,
+    "modified": "2026-11-26T10:40:04.044+08:00",
+    "file_name": "星陨计划_5.0.0.116271.ipa"
+  },
+  "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/魔法琴键3_13.113.007.ipa": {
+    "bundle_id": "com.amanotes.magictiles",
+    "version": "13.113.007",
+    "build": "2611190812",
+    "name": "魔法琴键3",
+    "path": "/全球资源 - Global resources/果粉猫网盘/ipa分享/游戏ipa/5/魔法琴键3_13.113.007.ipa",
+    "size": 250281055,
+    "modified": "2026-11-26T10:33:04.385+08:00",
+    "file_name": "魔法琴键3_13.113.007.ipa"
   }
 }
