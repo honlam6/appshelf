@@ -25318,5 +25318,65 @@
     "size": 250281055,
     "modified": "2026-11-26T10:33:04.385+08:00",
     "file_name": "魔法琴键3_13.113.007.ipa"
+  },
+  "/苹果应用 - Appstore apps/番茄畅听_6.8.0_解锁会员.ipa": {
+    "bundle_id": "com.xs.fm",
+    "version": "6.8.0",
+    "build": "6.8.0.45",
+    "name": "番茄畅听",
+    "path": "/苹果应用 - Appstore apps/番茄畅听_6.8.0_解锁会员.ipa",
+    "size": 268576671,
+    "modified": "2026-11-26T13:04:10.522+08:00",
+    "file_name": "番茄畅听_6.8.0_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/WrapPin-Standard-1.0.26-支持 iOSiPadOS 18.0 及以上.ipa": {
+    "bundle_id": "com.suversal.wrappin",
+    "version": "1.0.26",
+    "build": "96",
+    "name": "WrapPin",
+    "path": "/苹果应用 - Appstore apps/WrapPin-Standard-1.0.26-支持 iOSiPadOS 18.0 及以上.ipa",
+    "size": 7161177,
+    "modified": "2026-11-26T13:04:00.541+08:00",
+    "file_name": "WrapPin-Standard-1.0.26-支持 iOSiPadOS 18.0 及以上.ipa"
+  },
+  "/苹果应用 - Appstore apps/WrapPin-Tunnel-1.0.26-支持 iOSiPadOS 18.0 及以上.ipa": {
+    "bundle_id": "com.suversal.wrappin.selfsigned",
+    "version": "1.0.26",
+    "build": "96",
+    "name": "WrapPin Tunnel",
+    "path": "/苹果应用 - Appstore apps/WrapPin-Tunnel-1.0.26-支持 iOSiPadOS 18.0 及以上.ipa",
+    "size": 7220350,
+    "modified": "2026-11-26T13:04:00.468+08:00",
+    "file_name": "WrapPin-Tunnel-1.0.26-支持 iOSiPadOS 18.0 及以上.ipa"
+  },
+  "/苹果应用 - Appstore apps/多邻国_7.149.2_解锁会员.ipa": {
+    "bundle_id": "com.duolingo.DuolingoMobile",
+    "version": "7.149.2",
+    "build": "7.149.2",
+    "name": "Duolingo",
+    "path": "/苹果应用 - Appstore apps/多邻国_7.149.2_解锁会员.ipa",
+    "size": 216041933,
+    "modified": "2026-11-26T13:04:00.085+08:00",
+    "file_name": "多邻国_7.149.2_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/SenPlayer_6.3.1_解锁会员.ipa": {
+    "bundle_id": "com.wuziqi.SenPlayer",
+    "version": "6.3.1",
+    "build": "6.3.1",
+    "name": "SenPlayer",
+    "path": "/苹果应用 - Appstore apps/SenPlayer_6.3.1_解锁会员.ipa",
+    "size": 74342343,
+    "modified": "2026-11-26T13:03:59.979+08:00",
+    "file_name": "SenPlayer_6.3.1_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/番茄小说_7.4.5_解锁会员.ipa": {
+    "bundle_id": "com.dragon.read",
+    "version": "7.4.5",
+    "build": "7.4.5.33",
+    "name": "番茄小说",
+    "path": "/苹果应用 - Appstore apps/番茄小说_7.4.5_解锁会员.ipa",
+    "size": 321544399,
+    "modified": "2026-11-26T13:04:11.051+08:00",
+    "file_name": "番茄小说_7.4.5_解锁会员.ipa"
   }
 }
