@@ -25378,5 +25378,75 @@
     "size": 321544399,
     "modified": "2026-11-26T13:04:11.051+08:00",
     "file_name": "番茄小说_7.4.5_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/Reloc_1.0.4_虚拟定位_最低支持iOS17.0+系统.ipa": {
+    "bundle_id": "dev.reloc.ios",
+    "version": "1.0.4",
+    "build": "5",
+    "name": "Reloc",
+    "path": "/苹果应用 - Appstore apps/Reloc_1.0.4_虚拟定位_最低支持iOS17.0+系统.ipa",
+    "size": 3475407,
+    "modified": "2026-11-28T13:29:14.672+08:00",
+    "file_name": "Reloc_1.0.4_虚拟定位_最低支持iOS17.0+系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/Reloc_1.0.5_虚拟定位_最低支持iOS16.0+系统.ipa": {
+    "bundle_id": "dev.reloc.ios",
+    "version": "1.0.5",
+    "build": "6",
+    "name": "Reloc",
+    "path": "/苹果应用 - Appstore apps/Reloc_1.0.5_虚拟定位_最低支持iOS16.0+系统.ipa",
+    "size": 3777311,
+    "modified": "2026-11-28T13:43:12.082+08:00",
+    "file_name": "Reloc_1.0.5_虚拟定位_最低支持iOS16.0+系统.ipa"
+  },
+  "/苹果应用 - Appstore apps/Dazz_2.18_解锁会员.ipa": {
+    "bundle_id": "dazz.camera.vintagecamera",
+    "version": "2.18",
+    "build": "119",
+    "name": "Dazz",
+    "path": "/苹果应用 - Appstore apps/Dazz_2.18_解锁会员.ipa",
+    "size": 111965142,
+    "modified": "2026-11-28T13:29:30.227+08:00",
+    "file_name": "Dazz_2.18_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/保卫萝卜3_6.4.1_所有货币资源无限.ipa": {
+    "bundle_id": "com.KaiLuo.Carrot3",
+    "version": "6.4.1",
+    "build": "9253",
+    "name": "保卫萝卜3",
+    "path": "/苹果应用 - Appstore apps/保卫萝卜3_6.4.1_所有货币资源无限.ipa",
+    "size": 817037413,
+    "modified": "2026-11-28T13:29:29.382+08:00",
+    "file_name": "保卫萝卜3_6.4.1_所有货币资源无限.ipa"
+  },
+  "/苹果应用 - Appstore apps/飓风相机_2.0.8_解锁会员.ipa": {
+    "bundle_id": "com.ysjf.lutcamera",
+    "version": "2.0.8",
+    "build": "246",
+    "name": "飓风相机",
+    "path": "/苹果应用 - Appstore apps/飓风相机_2.0.8_解锁会员.ipa",
+    "size": 87726765,
+    "modified": "2026-11-28T13:29:15.957+08:00",
+    "file_name": "飓风相机_2.0.8_解锁会员.ipa"
+  },
+  "/苹果应用 - Appstore apps/世界战争_英雄_1.58.0_无敌无限子弹.ipa": {
+    "bundle_id": "com.gamedevltd.wwh",
+    "version": "1.58.0",
+    "build": "4577",
+    "name": "World War Heroes",
+    "path": "/苹果应用 - Appstore apps/世界战争_英雄_1.58.0_无敌无限子弹.ipa",
+    "size": 1032181833,
+    "modified": "2026-11-28T13:31:48.48+08:00",
+    "file_name": "世界战争_英雄_1.58.0_无敌无限子弹.ipa"
+  },
+  "/苹果应用 - Appstore apps/地球末日_生存_1.54.2_全功能版.ipa": {
+    "bundle_id": "zombie.survival.craft.z",
+    "version": "1.54.2",
+    "build": "989",
+    "name": "Last Day On Earth: Survival",
+    "path": "/苹果应用 - Appstore apps/地球末日_生存_1.54.2_全功能版.ipa",
+    "size": 1080631470,
+    "modified": "2026-11-28T13:31:52.262+08:00",
+    "file_name": "地球末日_生存_1.54.2_全功能版.ipa"
   }
 }
